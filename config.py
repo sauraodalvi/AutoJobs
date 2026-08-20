@@ -1,0 +1,40 @@
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+
+# Load local .env file if available
+env_path = Path(__file__).parent / ".env"
+if env_path.exists():
+    load_dotenv(dotenv_path=env_path)
+
+# Candidate Profile Settings
+CANDIDATE_NAME = "Saurao Dalvi"
+CANDIDATE_EMAIL = "sauraodalvi97@gmail.com"
+CANDIDATE_TITLE = "AI Product Manager / Associate Product Manager"
+CANDIDATE_RESUME_PATH = r"C:\Users\saura\OneDrive\Desktop\Resume\Compact\Saurao Dalvi.pdf"
+
+# Targeted Roles & Locations
+TARGET_ROLES = ["Product Manager", "Associate Product Manager", "APM", "AI Product Manager"]
+TARGET_LOCATIONS = ["Pune", "European Union", "EU", "Germany", "Netherlands", "Japan", "Singapore", "Indonesia", "Remote"]
+
+# API Keys & Auth Credentials
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+EMAIL_USER = os.getenv("EMAIL_USER", CANDIDATE_EMAIL)
+EMAIL_PASS = os.getenv("EMAIL_PASS", "")
+
+# Server Settings
+IMAP_SERVER = os.getenv("IMAP_SERVER", "imap.gmail.com")
+IMAP_PORT = int(os.getenv("IMAP_PORT", "993"))
+SMTP_SERVER = os.getenv("SMTP_SERVER", "smtp.gmail.com")
+SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
+
+# Model Configuration
+LLM_MODEL = os.getenv("LLM_MODEL", "openrouter/google/gemma-4-31b-it:free")
+
+# Logic Parameters
+DAYS_BETWEEN_FOLLOWUP = int(os.getenv("DAYS_BETWEEN_FOLLOWUP", "3"))
+MAX_FOLLOWUPS = int(os.getenv("MAX_FOLLOWUPS", "2"))
+
+# Database path
+TRACKER_FILE = Path(__file__).parent / "tracker.json"

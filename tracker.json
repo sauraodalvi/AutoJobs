@@ -1,0 +1,133 @@
+[
+  {
+    "job_id": "job_001_sample",
+    "company": "TechCorp Inc",
+    "role": "Software Engineer",
+    "contact_name": "Jane Smith",
+    "contact_email": "recruiter@example.com",
+    "status": "OUTREACH_SENT",
+    "date_applied": "2026-08-20",
+    "last_action_date": "2026-08-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-20",
+        "action": "Record created in referral ledger."
+      },
+      {
+        "date": "2026-08-20",
+        "action": "Sent initial referral pitch to recruiter@example.com."
+      }
+    ]
+  },
+  {
+    "job_id": "job_be2eca00",
+    "company": "FlytBase",
+    "role": "AI Product Manager",
+    "location": "Pune, India",
+    "contact_name": "Recruiting Manager",
+    "contact_email": "careers@flytbase.com",
+    "status": "OUTREACH_SENT",
+    "date_applied": "2026-08-20",
+    "last_action_date": "2026-08-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-20",
+        "action": "Lead added for AI Product Manager at FlytBase (Pune, India)."
+      },
+      {
+        "date": "2026-08-20",
+        "action": "Sent initial referral pitch to careers@flytbase.com."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1ad183f1",
+    "company": "Revolut",
+    "role": "Product Manager - AI Platform",
+    "location": "Remote / EU",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "recruitment@revolut.com",
+    "status": "OUTREACH_SENT",
+    "date_applied": "2026-08-20",
+    "last_action_date": "2026-08-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-20",
+        "action": "Lead added for Product Manager - AI Platform at Revolut (Remote / EU)."
+      },
+      {
+        "date": "2026-08-20",
+        "action": "Sent initial referral pitch to recruitment@revolut.com."
+      }
+    ]
+  },
+  {
+    "job_id": "job_15eb219b",
+    "company": "Mercari",
+    "role": "Associate Product Manager",
+    "location": "Tokyo, Japan / Remote",
+    "contact_name": "Hiring Lead",
+    "contact_email": "jobs@mercari.com",
+    "status": "OUTREACH_SENT",
+    "date_applied": "2026-08-20",
+    "last_action_date": "2026-08-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-20",
+        "action": "Lead added for Associate Product Manager at Mercari (Tokyo, Japan / Remote)."
+      },
+      {
+        "date": "2026-08-20",
+        "action": "Sent initial referral pitch to jobs@mercari.com."
+      }
+    ]
+  },
+  {
+    "job_id": "job_50bdea45",
+    "company": "Grab",
+    "role": "Product Manager - Consumer Experience",
+    "location": "Singapore / Remote",
+    "contact_name": "Tech Recruiter",
+    "contact_email": "careers@grab.com",
+    "status": "OUTREACH_SENT",
+    "date_applied": "2026-08-20",
+    "last_action_date": "2026-08-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-20",
+        "action": "Lead added for Product Manager - Consumer Experience at Grab (Singapore / Remote)."
+      },
+      {
+        "date": "2026-08-20",
+        "action": "Sent initial referral pitch to careers@grab.com."
+      }
+    ]
+  },
+  {
+    "job_id": "job_faa9674f",
+    "company": "GoTo Group",
+    "role": "Product Manager",
+    "location": "Jakarta, Indonesia / Remote",
+    "contact_name": "Talent Partner",
+    "contact_email": "recruitment@gotocompany.com",
+    "status": "OUTREACH_SENT",
+    "date_applied": "2026-08-20",
+    "last_action_date": "2026-08-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-20",
+        "action": "Lead added for Product Manager at GoTo Group (Jakarta, Indonesia / Remote)."
+      },
+      {
+        "date": "2026-08-20",
+        "action": "Sent initial referral pitch to recruitment@gotocompany.com."
+      }
+    ]
+  }
+]
