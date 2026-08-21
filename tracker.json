@@ -129,5 +129,27 @@
         "action": "Sent initial referral pitch to recruitment@gotocompany.com."
       }
     ]
+  },
+  {
+    "job_id": "job_6ce082c4",
+    "company": "Homebound",
+    "role": "Senior Product Manager - Field AI",
+    "location": "USA (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "careers@homebound.com",
+    "status": "OUTREACH_SENT",
+    "date_applied": "2026-08-21",
+    "last_action_date": "2026-08-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-21",
+        "action": "Lead added for Senior Product Manager - Field AI at Homebound (USA (Remote))."
+      },
+      {
+        "date": "2026-08-21",
+        "action": "Sent initial referral pitch to careers@homebound.com."
+      }
+    ]
   }
 ]
