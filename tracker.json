@@ -5,9 +5,9 @@
     "role": "Software Engineer",
     "contact_name": "Jane Smith",
     "contact_email": "recruiter@example.com",
-    "status": "OUTREACH_SENT",
+    "status": "EMAIL_BOUNCED",
     "date_applied": "2026-08-20",
-    "last_action_date": "2026-08-20",
+    "last_action_date": "2026-08-21",
     "followup_count": 0,
     "history": [
       {
@@ -17,6 +17,10 @@
       {
         "date": "2026-08-20",
         "action": "Sent initial referral pitch to recruiter@example.com."
+      },
+      {
+        "date": "2026-08-21",
+        "action": "Automated bounce detected for recruiter@example.com. Status set to EMAIL_BOUNCED."
       }
     ]
   },
@@ -27,9 +31,9 @@
     "location": "Pune, India",
     "contact_name": "Recruiting Manager",
     "contact_email": "careers@flytbase.com",
-    "status": "OUTREACH_SENT",
+    "status": "JOB_LINK_SAVED",
     "date_applied": "2026-08-20",
-    "last_action_date": "2026-08-20",
+    "last_action_date": "2026-08-21",
     "followup_count": 0,
     "history": [
       {
@@ -39,6 +43,10 @@
       {
         "date": "2026-08-20",
         "action": "Sent initial referral pitch to careers@flytbase.com."
+      },
+      {
+        "date": "2026-08-21",
+        "action": "Generic contact email careers@flytbase.com detected. Converted status to JOB_LINK_SAVED to prevent bounce."
       }
     ]
   },
@@ -49,9 +57,9 @@
     "location": "Remote / EU",
     "contact_name": "Talent Acquisition",
     "contact_email": "recruitment@revolut.com",
-    "status": "OUTREACH_SENT",
+    "status": "JOB_LINK_SAVED",
     "date_applied": "2026-08-20",
-    "last_action_date": "2026-08-20",
+    "last_action_date": "2026-08-21",
     "followup_count": 0,
     "history": [
       {
@@ -61,6 +69,10 @@
       {
         "date": "2026-08-20",
         "action": "Sent initial referral pitch to recruitment@revolut.com."
+      },
+      {
+        "date": "2026-08-21",
+        "action": "Generic contact email recruitment@revolut.com detected. Converted status to JOB_LINK_SAVED to prevent bounce."
       }
     ]
   },
@@ -71,9 +83,9 @@
     "location": "Tokyo, Japan / Remote",
     "contact_name": "Hiring Lead",
     "contact_email": "jobs@mercari.com",
-    "status": "OUTREACH_SENT",
+    "status": "JOB_LINK_SAVED",
     "date_applied": "2026-08-20",
-    "last_action_date": "2026-08-20",
+    "last_action_date": "2026-08-21",
     "followup_count": 0,
     "history": [
       {
@@ -83,6 +95,10 @@
       {
         "date": "2026-08-20",
         "action": "Sent initial referral pitch to jobs@mercari.com."
+      },
+      {
+        "date": "2026-08-21",
+        "action": "Generic contact email jobs@mercari.com detected. Converted status to JOB_LINK_SAVED to prevent bounce."
       }
     ]
   },
@@ -93,9 +109,9 @@
     "location": "Singapore / Remote",
     "contact_name": "Tech Recruiter",
     "contact_email": "careers@grab.com",
-    "status": "OUTREACH_SENT",
+    "status": "JOB_LINK_SAVED",
     "date_applied": "2026-08-20",
-    "last_action_date": "2026-08-20",
+    "last_action_date": "2026-08-21",
     "followup_count": 0,
     "history": [
       {
@@ -105,6 +121,10 @@
       {
         "date": "2026-08-20",
         "action": "Sent initial referral pitch to careers@grab.com."
+      },
+      {
+        "date": "2026-08-21",
+        "action": "Generic contact email careers@grab.com detected. Converted status to JOB_LINK_SAVED to prevent bounce."
       }
     ]
   },
@@ -115,9 +135,9 @@
     "location": "Jakarta, Indonesia / Remote",
     "contact_name": "Talent Partner",
     "contact_email": "recruitment@gotocompany.com",
-    "status": "OUTREACH_SENT",
+    "status": "JOB_LINK_SAVED",
     "date_applied": "2026-08-20",
-    "last_action_date": "2026-08-20",
+    "last_action_date": "2026-08-21",
     "followup_count": 0,
     "history": [
       {
@@ -127,6 +147,10 @@
       {
         "date": "2026-08-20",
         "action": "Sent initial referral pitch to recruitment@gotocompany.com."
+      },
+      {
+        "date": "2026-08-21",
+        "action": "Generic contact email recruitment@gotocompany.com detected. Converted status to JOB_LINK_SAVED to prevent bounce."
       }
     ]
   },
@@ -137,7 +161,7 @@
     "location": "USA (Remote)",
     "contact_name": "Hiring Manager",
     "contact_email": "careers@homebound.com",
-    "status": "OUTREACH_SENT",
+    "status": "EMAIL_BOUNCED",
     "date_applied": "2026-08-21",
     "last_action_date": "2026-08-21",
     "followup_count": 0,
@@ -149,6 +173,10 @@
       {
         "date": "2026-08-21",
         "action": "Sent initial referral pitch to careers@homebound.com."
+      },
+      {
+        "date": "2026-08-22",
+        "action": "Email bounced (Address not found). Outreach halted."
       }
     ]
   }

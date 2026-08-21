@@ -59,15 +59,17 @@ def fetch_live_jobs():
                 role = item.get("jobTitle", "")
                 company = item.get("companyName", "")
                 location = item.get("jobGeo", "Remote")
+                job_url = item.get("url", "")
+                explicit_email = item.get("contactEmail") or item.get("email") or ""
 
                 if is_target_role_and_location(role, location):
-                    clean_company = re.sub(r"[^a-zA-Z0-9]", "", company).lower()
                     live_jobs.append({
                         "company": company,
                         "role": role,
                         "location": f"{location} (Remote)",
                         "contact_name": "Hiring Manager",
-                        "contact_email": f"careers@{clean_company}.com"
+                        "contact_email": explicit_email,
+                        "apply_url": job_url
                     })
     except Exception as e:
         logging.warning(f"Could not fetch from Jobicy API: {e}")
@@ -84,15 +86,17 @@ def fetch_live_jobs():
                 role = item.get("title", "")
                 company = item.get("company_name", "")
                 location = item.get("candidate_required_location", "Remote")
+                job_url = item.get("url", "")
+                explicit_email = item.get("contact_email") or ""
 
                 if is_target_role_and_location(role, location):
-                    clean_company = re.sub(r"[^a-zA-Z0-9]", "", company).lower()
                     live_jobs.append({
                         "company": company,
                         "role": role,
                         "location": f"{location} (Remote)",
                         "contact_name": "Hiring Manager",
-                        "contact_email": f"careers@{clean_company}.com"
+                        "contact_email": explicit_email,
+                        "apply_url": job_url
                     })
     except Exception as e:
         logging.warning(f"Could not fetch from Remotive API: {e}")
@@ -109,15 +113,17 @@ def fetch_live_jobs():
                 role = item.get("title", "")
                 company = item.get("company_name", "")
                 location = item.get("location", "EU")
+                job_url = item.get("url", "")
+                explicit_email = item.get("email") or ""
 
                 if is_target_role_and_location(role, location):
-                    clean_company = re.sub(r"[^a-zA-Z0-9]", "", company).lower()
                     live_jobs.append({
                         "company": company,
                         "role": role,
                         "location": location,
                         "contact_name": "Talent Acquisition",
-                        "contact_email": f"jobs@{clean_company}.com"
+                        "contact_email": explicit_email,
+                        "apply_url": job_url
                     })
     except Exception as e:
         logging.warning(f"Could not fetch from Arbeitnow API: {e}")
@@ -136,15 +142,17 @@ def fetch_live_jobs():
                         role = item.get("position", "")
                         company = item.get("company", "")
                         location = item.get("location", "Remote")
+                        job_url = item.get("url", "")
+                        explicit_email = item.get("email") or ""
 
                         if is_target_role_and_location(role, location):
-                            clean_company = re.sub(r"[^a-zA-Z0-9]", "", company).lower()
                             live_jobs.append({
                                 "company": company,
                                 "role": role,
                                 "location": location or "Remote",
                                 "contact_name": "Recruiting Team",
-                                "contact_email": f"careers@{clean_company}.com"
+                                "contact_email": explicit_email,
+                                "apply_url": job_url
                             })
     except Exception as e:
         logging.warning(f"Could not fetch from RemoteOK API: {e}")
@@ -176,6 +184,15 @@ def is_target_role_and_location(role: str, location: str) -> bool:
     return role_match and loc_match
 
 
+def is_generic_email(addr: str) -> bool:
+    """Returns True if the email address is generic (e.g. careers@, jobs@, hr@, info@) or empty."""
+    if not addr or "@" not in addr:
+        return True
+    local_part = addr.split("@")[0].lower()
+    generic_prefixes = {"careers", "jobs", "hr", "recruitment", "contact", "info", "support", "hiring", "talent", "help", "admin", "sales"}
+    return local_part in generic_prefixes
+
+
 def sync_target_jobs(new_jobs_list=None):
     """
     Syncs new targeted job leads into tracker.json.
@@ -192,35 +209,35 @@ def sync_target_jobs(new_jobs_list=None):
             "role": "AI Product Manager",
             "location": "Pune, India",
             "contact_name": "Recruiting Manager",
-            "contact_email": "careers@flytbase.com"
+            "contact_email": ""
         },
         {
             "company": "Revolut",
             "role": "Product Manager - AI Platform",
             "location": "Remote / EU",
             "contact_name": "Talent Acquisition",
-            "contact_email": "recruitment@revolut.com"
+            "contact_email": ""
         },
         {
             "company": "Mercari",
             "role": "Associate Product Manager",
             "location": "Tokyo, Japan / Remote",
             "contact_name": "Hiring Lead",
-            "contact_email": "jobs@mercari.com"
+            "contact_email": ""
         },
         {
             "company": "Grab",
             "role": "Product Manager - Consumer Experience",
             "location": "Singapore / Remote",
             "contact_name": "Tech Recruiter",
-            "contact_email": "careers@grab.com"
+            "contact_email": ""
         },
         {
             "company": "GoTo Group",
             "role": "Product Manager",
             "location": "Jakarta, Indonesia / Remote",
             "contact_name": "Talent Partner",
-            "contact_email": "recruitment@gotocompany.com"
+            "contact_email": ""
         }
     ]
 
@@ -237,21 +254,32 @@ def sync_target_jobs(new_jobs_list=None):
     for job in jobs_to_process:
         key = f"{job['company'].lower()}_{job['role'].lower()}"
         if key not in existing_keys:
+            contact_email = job.get("contact_email", "").strip()
+            apply_url = job.get("apply_url", "")
+            
+            # Only set PENDING_OUTREACH if contact_email is explicit and non-generic.
+            # If email is generic (careers@, jobs@) or missing, set JOB_LINK_SAVED.
+            if contact_email and not is_generic_email(contact_email):
+                initial_status = "PENDING_OUTREACH"
+            else:
+                initial_status = "JOB_LINK_SAVED"
+
             new_record = {
                 "job_id": f"job_{uuid.uuid4().hex[:8]}",
                 "company": job["company"],
                 "role": job["role"],
                 "location": job.get("location", "Remote"),
                 "contact_name": job.get("contact_name", "Hiring Team"),
-                "contact_email": job.get("contact_email", ""),
-                "status": "PENDING_OUTREACH",
+                "contact_email": contact_email,
+                "apply_url": apply_url,
+                "status": initial_status,
                 "date_applied": today_str,
                 "last_action_date": today_str,
                 "followup_count": 0,
                 "history": [
                     {
                         "date": today_str,
-                        "action": f"Lead added for {job['role']} at {job['company']} ({job.get('location', 'Remote')})."
+                        "action": f"Lead added for {job['role']} at {job['company']} ({job.get('location', 'Remote')}). Initial status: {initial_status}."
                     }
                 ]
             }

@@ -8,6 +8,7 @@ import time
 from datetime import datetime, timedelta
 import config
 import llm_client
+import job_fetcher
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
@@ -98,8 +99,20 @@ def execute_daily_sequence():
         last_action_date = parse_date(last_action_date_str)
         followup_count = item.get("followup_count", 0)
 
-        # Safety Skip: Stopped or missing email
-        if status == "REPLIED_STOPPED" or not contact_email:
+        # Safety Skip: Stopped, bounced, saved, or missing email
+        if status in ["REPLIED_STOPPED", "EMAIL_BOUNCED", "JOB_LINK_SAVED"] or not contact_email:
+            continue
+
+        # Extra Guard: Convert generic email targets (e.g. careers@, jobs@) to JOB_LINK_SAVED
+        if job_fetcher.is_generic_email(contact_email):
+            logging.info(f"Skipping cold email to generic email '{contact_email}' for {role} at {company}. Updating status to JOB_LINK_SAVED.")
+            item["status"] = "JOB_LINK_SAVED"
+            item["last_action_date"] = today_str
+            item["history"].append({
+                "date": today_str,
+                "action": f"Generic contact email {contact_email} detected. Converted status to JOB_LINK_SAVED to prevent bounce."
+            })
+            changes_made = True
             continue
 
         # Loop A: Pending Outreach
