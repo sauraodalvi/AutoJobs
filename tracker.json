@@ -179,5 +179,43 @@
         "action": "Email bounced (Address not found). Outreach halted."
       }
     ]
+  },
+  {
+    "job_id": "job_d44c2fef",
+    "company": "Docuware",
+    "role": "Product Manager E-Invoicing (m/w/d)",
+    "location": "Germering / Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/docuware/product-manager-e-invoicing-germering-germany-192046",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-22",
+    "last_action_date": "2026-08-22",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-22",
+        "action": "Lead added for Product Manager E-Invoicing (m/w/d) at Docuware (Germering / Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e5fdf151",
+    "company": "encontec GmbH",
+    "role": "Product Owner Softwareentwicklung (m/w/d)",
+    "location": "Oberkochen , Baden-Württemberg, Deutschland",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/product-owner-softwareentwicklung-oberkochen-34166",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-22",
+    "last_action_date": "2026-08-22",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-22",
+        "action": "Lead added for Product Owner Softwareentwicklung (m/w/d) at encontec GmbH (Oberkochen , Baden-Württemberg, Deutschland). Initial status: JOB_LINK_SAVED."
+      }
+    ]
   }
 ]
