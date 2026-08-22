@@ -181,6 +181,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "job_id": "job_1f138941",
     "company": "Sport Alliance GmbH",
     "role": "Senior Product Manager – SaaS Platform with AI Focus (m/f/d)",
@@ -188,6 +189,15 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-product-manager-saas-platform-with-ai-focus-13126",
+=======
+    "job_id": "job_d44c2fef",
+    "company": "Docuware",
+    "role": "Product Manager E-Invoicing (m/w/d)",
+    "location": "Germering / Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/docuware/product-manager-e-invoicing-germering-germany-192046",
+>>>>>>> 246d7c52b24d8a1bc4dc4806fbb9542400b46e0e
     "status": "JOB_LINK_SAVED",
     "date_applied": "2026-08-22",
     "last_action_date": "2026-08-22",
@@ -195,11 +205,16 @@
     "history": [
       {
         "date": "2026-08-22",
+<<<<<<< HEAD
         "action": "Lead added for Senior Product Manager – SaaS Platform with AI Focus (m/f/d) at Sport Alliance GmbH (Remote (Germany)). Initial status: JOB_LINK_SAVED."
+=======
+        "action": "Lead added for Product Manager E-Invoicing (m/w/d) at Docuware (Germering / Germany). Initial status: JOB_LINK_SAVED."
+>>>>>>> 246d7c52b24d8a1bc4dc4806fbb9542400b46e0e
       }
     ]
   },
   {
+<<<<<<< HEAD
     "job_id": "job_ccc50d64",
     "company": "Mockingbird",
     "role": "Product Manager",
@@ -207,6 +222,15 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "",
+=======
+    "job_id": "job_e5fdf151",
+    "company": "encontec GmbH",
+    "role": "Product Owner Softwareentwicklung (m/w/d)",
+    "location": "Oberkochen , Baden-Württemberg, Deutschland",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/product-owner-softwareentwicklung-oberkochen-34166",
+>>>>>>> 246d7c52b24d8a1bc4dc4806fbb9542400b46e0e
     "status": "JOB_LINK_SAVED",
     "date_applied": "2026-08-22",
     "last_action_date": "2026-08-22",
@@ -214,6 +238,7 @@
     "history": [
       {
         "date": "2026-08-22",
+<<<<<<< HEAD
         "action": "Lead added for Product Manager at Mockingbird (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
