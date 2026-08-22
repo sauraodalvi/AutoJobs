@@ -24,6 +24,14 @@ def main():
     except Exception as e:
         logging.error(f"Job fetcher step encountered an error: {e}")
 
+    # Step 1.5: Run contact_finder to auto-discover recruiter emails for saved leads
+    logging.info("\n--- STEP 1.5: Running Recruiter Contact Finder & Enrichment ---")
+    try:
+        import contact_finder
+        contact_finder.enrich_saved_leads()
+    except Exception as e:
+        logging.error(f"Contact finder step encountered an error: {e}")
+
     # Step 2: Run inbox_monitor to scrub active threads and flag responses
     logging.info("\n--- STEP 2: Running Inbox Monitor (IMAP Response Scrubbing) ---")
     try:

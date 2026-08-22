@@ -157,8 +157,66 @@ def fetch_live_jobs():
     except Exception as e:
         logging.warning(f"Could not fetch from RemoteOK API: {e}")
 
-    logging.info(f"Discovered {len(live_jobs)} live target job lead(s) from external APIs.")
+    # 5. Himalayas Remote Jobs API
+    try:
+        req = urllib.request.Request(
+            "https://himalayas.app/jobs/api/search?q=product%20manager&limit=20",
+            headers={"User-Agent": "Mozilla/5.0"}
+        )
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            for item in data.get("jobs", []):
+                role = item.get("title", "")
+                company = item.get("companyName", "")
+                locs = item.get("location", ["Remote"])
+                location_str = ", ".join(locs) if isinstance(locs, list) else str(locs)
+                job_url = item.get("applicationUrl") or item.get("url") or ""
+
+                if is_target_role_and_location(role, location_str):
+                    live_jobs.append({
+                        "company": company,
+                        "role": role,
+                        "location": location_str or "Remote",
+                        "contact_name": "Hiring Manager",
+                        "contact_email": "",
+                        "apply_url": job_url
+                    })
+    except Exception as e:
+        logging.warning(f"Could not fetch from Himalayas API: {e}")
+
+    # 6. JobSpy (LinkedIn, Indeed, Glassdoor, ZipRecruiter)
+    try:
+        from jobspy import scrape_jobs
+        logging.info("Scraping live listings from LinkedIn & Indeed via JobSpy...")
+        df = scrape_jobs(
+            site_name=["linkedin", "indeed"],
+            search_term="Product Manager",
+            location="India",
+            results_wanted=10,
+            hours_old=72
+        )
+        if df is not None and not df.empty:
+            for _, row in df.iterrows():
+                role = str(row.get("title", "") or "")
+                company = str(row.get("company", "") or "")
+                location = str(row.get("location", "") or "Remote")
+                job_url = str(row.get("job_url", "") or "")
+
+                if company and role and is_target_role_and_location(role, location):
+                    live_jobs.append({
+                        "company": company,
+                        "role": role,
+                        "location": location,
+                        "contact_name": "Hiring Team",
+                        "contact_email": "",
+                        "apply_url": job_url
+                    })
+    except Exception as e:
+        logging.warning(f"Could not fetch via JobSpy: {e}")
+
+    logging.info(f"Discovered {len(live_jobs)} live target job lead(s) from external sources.")
     return live_jobs
+
 
 
 def is_target_role_and_location(role: str, location: str) -> bool:

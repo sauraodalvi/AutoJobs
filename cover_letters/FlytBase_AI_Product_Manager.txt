@@ -1,0 +1,17 @@
+COVER LETTER & APPLICATION KIT
+Target: AI Product Manager at FlytBase
+Apply Link: N/A
+Date Generated: 2026-08-20
+============================================================
+
+I am a product leader who thrives on turning bold AI ideas into market‑ready solutions, and FlytBase’s mission to power autonomous drone ecosystems with intelligent autonomy is exactly the challenge I have been building toward for the past three years. At FlytBase I owned the end‑to‑end roadmap for Prediq, an AI‑drone SaaS that launched from concept to a steady $6 K MRR within its first year—proof that I can deliver 0‑to‑1 products that scale. My background spans AI‑native platforms, LLM‑powered workflows, and agentic systems across drone autonomy, healthcare SaaS, and enterprise security, giving me a rare blend of technical depth and product instincts that align with your team’s ambitions.
+
+In my most recent roles I shipped multiple AI products that generated measurable revenue and efficiency gains: the Smart Reports suite at CrelioHealth lifted lab revenues by roughly $2 K MRR per lab, while custom AI prompt pipelines cut patient registration time by 58 % and sample turnaround by 18 %. I also built Hidden Jobs, indexing over 50 K live ATS postings, and launched Stare V2, both of which required end‑to‑end ownership—from data pipelines and model selection to UI/UX and go‑to‑market strategy. By co‑founding the Elite PM platform with a Microsoft Product Manager, I further honed a community‑driven approach to product excellence, consistently reducing operational friction by more than half through automation and intelligent workflow design.
+
+I am eager to bring this track record of shipping AI‑first products and driving revenue growth to FlytBase’s Pune office, where I can help accelerate the next wave of autonomous drone innovation. Let’s discuss how my hands‑on AI product leadership can directly contribute to FlytBase’s expansion and market leadership.
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\Users\saura\OneDrive\Desktop\Resume\Compact\Saurao Dalvi.pdf

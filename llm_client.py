@@ -84,88 +84,106 @@ def _call_llm_with_fallbacks(system_prompt: str, user_prompt: str, temperature: 
     raise last_exception or Exception("All LLM models failed.")
 
 
-def generate_pitch(contact_name: str, company: str, role: str) -> dict:
+def generate_pitch(contact_name: str, company: str, role: str, apply_url: str = "") -> dict:
     """
-    Generates an ultra-short, crisp 3-sentence email pitch asking for a referral,
-    tailored to Saurao Dalvi's background as an AI Product Manager / APM.
+    Generates a personalized recruiter email following Saurao Dalvi's proven past outreach style.
     """
-    candidate_info = candidate_profile.get_context_prompt()
+    first_name = contact_name.split()[0] if contact_name else "Hiring Manager"
+    url_text = f" Here is the job posting: {apply_url}." if apply_url else ""
 
-    prompt = f"""{candidate_info}
+    prompt = f"""Task: Write a concise, polite recruiter outreach email following this EXACT structure:
 
-Task: Write an ultra-short, crisp, high-converting cold email asking for a referral.
 Recipient Name: {contact_name}
 Target Company: {company}
 Target Role: {role}
+Job URL: {apply_url}
 
-Rules:
-1. Exactly 3 sentences in the email body. Absolutely no generic fluff.
-2. Sentence 1: Hook mentioning admiration for {company}'s work and my 3+ years experience as an AI Product Manager / APM building 0-to-1 SaaS products.
-3. Sentence 2: Highlight a relevant impact metric (e.g. launching AI SaaS products growing MRR or cutting operational friction by 50%+).
-4. Sentence 3: Direct call-to-action asking if they'd be open to referring me or connecting briefly for the {role} position.
-5. Output format MUST strictly start with:
-Subject: <Catchy Subject Line>
+Style Template:
+Subject: Note on my {company} {role} application
+
+Hi {first_name},
+
+I recently applied for the {role} role at {company} and remain very interested.{url_text}
+
+Could you share whether applications are currently under review and expected timelines? Also, are you the right person to speak with for this role; if not, would you point me to the appropriate contact?
+
+Thank you for your time. I look forward to next steps.
+
+Saurao Dalvi
+
+Output format MUST strictly start with:
+Subject: Note on my {company} {role} application
 
 <Email Body>"""
 
-    default_sub = f"Referral Request - {role} at {company} | Saurao Dalvi"
+    default_sub = f"Note on my {company} {role} application"
+    fallback_body = (
+        f"Hi {first_name},\n\n"
+        f"I recently applied for the {role} role at {company} and remain very interested.{url_text}\n\n"
+        f"Could you share whether applications are currently under review and expected timelines?\n\n"
+        f"Are you the right person managing hiring for this role? If not, I would appreciate guidance on whom I should connect with.\n\n"
+        f"Thank you for your time. I look forward to next steps.\n\n"
+        f"Saurao Dalvi"
+    )
 
     try:
         content = _call_llm_with_fallbacks(
-            system_prompt="You are a top 1% Product Manager writing high-converting, concise referral emails.",
+            system_prompt="You are an assistant writing crisp, polite job application follow-up emails matching Saurao Dalvi's personal style.",
             user_prompt=prompt,
-            temperature=0.7,
+            temperature=0.3,
             max_tokens=250
         )
         return parse_email_response(content, default_sub)
     except Exception as e:
         logging.error(f"Failed to generate pitch via LLM fallback chain: {e}")
-        fallback_body = (
-            f"Hi {contact_name},\n\n"
-            f"I've been following {company}'s recent product developments and would love to bring my 3+ years of AI Product Management experience (0-to-1 SaaS launches, MRR growth) to the {role} position.\n"
-            f"Given my background shipping LLM workflows and mobile/web platforms, I'm confident I can make an immediate impact on your team.\n"
-            f"Would you be open to referring me or connecting briefly for 5 minutes?\n\n"
-            f"Best regards,\nSaurao Dalvi"
-        )
         return {"subject": default_sub, "body": fallback_body}
 
 
-def generate_followup(contact_name: str, company: str, role: str) -> dict:
+def generate_followup(contact_name: str, company: str, role: str, apply_url: str = "") -> dict:
     """
-    Generates a gentle, professional 2-sentence check-in follow-up message.
+    Generates a gentle check-in follow-up following Saurao's proven past outreach style.
     """
-    prompt = f"""Candidate Name: Saurao Dalvi (AI Product Manager / APM)
+    first_name = contact_name.split()[0] if contact_name else "Hiring Manager"
 
-Task: Write a gentle, professional 2-sentence follow-up check-in email.
+    prompt = f"""Task: Write a gentle check-in follow-up email following this EXACT structure:
+
 Recipient Name: {contact_name}
 Target Company: {company}
 Target Role: {role}
 
-Rules:
-1. Max 2 sentences in the body.
-2. Polite check-in on the previous message regarding the {role} position at {company}.
-3. Output format MUST strictly start with:
-Subject: Following up: Referral - {role} at {company}
+Style Template:
+Subject: Re: Note on my {company} {role} application
+
+Hi {first_name},
+
+I wanted to check in and see if you had any updates after my last email regarding Note on my {role} application at {company}.
+
+Thanks in advance!
+
+Saurao Dalvi
+
+Output format MUST strictly start with:
+Subject: Re: Note on my {company} {role} application
 
 <Email Body>"""
 
-    default_sub = f"Following up: Referral - {role} at {company} | Saurao Dalvi"
+    default_sub = f"Re: Note on my {company} {role} application"
+    fallback_body = (
+        f"Hi {first_name},\n\n"
+        f"I wanted to check in and see if you had any updates after my last email regarding Note on my {role} application at {company}. Thanks in advance!\n\n"
+        f"Saurao Dalvi"
+    )
 
     try:
         content = _call_llm_with_fallbacks(
-            system_prompt="You are a professional crafting short, polite follow-up emails.",
+            system_prompt="You are an assistant writing brief, polite follow-up emails matching Saurao Dalvi's style.",
             user_prompt=prompt,
-            temperature=0.7,
-            max_tokens=200
+            temperature=0.3,
+            max_tokens=150
         )
         return parse_email_response(content, default_sub)
     except Exception as e:
         logging.error(f"Failed to generate follow-up via LLM fallback chain: {e}")
-        fallback_body = (
-            f"Hi {contact_name},\n\n"
-            f"Following up on my previous message regarding the {role} role at {company}.\n"
-            f"I would appreciate any quick advice or referral if your team is still reviewing applications.\n\n"
-            f"Best regards,\nSaurao Dalvi"
-        )
         return {"subject": default_sub, "body": fallback_body}
+
 
