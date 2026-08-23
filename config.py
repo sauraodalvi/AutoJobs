@@ -35,6 +35,7 @@ LLM_MODEL = os.getenv("LLM_MODEL", "openrouter/google/gemma-4-31b-it:free")
 # Logic Parameters
 DAYS_BETWEEN_FOLLOWUP = int(os.getenv("DAYS_BETWEEN_FOLLOWUP", "3"))
 MAX_FOLLOWUPS = int(os.getenv("MAX_FOLLOWUPS", "2"))
+MAX_DAILY_PITCHES = int(os.getenv("MAX_DAILY_PITCHES", "5"))
 
 # Database path
 TRACKER_FILE = Path(__file__).parent / "tracker.json"

@@ -243,12 +243,16 @@ def is_target_role_and_location(role: str, location: str) -> bool:
 
 
 def is_generic_email(addr: str) -> bool:
-    """Returns True if the email address is generic (e.g. careers@, jobs@, hr@, info@) or empty."""
+    """Returns True if the email address is unmonitored/system generic (e.g. noreply@, support@, info@) or empty."""
     if not addr or "@" not in addr:
         return True
     local_part = addr.split("@")[0].lower()
-    generic_prefixes = {"careers", "jobs", "hr", "recruitment", "contact", "info", "support", "hiring", "talent", "help", "admin", "sales"}
-    return local_part in generic_prefixes
+    unmonitored_prefixes = {
+        "noreply", "no-reply", "donotreply", "do-not-reply", "unsubscribe",
+        "bounce", "mailer-daemon", "postmaster", "support", "help", "admin",
+        "sales", "billing", "info"
+    }
+    return local_part in unmonitored_prefixes
 
 
 def sync_target_jobs(new_jobs_list=None):

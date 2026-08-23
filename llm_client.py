@@ -5,6 +5,8 @@ import litellm
 import config
 import candidate_profile
 
+litellm.suppress_debug_info = True
+
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Ensure API Key is passed to environment for LiteLLM
@@ -52,10 +54,11 @@ def parse_email_response(raw_text: str, default_subject: str) -> dict:
 
 
 FALLBACK_MODELS = [
-    "openrouter/google/gemma-4-31b-it:free",
     "openrouter/openrouter/free",
-    "openrouter/google/gemma-4-26b-a4b-it:free",
-    "openrouter/openai/gpt-oss-20b:free"
+    "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "openrouter/qwen/qwen-2.5-coder-32b-instruct:free",
+    "openrouter/google/gemini-2.0-flash-lite-preview-02-05:free",
+    "openrouter/google/gemma-4-31b-it:free"
 ]
 
 

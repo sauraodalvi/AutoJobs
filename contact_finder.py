@@ -97,7 +97,7 @@ def find_recruiter_via_web_search(company: str, domain: str) -> dict:
 def discover_contact(company: str, apply_url: str = "") -> dict:
     """
     Attempts multi-source discovery for recruiter contact info.
-    Returns dict with 'name' and 'email' if found.
+    Returns dict with 'name' and 'email' ONLY if a real contact email is discovered.
     """
     domain = clean_company_domain(company, apply_url)
     if not domain:
@@ -110,11 +110,12 @@ def discover_contact(company: str, apply_url: str = "") -> dict:
         if contact and contact.get("email"):
             return contact
 
-    # 2. Try DuckDuckGo / Web search pattern matching
+    # 2. Try Web search pattern matching
     contact = find_recruiter_via_web_search(company, domain)
     if contact and contact.get("email"):
         return contact
 
+    # Do NOT guess fake recruiter@ emails to prevent sending to invalid addresses
     return {}
 
 
@@ -126,22 +127,20 @@ def enrich_saved_leads() -> int:
     data = job_fetcher.load_tracker()
     today_str = datetime.utcnow().strftime("%Y-%m-%d")
     enriched_count = 0
-    consecutive_errors = 0
 
     for record in data:
-        if record.get("status") == "JOB_LINK_SAVED":
-            if consecutive_errors >= 3:
-                logging.info("Web search rate limited or unreachable. Halting enrichment pass for remaining saved leads.")
-                break
-
+        if record.get("status") == "JOB_LINK_SAVED" or not record.get("contact_email"):
             company = record.get("company", "")
             apply_url = record.get("apply_url", "")
             
             logging.info(f"Attempting automatic recruiter contact discovery for: {company}...")
-            discovered = discover_contact(company, apply_url)
-            
+            try:
+                discovered = discover_contact(company, apply_url)
+            except Exception as e:
+                logging.warning(f"Error discovering contact for {company}: {e}")
+                discovered = {}
+
             if discovered and discovered.get("email"):
-                consecutive_errors = 0
                 rec_name = discovered.get("name", "Hiring Manager")
                 rec_email = discovered.get("email", "")
                 
@@ -155,8 +154,6 @@ def enrich_saved_leads() -> int:
                 })
                 enriched_count += 1
                 logging.info(f"✨ Discovered recruiter for {company}: {rec_name} <{rec_email}> -> Status set to PENDING_OUTREACH")
-            else:
-                consecutive_errors += 1
 
     if enriched_count > 0:
         job_fetcher.save_tracker(data)

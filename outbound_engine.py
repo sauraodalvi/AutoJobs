@@ -86,6 +86,7 @@ def execute_daily_sequence():
     today = datetime.utcnow()
     today_str = today.strftime("%Y-%m-%d")
     changes_made = False
+    new_pitches_sent_today = 0
 
     logging.info("Starting Daily Outbound Execution Sequence...")
 
@@ -117,12 +118,18 @@ def execute_daily_sequence():
 
         # Loop A: Pending Outreach
         if status == "PENDING_OUTREACH":
+            max_pitches = getattr(config, "MAX_DAILY_PITCHES", 5)
+            if new_pitches_sent_today >= max_pitches:
+                logging.info(f"Reached daily maximum pitch limit ({max_pitches}). Pausing remaining new outreaches for today.")
+                continue
+
             logging.info(f"Processing NEW OUTREACH for {contact_name} ({contact_email}) - Role: {role} at {company}")
             try:
                 pitch_data = llm_client.generate_pitch(contact_name, company, role)
                 sent = send_email(contact_email, pitch_data["subject"], pitch_data["body"])
 
                 if sent:
+                    new_pitches_sent_today += 1
                     item["status"] = "OUTREACH_SENT"
                     item["last_action_date"] = today_str
                     if "history" not in item:
