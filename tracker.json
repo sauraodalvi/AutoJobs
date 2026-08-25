@@ -1223,7 +1223,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4456942746",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1231,6 +1231,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager (B2C) at Fareportal (Gurugram, Haryana, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Fareportal_Product_Manager_B2C.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1242,7 +1246,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4448146910",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1250,6 +1254,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Senior Product Manager - Cisco Wireless at Cisco (Bengaluru, Karnataka, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Cisco_Senior_Product_Manager_-_Cisco_Wireless.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1261,7 +1269,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4458192528",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1269,6 +1277,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for APM/Product Manager at Ambak (Gurugram, Haryana, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Ambak_APM_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1280,7 +1292,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4456686604",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1288,6 +1300,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Senior Product Manager at BlinkRx (Bengaluru, Karnataka, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (BlinkRx_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1299,7 +1315,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4448336585",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1307,6 +1323,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Senior Product Manager - AI at GE Vernova (Bengaluru, Karnataka, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (GE_Vernova_Senior_Product_Manager_-_AI.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1375,7 +1395,7 @@
     "contact_name": "Priya Chowdhary",
     "contact_email": "sauraodalvi97+recruiter@gmail.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4454516367",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1383,6 +1403,10 @@
       {
         "date": "2026-08-25",
         "action": "Manual lead added for Product Manager at Valiance Solutions. Initial status set to: PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Sent initial pitch (Note on my Valiance Solutions Product Manager application) with attached resume to sauraodalvi97+recruiter@gmail.com."
       }
     ]
   },
@@ -1394,7 +1418,7 @@
     "contact_name": "Nitisha Varun",
     "contact_email": "sauraodalvi97+referral@gmail.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4452989378",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1402,6 +1426,10 @@
       {
         "date": "2026-08-25",
         "action": "Manual lead added for Sr Product Manager at UKG. Initial status set to: PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Sent initial pitch (Applying for Sr Product Manager at UKG – can you help with referral?) with attached resume to sauraodalvi97+referral@gmail.com."
       }
     ],
     "outreach_style": "referral"
