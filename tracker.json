@@ -1108,7 +1108,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4456584160",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1116,6 +1116,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager at Lxme (Mumbai, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Lxme_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1127,7 +1131,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4458719038",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1135,6 +1139,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager at Hem Securities Ltd. (Jaipur, Rajasthan, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Hem_Securities_Ltd_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1146,7 +1154,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4456915164",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1154,6 +1162,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager at CaratLane - A TATA Product (Mumbai, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (CaratLane_-_A_TATA_Product_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1165,7 +1177,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4458589856",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1173,6 +1185,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager at ShopDeck (Bengaluru, Karnataka, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (ShopDeck_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1184,7 +1200,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4457472852",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1192,6 +1208,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager at Thomson Reuters (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Thomson_Reuters_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
