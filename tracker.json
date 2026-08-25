@@ -645,9 +645,9 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4457370990",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-23",
+    "last_action_date": "2026-08-25",
     "followup_count": 0,
     "history": [
       {
@@ -657,6 +657,10 @@
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@simpplr.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Simpplr_Senior_Product_Manager_-_AI_Products.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -668,9 +672,9 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4456491446",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-23",
+    "last_action_date": "2026-08-25",
     "followup_count": 0,
     "history": [
       {
@@ -680,6 +684,10 @@
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@forcepoint.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Forcepoint_Sr_Product_Manager-_Cloud_DLP.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -691,9 +699,9 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4455615924",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-23",
+    "last_action_date": "2026-08-25",
     "followup_count": 0,
     "history": [
       {
@@ -703,6 +711,10 @@
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@jibeerp.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (JiBe_ERP_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -714,9 +726,9 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4444590351",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-23",
+    "last_action_date": "2026-08-25",
     "followup_count": 0,
     "history": [
       {
@@ -726,6 +738,10 @@
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@phonepe.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (PhonePe_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -737,9 +753,9 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4444507106",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-23",
+    "last_action_date": "2026-08-25",
     "followup_count": 0,
     "history": [
       {
@@ -749,6 +765,10 @@
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@skyhighsecurity.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Skyhigh_Security_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1171,6 +1191,139 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager (B2C) at Fareportal (Gurugram, Haryana, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_528cbd2d",
+    "company": "Cisco",
+    "role": "Senior Product Manager - Cisco Wireless",
+    "location": "Bengaluru, Karnataka, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4448146910",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Senior Product Manager - Cisco Wireless at Cisco (Bengaluru, Karnataka, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8f783398",
+    "company": "Ambak",
+    "role": "APM/Product Manager",
+    "location": "Gurugram, Haryana, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4458192528",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for APM/Product Manager at Ambak (Gurugram, Haryana, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_709d7840",
+    "company": "BlinkRx",
+    "role": "Senior Product Manager",
+    "location": "Bengaluru, Karnataka, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4456686604",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Senior Product Manager at BlinkRx (Bengaluru, Karnataka, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5d49a039",
+    "company": "GE Vernova",
+    "role": "Senior Product Manager - AI",
+    "location": "Bengaluru, Karnataka, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4448336585",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Senior Product Manager - AI at GE Vernova (Bengaluru, Karnataka, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0c5c02de",
+    "company": "One97 Communications Limited",
+    "role": "PPSL - Product Management - Senior Product Manager - EDC Product",
+    "location": "Noida, Uttar Pradesh, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4457456348",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for PPSL - Product Management - Senior Product Manager - EDC Product at One97 Communications Limited (Noida, Uttar Pradesh, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7a4466de",
+    "company": "JPMorganChase",
+    "role": "Product Manager",
+    "location": "Hyderabad, Telangana, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4458293733",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager at JPMorganChase (Hyderabad, Telangana, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_fc14bcd9",
+    "company": "TAAS Partners",
+    "role": "Product Manager",
+    "location": "Gurugram, Haryana, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4457410953",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager at TAAS Partners (Gurugram, Haryana, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
