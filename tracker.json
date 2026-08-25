@@ -1366,5 +1366,44 @@
         "action": "Lead added for Product Manager at TAAS Partners (Gurugram, Haryana, India). Initial status: JOB_LINK_SAVED."
       }
     ]
+  },
+  {
+    "job_id": "job_7f89574e",
+    "company": "Valiance Solutions",
+    "role": "Product Manager",
+    "location": "Remote",
+    "contact_name": "Priya Chowdhary",
+    "contact_email": "sauraodalvi97+recruiter@gmail.com",
+    "apply_url": "https://www.linkedin.com/jobs/view/4454516367",
+    "status": "PENDING_OUTREACH",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Manual lead added for Product Manager at Valiance Solutions. Initial status set to: PENDING_OUTREACH."
+      }
+    ]
+  },
+  {
+    "job_id": "job_349f4b91",
+    "company": "UKG",
+    "role": "Sr Product Manager",
+    "location": "Remote",
+    "contact_name": "Nitisha Varun",
+    "contact_email": "sauraodalvi97+referral@gmail.com",
+    "apply_url": "https://www.linkedin.com/jobs/view/4452989378",
+    "status": "PENDING_OUTREACH",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Manual lead added for Sr Product Manager at UKG. Initial status set to: PENDING_OUTREACH."
+      }
+    ],
+    "outreach_style": "referral"
   }
 ]
