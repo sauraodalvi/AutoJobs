@@ -11,7 +11,9 @@ if env_path.exists():
 CANDIDATE_NAME = "Saurao Dalvi"
 CANDIDATE_EMAIL = "sauraodalvi97@gmail.com"
 CANDIDATE_TITLE = "AI Product Manager / Associate Product Manager"
-CANDIDATE_RESUME_PATH = r"C:\Users\saura\OneDrive\Desktop\Resume\Compact\Saurao Dalvi.pdf"
+CANDIDATE_RESUME_PATH = os.getenv("CANDIDATE_RESUME_PATH", r"C:\Users\Saurao\Downloads\Resume\Compact\Saurao Dalvi.pdf")
+CANDIDATE_LINKEDIN = "https://www.linkedin.com/in/saurao-dalvi/"
+CANDIDATE_PORTFOLIO = "https://sauraodalvi.netlify.app/"
 
 # Targeted Roles & Locations
 TARGET_ROLES = ["Product Manager", "Associate Product Manager", "APM", "AI Product Manager"]

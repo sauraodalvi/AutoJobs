@@ -1,6 +1,7 @@
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from email.mime.application import MIMEApplication
 import json
 import logging
 import random
@@ -38,9 +39,9 @@ def save_tracker(data):
         logging.error(f"Failed to save tracker.json: {e}")
 
 
-def send_email(to_email: str, subject: str, body: str, is_digest: bool = False) -> bool:
+def send_email(to_email: str, subject: str, body: str, is_digest: bool = False, attach_resume: bool = True) -> bool:
     """
-    Transmits an email via SMTP with proper MX validation and exception handling.
+    Transmits an email via SMTP with proper MX validation, resume attachment, and exception handling.
     """
     to_email = to_email.strip()
 
@@ -65,6 +66,21 @@ def send_email(to_email: str, subject: str, body: str, is_digest: bool = False) 
         msg["To"] = to_email
         msg["Subject"] = subject
         msg.attach(MIMEText(body, "plain", "utf-8"))
+
+        # Attach Resume PDF for outbound job pitches / follow-ups
+        if not is_digest and attach_resume:
+            resume_path_str = getattr(config, "CANDIDATE_RESUME_PATH", "")
+            if resume_path_str:
+                resume_path = Path(resume_path_str)
+                if resume_path.exists() and resume_path.is_file():
+                    try:
+                        with open(resume_path, "rb") as f:
+                            part = MIMEApplication(f.read(), Name=resume_path.name)
+                        part["Content-Disposition"] = f'attachment; filename="{resume_path.name}"'
+                        msg.attach(part)
+                        logging.info(f"Attached resume PDF: {resume_path.name}")
+                    except Exception as att_err:
+                        logging.warning(f"Could not attach resume {resume_path}: {att_err}")
 
         server = smtplib.SMTP(config.SMTP_SERVER, config.SMTP_PORT, timeout=15)
         server.starttls()
@@ -116,6 +132,7 @@ def execute_daily_sequence():
         last_action_date_str = item.get("last_action_date", "")
         last_action_date = parse_date(last_action_date_str)
         followup_count = item.get("followup_count", 0)
+        outreach_style = item.get("outreach_style", "recruiter")
 
         # Safety Skip: Stopped, bounced, saved, application ready, or missing email
         if status in ["REPLIED_STOPPED", "EMAIL_BOUNCED", "JOB_LINK_SAVED", "APPLICATION_READY"] or not contact_email:
@@ -144,8 +161,8 @@ def execute_daily_sequence():
 
             logging.info(f"Processing NEW OUTREACH for {contact_name} ({contact_email}) - Role: {role} at {company}")
             try:
-                pitch_data = llm_client.generate_pitch(contact_name, company, role, apply_url)
-                sent = send_email(contact_email, pitch_data["subject"], pitch_data["body"])
+                pitch_data = llm_client.generate_pitch(contact_name, company, role, apply_url, style=outreach_style)
+                sent = send_email(contact_email, pitch_data["subject"], pitch_data["body"], attach_resume=True)
 
                 if sent:
                     new_pitches_sent_today += 1
@@ -155,7 +172,7 @@ def execute_daily_sequence():
                         item["history"] = []
                     item["history"].append({
                         "date": today_str,
-                        "action": f"Sent initial referral pitch to {contact_email}."
+                        "action": f"Sent initial pitch ({pitch_data['subject']}) with attached resume to {contact_email}."
                     })
                     changes_made = True
 
@@ -173,8 +190,8 @@ def execute_daily_sequence():
             if days_since_last >= config.DAYS_BETWEEN_FOLLOWUP and followup_count < config.MAX_FOLLOWUPS:
                 logging.info(f"Processing FOLLOW-UP #{followup_count + 1} for {contact_name} ({contact_email}) - {days_since_last} days since last action")
                 try:
-                    followup_data = llm_client.generate_followup(contact_name, company, role, apply_url)
-                    sent = send_email(contact_email, followup_data["subject"], followup_data["body"])
+                    followup_data = llm_client.generate_followup(contact_name, company, role, apply_url, style=outreach_style)
+                    sent = send_email(contact_email, followup_data["subject"], followup_data["body"], attach_resume=False)
 
                     if sent:
                         item["followup_count"] = followup_count + 1
@@ -184,7 +201,7 @@ def execute_daily_sequence():
                             item["history"] = []
                         item["history"].append({
                             "date": today_str,
-                            "action": f"Sent follow-up pitch #{followup_count + 1} to {contact_email}."
+                            "action": f"Sent follow-up pitch #{followup_count + 1} ({followup_data['subject']}) to {contact_email}."
                         })
                         changes_made = True
 
@@ -291,7 +308,7 @@ def send_daily_digest(recipient_email: str = None) -> bool:
     body = "\n".join(body_lines)
 
     logging.info(f"Dispatching 09:00 AM Daily Digest to {target_email}...")
-    return send_email(target_email, subject, body, is_digest=True)
+    return send_email(target_email, subject, body, is_digest=True, attach_resume=False)
 
 
 if __name__ == "__main__":

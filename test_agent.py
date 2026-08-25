@@ -94,11 +94,31 @@ class TestReferralAgent(unittest.TestCase):
         self.assertEqual(len(data_after), 1)
 
     @patch("llm_client._call_llm_with_fallbacks")
-    def test_llm_pitch_fallback(self, mock_llm):
-        mock_llm.return_value = "Subject: Test Subject\n\nThis is line 1. Line 2 impact. Line 3 call to action."
-        pitch = llm_client.generate_pitch("John Doe", "Acme AI", "AI Product Manager")
-        self.assertEqual(pitch["subject"], "Test Subject")
-        self.assertIn("line 1", pitch["body"])
+    def test_llm_recruiter_pitch_and_followup(self, mock_llm):
+        mock_llm.side_effect = Exception("LLM simulated offline")
+        pitch = llm_client.generate_pitch("Priya Chowdhary", "Valiance Solutions", "Product Manager", "https://linkedin.com/jobs/123", style="recruiter")
+        self.assertEqual(pitch["subject"], "Note on my Valiance Solutions Product Manager application")
+        self.assertIn("Priya Chowdhary", pitch["body"])
+        self.assertIn("Valiance Solutions", pitch["body"])
+        self.assertIn("https://linkedin.com/jobs/123", pitch["body"])
+
+        followup = llm_client.generate_followup("Priya Chowdhary", "Valiance Solutions", "Product Manager", style="recruiter")
+        self.assertEqual(followup["subject"], "Re: Note on my Valiance Solutions Product Manager application")
+        self.assertIn("Priya Chowdhary", followup["body"])
+
+    @patch("llm_client._call_llm_with_fallbacks")
+    def test_llm_referral_pitch_and_followup(self, mock_llm):
+        mock_llm.side_effect = Exception("LLM simulated offline")
+        pitch = llm_client.generate_pitch("Nitisha Varun", "UKG", "Sr Product Manager", "https://linkedin.com/jobs/456", style="referral")
+        self.assertEqual(pitch["subject"], "Applying for Sr Product Manager at UKG – can you help with referral?")
+        self.assertIn("Nitisha", pitch["body"])
+        self.assertIn("FlytBase", pitch["body"])
+        self.assertIn("https://sauraodalvi.netlify.app/", pitch["body"])
+        self.assertIn("https://linkedin.com/jobs/456", pitch["body"])
+
+        followup = llm_client.generate_followup("Nitisha Varun", "UKG", "Sr Product Manager", style="referral")
+        self.assertEqual(followup["subject"], "Re: Applying for Sr Product Manager at UKG – can you help with referral?")
+        self.assertIn("Nitisha Varun", followup["body"])
 
     def test_email_cleaner(self):
         self.assertEqual(inbox_monitor.clean_email_address("Recruiter <recruiter@example.com>"), "recruiter@example.com")
@@ -132,7 +152,7 @@ class TestReferralAgent(unittest.TestCase):
         data = outbound_engine.load_tracker()
         self.assertEqual(data[0]["status"], "OUTREACH_SENT")
         self.assertEqual(len(data[0]["history"]), 1)
-        self.assertIn("Sent initial referral pitch", data[0]["history"][0]["action"])
+        self.assertIn("Sent initial pitch", data[0]["history"][0]["action"])
         mock_send_email.assert_called_once()
 
     @patch("outbound_engine.send_email", return_value=True)
