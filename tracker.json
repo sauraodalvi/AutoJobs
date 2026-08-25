@@ -1338,7 +1338,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4457456348",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1346,6 +1346,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for PPSL - Product Management - Senior Product Manager - EDC Product at One97 Communications Limited (Noida, Uttar Pradesh, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (One97_Communications_Limited_PPSL_-_Product_Management_-_Senior_Product_Manager_-_EDC_Product.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1357,7 +1361,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4458293733",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1365,6 +1369,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager at JPMorganChase (Hyderabad, Telangana, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (JPMorganChase_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1376,7 +1384,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4457410953",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1384,6 +1392,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager at TAAS Partners (Gurugram, Haryana, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (TAAS_Partners_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1395,7 +1407,7 @@
     "contact_name": "Priya Chowdhary",
     "contact_email": "sauraodalvi97+recruiter@gmail.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4454516367",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1403,6 +1415,10 @@
       {
         "date": "2026-08-25",
         "action": "Manual lead added for Product Manager at Valiance Solutions. Initial status set to: PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Sent initial pitch (Note on my Valiance Solutions Product Manager application) with attached resume to sauraodalvi97+recruiter@gmail.com."
       },
       {
         "date": "2026-08-25",
@@ -1418,7 +1434,7 @@
     "contact_name": "Nitisha Varun",
     "contact_email": "sauraodalvi97+referral@gmail.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4452989378",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1426,6 +1442,10 @@
       {
         "date": "2026-08-25",
         "action": "Manual lead added for Sr Product Manager at UKG. Initial status set to: PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Sent initial pitch (Applying for Sr Product Manager at UKG – can you help with referral?) with attached resume to sauraodalvi97+referral@gmail.com."
       },
       {
         "date": "2026-08-25",
