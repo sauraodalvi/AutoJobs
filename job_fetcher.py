@@ -7,6 +7,8 @@ Targeting Product Manager & Associate Product Manager (APM) roles in:
 - Singapore
 - Indonesia
 - Remote
+
+Features strict 7-day freshness filtering so stale jobs are ignored.
 """
 
 import json
@@ -15,6 +17,7 @@ import re
 import urllib.request
 import uuid
 from datetime import datetime, timezone
+import dateutil.parser
 import config
 import email_validator
 
@@ -53,6 +56,41 @@ def clean_job_text(text: str) -> str:
     return text.strip()
 
 
+def is_recent_job(date_val, max_days: int = None) -> bool:
+    """
+    Returns True if the job was posted within max_days (default: config.MAX_JOB_AGE_DAYS = 7).
+    Discards any postings older than 7 days.
+    """
+    if max_days is None:
+        max_days = getattr(config, "MAX_JOB_AGE_DAYS", 7)
+
+    if date_val is None or date_val == "":
+        return True
+
+    now = datetime.now(timezone.utc)
+    try:
+        if isinstance(date_val, datetime):
+            dt = date_val
+        elif isinstance(date_val, (int, float)):
+            dt = datetime.fromtimestamp(date_val, tz=timezone.utc)
+        elif isinstance(date_val, str):
+            date_str = date_val.strip()
+            if date_str.isdigit():
+                dt = datetime.fromtimestamp(int(date_str), tz=timezone.utc)
+            else:
+                dt = dateutil.parser.parse(date_str)
+        else:
+            return True
+
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+
+        age_seconds = (now - dt).total_seconds()
+        return age_seconds <= (max_days * 86400)
+    except Exception:
+        return True
+
+
 def load_tracker():
     if not config.TRACKER_FILE.exists():
         return []
@@ -76,9 +114,10 @@ def fetch_live_jobs():
     """
     Fetches real-time Product Manager & APM leads from public remote/regional APIs
     (Jobicy, Remotive, Arbeitnow, RemoteOK, Himalayas, JobSpy).
-    Returns a list of structured job dictionaries.
+    Strictly filters out jobs posted > 7 days ago.
     """
     live_jobs = []
+    max_days = getattr(config, "MAX_JOB_AGE_DAYS", 7)
 
     # 1. Jobicy API
     try:
@@ -89,6 +128,10 @@ def fetch_live_jobs():
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             for item in data.get("jobs", []):
+                pub_date = item.get("pubDate")
+                if not is_recent_job(pub_date, max_days):
+                    continue
+
                 role = clean_job_text(item.get("jobTitle", ""))
                 company = clean_job_text(item.get("companyName", ""))
                 location = clean_job_text(item.get("jobGeo", "Remote"))
@@ -116,6 +159,10 @@ def fetch_live_jobs():
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             for item in data.get("jobs", []):
+                pub_date = item.get("publication_date")
+                if not is_recent_job(pub_date, max_days):
+                    continue
+
                 role = clean_job_text(item.get("title", ""))
                 company = clean_job_text(item.get("company_name", ""))
                 location = clean_job_text(item.get("candidate_required_location", "Remote"))
@@ -143,6 +190,10 @@ def fetch_live_jobs():
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             for item in data.get("data", []):
+                created_at = item.get("created_at")
+                if not is_recent_job(created_at, max_days):
+                    continue
+
                 role = clean_job_text(item.get("title", ""))
                 company = clean_job_text(item.get("company_name", ""))
                 location = clean_job_text(item.get("location", "EU"))
@@ -172,6 +223,10 @@ def fetch_live_jobs():
             if isinstance(data, list) and len(data) > 1:
                 for item in data[1:]:
                     if isinstance(item, dict):
+                        job_date = item.get("date")
+                        if not is_recent_job(job_date, max_days):
+                            continue
+
                         role = clean_job_text(item.get("position", ""))
                         company = clean_job_text(item.get("company", ""))
                         location = clean_job_text(item.get("location", "Remote"))
@@ -199,6 +254,10 @@ def fetch_live_jobs():
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             for item in data.get("jobs", []):
+                pub_date = item.get("pubDate") or item.get("created_at") or item.get("publishedAt")
+                if not is_recent_job(pub_date, max_days):
+                    continue
+
                 role = clean_job_text(item.get("title", ""))
                 company = clean_job_text(item.get("companyName", ""))
                 locs = item.get("location", ["Remote"])
@@ -221,16 +280,20 @@ def fetch_live_jobs():
     # 6. JobSpy (LinkedIn, Indeed, Glassdoor, ZipRecruiter)
     try:
         from jobspy import scrape_jobs
-        logging.info("Scraping live listings from LinkedIn & Indeed via JobSpy...")
+        logging.info("Scraping live listings from LinkedIn & Indeed via JobSpy (max 72 hours old)...")
         df = scrape_jobs(
             site_name=["linkedin", "indeed"],
             search_term="Product Manager",
             location="India",
             results_wanted=10,
-            hours_old=72
+            hours_old=72  # 72 hours max age
         )
         if df is not None and not df.empty:
             for _, row in df.iterrows():
+                date_posted = row.get("date_posted")
+                if not is_recent_job(date_posted, max_days):
+                    continue
+
                 role = clean_job_text(str(row.get("title", "") or ""))
                 company = clean_job_text(str(row.get("company", "") or ""))
                 location = clean_job_text(str(row.get("location", "") or "Remote"))
@@ -248,7 +311,7 @@ def fetch_live_jobs():
     except Exception as e:
         logging.warning(f"Could not fetch via JobSpy: {e}")
 
-    logging.info(f"Discovered {len(live_jobs)} live target job lead(s) from external sources.")
+    logging.info(f"Discovered {len(live_jobs)} fresh live target job lead(s) posted within the last {max_days} days.")
     return live_jobs
 
 

@@ -3,7 +3,7 @@ import json
 import os
 from pathlib import Path
 from unittest.mock import patch, MagicMock
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 import config
 import candidate_profile
@@ -44,6 +44,18 @@ class TestReferralAgent(unittest.TestCase):
         self.assertIn("Saurao Dalvi", context)
         self.assertIn("AI Product Manager", context)
         self.assertIn("FlytBase", context)
+
+    def test_job_freshness_filter(self):
+        now = datetime.now(timezone.utc)
+        # Recent jobs (within 7 days)
+        self.assertTrue(job_fetcher.is_recent_job(now - timedelta(days=2), max_days=7))
+        self.assertTrue(job_fetcher.is_recent_job((now - timedelta(days=4)).isoformat(), max_days=7))
+        self.assertTrue(job_fetcher.is_recent_job((now - timedelta(days=1)).timestamp(), max_days=7))
+
+        # Stale jobs (> 7 days)
+        self.assertFalse(job_fetcher.is_recent_job(now - timedelta(days=10), max_days=7))
+        self.assertFalse(job_fetcher.is_recent_job((now - timedelta(days=15)).isoformat(), max_days=7))
+        self.assertFalse(job_fetcher.is_recent_job((now - timedelta(days=30)).timestamp(), max_days=7))
 
     def test_email_validator_syntax(self):
         self.assertTrue(email_validator.validate_email_syntax("john.doe@company.com"))
