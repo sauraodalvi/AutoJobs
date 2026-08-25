@@ -780,9 +780,9 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4455021182",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-23",
+    "last_action_date": "2026-08-25",
     "followup_count": 0,
     "history": [
       {
@@ -792,6 +792,10 @@
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@contrailsai.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Contrails_AI_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1012,7 +1016,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4455888582",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1020,6 +1024,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager at Deloitte (Hyderabad, Telangana, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Deloitte_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1031,7 +1039,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4456873068",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1039,6 +1047,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager - Chanakya at Sarvam (Bawana, Delhi, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Sarvam_Product_Manager_-_Chanakya.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1050,7 +1062,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4458161783",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1058,6 +1070,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager [T500-28811] at Inspire (Hyderabad, Telangana, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Inspire_Product_Manager_T500-28811.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -1069,7 +1085,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4430943165",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-25",
     "followup_count": 0,
@@ -1077,6 +1093,10 @@
       {
         "date": "2026-08-25",
         "action": "Lead added for Product Manager at Hitachi Energy (Vadodara, Gujarat, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Hitachi_Energy_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
