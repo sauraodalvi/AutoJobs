@@ -1,9 +1,18 @@
 @echo off
+setlocal
 echo ===================================================
-echo   HAPPPY-CLONE AUTONOMOUS JOB AGENT - DAILY RUNNER  
+echo   AUTOJOBS AUTONOMOUS AGENT - 09:00 AM DAILY RUNNER  
 echo ===================================================
-cd /d c:\git_projects\job
-"C:\Users\saura\AppData\Local\Programs\Python\Python311\python.exe" main.py
+
+cd /d "%~dp0"
+
+if exist "%~dp0.venv\Scripts\python.exe" (
+    "%~dp0.venv\Scripts\python.exe" main.py
+) else (
+    python main.py
+)
+
 echo.
-echo Execution finished. Press any key to close.
-pause
+echo Daily sequence finished at %date% %time%.
+echo ===================================================
+endlocal

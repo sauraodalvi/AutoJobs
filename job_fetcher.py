@@ -14,8 +14,9 @@ import logging
 import re
 import urllib.request
 import uuid
-from datetime import datetime
+from datetime import datetime, timezone
 import config
+import email_validator
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
@@ -42,7 +43,7 @@ def save_tracker(data):
 def fetch_live_jobs():
     """
     Fetches real-time Product Manager & APM leads from public remote/regional APIs
-    (Jobicy, Remotive, Arbeitnow, RemoteOK).
+    (Jobicy, Remotive, Arbeitnow, RemoteOK, Himalayas, JobSpy).
     Returns a list of structured job dictionaries.
     """
     live_jobs = []
@@ -218,7 +219,6 @@ def fetch_live_jobs():
     return live_jobs
 
 
-
 def is_target_role_and_location(role: str, location: str) -> bool:
     """Checks if role and location match the candidate's preferred criteria."""
     role_lower = role.lower()
@@ -243,16 +243,8 @@ def is_target_role_and_location(role: str, location: str) -> bool:
 
 
 def is_generic_email(addr: str) -> bool:
-    """Returns True if the email address is unmonitored/system generic (e.g. noreply@, support@, info@) or empty."""
-    if not addr or "@" not in addr:
-        return True
-    local_part = addr.split("@")[0].lower()
-    unmonitored_prefixes = {
-        "noreply", "no-reply", "donotreply", "do-not-reply", "unsubscribe",
-        "bounce", "mailer-daemon", "postmaster", "support", "help", "admin",
-        "sales", "billing", "info"
-    }
-    return local_part in unmonitored_prefixes
+    """Returns True if email is unmonitored/system generic."""
+    return email_validator.is_generic_or_role_email(addr)
 
 
 def sync_target_jobs(new_jobs_list=None):
@@ -261,8 +253,8 @@ def sync_target_jobs(new_jobs_list=None):
     Ensures no duplicate entries for company + role.
     """
     existing_data = load_tracker()
-    existing_keys = {f"{item.get('company', '').lower()}_{item.get('role', '').lower()}" for item in existing_data}
-    today_str = datetime.utcnow().strftime("%Y-%m-%d")
+    existing_keys = {f"{item.get('company', '').lower().strip()}_{item.get('role', '').lower().strip()}" for item in existing_data}
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     # High-quality sample initial targets matching Pune, EU, Japan, Singapore, Indonesia & Remote
     sample_jobs = [
@@ -303,33 +295,42 @@ def sync_target_jobs(new_jobs_list=None):
         }
     ]
 
-    # Fetch live jobs from remote APIs
-    fetched_api_jobs = fetch_live_jobs()
-
     if new_jobs_list is not None:
         jobs_to_process = new_jobs_list
     else:
+        # Fetch live jobs from remote APIs only when no explicit list provided
+        fetched_api_jobs = fetch_live_jobs()
         jobs_to_process = sample_jobs + fetched_api_jobs
 
     added_count = 0
 
     for job in jobs_to_process:
-        key = f"{job['company'].lower()}_{job['role'].lower()}"
+        company_clean = job.get("company", "").strip()
+        # Clean company name artifacts if present
+        company_clean = re.sub(r"^(jobs\s*-\s*|careers\s*-\s*)", "", company_clean, flags=re.IGNORECASE)
+        role_clean = job.get("role", "").strip()
+
+        key = f"{company_clean.lower()}_{role_clean.lower()}"
         if key not in existing_keys:
             contact_email = job.get("contact_email", "").strip()
-            apply_url = job.get("apply_url", "")
+            apply_url = job.get("apply_url", "").strip()
             
-            # Only set PENDING_OUTREACH if contact_email is explicit and non-generic.
-            # If email is generic (careers@, jobs@) or missing, set JOB_LINK_SAVED.
-            if contact_email and not is_generic_email(contact_email):
+            # Verify explicit email if present
+            is_valid_email = False
+            if contact_email:
+                is_valid, _ = email_validator.is_valid_recruiter_email(contact_email, verify_mx=True)
+                is_valid_email = is_valid
+
+            if is_valid_email:
                 initial_status = "PENDING_OUTREACH"
             else:
+                contact_email = ""  # Discard invalid/generic explicit email
                 initial_status = "JOB_LINK_SAVED"
 
             new_record = {
                 "job_id": f"job_{uuid.uuid4().hex[:8]}",
-                "company": job["company"],
-                "role": job["role"],
+                "company": company_clean,
+                "role": role_clean,
                 "location": job.get("location", "Remote"),
                 "contact_name": job.get("contact_name", "Hiring Team"),
                 "contact_email": contact_email,
@@ -341,7 +342,7 @@ def sync_target_jobs(new_jobs_list=None):
                 "history": [
                     {
                         "date": today_str,
-                        "action": f"Lead added for {job['role']} at {job['company']} ({job.get('location', 'Remote')}). Initial status: {initial_status}."
+                        "action": f"Lead added for {role_clean} at {company_clean} ({job.get('location', 'Remote')}). Initial status: {initial_status}."
                     }
                 ]
             }
@@ -358,4 +359,3 @@ def sync_target_jobs(new_jobs_list=None):
 
 if __name__ == "__main__":
     sync_target_jobs()
-

@@ -3,8 +3,9 @@ import email
 from email.header import decode_header
 import json
 import logging
-from datetime import datetime
+from datetime import datetime, timezone
 import config
+import email_validator
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
@@ -75,7 +76,7 @@ def process_incoming_replies():
         mail.login(config.EMAIL_USER, config.EMAIL_PASS)
         mail.select("INBOX")
 
-        today_str = datetime.utcnow().strftime("%Y-%m-%d")
+        today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
         replies_updated = 0
         bounces_updated = 0
 

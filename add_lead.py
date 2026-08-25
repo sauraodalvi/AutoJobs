@@ -8,25 +8,31 @@ import json
 import logging
 import sys
 import uuid
-from datetime import datetime
+from datetime import datetime, timezone
 import config
 import job_fetcher
+import email_validator
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 
 def add_job_lead(company: str, role: str, location: str, contact_name: str, contact_email: str, apply_url: str = ""):
     data = job_fetcher.load_tracker()
-    today_str = datetime.utcnow().strftime("%Y-%m-%d")
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     contact_email = contact_email.strip()
     
-    if contact_email and not job_fetcher.is_generic_email(contact_email):
+    is_valid, reason = email_validator.is_valid_recruiter_email(contact_email, verify_mx=True) if contact_email else (False, "No email provided")
+    
+    if is_valid:
         initial_status = "PENDING_OUTREACH"
-        status_msg = "PENDING_OUTREACH (Ready for automated AI pitch)"
+        status_msg = "PENDING_OUTREACH (Verified email - Ready for automated AI pitch)"
     else:
         initial_status = "JOB_LINK_SAVED"
-        status_msg = "JOB_LINK_SAVED (Generic or missing email)"
+        status_msg = f"JOB_LINK_SAVED ({reason})"
+        if contact_email:
+            logging.warning(f"Email '{contact_email}' rejected: {reason}. Setting status to JOB_LINK_SAVED.")
+            contact_email = ""
 
     new_record = {
         "job_id": f"job_{uuid.uuid4().hex[:8]}",
@@ -51,12 +57,12 @@ def add_job_lead(company: str, role: str, location: str, contact_name: str, cont
     data.append(new_record)
     job_fetcher.save_tracker(data)
     logging.info(f"✅ Successfully added lead: {role} at {company}")
-    logging.info(f"   Contact: {contact_name} ({contact_email or 'No Direct Email'})")
+    logging.info(f"   Contact: {contact_name} ({contact_email or 'Direct Application Link'})")
     logging.info(f"   Status: {status_msg}")
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Add a new target job lead to Happpy-Clone tracker ledger.")
+    parser = argparse.ArgumentParser(description="Add a new target job lead to AutoJobs tracker ledger.")
     parser.add_argument("--company", required=True, help="Target company name (e.g. Google)")
     parser.add_argument("--role", required=True, help="Job title (e.g. AI Product Manager)")
     parser.add_argument("--location", default="Remote", help="Location (e.g. Pune, EU, Remote)")

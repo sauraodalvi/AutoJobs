@@ -1,6 +1,6 @@
 """
-Status Report CLI Utility for Happpy-Clone Referral Agent.
-Prints a summary breakdown of tracked job applications and referral outreach states.
+Status Report CLI Utility for AutoJobs Referral & Application Agent.
+Prints a summary breakdown of tracked job applications, application kits, and referral outreach states.
 """
 
 import json
@@ -23,35 +23,37 @@ def print_status_report():
         return
 
     print("\n==========================================================================================")
-    print("                HAPPPY-CLONE AGENT - JOB & REFERRAL LEDGER STATUS                         ")
+    print("                 AUTOJOBS AGENT - JOB & REFERRAL LEDGER STATUS                            ")
     print("==========================================================================================\n")
 
     summary_counts = {
         "PENDING_OUTREACH": 0,
         "OUTREACH_SENT": 0,
         "FOLLOWUP_SENT": 0,
+        "APPLICATION_READY": 0,
         "JOB_LINK_SAVED": 0,
         "EMAIL_BOUNCED": 0,
         "REPLIED_STOPPED": 0
     }
 
-    header_fmt = "{:<18} | {:<32} | {:<28} | {:<16} | {:<10}"
+    header_fmt = "{:<18} | {:<32} | {:<28} | {:<18} | {:<10}"
     print(header_fmt.format("Company", "Role", "Recruiter Email", "Status", "Last Action"))
     print("-" * 115)
 
     for item in data:
         status = item.get("status", "UNKNOWN")
         summary_counts[status] = summary_counts.get(status, 0) + 1
-        comp = item.get("company", "N/A")[:17]
-        role = item.get("role", "N/A")[:31]
-        email = (item.get("contact_email") or "(None/Generic)")[:27]
-        last_date = item.get("last_action_date", "N/A")
+        comp = str(item.get("company", "N/A"))[:17]
+        role = str(item.get("role", "N/A"))[:31]
+        email = (item.get("contact_email") or "(Direct Apply)")[:27]
+        last_date = str(item.get("last_action_date", "N/A"))
         print(header_fmt.format(comp, role, email, status, last_date))
 
     print("\n--- SUMMARY METRICS ---")
     print(f"[*] Pending Referral Outreaches (Ready to Send): {summary_counts['PENDING_OUTREACH']}")
     print(f"[*] Initial Pitches Sent:                     {summary_counts['OUTREACH_SENT']}")
     print(f"[*] Follow-ups Sent:                          {summary_counts['FOLLOWUP_SENT']}")
+    print(f"[*] Tailored Application Kits Ready:          {summary_counts['APPLICATION_READY']}")
     print(f"[*] Direct Job Application Links Saved:       {summary_counts['JOB_LINK_SAVED']}")
     print(f"[*] Email Bounces (Halted):                    {summary_counts['EMAIL_BOUNCED']}")
     print(f"[*] Recruiter Replies (Sequence Stopped):     {summary_counts['REPLIED_STOPPED']}")

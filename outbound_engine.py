@@ -5,10 +5,12 @@ import json
 import logging
 import random
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timezone
+from pathlib import Path
 import config
 import llm_client
 import job_fetcher
+import email_validator
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
@@ -36,12 +38,25 @@ def save_tracker(data):
         logging.error(f"Failed to save tracker.json: {e}")
 
 
-def send_email(to_email: str, subject: str, body: str) -> bool:
+def send_email(to_email: str, subject: str, body: str, is_digest: bool = False) -> bool:
     """
-    Transmits an email via SMTP with proper exception handling.
+    Transmits an email via SMTP with proper MX validation and exception handling.
     """
+    to_email = to_email.strip()
+
+    # Pre-flight MX and Syntax Check
+    if not is_digest:
+        is_valid, reason = email_validator.is_valid_recruiter_email(to_email, verify_mx=True)
+        if not is_valid:
+            logging.error(f"Cannot send email to {to_email}: {reason}. Aborting delivery.")
+            return False
+    else:
+        if not email_validator.validate_email_syntax(to_email):
+            logging.error(f"Invalid digest recipient email syntax: {to_email}")
+            return False
+
     if not config.EMAIL_USER or not config.EMAIL_PASS:
-        logging.warning("SMTP Credentials missing in environment variables. Email transmission simulated/skipped.")
+        logging.warning(f"SMTP Credentials missing in environment variables. Email transmission to {to_email} simulated/skipped.")
         return False
 
     try:
@@ -51,7 +66,7 @@ def send_email(to_email: str, subject: str, body: str) -> bool:
         msg["Subject"] = subject
         msg.attach(MIMEText(body, "plain", "utf-8"))
 
-        server = smtplib.SMTP(config.SMTP_SERVER, config.SMTP_PORT)
+        server = smtplib.SMTP(config.SMTP_SERVER, config.SMTP_PORT, timeout=15)
         server.starttls()
         server.login(config.EMAIL_USER, config.EMAIL_PASS)
         server.send_message(msg)
@@ -67,11 +82,12 @@ def send_email(to_email: str, subject: str, body: str) -> bool:
 def parse_date(date_str: str) -> datetime:
     """Parses date string or returns epoch if invalid."""
     if not date_str:
-        return datetime.min
+        return datetime.min.replace(tzinfo=timezone.utc)
     try:
-        return datetime.strptime(date_str, "%Y-%m-%d")
+        dt = datetime.strptime(date_str, "%Y-%m-%d")
+        return dt.replace(tzinfo=timezone.utc)
     except ValueError:
-        return datetime.min
+        return datetime.min.replace(tzinfo=timezone.utc)
 
 
 def execute_daily_sequence():
@@ -83,7 +99,7 @@ def execute_daily_sequence():
         logging.info("No records found in tracker ledger.")
         return
 
-    today = datetime.utcnow()
+    today = datetime.now(timezone.utc)
     today_str = today.strftime("%Y-%m-%d")
     changes_made = False
     new_pitches_sent_today = 0
@@ -93,25 +109,28 @@ def execute_daily_sequence():
     for item in data:
         status = item.get("status")
         contact_name = item.get("contact_name", "Recruiter")
-        contact_email = item.get("contact_email", "")
+        contact_email = item.get("contact_email", "").strip()
         company = item.get("company", "the company")
-        role = item.get("role", "Software Engineer")
+        role = item.get("role", "Product Manager")
+        apply_url = item.get("apply_url", "")
         last_action_date_str = item.get("last_action_date", "")
         last_action_date = parse_date(last_action_date_str)
         followup_count = item.get("followup_count", 0)
 
-        # Safety Skip: Stopped, bounced, saved, or missing email
-        if status in ["REPLIED_STOPPED", "EMAIL_BOUNCED", "JOB_LINK_SAVED"] or not contact_email:
+        # Safety Skip: Stopped, bounced, saved, application ready, or missing email
+        if status in ["REPLIED_STOPPED", "EMAIL_BOUNCED", "JOB_LINK_SAVED", "APPLICATION_READY"] or not contact_email:
             continue
 
-        # Extra Guard: Convert generic email targets (e.g. careers@, jobs@) to JOB_LINK_SAVED
-        if job_fetcher.is_generic_email(contact_email):
-            logging.info(f"Skipping cold email to generic email '{contact_email}' for {role} at {company}. Updating status to JOB_LINK_SAVED.")
+        # Extra Guard: Convert generic/invalid email targets to JOB_LINK_SAVED
+        is_valid_email, reason = email_validator.is_valid_recruiter_email(contact_email, verify_mx=True)
+        if not is_valid_email:
+            logging.info(f"Skipping cold email to invalid/generic target '{contact_email}' for {role} at {company} ({reason}). Updating status to JOB_LINK_SAVED.")
             item["status"] = "JOB_LINK_SAVED"
+            item["contact_email"] = ""
             item["last_action_date"] = today_str
             item["history"].append({
                 "date": today_str,
-                "action": f"Generic contact email {contact_email} detected. Converted status to JOB_LINK_SAVED to prevent bounce."
+                "action": f"Invalid recipient email target ({reason}). Reset status to JOB_LINK_SAVED."
             })
             changes_made = True
             continue
@@ -125,7 +144,7 @@ def execute_daily_sequence():
 
             logging.info(f"Processing NEW OUTREACH for {contact_name} ({contact_email}) - Role: {role} at {company}")
             try:
-                pitch_data = llm_client.generate_pitch(contact_name, company, role)
+                pitch_data = llm_client.generate_pitch(contact_name, company, role, apply_url)
                 sent = send_email(contact_email, pitch_data["subject"], pitch_data["body"])
 
                 if sent:
@@ -142,7 +161,7 @@ def execute_daily_sequence():
 
                 # Random stagger delay between emails
                 stagger = random.randint(5, 15)
-                logging.info(f"Stagging next action by {stagger} seconds to maintain email reputation...")
+                logging.info(f"Staggering next action by {stagger} seconds to maintain email reputation...")
                 time.sleep(stagger)
 
             except Exception as e:
@@ -154,7 +173,7 @@ def execute_daily_sequence():
             if days_since_last >= config.DAYS_BETWEEN_FOLLOWUP and followup_count < config.MAX_FOLLOWUPS:
                 logging.info(f"Processing FOLLOW-UP #{followup_count + 1} for {contact_name} ({contact_email}) - {days_since_last} days since last action")
                 try:
-                    followup_data = llm_client.generate_followup(contact_name, company, role)
+                    followup_data = llm_client.generate_followup(contact_name, company, role, apply_url)
                     sent = send_email(contact_email, followup_data["subject"], followup_data["body"])
 
                     if sent:
@@ -181,6 +200,98 @@ def execute_daily_sequence():
         logging.info("Outbound execution sequence completed with ledger updates.")
     else:
         logging.info("Outbound execution sequence completed. No ledger state changes were made.")
+
+
+def send_daily_digest(recipient_email: str = None) -> bool:
+    """
+    Sends a structured morning briefing digest to Saurao Dalvi with:
+    - Direct application links + tailored cover letter locations
+    - Outbound cold referral pitch statuses
+    - Any incoming replies or bounce notices
+    """
+    data = load_tracker()
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    target_email = recipient_email or config.CANDIDATE_EMAIL or config.EMAIL_USER
+
+    if not target_email:
+        logging.warning("No candidate recipient email configured for daily digest.")
+        return False
+
+    counts = {
+        "PENDING_OUTREACH": 0,
+        "OUTREACH_SENT": 0,
+        "FOLLOWUP_SENT": 0,
+        "APPLICATION_READY": 0,
+        "JOB_LINK_SAVED": 0,
+        "REPLIED_STOPPED": 0,
+        "EMAIL_BOUNCED": 0
+    }
+
+    application_ready_items = []
+    outreach_items = []
+
+    for item in data:
+        st = item.get("status", "JOB_LINK_SAVED")
+        counts[st] = counts.get(st, 0) + 1
+        if st in ["APPLICATION_READY", "JOB_LINK_SAVED"] and item.get("apply_url"):
+            application_ready_items.append(item)
+        elif st in ["OUTREACH_SENT", "FOLLOWUP_SENT", "PENDING_OUTREACH"]:
+            outreach_items.append(item)
+
+    subject = f"🚀 AutoJobs Morning Briefing - {today_str} ({len(application_ready_items)} Direct Apply Roles)"
+
+    body_lines = [
+        f"Hi {config.CANDIDATE_NAME},",
+        "",
+        f"Here is your AutoJobs autonomous agent daily briefing for {today_str}:",
+        "",
+        "=" * 60,
+        "📊 APPLICATION & OUTREACH METRICS",
+        "=" * 60,
+        f"• Direct Application Links Ready: {counts.get('APPLICATION_READY', 0) + counts.get('JOB_LINK_SAVED', 0)}",
+        f"• Active Cold Referral Pitches:   {counts.get('OUTREACH_SENT', 0)}",
+        f"• Follow-ups Sent:                {counts.get('FOLLOWUP_SENT', 0)}",
+        f"• Recruiter Responses:            {counts.get('REPLIED_STOPPED', 0)}",
+        f"• Total Tracked Positions:        {len(data)}",
+        "",
+        "=" * 60,
+        "🎯 TOP TARGET ROLES READY FOR 1-CLICK APPLICATION",
+        "=" * 60
+    ]
+
+    if application_ready_items:
+        for idx, job in enumerate(application_ready_items[:8], 1):
+            comp = job.get("company", "Company")
+            role = job.get("role", "Product Manager")
+            loc = job.get("location", "Remote")
+            url = job.get("apply_url", "N/A")
+            body_lines.append(f"{idx}. {role} at {comp} ({loc})")
+            body_lines.append(f"   👉 Apply Link: {url}")
+            body_lines.append(f"   📁 Cover Letter Kit: cover_letters/{comp}_{role}.txt")
+            body_lines.append("")
+    else:
+        body_lines.append("No new pending direct application links today.")
+        body_lines.append("")
+
+    if outreach_items:
+        body_lines.append("=" * 60)
+        body_lines.append("✉️ ACTIVE RECRUITER OUTREACH THREADS")
+        body_lines.append("=" * 60)
+        for job in outreach_items[:5]:
+            comp = job.get("company", "Company")
+            role = job.get("role", "Product Manager")
+            contact = job.get("contact_name", "Recruiter")
+            email = job.get("contact_email", "")
+            st = job.get("status", "")
+            body_lines.append(f"• {role} at {comp} -> {contact} ({email}) [{st}]")
+        body_lines.append("")
+
+    body_lines.append("=" * 60)
+    body_lines.append("Generated automatically by AutoJobs Autonomous Agent.")
+    body = "\n".join(body_lines)
+
+    logging.info(f"Dispatching 09:00 AM Daily Digest to {target_email}...")
+    return send_email(target_email, subject, body, is_digest=True)
 
 
 if __name__ == "__main__":

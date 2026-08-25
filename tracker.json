@@ -136,24 +136,28 @@
   },
   {
     "job_id": "job_731761bb",
-    "company": "jobs - Personio",
-    "role": "Senior Product Manager \u00e2\u20ac\u201d Platform Experiences",
+    "company": "Personio",
+    "role": "Senior Product Manager - Platform Experiences",
     "location": "Remote (Deutschland)",
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/jobs-personio/remote-senior-product-manager-platform-experiences-210636",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-23",
+    "last_action_date": "2026-08-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-23",
-        "action": "Lead added for Senior Product Manager \u00e2\u20ac\u201d Platform Experiences at jobs - Personio (Remote (Deutschland)). Initial status: JOB_LINK_SAVED."
+        "action": "Lead added for Senior Product Manager â€” Platform Experiences at jobs - Personio (Remote (Deutschland)). Initial status: JOB_LINK_SAVED."
       },
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@jobspersonio.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Personio_Senior_Product_Manager_-_Platform_Experiences.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -206,7 +210,7 @@
   {
     "job_id": "job_caf83d6b",
     "company": "Product Hackers",
-    "role": "Product Manager [Espa\u00c3\u00b1a]",
+    "role": "Product Manager [Espana]",
     "location": "Remote",
     "contact_name": "Hiring Manager",
     "contact_email": "",
@@ -218,7 +222,7 @@
     "history": [
       {
         "date": "2026-08-23",
-        "action": "Lead added for Product Manager [Espa\u00c3\u00b1a] at Product Hackers (Remote). Initial status: JOB_LINK_SAVED."
+        "action": "Lead added for Product Manager [EspaÃ±a] at Product Hackers (Remote). Initial status: JOB_LINK_SAVED."
       },
       {
         "date": "2026-08-23",
@@ -528,23 +532,27 @@
   {
     "job_id": "job_288c84bf",
     "company": "GridCrest by Kaynes",
-    "role": "Product Manager \u00e2\u20ac\u201c Smart Electricity Meters",
+    "role": "Product Manager â€“ Smart Electricity Meters",
     "location": "Kolkata, West Bengal, India",
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4456086749",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-23",
+    "last_action_date": "2026-08-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-23",
-        "action": "Lead added for Product Manager \u00e2\u20ac\u201c Smart Electricity Meters at GridCrest by Kaynes (Kolkata, West Bengal, India). Initial status: JOB_LINK_SAVED."
+        "action": "Lead added for Product Manager â€“ Smart Electricity Meters at GridCrest by Kaynes (Kolkata, West Bengal, India). Initial status: JOB_LINK_SAVED."
       },
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@gridcrestbykaynes.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (GridCrest_by_Kaynes_Product_Manager_â_Smart_Electricity_Meters.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -556,9 +564,9 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4446916541",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-23",
+    "last_action_date": "2026-08-25",
     "followup_count": 0,
     "history": [
       {
@@ -568,6 +576,10 @@
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@blackbaudindia.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Blackbaud_India_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -579,9 +591,9 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4454658110",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-23",
+    "last_action_date": "2026-08-25",
     "followup_count": 0,
     "history": [
       {
@@ -591,6 +603,10 @@
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@ema.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Ema_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -602,9 +618,9 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4446789696",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-23",
+    "last_action_date": "2026-08-25",
     "followup_count": 0,
     "history": [
       {
@@ -614,6 +630,10 @@
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@google.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-25",
+        "action": "Generated tailored application kit & cover letter (Google_Product_Manager_User_Voice_AI_and_Agentic_Experiences.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -752,6 +772,405 @@
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@contrailsai.com). Promoted to PENDING_OUTREACH."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8d2f1c7e",
+    "company": "Onity Group Inc.",
+    "role": "Digital Product Manager, Digital Products & Design",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Digital Product Manager, Digital Products & Design at Onity Group Inc. (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2f06dd77",
+    "company": "Product Hackers",
+    "role": "Product Manager [España]",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager [España] at Product Hackers (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_11591ada",
+    "company": "Remedy Product Studio",
+    "role": "Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager at Remedy Product Studio (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_239f453c",
+    "company": "Public Consulting Group",
+    "role": "Manager- Enterprise Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Manager- Enterprise Product Manager at Public Consulting Group (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8bab70ab",
+    "company": "Lifelancer",
+    "role": "Product Manager,  PLM",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager,  PLM at Lifelancer (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b69fb81f",
+    "company": "Sporty Group",
+    "role": "EU Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for EU Product Manager at Sporty Group (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5a72f29a",
+    "company": "TE Connectivity",
+    "role": "GROUP PRODUCT MANAGER, DATA PRODUCTS & ANALYTICS - REMOTE (#Wayne, PA, US, 19087",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for GROUP PRODUCT MANAGER, DATA PRODUCTS & ANALYTICS - REMOTE (#Wayne, PA, US, 19087 at TE Connectivity (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a044b4a7",
+    "company": "Jerry",
+    "role": "Senior Product Manager, Emerging Products (0-1)",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Senior Product Manager, Emerging Products (0-1) at Jerry (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0f10956b",
+    "company": "Motive",
+    "role": "Senior Product Manager, Fleet Management",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Senior Product Manager, Fleet Management at Motive (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2e5c7c4b",
+    "company": "Klaxoon",
+    "role": "Group Product Manager [Klaxoon]",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Group Product Manager [Klaxoon] at Klaxoon (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0169f9c3",
+    "company": "DTN",
+    "role": "Senior Product Manager, Intelligence Products",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Senior Product Manager, Intelligence Products at DTN (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a249e256",
+    "company": "Deloitte",
+    "role": "Product Manager",
+    "location": "Hyderabad, Telangana, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4455888582",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager at Deloitte (Hyderabad, Telangana, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d6c2dfb2",
+    "company": "Sarvam",
+    "role": "Product Manager - Chanakya",
+    "location": "Bawana, Delhi, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4456873068",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager - Chanakya at Sarvam (Bawana, Delhi, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d3aba0d9",
+    "company": "Inspire",
+    "role": "Product Manager [T500-28811]",
+    "location": "Hyderabad, Telangana, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4458161783",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager [T500-28811] at Inspire (Hyderabad, Telangana, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_cff69a2f",
+    "company": "Hitachi Energy",
+    "role": "Product Manager",
+    "location": "Vadodara, Gujarat, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4430943165",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager at Hitachi Energy (Vadodara, Gujarat, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_35a6eb22",
+    "company": "Lxme",
+    "role": "Product Manager",
+    "location": "Mumbai, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4456584160",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager at Lxme (Mumbai, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_46dba68d",
+    "company": "Hem Securities Ltd.",
+    "role": "Product Manager",
+    "location": "Jaipur, Rajasthan, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4458719038",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager at Hem Securities Ltd. (Jaipur, Rajasthan, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_661cadbe",
+    "company": "CaratLane - A TATA Product",
+    "role": "Product Manager",
+    "location": "Mumbai, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4456915164",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager at CaratLane - A TATA Product (Mumbai, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_35231cfe",
+    "company": "ShopDeck",
+    "role": "Product Manager",
+    "location": "Bengaluru, Karnataka, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4458589856",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager at ShopDeck (Bengaluru, Karnataka, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_25ee9331",
+    "company": "Thomson Reuters",
+    "role": "Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4457472852",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager at Thomson Reuters (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_78391dbd",
+    "company": "Fareportal",
+    "role": "Product Manager (B2C)",
+    "location": "Gurugram, Haryana, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4456942746",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-25",
+    "last_action_date": "2026-08-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-25",
+        "action": "Lead added for Product Manager (B2C) at Fareportal (Gurugram, Haryana, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
