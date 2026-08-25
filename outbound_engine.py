@@ -41,7 +41,7 @@ def save_tracker(data):
 
 def send_email(to_email: str, subject: str, body: str, is_digest: bool = False, attach_resume: bool = True) -> bool:
     """
-    Transmits an email via SMTP with proper MX validation, resume attachment, and exception handling.
+    Transmits an email via SMTP with proper MX validation, RFC PDF attachment, and exception handling.
     """
     to_email = to_email.strip()
 
@@ -69,18 +69,29 @@ def send_email(to_email: str, subject: str, body: str, is_digest: bool = False, 
 
         # Attach Resume PDF for outbound job pitches / follow-ups
         if not is_digest and attach_resume:
-            resume_path_str = getattr(config, "CANDIDATE_RESUME_PATH", "")
-            if resume_path_str:
-                resume_path = Path(resume_path_str)
-                if resume_path.exists() and resume_path.is_file():
-                    try:
-                        with open(resume_path, "rb") as f:
-                            part = MIMEApplication(f.read(), Name=resume_path.name)
-                        part["Content-Disposition"] = f'attachment; filename="{resume_path.name}"'
-                        msg.attach(part)
-                        logging.info(f"Attached resume PDF: {resume_path.name}")
-                    except Exception as att_err:
-                        logging.warning(f"Could not attach resume {resume_path}: {att_err}")
+            resume_path = None
+            configured_path = getattr(config, "CANDIDATE_RESUME_PATH", "")
+            if configured_path:
+                p = Path(configured_path)
+                if p.exists() and p.is_file():
+                    resume_path = p
+
+            if not resume_path:
+                repo_resume = Path(__file__).parent / "Saurao_Dalvi_Resume.pdf"
+                if repo_resume.exists() and repo_resume.is_file():
+                    resume_path = repo_resume
+
+            if resume_path:
+                try:
+                    with open(resume_path, "rb") as f:
+                        part = MIMEApplication(f.read(), _subtype="pdf")
+                    part.add_header("Content-Disposition", "attachment", filename="Saurao Dalvi.pdf")
+                    msg.attach(part)
+                    logging.info(f"Attached resume PDF ({resume_path.name}) as 'Saurao Dalvi.pdf'")
+                except Exception as att_err:
+                    logging.warning(f"Could not attach resume {resume_path}: {att_err}")
+            else:
+                logging.warning("Resume PDF not found on disk. Email sent without attachment.")
 
         server = smtplib.SMTP(config.SMTP_SERVER, config.SMTP_PORT, timeout=15)
         server.starttls()
