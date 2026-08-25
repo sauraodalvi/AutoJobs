@@ -21,6 +21,38 @@ import email_validator
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 
+def clean_job_text(text: str) -> str:
+    """Cleans mojibake and unicode artifact characters (e.g. â€“ -> -, â€™ -> ')."""
+    if not text or not isinstance(text, str):
+        return ""
+    replacements = {
+        "â€“": "-",
+        "â€”": "-",
+        "â€˜": "'",
+        "â€™": "'",
+        "â€œ": '"',
+        "â€\x9d": '"',
+        "â€\x9c": '"',
+        "â€": '"',
+        "â€¢": "•",
+        "â€¦": "...",
+        "\u2013": "-",
+        "\u2014": "-",
+        "\u2018": "'",
+        "\u2019": "'",
+        "\u201c": '"',
+        "\u201d": '"',
+        "\u2022": "•",
+        "\u2026": "...",
+        "\u00e2\u20ac\u201d": "-",
+        "\u00e2\u20ac\u2013": "-",
+        "\u00c3\u00b1": "n",
+    }
+    for bad, good in replacements.items():
+        text = text.replace(bad, good)
+    return text.strip()
+
+
 def load_tracker():
     if not config.TRACKER_FILE.exists():
         return []
@@ -57,9 +89,9 @@ def fetch_live_jobs():
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             for item in data.get("jobs", []):
-                role = item.get("jobTitle", "")
-                company = item.get("companyName", "")
-                location = item.get("jobGeo", "Remote")
+                role = clean_job_text(item.get("jobTitle", ""))
+                company = clean_job_text(item.get("companyName", ""))
+                location = clean_job_text(item.get("jobGeo", "Remote"))
                 job_url = item.get("url", "")
                 explicit_email = item.get("contactEmail") or item.get("email") or ""
 
@@ -84,9 +116,9 @@ def fetch_live_jobs():
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             for item in data.get("jobs", []):
-                role = item.get("title", "")
-                company = item.get("company_name", "")
-                location = item.get("candidate_required_location", "Remote")
+                role = clean_job_text(item.get("title", ""))
+                company = clean_job_text(item.get("company_name", ""))
+                location = clean_job_text(item.get("candidate_required_location", "Remote"))
                 job_url = item.get("url", "")
                 explicit_email = item.get("contact_email") or ""
 
@@ -111,9 +143,9 @@ def fetch_live_jobs():
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             for item in data.get("data", []):
-                role = item.get("title", "")
-                company = item.get("company_name", "")
-                location = item.get("location", "EU")
+                role = clean_job_text(item.get("title", ""))
+                company = clean_job_text(item.get("company_name", ""))
+                location = clean_job_text(item.get("location", "EU"))
                 job_url = item.get("url", "")
                 explicit_email = item.get("email") or ""
 
@@ -140,9 +172,9 @@ def fetch_live_jobs():
             if isinstance(data, list) and len(data) > 1:
                 for item in data[1:]:
                     if isinstance(item, dict):
-                        role = item.get("position", "")
-                        company = item.get("company", "")
-                        location = item.get("location", "Remote")
+                        role = clean_job_text(item.get("position", ""))
+                        company = clean_job_text(item.get("company", ""))
+                        location = clean_job_text(item.get("location", "Remote"))
                         job_url = item.get("url", "")
                         explicit_email = item.get("email") or ""
 
@@ -167,17 +199,18 @@ def fetch_live_jobs():
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             for item in data.get("jobs", []):
-                role = item.get("title", "")
-                company = item.get("companyName", "")
+                role = clean_job_text(item.get("title", ""))
+                company = clean_job_text(item.get("companyName", ""))
                 locs = item.get("location", ["Remote"])
                 location_str = ", ".join(locs) if isinstance(locs, list) else str(locs)
+                location_clean = clean_job_text(location_str)
                 job_url = item.get("applicationUrl") or item.get("url") or ""
 
-                if is_target_role_and_location(role, location_str):
+                if is_target_role_and_location(role, location_clean):
                     live_jobs.append({
                         "company": company,
                         "role": role,
-                        "location": location_str or "Remote",
+                        "location": location_clean or "Remote",
                         "contact_name": "Hiring Manager",
                         "contact_email": "",
                         "apply_url": job_url
@@ -198,9 +231,9 @@ def fetch_live_jobs():
         )
         if df is not None and not df.empty:
             for _, row in df.iterrows():
-                role = str(row.get("title", "") or "")
-                company = str(row.get("company", "") or "")
-                location = str(row.get("location", "") or "Remote")
+                role = clean_job_text(str(row.get("title", "") or ""))
+                company = clean_job_text(str(row.get("company", "") or ""))
+                location = clean_job_text(str(row.get("location", "") or "Remote"))
                 job_url = str(row.get("job_url", "") or "")
 
                 if company and role and is_target_role_and_location(role, location):
@@ -253,7 +286,7 @@ def sync_target_jobs(new_jobs_list=None):
     Ensures no duplicate entries for company + role.
     """
     existing_data = load_tracker()
-    existing_keys = {f"{item.get('company', '').lower().strip()}_{item.get('role', '').lower().strip()}" for item in existing_data}
+    existing_keys = {f"{clean_job_text(item.get('company', '')).lower()}_{clean_job_text(item.get('role', '')).lower()}" for item in existing_data}
     today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     # High-quality sample initial targets matching Pune, EU, Japan, Singapore, Indonesia & Remote
@@ -305,10 +338,10 @@ def sync_target_jobs(new_jobs_list=None):
     added_count = 0
 
     for job in jobs_to_process:
-        company_clean = job.get("company", "").strip()
+        company_clean = clean_job_text(job.get("company", ""))
         # Clean company name artifacts if present
         company_clean = re.sub(r"^(jobs\s*-\s*|careers\s*-\s*)", "", company_clean, flags=re.IGNORECASE)
-        role_clean = job.get("role", "").strip()
+        role_clean = clean_job_text(job.get("role", ""))
 
         key = f"{company_clean.lower()}_{role_clean.lower()}"
         if key not in existing_keys:
@@ -331,8 +364,8 @@ def sync_target_jobs(new_jobs_list=None):
                 "job_id": f"job_{uuid.uuid4().hex[:8]}",
                 "company": company_clean,
                 "role": role_clean,
-                "location": job.get("location", "Remote"),
-                "contact_name": job.get("contact_name", "Hiring Team"),
+                "location": clean_job_text(job.get("location", "Remote")),
+                "contact_name": clean_job_text(job.get("contact_name", "Hiring Team")),
                 "contact_email": contact_email,
                 "apply_url": apply_url,
                 "status": initial_status,
