@@ -27,6 +27,8 @@ def print_status_report():
     print("==========================================================================================\n")
 
     summary_counts = {
+        "APPLIED_EMAIL": 0,
+        "APPLIED_ONLINE": 0,
         "PENDING_OUTREACH": 0,
         "OUTREACH_SENT": 0,
         "FOLLOWUP_SENT": 0,
@@ -50,7 +52,9 @@ def print_status_report():
         print(header_fmt.format(comp, role, email, status, last_date))
 
     print("\n--- SUMMARY METRICS ---")
-    print(f"[*] Pending Referral Outreaches (Ready to Send): {summary_counts['PENDING_OUTREACH']}")
+    print(f"[*] Applications Submitted via Email:         {summary_counts['APPLIED_EMAIL']}")
+    print(f"[*] Applications Submitted Online:            {summary_counts['APPLIED_ONLINE']}")
+    print(f"[*] Pending Referral Outreaches (Ready):      {summary_counts['PENDING_OUTREACH']}")
     print(f"[*] Initial Pitches Sent:                     {summary_counts['OUTREACH_SENT']}")
     print(f"[*] Follow-ups Sent:                          {summary_counts['FOLLOWUP_SENT']}")
     print(f"[*] Tailored Application Kits Ready:          {summary_counts['APPLICATION_READY']}")

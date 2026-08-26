@@ -31,23 +31,28 @@ def generate_cover_letter_for_item(target_job: dict) -> Path:
     loc = target_job.get("location", "Remote")
     apply_url = target_job.get("apply_url", "N/A")
 
-    logging.info(f"Generating tailored Cover Letter for {role_title} at {comp_name} ({loc})...")
+    import ats_optimizer
+    match_score, matched_kws = ats_optimizer.calculate_match_score(role_title, company=comp_name)
+    kw_str = ", ".join(k.title() for k in matched_kws[:5])
+
+    logging.info(f"Generating ATS-optimized Cover Letter for {role_title} at {comp_name} (Score: {match_score}%, Keywords: {kw_str})...")
 
     candidate_context = candidate_profile.get_context_prompt()
 
     prompt = f"""{candidate_context}
 
-Task: Write a highly compelling, crisp 3-paragraph Cover Letter tailored for the application form of:
+Task: Write a highly compelling, ATS-optimized 3-paragraph Cover Letter tailored for:
 Company: {comp_name}
 Role: {role_title}
 Location: {loc}
+Key ATS Keywords to naturally incorporate: {kw_str}
 
 Structure:
-- Paragraph 1: High-energy introduction highlighting passion for {comp_name}'s mission and positioning Saurao Dalvi as a candidate with 3+ years of 0-to-1 AI Product Management experience.
-- Paragraph 2: Specific impact highlights (0-to-1 SaaS products shipped at FlytBase/CrelioHealth/Sprinto, growing MRR, building LLM & automated workflows, cutting operational friction by 50%+).
-- Paragraph 3: Closing call-to-action expressing enthusiasm to discuss how my AI product leadership will drive growth for {comp_name}.
+- Paragraph 1: High-energy introduction positioning Saurao Dalvi as an AI Product Manager with 3+ years of 0-to-1 experience aligning with {comp_name}'s product vision.
+- Paragraph 2: Specific metrics & impact (shipped 0-to-1 products at FlytBase/CrelioHealth/Sprinto, scaled MRR, built LLM workflows, cut turnaround by 18-50%+), weaving in: {kw_str}.
+- Paragraph 3: Crisp call-to-action expressing enthusiasm to discuss driving product growth for {comp_name}.
 
-Tone: Professional, confident, concise, zero corporate buzzword fluff."""
+Tone: Professional, confident, concise, high ATS keyword density, zero fluff."""
 
     try:
         letter_content = llm_client._call_llm_with_fallbacks(
@@ -57,12 +62,12 @@ Tone: Professional, confident, concise, zero corporate buzzword fluff."""
             max_tokens=450
         )
     except Exception as e:
-        logging.warning(f"LLM Cover Letter generation failed: {e}. Using structured high-impact template.")
+        logging.warning(f"LLM Cover Letter generation notice: ({e}). Using ATS-optimized high-impact template.")
         letter_content = (
             f"Dear Hiring Team at {comp_name},\n\n"
-            f"I am writing to express my strong interest in the {role_title} position. With over 3 years of experience as an AI Product Manager, I specialize in taking 0-to-1 SaaS products from initial concept to commercial scale.\n\n"
-            f"In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build LLM-powered workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background directly aligns with {comp_name}'s product ambitions.\n\n"
-            f"I would welcome the opportunity to discuss how my AI product management background can add immediate value to {comp_name}.\n\n"
+            f"I am writing to express my strong interest in the {role_title} position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.\n\n"
+            f"In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in {kw_str} directly aligns with {comp_name}'s technical and product ambitions.\n\n"
+            f"I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for {comp_name}.\n\n"
             f"Sincerely,\nSaurao Dalvi"
         )
 

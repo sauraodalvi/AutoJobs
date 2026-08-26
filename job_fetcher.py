@@ -411,16 +411,29 @@ def sync_target_jobs(new_jobs_list=None):
             contact_email = job.get("contact_email", "").strip()
             apply_url = job.get("apply_url", "").strip()
             
-            # Verify explicit email if present
+            # Verify explicit email or auto-discover verified recruiter contact
             is_valid_email = False
             if contact_email:
-                is_valid, _ = email_validator.is_valid_recruiter_email(contact_email, verify_mx=True)
+                is_valid, _ = email_validator.is_valid_recruiter_email(contact_email, verify_mx=True, allow_hiring_channels=True)
                 is_valid_email = is_valid
 
-            if is_valid_email:
+            contact_name = clean_job_text(job.get("contact_name", "Talent Acquisition Team"))
+
+            if not is_valid_email:
+                try:
+                    import contact_finder
+                    discovered = contact_finder.discover_contact(company_clean, apply_url)
+                    if discovered and discovered.get("email"):
+                        contact_email = discovered["email"]
+                        contact_name = discovered.get("name", contact_name)
+                        is_valid_email = True
+                except Exception:
+                    pass
+
+            if is_valid_email and contact_email:
                 initial_status = "PENDING_OUTREACH"
             else:
-                contact_email = ""  # Discard invalid/generic explicit email
+                contact_email = ""
                 initial_status = "JOB_LINK_SAVED"
 
             new_record = {
@@ -428,7 +441,7 @@ def sync_target_jobs(new_jobs_list=None):
                 "company": company_clean,
                 "role": role_clean,
                 "location": clean_job_text(job.get("location", "Remote")),
-                "contact_name": clean_job_text(job.get("contact_name", "Hiring Team")),
+                "contact_name": contact_name,
                 "contact_email": contact_email,
                 "apply_url": apply_url,
                 "status": initial_status,

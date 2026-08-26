@@ -7,6 +7,7 @@ import candidate_profile
 import job_fetcher
 import contact_finder
 import cover_letter_generator
+import auto_applier
 import inbox_monitor
 import outbound_engine
 
@@ -42,22 +43,29 @@ def main():
     except Exception as e:
         logging.error(f"Cover letter generator step encountered an error: {e}")
 
-    # Step 4: Run inbox_monitor to scrub active threads and flag responses / bounces
-    logging.info("\n--- STEP 4: Running Inbox Monitor (IMAP Response & Bounce Scrubbing) ---")
+    # Step 4: Run auto_applier to submit applications for leads with verified hiring endpoints
+    logging.info("\n--- STEP 4: Running Autonomous Job Applier (Direct Email & Web Submissions) ---")
+    try:
+        auto_applier.apply_to_pending_jobs(max_applications=5)
+    except Exception as e:
+        logging.error(f"Auto applier step encountered an error: {e}")
+
+    # Step 5: Run inbox_monitor to scrub active threads and flag responses / bounces
+    logging.info("\n--- STEP 5: Running Inbox Monitor (IMAP Response & Bounce Scrubbing) ---")
     try:
         inbox_monitor.process_incoming_replies()
     except Exception as e:
         logging.error(f"Inbox monitor step encountered an error: {e}")
 
-    # Step 5: Run outbound_engine to fire new verified referral pitches & follow-ups
-    logging.info("\n--- STEP 5: Running Outbound Engine (Verified Pitches & Follow-ups) ---")
+    # Step 6: Run outbound_engine to fire new verified referral pitches & follow-ups
+    logging.info("\n--- STEP 6: Running Outbound Engine (Verified Pitches & Follow-ups) ---")
     try:
         outbound_engine.execute_daily_sequence()
     except Exception as e:
         logging.error(f"Outbound engine step encountered an error: {e}")
 
-    # Step 6: Dispatch 09:00 AM Daily Morning Briefing Digest to Candidate
-    logging.info("\n--- STEP 6: Generating 09:00 AM Daily Action Briefing ---")
+    # Step 7: Dispatch 09:00 AM Daily Morning Briefing Digest to Candidate
+    logging.info("\n--- STEP 7: Generating 09:00 AM Daily Action Briefing ---")
     try:
         outbound_engine.send_daily_digest()
     except Exception as e:

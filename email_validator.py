@@ -24,14 +24,21 @@ ATS_AND_JOB_BOARD_HOSTS = {
     "otta.com", "workable.com", "ycombinator.com", "polywork.com"
 }
 
-# Generic unmonitored / role-based prefixes that should not be emailed cold
-GENERIC_ROLE_PREFIXES = {
+# Generic unmonitored / bounce-prone prefixes that should NEVER be emailed cold
+DEAD_OR_BOUNCE_PREFIXES = {
     "noreply", "no-reply", "donotreply", "do-not-reply", "postmaster",
     "mailer-daemon", "bounce", "unsubscribe", "admin", "administrator",
     "support", "help", "billing", "info", "sales", "inquiries", "contact",
-    "jobs", "careers", "apply", "recruiting", "recruitment", "talent",
-    "team", "general", "office", "hello"
+    "general", "office", "security", "privacy", "legal"
 }
+
+# Legitimate company talent acquisition and recruiting inboxes for applications
+VALID_HIRING_PREFIXES = {
+    "jobs", "careers", "apply", "recruiting", "recruitment", "talent",
+    "hiring", "hr", "people", "join", "team"
+}
+
+GENERIC_ROLE_PREFIXES = DEAD_OR_BOUNCE_PREFIXES
 
 # Regex for standard RFC 5322 email syntax
 EMAIL_REGEX = re.compile(
@@ -50,14 +57,26 @@ def validate_email_syntax(email: str) -> bool:
 
 
 def is_generic_or_role_email(email: str) -> bool:
-    """Returns True if the email is a generic or role-based address (e.g. info@, careers@, noreply@)."""
+    """Returns True if the email is an unmonitored dead/bounce address."""
     if not email or "@" not in email:
         return True
     local_part = email.split("@")[0].lower().strip()
-    # Check exact match or prefix match like noreply-xyz
-    if local_part in GENERIC_ROLE_PREFIXES:
+    if local_part in DEAD_OR_BOUNCE_PREFIXES:
         return True
-    for prefix in GENERIC_ROLE_PREFIXES:
+    for prefix in DEAD_OR_BOUNCE_PREFIXES:
+        if local_part.startswith(f"{prefix}-") or local_part.startswith(f"{prefix}."):
+            return True
+    return False
+
+
+def is_hiring_channel_email(email: str) -> bool:
+    """Returns True if the email belongs to a recognized company hiring/recruiting inbox."""
+    if not email or "@" not in email:
+        return False
+    local_part = email.split("@")[0].lower().strip()
+    if local_part in VALID_HIRING_PREFIXES:
+        return True
+    for prefix in VALID_HIRING_PREFIXES:
         if local_part.startswith(f"{prefix}-") or local_part.startswith(f"{prefix}."):
             return True
     return False
@@ -155,9 +174,9 @@ def clean_company_domain(company_name: str, apply_url: str = "") -> str:
     return ""
 
 
-def is_valid_recruiter_email(email: str, verify_mx: bool = True) -> tuple[bool, str]:
+def is_valid_recruiter_email(email: str, verify_mx: bool = True, allow_hiring_channels: bool = True) -> tuple[bool, str]:
     """
-    Comprehensive validation for recruiter emails.
+    Comprehensive validation for recruiter and hiring emails.
     Returns (is_valid: bool, reason: str).
     """
     if not email or not isinstance(email, str):
@@ -169,7 +188,10 @@ def is_valid_recruiter_email(email: str, verify_mx: bool = True) -> tuple[bool, 
         return False, "Invalid email syntax"
 
     if is_generic_or_role_email(email):
-        return False, f"Generic or unmonitored role prefix ({email.split('@')[0]})"
+        return False, f"Dead/unmonitored or bounce-prone role prefix ({email.split('@')[0]})"
+
+    if not allow_hiring_channels and is_hiring_channel_email(email):
+        return False, f"Role-based hiring channel not allowed for direct personal pitch ({email.split('@')[0]})"
 
     domain = email.split("@")[1]
     if domain in ATS_AND_JOB_BOARD_HOSTS:

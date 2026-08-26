@@ -1,0 +1,45 @@
+{
+  "personal": {
+    "first_name": "Saurao",
+    "last_name": "Dalvi",
+    "full_name": "Saurao Dalvi",
+    "email": "sauraodalvi97@gmail.com",
+    "phone": "+91 9876543210",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "country": "India",
+    "location": "Pune, Maharashtra, India",
+    "postal_code": "411001",
+    "linkedin": "https://www.linkedin.com/in/saurao-dalvi/",
+    "portfolio": "https://sauraodalvi.netlify.app/",
+    "github": "https://github.com/sauraodalvi"
+  },
+  "employment": {
+    "current_company": "FlytBase",
+    "current_title": "AI Product Manager / AI Forward Deployed Engineer",
+    "years_of_experience": "3+",
+    "pm_experience_years": "3",
+    "ai_experience_years": "3",
+    "python_experience_years": "3",
+    "notice_period": "30 days (Flexible / Immediate for high-priority roles)",
+    "notice_period_days": "30",
+    "earliest_start_date": "Within 2-4 weeks",
+    "willing_to_relocate": "Yes (Open to Remote, EU, Singapore, Japan, Indonesia)",
+    "remote_preference": "Remote / Hybrid / On-site"
+  },
+  "work_authorization": {
+    "authorized_in_india": "Yes",
+    "require_sponsorship": "No for Remote / India; Yes for on-site relocation",
+    "visa_status": "Citizen of India (Eligible for remote global contracts and sponsored work permits)"
+  },
+  "education": {
+    "degree": "Bachelor's Degree",
+    "field_of_study": "Engineering",
+    "university": "University of Pune"
+  },
+  "behavioral_highlights": {
+    "ai_experience": "Led 0-to-1 launch of Prediq (AI drone SaaS) at FlytBase growing MRR, built LLM-powered Smart Reports at CrelioHealth reducing sample turnaround by 18%, and built internal developer tooling cutting friction by 50%+.",
+    "leadership_style": "High-velocity, customer-obsessed 0-to-1 builder translating ambiguous customer needs into shipped, revenue-generating software.",
+    "tools": "Python, LLMs (OpenAI, Claude, Grok), LiteLLM, LangChain, Zapier, Make, SQL, Jira, Postman, Figma"
+  }
+}

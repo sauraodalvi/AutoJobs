@@ -47,7 +47,7 @@ def send_email(to_email: str, subject: str, body: str, is_digest: bool = False, 
 
     # Pre-flight MX and Syntax Check
     if not is_digest:
-        is_valid, reason = email_validator.is_valid_recruiter_email(to_email, verify_mx=True)
+        is_valid, reason = email_validator.is_valid_recruiter_email(to_email, verify_mx=True, allow_hiring_channels=True)
         if not is_valid:
             logging.error(f"Cannot send email to {to_email}: {reason}. Aborting delivery.")
             return False
@@ -150,7 +150,7 @@ def execute_daily_sequence():
             continue
 
         # Extra Guard: Convert generic/invalid email targets to JOB_LINK_SAVED
-        is_valid_email, reason = email_validator.is_valid_recruiter_email(contact_email, verify_mx=True)
+        is_valid_email, reason = email_validator.is_valid_recruiter_email(contact_email, verify_mx=True, allow_hiring_channels=True)
         if not is_valid_email:
             logging.info(f"Skipping cold email to invalid/generic target '{contact_email}' for {role} at {company} ({reason}). Updating status to JOB_LINK_SAVED.")
             item["status"] = "JOB_LINK_SAVED"
@@ -233,8 +233,9 @@ def execute_daily_sequence():
 def send_daily_digest(recipient_email: str = None) -> bool:
     """
     Sends a structured morning briefing digest to Saurao Dalvi with:
-    - Direct application links + tailored cover letter locations
+    - Submitted applications (Email & Web)
     - Outbound cold referral pitch statuses
+    - Direct application links + tailored cover letter locations
     - Any incoming replies or bounce notices
     """
     data = load_tracker()
@@ -246,6 +247,8 @@ def send_daily_digest(recipient_email: str = None) -> bool:
         return False
 
     counts = {
+        "APPLIED_EMAIL": 0,
+        "APPLIED_ONLINE": 0,
         "PENDING_OUTREACH": 0,
         "OUTREACH_SENT": 0,
         "FOLLOWUP_SENT": 0,
@@ -255,18 +258,22 @@ def send_daily_digest(recipient_email: str = None) -> bool:
         "EMAIL_BOUNCED": 0
     }
 
+    applied_items = []
     application_ready_items = []
     outreach_items = []
 
     for item in data:
         st = item.get("status", "JOB_LINK_SAVED")
         counts[st] = counts.get(st, 0) + 1
-        if st in ["APPLICATION_READY", "JOB_LINK_SAVED"] and item.get("apply_url"):
+        if st in ["APPLIED_EMAIL", "APPLIED_ONLINE"]:
+            applied_items.append(item)
+        elif st in ["APPLICATION_READY", "JOB_LINK_SAVED"] and item.get("apply_url"):
             application_ready_items.append(item)
         elif st in ["OUTREACH_SENT", "FOLLOWUP_SENT", "PENDING_OUTREACH"]:
             outreach_items.append(item)
 
-    subject = f"🚀 AutoJobs Morning Briefing - {today_str} ({len(application_ready_items)} Direct Apply Roles)"
+    total_applied = counts.get("APPLIED_EMAIL", 0) + counts.get("APPLIED_ONLINE", 0)
+    subject = f"🚀 AutoJobs Morning Briefing - {today_str} ({total_applied} Applied | {counts.get('OUTREACH_SENT', 0)} Pitches)"
 
     body_lines = [
         f"Hi {config.CANDIDATE_NAME},",
@@ -276,35 +283,39 @@ def send_daily_digest(recipient_email: str = None) -> bool:
         "=" * 60,
         "📊 APPLICATION & OUTREACH METRICS",
         "=" * 60,
-        f"• Direct Application Links Ready: {counts.get('APPLICATION_READY', 0) + counts.get('JOB_LINK_SAVED', 0)}",
-        f"• Active Cold Referral Pitches:   {counts.get('OUTREACH_SENT', 0)}",
-        f"• Follow-ups Sent:                {counts.get('FOLLOWUP_SENT', 0)}",
-        f"• Recruiter Responses:            {counts.get('REPLIED_STOPPED', 0)}",
-        f"• Total Tracked Positions:        {len(data)}",
+        f"• Autonomous Applications Submitted: {total_applied}",
+        f"• Active Cold Referral Pitches:      {counts.get('OUTREACH_SENT', 0)}",
+        f"• Pending Recruiter Pitches:         {counts.get('PENDING_OUTREACH', 0)}",
+        f"• Follow-ups Sent:                   {counts.get('FOLLOWUP_SENT', 0)}",
+        f"• Direct Apply Links Ready:          {counts.get('APPLICATION_READY', 0) + counts.get('JOB_LINK_SAVED', 0)}",
+        f"• Recruiter Responses:               {counts.get('REPLIED_STOPPED', 0)}",
+        f"• Total Tracked Positions:           {len(data)}",
         "",
-        "=" * 60,
-        "🎯 TOP TARGET ROLES READY FOR 1-CLICK APPLICATION",
-        "=" * 60
     ]
 
-    if application_ready_items:
-        for idx, job in enumerate(application_ready_items[:8], 1):
+    if applied_items:
+        body_lines.extend([
+            "=" * 60,
+            "✅ AUTONOMOUS APPLICATIONS SUBMITTED",
+            "=" * 60
+        ])
+        for idx, job in enumerate(applied_items[:8], 1):
             comp = job.get("company", "Company")
             role = job.get("role", "Product Manager")
-            loc = job.get("location", "Remote")
-            url = job.get("apply_url", "N/A")
-            body_lines.append(f"{idx}. {role} at {comp} ({loc})")
-            body_lines.append(f"   👉 Apply Link: {url}")
-            body_lines.append(f"   📁 Cover Letter Kit: cover_letters/{comp}_{role}.txt")
+            st = job.get("status", "APPLIED")
+            contact = job.get("contact_email", "")
+            date_app = job.get("date_applied", today_str)
+            body_lines.append(f"{idx}. {role} at {comp} [{st}] - {date_app}")
+            if contact:
+                body_lines.append(f"   ✉️ Submitted To: {contact}")
             body_lines.append("")
-    else:
-        body_lines.append("No new pending direct application links today.")
-        body_lines.append("")
 
     if outreach_items:
-        body_lines.append("=" * 60)
-        body_lines.append("✉️ ACTIVE RECRUITER OUTREACH THREADS")
-        body_lines.append("=" * 60)
+        body_lines.extend([
+            "=" * 60,
+            "✉️ ACTIVE RECRUITER OUTREACH THREADS",
+            "=" * 60
+        ])
         for job in outreach_items[:5]:
             comp = job.get("company", "Company")
             role = job.get("role", "Product Manager")
@@ -313,6 +324,22 @@ def send_daily_digest(recipient_email: str = None) -> bool:
             st = job.get("status", "")
             body_lines.append(f"• {role} at {comp} -> {contact} ({email}) [{st}]")
         body_lines.append("")
+
+    if application_ready_items:
+        body_lines.extend([
+            "=" * 60,
+            "🎯 TOP TARGET ROLES WITH PRE-BUILT COVER LETTERS",
+            "=" * 60
+        ])
+        for idx, job in enumerate(application_ready_items[:6], 1):
+            comp = job.get("company", "Company")
+            role = job.get("role", "Product Manager")
+            loc = job.get("location", "Remote")
+            url = job.get("apply_url", "N/A")
+            body_lines.append(f"{idx}. {role} at {comp} ({loc})")
+            body_lines.append(f"   👉 Apply Link: {url}")
+            body_lines.append(f"   📁 Cover Letter Kit: cover_letters/{comp}_{role}.txt")
+            body_lines.append("")
 
     body_lines.append("=" * 60)
     body_lines.append("Generated automatically by AutoJobs Autonomous Agent.")

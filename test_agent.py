@@ -12,6 +12,7 @@ import job_fetcher
 import contact_finder
 import cover_letter_generator
 import inbox_monitor
+import auto_applier
 import outbound_engine
 import email_validator
 
@@ -64,12 +65,19 @@ class TestReferralAgent(unittest.TestCase):
         self.assertFalse(email_validator.validate_email_syntax("john@"))
         self.assertFalse(email_validator.validate_email_syntax("@company.com"))
 
-    def test_email_validator_generic_blocking(self):
+    def test_email_validator_generic_blocking_and_hiring_channels(self):
+        # Dead/bounce prefixes are blocked
         self.assertTrue(email_validator.is_generic_or_role_email("noreply@company.com"))
-        self.assertTrue(email_validator.is_generic_or_role_email("careers@company.com"))
-        self.assertTrue(email_validator.is_generic_or_role_email("jobs@company.com"))
+        self.assertTrue(email_validator.is_generic_or_role_email("postmaster@company.com"))
+        self.assertTrue(email_validator.is_generic_or_role_email("billing@company.com"))
         self.assertTrue(email_validator.is_generic_or_role_email("support@company.com"))
-        self.assertFalse(email_validator.is_generic_or_role_email("sarah.connor@company.com"))
+        
+        # Hiring channels are recognized
+        self.assertTrue(email_validator.is_hiring_channel_email("careers@company.com"))
+        self.assertTrue(email_validator.is_hiring_channel_email("jobs@company.com"))
+        self.assertTrue(email_validator.is_hiring_channel_email("talent@company.com"))
+        self.assertTrue(email_validator.is_hiring_channel_email("recruiting@company.com"))
+        self.assertFalse(email_validator.is_hiring_channel_email("john.doe@company.com"))
 
     def test_email_validator_domain_cleaning(self):
         self.assertEqual(email_validator.clean_company_domain("jobs - Personio"), "personio.com")
@@ -79,6 +87,13 @@ class TestReferralAgent(unittest.TestCase):
             email_validator.clean_company_domain("Revolut", "https://jobs.revolut.com/apply/123"),
             "revolut.com"
         )
+
+    @patch("email_validator.has_valid_mx_record", return_value=True)
+    def test_contact_finder_talent_channel(self, mock_mx):
+        contact = contact_finder.find_verified_talent_channel("Personio", "personio.de")
+        self.assertTrue(bool(contact))
+        self.assertIn("personio.de", contact["email"])
+        self.assertIn("Talent", contact["name"])
 
     @patch("email_validator.has_valid_mx_record", return_value=True)
     def test_job_fetcher_sync_and_deduplication(self, mock_mx):
@@ -167,6 +182,35 @@ class TestReferralAgent(unittest.TestCase):
         self.assertIn("Sent initial pitch", data[0]["history"][0]["action"])
         mock_send_email.assert_called_once()
 
+    @patch("time.sleep")
+    @patch("outbound_engine.send_email", return_value=True)
+    @patch("email_validator.has_valid_mx_record", return_value=True)
+    def test_auto_applier_submission(self, mock_mx, mock_send_email, mock_sleep):
+        initial_data = [
+            {
+                "job_id": "test_app_01",
+                "company": "Personio",
+                "role": "Senior Product Manager",
+                "contact_name": "Talent Acquisition Team",
+                "contact_email": "careers@personio.de",
+                "status": "PENDING_OUTREACH",
+                "apply_url": "https://personio.de/jobs/spm",
+                "date_applied": "2026-08-26",
+                "last_action_date": "2026-08-26",
+                "followup_count": 0,
+                "history": []
+            }
+        ]
+        with open(self.test_tracker, "w", encoding="utf-8") as f:
+            json.dump(initial_data, f)
+
+        applied = auto_applier.apply_to_pending_jobs(max_applications=1)
+        self.assertEqual(applied, 1)
+        data = auto_applier.load_tracker()
+        self.assertEqual(data[0]["status"], "APPLIED_EMAIL")
+        self.assertIn("Automated application", data[0]["history"][-1]["action"])
+        mock_send_email.assert_called_once()
+
     @patch("outbound_engine.send_email", return_value=True)
     def test_daily_digest_generation(self, mock_send_email):
         initial_data = [
@@ -176,9 +220,9 @@ class TestReferralAgent(unittest.TestCase):
                 "role": "Lead Product Manager",
                 "location": "Remote",
                 "contact_name": "Carol Manager",
-                "contact_email": "",
+                "contact_email": "careers@gamma.ai",
                 "apply_url": "https://gamma.ai/jobs/lead-pm",
-                "status": "APPLICATION_READY",
+                "status": "APPLIED_EMAIL",
                 "date_applied": "2026-08-26",
                 "last_action_date": "2026-08-26",
                 "followup_count": 0,
@@ -193,6 +237,7 @@ class TestReferralAgent(unittest.TestCase):
         mock_send_email.assert_called_once()
         args, kwargs = mock_send_email.call_args
         self.assertIn("Morning Briefing", args[1])
+        self.assertIn("AUTONOMOUS APPLICATIONS SUBMITTED", args[2])
         self.assertIn("Gamma AI", args[2])
 
     @patch("llm_client._call_llm_with_fallbacks", return_value="Tailored Cover Letter Content Here")
@@ -220,6 +265,53 @@ class TestReferralAgent(unittest.TestCase):
         self.assertEqual(kits, 1)
         data = job_fetcher.load_tracker()
         self.assertEqual(data[0]["status"], "APPLICATION_READY")
+
+    def test_ats_optimizer(self):
+        import ats_optimizer
+        keywords = ats_optimizer.extract_keywords_from_text("Looking for an AI Product Manager with LLM and Prompt Engineering experience")
+        self.assertIn("llm", keywords)
+        self.assertIn("prompt engineering", keywords)
+        self.assertIn("ai product manager", keywords)
+
+        score, matched = ats_optimizer.calculate_match_score("AI Product Manager", "LLM SaaS platform", "Acme")
+        self.assertGreaterEqual(score, 80)
+        self.assertTrue(len(matched) > 0)
+
+        summary = ats_optimizer.generate_ats_tailored_summary("AI Product Manager", "Acme", matched)
+        self.assertIn("AI Product Manager", summary)
+        self.assertIn("FlytBase", summary)
+
+    def test_screener_engine(self):
+        import screener_engine
+        self.assertIn("linkedin.com", screener_engine.answer_question("What is your LinkedIn profile?"))
+        self.assertIn("9876543210", screener_engine.answer_question("Please provide your phone number"))
+        self.assertEqual(screener_engine.answer_question("Are you legally authorized to work in India?"), "Yes")
+        self.assertIn("30", screener_engine.answer_question("What is your notice period?"))
+        self.assertEqual(screener_engine.answer_question("How many years of PM experience do you have?"), "3+")
+
+    @patch("urllib.request.urlopen")
+    def test_browser_applier(self, mock_urlopen):
+        import browser_applier
+        self.assertEqual(browser_applier.identify_ats_platform("https://jobs.lever.co/company/123"), "LEVER")
+        self.assertEqual(browser_applier.identify_ats_platform("https://boards.greenhouse.io/company/jobs/456"), "GREENHOUSE")
+
+        sample_job = {
+            "company": "Personio",
+            "role": "Product Manager",
+            "apply_url": "https://jobs.lever.co/personio/pm-role"
+        }
+        payload = browser_applier.build_application_payload(sample_job)
+        self.assertEqual(payload["candidate"]["full_name"], "Saurao Dalvi")
+        self.assertEqual(payload["application"]["platform"], "LEVER")
+        self.assertGreaterEqual(payload["application"]["ats_match_score"], 70)
+
+        mock_resp = MagicMock()
+        mock_resp.getcode.return_value = 200
+        mock_urlopen.return_value.__enter__.return_value = mock_resp
+        
+        success, msg = browser_applier.submit_web_application(sample_job)
+        self.assertTrue(success)
+        self.assertIn("LEVER", msg)
 
 
 if __name__ == "__main__":
