@@ -1,0 +1,26 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager - Chanakya at Sarvam
+Apply Link: https://www.linkedin.com/jobs/view/4456873068
+Date Generated: 2026-08-26
+============================================================
+
+**Saurao Dalvi**  
+sauraodalvi@gmail.com | +91 832-913-2456 | Pune, India | https://saurao.com | linkedin.com/in/saurao-dalvi  
+
+Dear Hiring Manager,
+
+I’m an AI Product Manager with 3+ years of experience building and scaling AI-native products from concept to commercial success. As a Product Manager at FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI-powered drone SaaS platform that grew to $6K MRR. My background spans shaping product strategy, leading cross-functional engineering teams, and delivering real-world AI automation solutions—skills I’m eager to bring to Sarvam as your next Product Manager for the Chanakya initiative.
+
+At CrelioHealth, I drove the roadmap for Smart Reports, an AI-enabled healthcare SaaS feature that increased lab revenue by ~$2,000 MRR per lab while reducing patient registration time by 58% and cutting sample turnaround time by 18%, through custom LLM prompt pipelines and intelligent automation. At Sprinto (enterprise SaaS security), I built internal developer CLIs and orchestrated complex workflows across apps using Python, Zapier, and Make—improving operational efficiency by over 50%. These experiences have honed my ability to execute as a hands-on Product Manager who thrives at the intersection of AI innovation and measurable business impact.
+
+I’m excited about Sarvam’s vision for advancing AI in India and would love the opportunity to discuss how I can contribute as a Product Manager to drive growth and innovation for the Chanakya project. Thank you for your time—I look forward to connecting.
+
+Best regards,  
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

@@ -1089,8 +1089,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4455021182",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1113,6 +1113,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -1425,8 +1429,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4455888582",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-25",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1445,6 +1449,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application Kit generated and pre-filled for GENERIC_WEB. Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -1456,8 +1464,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4456873068",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-25",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1476,6 +1484,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -1487,8 +1499,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4458161783",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-25",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1507,6 +1519,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -1518,8 +1534,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4430943165",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-25",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1538,6 +1554,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
