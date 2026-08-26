@@ -40,10 +40,10 @@ def calculate_referral_priority(role: str, company: str, location: str = "", des
         score += 1
         reasons.append("High AI/LLM Domain Alignment")
 
-    # Target Geo Alignment
-    if any(loc in combined for loc in ["pune", "remote", "singapore", "japan", "germany", "eu", "bengaluru", "bangalore", "india"]):
+    # Target Geo Alignment (Pune, EU, Japan, Singapore, Indonesia, Remote)
+    if config.is_target_location(location) or any(loc in combined for loc in ["pune", "remote", "singapore", "japan", "tokyo", "germany", "berlin", "eu", "indonesia", "jakarta", "london", "uk", "netherlands"]):
         score += 1
-        reasons.append("Target Geographic Alignment")
+        reasons.append("Target Geographic Alignment (Pune / EU / Japan / Singapore / Indonesia / Remote)")
 
     # Seniority / Role Fit
     if any(t in role.lower() for t in ["product manager", "associate product manager", "apm", "sr. product manager", "senior product manager"]):
@@ -57,10 +57,26 @@ def calculate_referral_priority(role: str, company: str, location: str = "", des
 def generate_linkedin_search_url(company: str, role_title: str = "Product Manager", location: str = "") -> str:
     """
     Generates a targeted LinkedIn People Search URL to instantly find PM peers,
-    Engineering Leads, and Recruiters at the company.
+    Engineering Leads, and Recruiters at the company in preferred locations.
     """
     clean_company = re.sub(r"[^a-zA-Z0-9\s]", "", company).strip()
-    clean_loc = "India" if any(l in location.lower() for l in ["india", "pune", "bengaluru", "delhi", "mumbai", "hyderabad"]) else ""
+    loc_lower = (location or "").lower()
+    
+    clean_loc = ""
+    if "pune" in loc_lower:
+        clean_loc = "Pune"
+    elif "singapore" in loc_lower:
+        clean_loc = "Singapore"
+    elif any(k in loc_lower for k in ["japan", "tokyo"]):
+        clean_loc = "Japan"
+    elif any(k in loc_lower for k in ["indonesia", "jakarta"]):
+        clean_loc = "Indonesia"
+    elif any(k in loc_lower for k in ["germany", "berlin", "munich"]):
+        clean_loc = "Germany"
+    elif any(k in loc_lower for k in ["uk", "london", "united kingdom"]):
+        clean_loc = "London"
+    elif any(k in loc_lower for k in ["netherlands", "amsterdam"]):
+        clean_loc = "Netherlands"
     
     query_parts = [clean_company, "Product Manager"]
     if clean_loc:

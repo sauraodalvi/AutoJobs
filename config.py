@@ -23,7 +23,68 @@ CANDIDATE_PORTFOLIO = "https://sauraodalvi.netlify.app/"
 
 # Targeted Roles & Locations
 TARGET_ROLES = ["Product Manager", "Associate Product Manager", "APM", "AI Product Manager"]
-TARGET_LOCATIONS = ["Pune", "European Union", "EU", "Germany", "Netherlands", "Japan", "Singapore", "Indonesia", "Remote"]
+TARGET_LOCATIONS = ["Pune", "European Union", "EU", "Germany", "Netherlands", "United Kingdom", "UK", "Japan", "Singapore", "Indonesia", "Remote"]
+
+DISALLOWED_INDIAN_CITIES = [
+    "bengaluru", "bangalore", "mumbai", "navi mumbai", "delhi", "new delhi",
+    "bawana", "noida", "gurgaon", "gurugram", "hyderabad", "chennai",
+    "kolkata", "ahmedabad", "jaipur", "chandigarh", "indore", "kochi",
+    "trivandrum", "coimbatore"
+]
+
+ALLOWED_LOCATION_KEYWORDS = [
+    "pune",
+    "remote", "worldwide", "anywhere", "global", "telecommute", "work from home",
+    # European Union / Europe
+    "european union", "eu", "europe", "germany", "berlin", "munich", "frankfurt",
+    "netherlands", "amsterdam", "united kingdom", "uk", "london", "ireland", "dublin",
+    "france", "paris", "spain", "madrid", "barcelona", "sweden", "stockholm",
+    "switzerland", "zurich", "geneva", "poland", "warsaw", "estonia", "tallinn",
+    "portugal", "lisbon", "austria", "vienna", "denmark", "copenhagen",
+    "finland", "helsinki", "norway", "oslo", "italy", "belgium", "brussels",
+    # Japan
+    "japan", "tokyo", "osaka", "kyoto",
+    # Singapore
+    "singapore",
+    # Indonesia
+    "indonesia", "jakarta", "bali", "surabaya", "bandung"
+]
+
+
+def is_target_location(location_str: str) -> bool:
+    """
+    Strict location validator.
+    Accepts: Pune, EU / Europe / UK, Japan, Singapore, Indonesia, and Remote.
+    Rejects: Other Indian cities (Bengaluru, Hyderabad, Kolkata, Delhi, Navi Mumbai, etc.) unless remote,
+             and non-remote US/other onsite locations.
+    """
+    if not location_str:
+        return True  # If unspecified, assume remote eligible
+
+    loc_lower = location_str.lower().strip()
+
+    # If it is explicitly Remote / Global / Worldwide -> ALWAYS ACCEPT
+    if any(r in loc_lower for r in ["remote", "worldwide", "anywhere", "global", "telecommute", "wfh", "work from home"]):
+        return True
+
+    # If it contains Pune -> ACCEPT
+    if "pune" in loc_lower:
+        return True
+
+    # If it contains any disallowed Indian cities without Pune/Remote -> REJECT
+    if any(city in loc_lower for city in DISALLOWED_INDIAN_CITIES):
+        return False
+
+    # Check against allowed international target regions (EU, Japan, Singapore, Indonesia)
+    if any(allowed in loc_lower for allowed in ALLOWED_LOCATION_KEYWORDS):
+        return True
+
+    # If generic "India" is specified without Pune/Remote -> Disallow to avoid non-Pune cities
+    if "india" in loc_lower and "pune" not in loc_lower:
+        return False
+
+    return False
+
 
 # Blacklisted Companies (Never apply or send outreach)
 BLACKLIST_COMPANIES = ["FlytBase", "Flytbase"]

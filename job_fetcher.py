@@ -329,11 +329,7 @@ def is_target_role_and_location(role: str, location: str) -> bool:
         "technical product manager", "senior product manager"
     ]
     role_match = any(target in role_lower for target in role_keywords)
-
-    loc_keywords = [loc.lower() for loc in config.TARGET_LOCATIONS] + [
-        "worldwide", "anywhere", "remote", "europe", "tokyo", "jakarta", "asia", "emea", "global", "india", "usa", "us", "americas"
-    ]
-    loc_match = not loc_lower or any(loc in loc_lower for loc in loc_keywords)
+    loc_match = config.is_target_location(location)
 
     return role_match and loc_match
 

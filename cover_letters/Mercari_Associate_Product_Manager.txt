@@ -5,22 +5,19 @@ Apply Link:
 Date Generated: 2026-08-26
 ============================================================
 
-# Cover Letter — Saurao Dalvi
+Dear Hiring Team at Mercari,
 
-**Mercari — Associate Product Manager | Tokyo, Japan / Remote**
+I am writing to express my strong interest in the Associate Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
----
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager, Associate Product Manager directly aligns with Mercari's technical and product ambitions.
 
-Dear Mercari Hiring Team,
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Mercari.
 
-Mercari's mission to build a global marketplace powered by trust, simplicity, and intelligent technology resonates deeply with my career as an AI Product Manager. Over the past 3+ years, I have operated as a forward-deployed AI Product Manager and AI Engineer, owning 0-to-1 product roadmaps, shipping customer-facing AI/automation products, and leading cross-functional teams across drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), and enterprise security SaaS (Sprinto). From framing the first PRD to defining GTM and iterating post-launch, I have consistently translated ambiguous customer pain into shipped, revenue-generating product. I am excited to bring that builder mentality to Mercari as an Associate Product Manager and contribute to crafting marketplace experiences that delight millions of users across Japan and beyond.
-
-As a Product Manager, I measure myself in shipped outcomes. I owned the 0-to-1 roadmap and launch of Prediq, an AI-native drone SaaS at FlytBase, scaling it to ~$6K MRR. At CrelioHealth, I owned the Smart Reports roadmap, lifting lab revenue by ~$2,000 MRR per lab, and built custom LLM prompt pipelines that cut patient registration time by ~58% and sample turnaround by 18%. Beyond these, I have built developer CLIs, automated complex cross-app workflows with Zapier, Make, and Python, and shipped AI-native products such as Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2. As an Associate Product Manager candidate, I bring a rare blend of deep technical fluency in LLMs and agentic systems paired with the customer-discovery, prioritization, and stakeholder-communication rigor expected of a top-tier product manager.
-
-I would welcome the opportunity to discuss how my experience shipping AI-native products at scale can accelerate Mercari's roadmap in C2C commerce, trust & safety, and intelligent seller tools. I am flexible on location — Tokyo, Japan-based, remote, or hybrid — and available for interviews at your convenience. Thank you for considering my application
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

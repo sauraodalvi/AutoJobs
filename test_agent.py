@@ -359,5 +359,28 @@ class TestReferralAgent(unittest.TestCase):
         self.assertIn("Simpplr", packet["peer_message"])
 
 
+    def test_location_filtering(self):
+        import config
+        # Allowed locations
+        self.assertTrue(config.is_target_location("Pune, Maharashtra, India"))
+        self.assertTrue(config.is_target_location("Pune, India"))
+        self.assertTrue(config.is_target_location("Remote (Worldwide)"))
+        self.assertTrue(config.is_target_location("Fully Remote USA"))
+        self.assertTrue(config.is_target_location("Berlin, Germany"))
+        self.assertTrue(config.is_target_location("London, United Kingdom"))
+        self.assertTrue(config.is_target_location("Tokyo, Japan"))
+        self.assertTrue(config.is_target_location("Singapore"))
+        self.assertTrue(config.is_target_location("Jakarta, Indonesia"))
+
+        # Disallowed non-Pune Indian cities & non-remote onsite locations
+        self.assertFalse(config.is_target_location("Kolkata, West Bengal, India"))
+        self.assertFalse(config.is_target_location("Hyderabad, Telangana, India"))
+        self.assertFalse(config.is_target_location("Bengaluru, Karnataka, India"))
+        self.assertFalse(config.is_target_location("Navi Mumbai, Maharashtra, India"))
+        self.assertFalse(config.is_target_location("Bawana, Delhi, India"))
+        self.assertFalse(config.is_target_location("Thane, Maharashtra, India"))
+        self.assertFalse(config.is_target_location("Wayne, PA, US"))
+
+
 if __name__ == "__main__":
     unittest.main()

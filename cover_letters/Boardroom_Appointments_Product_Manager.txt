@@ -5,14 +5,19 @@ Apply Link:
 Date Generated: 2026-08-26
 ============================================================
 
-I am an AI Product Manager with over three years of end‑to‑end experience delivering 0‑to‑1 technology solutions that power autonomous drones, healthcare SaaS, and enterprise security platforms, directly aligning with Boardroom Appointments’s vision of innovative, market‑defining products. My background combines deep technical expertise as a Forward‑Deployed Engineer with a proven track record of shaping product roadmaps, leading cross‑functional teams, and turning AI research into customer‑facing value. I am eager to bring this blend of strategic product leadership and hands‑on AI development to a remote Product Manager role where I can accelerate growth and impact.
+Dear Hiring Team at Boardroom Appointments,
 
-In my most recent positions, I owned the full product lifecycle for Prediq, an AI drone SaaS that grew to $6K MRR within months, and for Smart Reports at CrelioHealth, where I increased lab revenue by $2,000 MRR per lab while cutting patient registration time by 58% and sample turnaround by 18% through custom LLM‑powered prompt pipelines. I built internal developer CLIs and automated complex workflows using Python, Zapier, and Make, enabling rapid iteration and scaling of AI products such as Hidden Jobs (50K+ indexed ATS jobs) and Stare V2. These achievements demonstrate my ability to ship high‑impact AI products, drive measurable MRR growth, and optimize operational efficiency—core responsibilities of a Product Manager.
+I am writing to express my strong interest in the Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-I am excited about the opportunity to discuss how my results‑focused, AI‑centric product expertise can drive Boardroom Appointments’s next wave of growth. Let’s connect to explore how I can contribute to your product vision and deliver measurable success from day one.
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Boardroom Appointments's technical and product ambitions.
+
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Boardroom Appointments.
+
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

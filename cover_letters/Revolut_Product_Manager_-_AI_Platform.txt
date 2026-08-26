@@ -5,16 +5,19 @@ Apply Link:
 Date Generated: 2026-08-26
 ============================================================
 
-Dear Revolut Hiring Team,
+Dear Hiring Team at Revolut,
 
-As an AI Product Manager with over three years of hands-on experience shipping 0-to-1 products from ideation to market, I am excited to apply for the Product Manager – AI Platform role at Revolut. My track record of building AI-native products, scaling revenue streams, and leading cross-functional teams to deliver measurable customer outcomes directly aligns with Revolut's mission to build the world's most valuable financial services platform. I have developed a deep appreciation for shipping fast, iterating relentlessly, and obsessing over user experience—principles that define Revolut's product culture and the reason I am eager to contribute to your AI Platform team.
+I am writing to express my strong interest in the Product Manager - AI Platform position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-Throughout my career, I have owned end-to-end product roadmaps that generated tangible business impact: I launched Prediq, an AI drone SaaS at FlytBase, scaling it to approximately $6K MRR through customer discovery and rapid iteration. At CrelioHealth, I drove the Smart Reports roadmap, unlocking roughly $2,000 in additional MRR per lab by embedding intelligent automation into healthcare workflows. I reduced patient registration turnaround by 58% and sample processing time by 18% using custom LLM-powered prompt pipelines, demonstrating my ability to apply AI to solve high-stakes operational problems at scale. Additionally, I have built internal developer CLIs, automated complex cross-platform processes with Python and workflow tools, and shipped consumer-facing AI products indexing over 50,000 live job listings. These experiences have sharpened my skills in defining AI product strategy, translating technical capabilities into customer value, and collaborating closely with engineering and data science teams to deliver production-ready systems.
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Revolut's technical and product ambitions.
 
-I am genuinely energized by
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Revolut.
+
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

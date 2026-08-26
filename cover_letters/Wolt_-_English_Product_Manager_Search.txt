@@ -5,30 +5,19 @@ Apply Link: https://www.arbeitnow.com/jobs/companies/wolt-english/product-manage
 Date Generated: 2026-08-26
 ============================================================
 
-**[Saurao Dalvi]**
-[Pune, India | Open to Berlin, EU, Japan, Singapore, Indonesia, Remote]
-[sauraodalvi.netlify.app] | [linkedin.com/in/saurao-dalvi] | [email]
+Dear Hiring Team at Wolt - English,
 
----
+I am writing to express my strong interest in the Product Manager, Search position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-**Hiring Team**
-Wolt – English
-Berlin, Germany
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Wolt - English's technical and product ambitions.
 
----
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Wolt - English.
 
-**Re: Product Manager, Search – Wolt (English)**
-
-Dear Wolt Hiring Team,
-
-As a Product Manager with 3+ years of experience building, shipping, and scaling 0-to-1 AI-native products, I was excited to come across the Product Manager, Search role on the English team. Wolt's mission of delivering discovery and joy to millions of users across 25+ countries resonates deeply with my background of turning complex, ambiguous problem spaces into elegant, customer-facing product experiences. Whether launching Prediq from zero to ~$6K MRR at FlytBase or owning the Smart Reports roadmap at CrelioHealth, I've consistently operated as a Product Manager who pairs technical depth with sharp customer empathy — exactly the muscle Search demands when balancing relevance, discovery, and conversion across diverse markets and languages.
-
-In my current role as an AI Product Manager & Forward Deployed Engineer at FlytBase, I own the end-to-end roadmap for AI-powered drone autonomy SaaS, partnering daily with engineering, design, sales, and customers to ship LLM-powered workflows, agentic systems, and internal CLIs that compress time-to-value. At CrelioHealth, I owned the Smart Reports product line, growing it to ~$2,000 MRR per lab by translating messy diagnostic data into structured AI pipelines that cut patient registration time by 58% and sample turnaround by 18%. Earlier, I contributed to the Sprinto platform (a security compliance SaaS) and built two shipped side products — Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2 — alongside co-founding a Product Manager community with a Microsoft PM. Across all of it, the throughline is the same: a Product Manager who ships measurable outcomes, not just features.
-
-Wolt's Search surface is the highest-leverage product moment in the customer journey — it's where intent meets delight
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

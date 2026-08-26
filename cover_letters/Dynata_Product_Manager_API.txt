@@ -5,32 +5,19 @@ Apply Link:
 Date Generated: 2026-08-26
 ============================================================
 
-**Saurao Dalvi**
-sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi | Pune, India / Remote
+Dear Hiring Team at Dynata,
 
----
+I am writing to express my strong interest in the Product Manager, API position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-**Hiring Manager**
-Dynata
-[Company Address]
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Dynata's technical and product ambitions.
 
-**Re: Product Manager, API (Remote)**
-
----
-
-Dear Dynata Hiring Team,
-
-As an AI Product Manager and Forward Deployed Engineer with 3+ years of hands-on experience owning 0-to-1 product roadmaps, shipping customer-facing AI products, and turning complex technical capabilities into scalable SaaS revenue, I was immediately drawn to the Product Manager, API role at Dynata. At FlytBase, I owned the end-to-end lifecycle of Prediq, an AI-native drone SaaS platform—conducting customer discovery, defining the API surface, prioritizing the build, and scaling it to ~$6K MRR. I've built my career at the intersection of product strategy, applied AI, and developer-facing platforms, and I'm excited to bring that same ownership-driven, outcome-oriented approach to Dynata's first-party data and insights API ecosystem.
-
-Across FlytBase, CrelioHealth, and Sprinto, I've consistently delivered measurable Product Manager impact by pairing roadmap ownership with deep technical execution. At CrelioHealth, I owned the Smart Reports roadmap, driving ~$2,000 MRR per lab in incremental revenue while cutting patient registration time by ~58% and sample turnaround by 18% through custom LLM prompt pipelines. I've shipped internal developer CLIs, automated cross-app workflows with Zapier, Make, and Python, and built AI products like Hidden Jobs (50K+ indexed ATS listings) and agentic systems that turn raw data into actionable outcomes. My engineering background allows me to write the spec, debate API contracts with engineers, and ship the product—all while keeping the customer and the business model at the center.
-
-I would welcome the opportunity to discuss how my experience scaling API-driven and AI-native products can accelerate Dynata's product growth and platform strategy. I'm available for an interview at your convenience and would love to dive deeper into how I can contribute to your roadmap from day one. Thank you for considering my application—I look forward to your reply.
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Dynata.
 
 Sincerely,
-**Saurao Dal
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

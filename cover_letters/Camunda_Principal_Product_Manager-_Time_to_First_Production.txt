@@ -5,19 +5,19 @@ Apply Link: https://www.arbeitnow.com/jobs/companies/camunda/remote-principal-pr
 Date Generated: 2026-08-26
 ============================================================
 
+Dear Hiring Team at Camunda,
 
-**Subject:** Principal Product Manager, Time to First Production — Application
+I am writing to express my strong interest in the Principal Product Manager- Time to First Production position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-Dear Hiring Manager,
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Camunda's technical and product ambitions.
 
-I'm Saurao Dalvi, an AI Product Manager and forward-deployed engineer with over three years of experience building and shipping AI-native products from zero to launch at companies like FlytBase, CrelioHealth, and Sprinto. Camunda's mission to accelerate time to first production resonates deeply with my track record of compressing idea-to-outcome cycles — whether that's launching Prediq, an AI drone SaaS that scaled to ~$6K MRR, or rebuilding patient workflows that cut registration time by 58%. I'm drawn to this role because it sits at the intersection of developer tooling, process automation, and enterprise product strategy — areas where I've spent the last three years living and breathing as both a Product Manager and an AI engineer.
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Camunda.
 
-At FlytBase, I owned the end-to-end roadmap of Prediq — from initial concept and customer discovery through to launch and growth — treating the full product lifecycle as my direct responsibility. At CrelioHealth, I drove the roadmap for Smart Reports that increased lab revenue by ~$2,000 MRR per lab while building custom AI prompt pipelines that reduced sample turnaround by 18%. At Sprinto, I designed internal CLIs and automated cross-application workflows using Python, Zapier, and Make — directly improving internal deployment velocity. Across all three companies, the consistent thread is a Product Manager mindset obsessed with measuring what ships: MRR growth, user activation, and operational efficiency. I'm particularly energized by Camunda's challenge of accelerating time to first production because it demands both a deep empathy for developer workflows and the quantitative rigor to instrument, iterate, and prove impact — which is exactly where I operate best.
-
-I am genuinely excited about the opportunity to bring this 0-to-1 product experience, AI engineering background, and bias for action to Camunda's Principal Product Manager team. I'd love to discuss how I can help drive measurable improvements in time to first production and contribute to a product that developers and enterprises rely on globally. Thank you for your time and consideration —
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf
