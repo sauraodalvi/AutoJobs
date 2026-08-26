@@ -5,11 +5,15 @@ Apply Link: https://www.arbeitnow.com/jobs/companies/jobs-personio/remote-senior
 Date Generated: 2026-08-26
 ============================================================
 
-**Saurao Dalvi**
-sauraodalvi.netlify.app | +91 98765 43210
-[Date]
 
-Hiring Team
+
+**Subject: Application for Senior Product Manager - Platform Experiences**
+
+Dear Hiring Team,
+
+I am writing with great enthusiasm to apply for the Senior Product Manager - Platform Experiences role at Personio. With over three years of hands-on, 0-to-1 experience as an AI Product Manager, I have a proven track record of designing and launching intelligent, customer-centric solutions that drive significant business growth. My background in building AI-native products and developer tools aligns perfectly with Personio's vision of creating an intuitive and powerful platform that empowers HR teams across Europe and beyond.
+
+As a Product Manager, I specialize in bridging technical innovation with market needs. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS that grew to ~$6K MRR. My experience also includes spearheading AI-driven features like Smart Reports at CrelioHealth, which increased lab revenue by ~$2,000 MRR per lab, and developing custom AI prompt pipelines that reduced patient registration time by 58% and sample turnaround by 18%. Furthermore, my experience as a Forward Deployed Engineer has honed my ability to build practical LLM-powered workflows and
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
