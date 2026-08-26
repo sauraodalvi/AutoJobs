@@ -284,9 +284,9 @@ class TestReferralAgent(unittest.TestCase):
 
     def test_screener_engine(self):
         import screener_engine
-        self.assertIn("linkedin.com", screener_engine.answer_question("What is your LinkedIn profile?"))
-        self.assertIn("9876543210", screener_engine.answer_question("Please provide your phone number"))
-        self.assertEqual(screener_engine.answer_question("Are you legally authorized to work in India?"), "Yes")
+        self.assertIn("linkedin.com", screener_engine.answer_question("What is your LinkedIn URL?"))
+        self.assertIn("9172671040", screener_engine.answer_question("Please provide your phone number"))
+        self.assertEqual(screener_engine.answer_question("Are you willing to relocate?"), "Yes")
         self.assertIn("30", screener_engine.answer_question("What is your notice period?"))
         self.assertEqual(screener_engine.answer_question("How many years of PM experience do you have?"), "3+")
 
