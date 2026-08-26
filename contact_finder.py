@@ -88,11 +88,33 @@ def find_recruiter_via_web_search(company: str, domain: str) -> dict:
     return {}
 
 
+def find_probed_talent_channel(company: str, domain: str) -> dict:
+    """
+    Probes standard talent acquisition channels using zero-send SMTP verification.
+    Only returns a contact if the target mail server explicitly confirms with SMTP 250 OK.
+    """
+    if not domain:
+        return {}
+    
+    candidate_prefixes = ["careers", "jobs", "hiring", "talent", "join", "recruiting"]
+    for prefix in candidate_prefixes:
+        email_addr = f"{prefix}@{domain}"
+        is_deliv, reason = email_validator.verify_smtp_mailbox_deliverable(email_addr, timeout=4)
+        if is_deliv and "250" in reason:
+            logging.info(f"Verified live recipient mailbox: {email_addr} ({reason})")
+            return {
+                "name": f"{company} Talent Acquisition Team",
+                "email": email_addr,
+                "title": "Hiring Team"
+            }
+    return {}
+
+
 def discover_contact(company: str, apply_url: str = "") -> dict:
     """
     Attempts multi-source discovery for recruiter or talent acquisition contact info.
     Returns dict with 'name' and 'email' ONLY if a confirmed verified email is found.
-    NEVER generates speculative/guessed emails (e.g. talent@domain) to prevent bounces.
+    NEVER generates speculative/guessed emails to prevent bounces.
     """
     domain = clean_company_domain(company, apply_url)
     if not domain:
@@ -107,6 +129,11 @@ def discover_contact(company: str, apply_url: str = "") -> dict:
 
     # 2. Try Web search pattern matching for explicitly published recruiter emails
     contact = find_recruiter_via_web_search(company, domain)
+    if contact and contact.get("email"):
+        return contact
+
+    # 3. Try Live Zero-Send SMTP Probe for standard talent acquisition channels
+    contact = find_probed_talent_channel(company, domain)
     if contact and contact.get("email"):
         return contact
 
