@@ -5,16 +5,26 @@ Apply Link: https://www.linkedin.com/jobs/view/4457472852
 Date Generated: 2026-08-26
 ============================================================
 
-Dear Hiring Team at Thomson Reuters,
+[Your Name]
+[Your Address]
+[City, State, ZIP]
+[Email Address] | [Phone Number] | [LinkedIn Profile]
 
-I am writing to express my strong interest in the Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
+[Date]
 
-In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Thomson Reuters's technical and product ambitions.
+Hiring Manager
+Thomson Reuters
+[Company Address]
 
-I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Thomson Reuters.
+Re: Product Manager Position
 
-Sincerely,
-Saurao Dalvi
+Dear Hiring Manager,
+
+I am writing to express my interest in the Product Manager position at Thomson Reuters. As an AI Product Manager and Forward Deployed Engineer with over three years of experience building and scaling 0-to-1 products, I bring a unique blend of technical depth and product leadership that aligns directly with Thomson Reuters's commitment to delivering trusted, AI-powered solutions to professionals worldwide. From owning the roadmap of Prediq, an AI drone SaaS platform that scaled to $6K MRR, to driving the Smart Reports initiative at CrelioHealth, I have consistently operated at the intersection of customer insight, AI innovation, and business outcomes. I am excited about the opportunity to bring this builder's mindset to one of the world's most influential information services companies, particularly as Thomson Reuters continues to integrate generative AI and agentic systems into its product ecosystem.
+
+In my career, I have owned end-to-end Product Manager responsibilities across three high-growth SaaS environments—drone autonomy (FlytBase), healthcare diagnostics (CrelioHealth), and enterprise security compliance (Sprinto). At CrelioHealth, I led the Smart Reports roadmap, delivering a measurable $2,000 MRR uplift per lab while cutting patient registration time by 58% and sample turnaround by 18% through custom LLM-powered prompt pipelines. At FlytBase, I shipped Prediq from concept to commercial launch and built internal developer CLIs that automated complex cross-application workflows using Python, Zapier, and Make. Beyond my core work, I have independently built and launched AI-native products like Hidden Jobs (indexing 50K+ live ATS jobs) and Stare V2, and co-founded the Elite PM platform with a Microsoft Product Manager. These experiences have sharpened my ability to define product strategy, prioritize ruthlessly, and ship customer-facing AI features that move both adoption and revenue metrics.
+
+I would welcome the opportunity to discuss how my experience as a Product Manager—combining 0-to-1 product
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

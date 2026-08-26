@@ -5,21 +5,16 @@ Apply Link: https://www.linkedin.com/jobs/view/4446916541
 Date Generated: 2026-08-26
 ============================================================
 
-**Saurao Dalvi**
-Pune, India | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
+Dear Hiring Team at Blackbaud India,
 
----
+I am writing to express my strong interest in the Senior Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-**Re: Senior Product Manager — Blackbaud India**
-Hyderabad, Telangana, India
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Blackbaud India's technical and product ambitions.
 
----
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Blackbaud India.
 
-Dear Blackbaud India Hiring Team,
-
-I am writing to express my strong interest in the **Senior Product Manager** role at Blackbaud India. As an AI Product Manager and Forward Deployed Engineer with 3+ years of experience driving 0-to-1 product builds across drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), and enterprise security SaaS (Sprinto), I bring a rare blend of customer-facing AI delivery, roadmap ownership, and hands-on engineering depth. My track record of shipping AI-native products from concept to revenue—combined with cross-functional leadership across engineering, design, sales, and customers—aligns directly with Blackbaud's mission to build category-defining products for the social impact sector. I am excited by the opportunity to translate deep customer insight into product strategy that drives measurable outcomes for nonprofits, educators, and changemakers globally.
-
-In my current role at FlytBase, I owned the end-to-end 0-to-1 roadmap and launch of Prediq, an AI drone SaaS product that scaled to ~$6K MRR. At CrelioHealth, I owned the Smart Reports roadmap, generating ~$2,000 MRR per lab while reducing patient registration time by 58% and sample turnaround by 18% through custom LLM-powered prompt pipelines. Earlier, as a forward-deployed engineer at Sprinto, I built internal developer CLIs, automated complex cross-application workflows using Zapier, Make, and Python, and shipped security automation that unblocked enterprise customers. Beyond my core work, I have built and launched independent AI products—including Hidden Jobs (an ATS-powered job platform indexing 50K+ live jobs) and Stare V2—and co-founded the Elite PM community in partnership with a Microsoft Product Manager. These experiences have made me a **Product Manager** who is equally comfortable defining product strategy, writing PRDs, prototyping in code, and engaging directly with customers to validate problems and ship solutions that move
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

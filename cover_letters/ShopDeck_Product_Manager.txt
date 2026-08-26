@@ -5,11 +5,16 @@ Apply Link: https://www.linkedin.com/jobs/view/4458589856
 Date Generated: 2026-08-26
 ============================================================
 
-Dear Hiring Manager,
+Dear Hiring Team at ShopDeck,
 
-I am writing to express my strong interest in the Product Manager position at ShopDeck. As an AI Product Manager with over three years of experience leading 0-to-1 product development, building AI-native features, and scaling products from concept to revenue, I am drawn to ShopDeck's mission of redefining how brands and creators monetize social commerce. My track record of shipping high-impact products that directly drive MRR growth aligns closely with the velocity and ambition I see in ShopDeck's product roadmap, and I am eager to bring that same builder's mindset to your team in Bengaluru.
+I am writing to express my strong interest in the Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS platform that scaled to approximately $6K MRR, directly demonstrating my ability to identify market gaps and deliver monetizable AI solutions. At CrelioHealth, I owned the Smart Reports product roadmap, which increased lab revenue by roughly $2,000 MRR per lab through data-driven feature development. I also cut patient registration time by 
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with ShopDeck's technical and product ambitions.
+
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for ShopDeck.
+
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

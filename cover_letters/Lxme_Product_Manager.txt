@@ -5,16 +5,25 @@ Apply Link: https://www.linkedin.com/jobs/view/4456584160
 Date Generated: 2026-08-26
 ============================================================
 
-Dear Hiring Team at Lxme,
+**Saurao Dalvi**
+Pune, Maharashtra, India
+sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
 
-I am writing to express my strong interest in the Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
+---
 
-In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Lxme's technical and product ambitions.
+**Hiring Manager**
+Lxme
+Mumbai, Maharashtra, India
 
-I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Lxme.
+**Application for: Product Manager**
 
-Sincerely,
-Saurao Dalvi
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the **Product Manager** role at Lxme. As an AI Product Manager and Forward Deployed Engineer with 3+ years of experience owning 0-to-1 product roadmaps, shipping customer-facing AI products, and driving measurable revenue impact across SaaS and AI-native platforms, I am excited by the opportunity to contribute to Lxme's mission of empowering women through intelligent financial products. My background spans owning end-to-end product lifecycles at FlytBase (drone autonomy SaaS), CrelioHealth (healthcare SaaS), and Sprinto (enterprise security SaaS), where I have consistently translated customer pain points into shipped, monetized, AI-powered solutions that move core business metrics.
+
+In my current **Product Manager** role at FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS platform that scaled to ~$6K MRR, while partnering with engineering, design, and GTM to ship LLM-powered workflows and agentic systems used by enterprise customers globally. At CrelioHealth, I owned the Smart Reports roadmap and drove an ~$2,000 MRR uplift per lab, simultaneously cutting patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. Earlier, as a Product Manager at Sprinto, I shipped compliance automation features for fast-growing SaaS companies across the EU and US, building deep familiarity with regulated, multi-tenant product environments. Beyond my core role, I have independently built and launched AI products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2, and co-founded the Elite PM community in partnership with a Microsoft Product Manager, reflecting my conviction in product as a craft and a community.
+
+I am eager to bring this combination of AI product depth, 0-to-1 execution velocity, and
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

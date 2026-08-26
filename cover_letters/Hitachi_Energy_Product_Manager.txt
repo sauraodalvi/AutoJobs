@@ -5,25 +5,16 @@ Apply Link: https://www.linkedin.com/jobs/view/4430943165
 Date Generated: 2026-08-26
 ============================================================
 
-**[Your Name]**
-Pune, Maharashtra, India
-[Email] | [Phone] | linkedin.com/in/saurao-dalvi | sauraodalvi.netlify.app
-
----
-
-**Hiring Manager**
-Hitachi Energy
-Vadodara, Gujarat, India
-
-**Subject: Application for Product Manager — Hitachi Energy, Vadodara**
-
 Dear Hiring Team at Hitachi Energy,
 
-I am writing to express my strong interest in the **Product Manager** role at Hitachi Energy. As an AI Product Manager and Forward Deployed Engineer with 3+ years of hands-on experience shipping 0-to-1 products, owning roadmaps, and leading cross-functional teams across drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), and enterprise security SaaS (Sprinto), I am excited about the opportunity to bring customer-centric, AI-native product thinking to Hitachi Energy's mission of advancing a sustainable energy future. My track record of building AI-driven products from scratch, partnering deeply with engineering, design, and GTM, and translating complex customer pain points into scalable product solutions aligns directly with the impact a **Product Manager** at Hitachi Energy is expected to drive.
+I am writing to express my strong interest in the Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-In my current role at FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS platform, scaling it to ~$6K MRR through tight customer discovery and iterative product strategy. Previously at CrelioHealth, I led the Smart Reports roadmap—delivering an AI-powered reporting workflow that increased lab revenue by ~$2,000 MRR per lab while reducing patient registration time by ~58% and sample turnaround by 18% via custom LLM prompt pipelines. Beyond core **Product Manager** work, I have built internal developer CLIs, automated cross-app workflows with Zapier, Make, and Python, and shipped AI-native side products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2—giving me a rare hybrid of strategic **Product Manager** judgment and hands-on technical execution, including experience with agentic systems and LLM-powered workflows that can accelerate Hitachi Energy's digital and AI initiatives.
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Hitachi Energy's technical and product ambitions.
 
-I would welcome the chance to discuss how my experience scaling AI products,
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Hitachi Energy.
+
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

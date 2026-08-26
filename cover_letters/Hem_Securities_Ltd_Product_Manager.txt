@@ -5,18 +5,16 @@ Apply Link: https://www.linkedin.com/jobs/view/4458719038
 Date Generated: 2026-08-26
 ============================================================
 
+Dear Hiring Team at Hem Securities Ltd.,
 
+I am writing to express my strong interest in the Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-**Saurao Dalvi**
-📧 sauraodalvi12@gmail.com | 📱 +91-98765-XXXXX | 🔗 LinkedIn | 🌐 sauraodalvi.netlify.app
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Hem Securities Ltd.'s technical and product ambitions.
 
-**Cover Letter**
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Hem Securities Ltd..
 
-Hem Securities Ltd. represents a compelling opportunity to apply AI-native product thinking to one of India's most dynamic financial markets, and I am excited to bring my 3+ years of experience as an AI Product Manager to drive that vision forward. My track record of building products from the ground up—across drone autonomy, healthcare SaaS, and enterprise security—has given me a rare combination of technical depth and product instinct that maps directly to what a high-growth securities firm needs to scale. I have spent my career at the intersection of AI engineering and product strategy, and I am looking for exactly the kind of mission-driven product environment that Hem Securities Ltd. is building.
-
-At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS platform that scaled to approximately $6K MRR, giving me end-to-end ownership of product strategy, GTM execution, and iteration based on real customer feedback. At CrelioHealth, I led the Smart Reports roadmap—a Product Manager-driven initiative that increased lab revenue by roughly $2,000 MRR per lab—and built custom AI prompt pipelines that cut patient registration time by 58% and sample turnaround by 18%, directly demonstrating the kind of measurable, cross-functional product impact I am prepared to deliver. I have also built and shipped AI products at scale, including Hidden Jobs with over 50K live ATS jobs indexed, and developed internal developer CLIs and automated workflows using Python, Zapier, and Make that eliminated operational bottlenecks across teams. Each of these experiences sharpened my ability to act as both a Product Manager and a technical operator—identifying problems, shipping solutions fast, and measuring outcomes rigorously.
-
-I am genuinely energized by Hem Securities Ltd.'s position at the forefront of India's financial technology landscape, and I am confident that my background in shipping AI-powered products,
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

@@ -6,23 +6,20 @@ Date Generated: 2026-08-26
 ============================================================
 
 **Saurao Dalvi**
-Pune, India | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
+sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi | Pune, India
 
 ---
 
-**Hiring Manager**
-Fareportal
-Gurugram, Haryana, India
+Dear Fareportal Hiring Team,
 
-**Re: Product Manager (B2C)**
+I am writing to express my strong interest in the **Product Manager** role at Fareportal. As an AI Product Manager and Forward Deployed Engineer with 3+ years of hands-on experience owning 0-to-1 roadmaps, shipping customer-facing AI products, and driving measurable revenue growth at FlytBase, CrelioHealth, and Sprinto, I am confident I can contribute meaningfully to Fareportal's mission of delivering seamless, AI-enhanced travel experiences to millions of B2C customers worldwide. My track record of building AI-native products, LLM-powered workflows, and agentic systems from scratch aligns directly with the kind of consumer-facing innovation that defines Fareportal's competitive edge in online travel.
 
----
+At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI-driven drone SaaS product that scaled to ~$6K MRR, while also building internal developer CLIs and automating cross-app workflows. At CrelioHealth, I led the Smart Reports roadmap, generating ~$2,000 MRR per lab and cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. Across these roles and my tenure at Sprinto, I have consistently partnered with engineering, design, sales, and customer success to ship products that move the needle on both revenue and user experience. As a **Product Manager** who thrives at the intersection of AI, user empathy, and business outcomes, I bring a rare blend of technical depth and customer-centric product thinking that translates directly to fast-paced B2C environments like Fareportal.
 
-Dear Hiring Manager,
+I would welcome the opportunity to discuss how my experience scaling AI products, leading cross-functional teams, and building agentic automation can accelerate Fareportal's product growth across OTA, mobile, and personalization initiatives. I am available for an interview at your convenience and can be reached directly via LinkedIn or through my portfolio. Thank you for considering my application — I look forward to the possibility of contributing to Fareportal's next chapter of innovation.
 
-As an AI Product Manager with 3+ years of experience shipping 0-to-1 products and scaling B2B and B2C SaaS at FlytBase, CrelioHealth, and Sprinto, I am excited to apply for the Product Manager role at Fareportal. I have built my career at the intersection of customer obsession, rapid experimentation, and AI-native product thinking—owning end-to-end roadmaps, writing sharp PRDs, leading cross-functional squads of engineers, designers, and ML practitioners, and translating ambiguous customer pain into shipped features users love. I am particularly drawn to Fareportal's mission of making travel accessible to millions of global travelers, and I am confident my 0-to-1 builder mindset, consumer product instincts, and fluency in AI-driven personalization will help accelerate growth across your portfolio of travel brands.
+Warm regards,
 
-The impact I bring is concrete and measurable. At FlytBase, I owned the 0-to-1 product strategy and launch of Prediq, an AI-powered drone SaaS that grew to ~$6K MRR within months of release. At CrelioHealth, I owned the Smart Reports roadmap—a B2B2C feature that increased average lab revenue by ~$2,000 MRR per lab while cutting patient registration time by ~58% and sample turnaround by 18% through custom LLM prompt pipelines. Earlier at Sprinto, I shipped security and compliance automation workflows that simplified enterprise onboarding for hundreds of SaaS companies. Beyond my full-time work, I have built and launched consumer-grade AI products end-to-end—including Hidden Jobs (indexing 50K+ live ATS jobs) and Stare V2—and co-founded Elite PM, a product management community in partnership with a Microsoft Product Manager. As a Product Manager, I pair sharp quantitative rigor with deep qualitative customer insight, and I am comfortable owning the full lifecycle from discovery and PRD writing to launch analytics
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

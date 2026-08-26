@@ -5,11 +5,16 @@ Apply Link: https://www.arbeitnow.com/jobs/companies/jobs-personio/remote-senior
 Date Generated: 2026-08-26
 ============================================================
 
-Dear Hiring Manager,
+Dear Hiring Team at Personio,
 
-I am reaching out to apply for the Senior Product Manager – Platform Experiences role at Personio. As an AI Product Manager with over three years of experience building 0-to-1 products and scaling AI-native solutions at FlytBase, CrelioHealth, and Sprinto, I bring a proven track record of aligning product vision with customer impact—exactly the kind of cross-functional ownership Personio's platform team needs. I am drawn to Personio's mission to make HR processes effortless for small and medium-sized businesses across Europe, and I am eager to bring my expertise in roadmap ownership, LLM-powered automation, and developer tooling to drive meaningful product growth at scale.
+I am writing to express my strong interest in the Senior Product Manager - Platform Experiences position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-My work demonstrates what I can deliver as a Senior Product Manager: at FlytBase, I owned the full 0-to-1 roadmap and launch of Prediq, an AI drone SaaS that grew to approximately $6K MRR; at CrelioHealth, I built Smart Reports into the core product offering, generating an additional $2,000 MRR per lab; and across both environments, I designed AI prompt pipelines that cut patient registration time by 58% and sample turnaround by 18%. I have hands-on experience with agentic systems, LLM-powered workflows, and internal developer CLIs that accelerated cross-functional velocity. These results reflect my core strengths: data-driven decision-making, deep collaboration
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Personio's technical and product ambitions.
+
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Personio.
+
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
