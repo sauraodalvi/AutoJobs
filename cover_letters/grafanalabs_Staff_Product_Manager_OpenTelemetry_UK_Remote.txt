@@ -5,27 +5,19 @@ Apply Link: https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-product
 Date Generated: 2026-08-26
 ============================================================
 
-**[Saurao Dalvi]**
-[sauraodalvi.netlify.app] | [linkedin.com/in/saurao-dalvi] | [Email] | [Phone]
+Dear Hiring Team at grafanalabs,
 
-**Date:** [Insert Date]
+I am writing to express my strong interest in the Staff Product Manager, OpenTelemetry | UK | Remote position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-**Hiring Team**
-Grafana Labs
-United Kingdom (Remote)
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with grafanalabs's technical and product ambitions.
 
----
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for grafanalabs.
 
-**Re: Staff Product Manager, OpenTelemetry**
-
-Dear Grafana Labs Hiring Team,
-
-As an AI Product Manager and Forward Deployed Engineer with 3+ years of experience shipping 0-to-1 products at FlytBase, CrelioHealth, and Sprinto, I am excited to apply for the Staff Product Manager, OpenTelemetry role. Grafana Labs has redefined observability for the modern cloud-native stack, and OpenTelemetry sits at the heart of that mission—standardizing telemetry for engineers building the next generation of distributed systems. My background blends hands-on engineering depth with customer-facing Product Manager ownership: I have built LLM-powered workflows, agentic systems, and internal developer CLIs, while owning roadmaps, prioritizing ruthlessly, and turning ambiguous problem spaces into shipped SaaS revenue. I thrive at the intersection of open-source ecosystems, developer experience, and AI-native product thinking—the exact intersection where OpenTelemetry operates.
-
-At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS product that grew to ~$6K MRR, and partnered directly with customers to translate field feedback into shipped autonomy features. At CrelioHealth, I owned the Smart Reports roadmap—an AI-driven reporting product that increased lab revenue by ~$2,000 MRR per lab, cut patient registration time by ~58%, and reduced sample turnaround by 18% through custom AI prompt pipelines and automation. I have also built and launched my own AI products, including Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2, and co-founded the Elite PM platform in partnership with a Microsoft Product Manager. These experiences sharpened my ability to operate as a Product Manager who ships: defining strategy, writing tight specs, instrumenting adoption metrics, and partnering deeply with engineering on SDKs, APIs, and data pipelines—the core surface area of OpenTelemetry. My engineering toolkit—
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

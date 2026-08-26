@@ -195,7 +195,7 @@
     "contact_name": "Personio Talent Acquisition Team",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/jobs-personio/remote-senior-product-manager-platform-experiences-210636",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -239,6 +239,10 @@
       {
         "date": "2026-08-26",
         "action": "Sent initial pitch (Note on my Personio Senior Product Manager - Platform Experiences application) with attached resume to careers@personio.com."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Autonomous web application submitted on ARBEITNOW: Application successfully processed and submitted on ARBEITNOW (Match Score: 88%)"
       }
     ]
   },
@@ -874,7 +878,7 @@
     "contact_name": "Skyhigh Security Talent Acquisition Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4444507106",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -910,6 +914,10 @@
       {
         "date": "2026-08-26",
         "action": "Automated application & resume PDF submitted to careers@skyhighsecurity.com. Status set to APPLIED_EMAIL."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
   },
@@ -1274,7 +1282,7 @@
     "contact_name": "Thomson Reuters Talent Acquisition Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4457472852",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1310,6 +1318,10 @@
       {
         "date": "2026-08-26",
         "action": "Sent initial pitch (Note on my Thomson Reuters Product Manager application) with attached resume to careers@thomsonreuters.com."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
   },
@@ -1376,7 +1388,7 @@
     "contact_name": "Camunda Talent Acquisition Team",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-principal-product-manager-time-to-first-production-35436",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1400,6 +1412,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Camunda Talent Acquisition Team (careers@camunda.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Autonomous web application submitted on ARBEITNOW: Application successfully processed and submitted on ARBEITNOW (Match Score: 88%)"
       }
     ]
   },
@@ -1411,7 +1427,7 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/wolt-english/product-manager-search-berlin-128167",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1423,6 +1439,10 @@
       {
         "date": "2026-08-26",
         "action": "Generated tailored application kit & cover letter (Wolt_-_English_Product_Manager_Search.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Autonomous web application submitted on ARBEITNOW: Application successfully processed and submitted on ARBEITNOW (Match Score: 88%)"
       }
     ]
   },
@@ -1434,7 +1454,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/mozilla/senior-product-manager-mobile-345952",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1454,6 +1474,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
   },
@@ -1465,7 +1489,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-product-manager-opentelemetry-uk-remote-22840",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1485,6 +1509,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
   },
@@ -1496,7 +1524,7 @@
     "contact_name": "Medely Talent Acquisition Team",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/151761-senior-product-manager-3",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1516,6 +1544,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Medely Talent Acquisition Team (jobs@medely.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Autonomous web application submitted on JOBICY: Application successfully processed and submitted on JOBICY (Match Score: 88%)"
       }
     ]
   },
@@ -1558,7 +1590,7 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/product-manager-identity-for-ai-458709",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1570,6 +1602,10 @@
       {
         "date": "2026-08-26",
         "action": "Generated tailored application kit & cover letter (Pingidentity_Product_Manager_-_Identity_for_AI.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 98%)"
       }
     ]
   },
@@ -1581,7 +1617,7 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/emplifimonster/senior-product-manager-czech-republic-france-or-germany-425304",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1593,6 +1629,10 @@
       {
         "date": "2026-08-26",
         "action": "Generated tailored application kit & cover letter (Emplifimonster_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
   },
@@ -1604,7 +1644,7 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/koro-handels-gmbh/senior-product-manager-outbound-logistics-returns-berlin-472955",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1616,6 +1656,10 @@
       {
         "date": "2026-08-26",
         "action": "Generated tailored application kit & cover letter (KoRo_Handels_GmbH_Senior_Product_Manager_-_Outbound_Logistics_Returns_m_f_d.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Autonomous web application submitted on ARBEITNOW: Application successfully processed and submitted on ARBEITNOW (Match Score: 88%)"
       }
     ]
   }
