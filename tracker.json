@@ -7,8 +7,8 @@
     "contact_name": "Talent Acquisition Team",
     "contact_email": "talent@flytbase.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_EMAIL",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -27,6 +27,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@flytbase.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to talent@flytbase.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -38,8 +42,8 @@
     "contact_name": "Talent Acquisition Team",
     "contact_email": "talent@revolut.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_EMAIL",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -58,6 +62,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@revolut.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to talent@revolut.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -69,8 +77,8 @@
     "contact_name": "Talent Acquisition Team",
     "contact_email": "talent@mercari.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_EMAIL",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -89,6 +97,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@mercari.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to talent@mercari.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -100,8 +112,8 @@
     "contact_name": "Talent Acquisition Team",
     "contact_email": "talent@grab.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_EMAIL",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -120,6 +132,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@grab.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to talent@grab.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -131,8 +147,8 @@
     "contact_name": "Talent Acquisition Team",
     "contact_email": "talent@goto.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_EMAIL",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -151,6 +167,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@goto.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to talent@goto.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -162,7 +182,7 @@
     "contact_name": "Talent Acquisition Team",
     "contact_email": "talent@personio.com",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/jobs-personio/remote-senior-product-manager-platform-experiences-210636",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-23",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -182,6 +202,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@personio.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Personio Senior Product Manager - Platform Experiences application) with attached resume to talent@personio.com."
       }
     ]
   },
@@ -193,7 +217,7 @@
     "contact_name": "Talent Acquisition Team",
     "contact_email": "talent@mockingbird.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-23",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -209,6 +233,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@mockingbird.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Mockingbird Product Manager application) with attached resume to talent@mockingbird.com."
       }
     ]
   },
@@ -217,12 +245,12 @@
     "company": "Careerswift",
     "role": "PRODUCT MANAGER",
     "location": "Remote",
-    "contact_name": "Hiring Manager",
-    "contact_email": "",
+    "contact_name": "Talent Acquisition Team",
+    "contact_email": "talent@careerswift.com",
     "apply_url": "",
-    "status": "JOB_LINK_SAVED",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-23",
+    "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
       {
@@ -232,6 +260,14 @@
       {
         "date": "2026-08-23",
         "action": "Auto-discovered recruiter contact Talent Acquisition Team (recruiter@careerswift.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@careerswift.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Careerswift PRODUCT MANAGER application) with attached resume to talent@careerswift.com."
       }
     ]
   },
@@ -243,7 +279,7 @@
     "contact_name": "Talent Acquisition Team",
     "contact_email": "talent@producthackers.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-23",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -259,6 +295,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@producthackers.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Product Hackers Product Manager [Espana] application) with attached resume to talent@producthackers.com."
       }
     ]
   },
@@ -270,7 +310,7 @@
     "contact_name": "Talent Acquisition Team",
     "contact_email": "talent@forbes.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-23",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -286,6 +326,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@forbes.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Forbes Product Manager application) with attached resume to talent@forbes.com."
       }
     ]
   },
@@ -1675,10 +1719,10 @@
     "company": "Camunda",
     "role": "Principal Product Manager- Time to First Production",
     "location": "Remote",
-    "contact_name": "Talent Acquisition",
-    "contact_email": "",
+    "contact_name": "Talent Acquisition Team",
+    "contact_email": "talent@camunda.com",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-principal-product-manager-time-to-first-production-35436",
-    "status": "JOB_LINK_SAVED",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1686,6 +1730,10 @@
       {
         "date": "2026-08-26",
         "action": "Lead added for Principal Product Manager- Time to First Production at Camunda (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@camunda.com). Promoted to PENDING_OUTREACH."
       }
     ]
   },
@@ -1717,10 +1765,10 @@
     "company": "mozilla",
     "role": "Senior Product Manager, Mobile",
     "location": "",
-    "contact_name": "Talent Acquisition",
-    "contact_email": "",
+    "contact_name": "Talent Acquisition Team",
+    "contact_email": "talent@arbeitnow.co.uk",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/mozilla/senior-product-manager-mobile-345952",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1732,6 +1780,10 @@
       {
         "date": "2026-08-26",
         "action": "Generated tailored application kit & cover letter (mozilla_Senior_Product_Manager_Mobile.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@arbeitnow.co.uk). Promoted to PENDING_OUTREACH."
       }
     ]
   },
@@ -1740,10 +1792,10 @@
     "company": "grafanalabs",
     "role": "Staff Product Manager, OpenTelemetry | UK | Remote",
     "location": "",
-    "contact_name": "Talent Acquisition",
-    "contact_email": "",
+    "contact_name": "Talent Acquisition Team",
+    "contact_email": "talent@arbeitnow.co.uk",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-product-manager-opentelemetry-uk-remote-22840",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1755,6 +1807,109 @@
       {
         "date": "2026-08-26",
         "action": "Generated tailored application kit & cover letter (grafanalabs_Staff_Product_Manager_OpenTelemetry_UK_Remote.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Talent Acquisition Team (talent@arbeitnow.co.uk). Promoted to PENDING_OUTREACH."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f5b36ad3",
+    "company": "Medely",
+    "role": "Senior Product Manager",
+    "location": "USA (Remote)",
+    "contact_name": "Talent Acquisition Team",
+    "contact_email": "talent@medely.com",
+    "apply_url": "https://jobicy.com/jobs/151761-senior-product-manager-3",
+    "status": "PENDING_OUTREACH",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-26",
+        "action": "Lead added for Senior Product Manager at Medely (USA (Remote)). Initial status: PENDING_OUTREACH."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6d404229",
+    "company": "ixigo",
+    "role": "Product Manager",
+    "location": "Gurugram, Haryana, India",
+    "contact_name": "Talent Acquisition Team",
+    "contact_email": "talent@ixigo.com",
+    "apply_url": "https://www.linkedin.com/jobs/view/4459117559",
+    "status": "PENDING_OUTREACH",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-26",
+        "action": "Lead added for Product Manager at ixigo (Gurugram, Haryana, India). Initial status: PENDING_OUTREACH."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8a396a14",
+    "company": "Blackbaud India",
+    "role": "Product Manager, Senior - JustGiving",
+    "location": "Hyderabad, Telangana, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4439854560",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-26",
+        "action": "Lead added for Product Manager, Senior - JustGiving at Blackbaud India (Hyderabad, Telangana, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Generated tailored application kit & cover letter (Blackbaud_India_Product_Manager_Senior_-_JustGiving.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1cd6674b",
+    "company": "MakeMyTrip",
+    "role": "Product Manager (Hotels)",
+    "location": "Bangalore Urban, Karnataka, India",
+    "contact_name": "Talent Acquisition Team",
+    "contact_email": "talent@makemytrip.com",
+    "apply_url": "https://www.linkedin.com/jobs/view/4449484413",
+    "status": "PENDING_OUTREACH",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-26",
+        "action": "Lead added for Product Manager (Hotels) at MakeMyTrip (Bangalore Urban, Karnataka, India). Initial status: PENDING_OUTREACH."
+      }
+    ]
+  },
+  {
+    "job_id": "job_30acd2e6",
+    "company": "Hero FinCorp",
+    "role": "Product Manager",
+    "location": "Gurugram, Haryana, India",
+    "contact_name": "Talent Acquisition Team",
+    "contact_email": "talent@herofincorp.com",
+    "apply_url": "https://www.linkedin.com/jobs/view/4459143733",
+    "status": "PENDING_OUTREACH",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-26",
+        "action": "Lead added for Product Manager at Hero FinCorp (Gurugram, Haryana, India). Initial status: PENDING_OUTREACH."
       }
     ]
   }
