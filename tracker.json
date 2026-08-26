@@ -902,8 +902,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4457370990",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -926,6 +926,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 98%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -937,8 +941,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4456491446",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -961,6 +965,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -972,9 +980,9 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4455615924",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-25",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
       {
@@ -988,6 +996,10 @@
       {
         "date": "2026-08-25",
         "action": "Generated tailored application kit & cover letter (JiBe_ERP_Product_Manager.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -999,8 +1011,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4444590351",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1023,6 +1035,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -1034,8 +1050,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4444507106",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1058,6 +1074,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },

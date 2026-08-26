@@ -5,22 +5,19 @@ Apply Link: https://www.linkedin.com/jobs/view/4457370990
 Date Generated: 2026-08-26
 ============================================================
 
-**Saurao Dalvi**  
-sauraodalvi@gmail.com | +91 86230 86230 | https://saurao-dalvi.github.io/ | https://www.linkedin.com/in/saurao-dalvi/  
+Dear Hiring Team at Simpplr,
 
-Dear Hiring Manager,
+I am writing to express my strong interest in the Senior Product Manager - AI Products position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-As an AI Product Manager with 3+ years of experience building and scaling AI-native products from concept to commercial success, I’m excited to apply for the Senior Product Manager – AI Products role at Simpplr. My background spans drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), and enterprise security SaaS (Sprinto), where I’ve consistently delivered customer-facing AI solutions that drive measurable business impact.
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Simpplr's technical and product ambitions.
 
-In my current role as AI Product Manager & Forward Deployed Engineer at FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS platform that grew to ~$6K MRR, and spearheaded the Smart Reports initiative at CrelioHealth, increasing lab revenue by ~$2,000 MRR per lab. I’ve built and launched AI products like Hidden Jobs (indexing 50K+ live ATS jobs) and Stare V2, engineered custom LLM-powered workflows that cut patient registration time by ~58% and sample turnaround by 18%, and automated cross-app processes using Python, Zapier, and Make. As a Product Manager, I’ve led cross-functional teams to ship developer CLIs and agentic systems while co-founding Elite PM, a platform for product professionals.
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Simpplr.
 
-I’m eager to bring this hands-on, metrics-driven approach to Simpplr and help shape the future of AI-powered employee experience. Let’s connect to discuss how I can contribute to driving product growth and innovation for your team.
-
-Best regards,  
+Sincerely,
 Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf
