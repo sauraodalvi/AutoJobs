@@ -81,11 +81,11 @@ def run_comprehensive_test():
     logging.info("\n--- [TEST 4/7] Testing Tailored Cover Letter Generation ---")
     sample_job = {
         "job_id": "test_e2e_01",
-        "company": "FlytBase",
+        "company": "Revolut",
         "role": "AI Product Manager",
-        "location": "Pune, India",
-        "apply_url": "https://flytbase.com/careers/ai-pm",
-        "contact_email": "talent@flytbase.com",
+        "location": "Remote / EU",
+        "apply_url": "https://revolut.com/careers/ai-pm",
+        "contact_email": "talent@revolut.com",
         "status": "PENDING_OUTREACH"
     }
     kit_file = cover_letter_generator.generate_cover_letter_for_item(sample_job)
@@ -104,7 +104,7 @@ def run_comprehensive_test():
         target_body = kwargs.get("body") or (args[2] if len(args) > 2 else "")
         target_attach = kwargs.get("attach_resume") if "attach_resume" in kwargs else (args[4] if len(args) > 4 else True)
         
-        assert target_to == "talent@flytbase.com"
+        assert target_to == "talent@revolut.com"
         assert "Application: AI Product Manager" in target_sub
         assert "Saurao Dalvi" in target_body
         assert target_attach is True

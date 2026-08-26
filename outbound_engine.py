@@ -145,7 +145,11 @@ def execute_daily_sequence():
         followup_count = item.get("followup_count", 0)
         outreach_style = item.get("outreach_style", "recruiter")
 
-        # Safety Skip: Stopped, bounced, saved, application ready, or missing email
+        # Safety Skip: Stopped, bounced, saved, application ready, blacklisted, or missing email
+        blacklist = getattr(config, "BLACKLIST_COMPANIES", [])
+        if any(b.lower() in company.lower() for b in blacklist):
+            continue
+
         if status in ["REPLIED_STOPPED", "EMAIL_BOUNCED", "JOB_LINK_SAVED", "APPLICATION_READY"] or not contact_email:
             continue
 

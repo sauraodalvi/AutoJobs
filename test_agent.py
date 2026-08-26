@@ -313,6 +313,29 @@ class TestReferralAgent(unittest.TestCase):
         self.assertTrue(success)
         self.assertIn("LEVER", msg)
 
+    def test_blacklist_companies(self):
+        self.assertIn("FlytBase", config.BLACKLIST_COMPANIES)
+        initial_data = [
+            {
+                "job_id": "test_bl_01",
+                "company": "FlytBase",
+                "role": "AI Product Manager",
+                "contact_email": "talent@flytbase.com",
+                "status": "PENDING_OUTREACH",
+                "date_applied": "2026-08-26",
+                "last_action_date": "2026-08-26",
+                "followup_count": 0,
+                "history": []
+            }
+        ]
+        with open(self.test_tracker, "w", encoding="utf-8") as f:
+            json.dump(initial_data, f)
+
+        applied = auto_applier.apply_to_pending_jobs(max_applications=5)
+        self.assertEqual(applied, 0)
+        data = auto_applier.load_tracker()
+        self.assertEqual(data[0]["status"], "PENDING_OUTREACH")
+
 
 if __name__ == "__main__":
     unittest.main()

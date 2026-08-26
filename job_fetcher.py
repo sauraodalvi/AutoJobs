@@ -355,7 +355,7 @@ def sync_target_jobs(new_jobs_list=None):
     # High-quality sample initial targets matching Pune, EU, Japan, Singapore, Indonesia & Remote
     sample_jobs = [
         {
-            "company": "FlytBase",
+            "company": "Icertis",
             "role": "AI Product Manager",
             "location": "Pune, India",
             "contact_name": "Recruiting Manager",
@@ -400,11 +400,21 @@ def sync_target_jobs(new_jobs_list=None):
 
     added_count = 0
 
+    blacklist = getattr(config, "BLACKLIST_COMPANIES", [])
+
     for job in jobs_to_process:
         company_clean = clean_job_text(job.get("company", ""))
         # Clean company name artifacts if present
         company_clean = re.sub(r"^(jobs\s*-\s*|careers\s*-\s*)", "", company_clean, flags=re.IGNORECASE)
         role_clean = clean_job_text(job.get("role", ""))
+
+        if not company_clean or not role_clean:
+            continue
+
+        # Skip blacklisted companies
+        if any(b.lower() in company_clean.lower() for b in blacklist):
+            logging.info(f"Skipping {role_clean} at {company_clean} (Company is blacklisted).")
+            continue
 
         key = f"{company_clean.lower()}_{role_clean.lower()}"
         if key not in existing_keys:

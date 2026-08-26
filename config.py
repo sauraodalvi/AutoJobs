@@ -25,6 +25,9 @@ CANDIDATE_PORTFOLIO = "https://sauraodalvi.netlify.app/"
 TARGET_ROLES = ["Product Manager", "Associate Product Manager", "APM", "AI Product Manager"]
 TARGET_LOCATIONS = ["Pune", "European Union", "EU", "Germany", "Netherlands", "Japan", "Singapore", "Indonesia", "Remote"]
 
+# Blacklisted Companies (Never apply or send outreach)
+BLACKLIST_COMPANIES = ["FlytBase", "Flytbase"]
+
 # API Keys & Auth Credentials
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")

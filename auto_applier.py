@@ -124,6 +124,8 @@ def apply_to_pending_jobs(max_applications: int = 5) -> int:
 
     logging.info("Starting Autonomous Dual-Action Job Application Processing Loop...")
 
+    blacklist = getattr(config, "BLACKLIST_COMPANIES", [])
+
     for item in data:
         if applications_submitted >= max_applications:
             logging.info(f"Reached max batch application limit ({max_applications}). Pausing until next cycle.")
@@ -134,6 +136,11 @@ def apply_to_pending_jobs(max_applications: int = 5) -> int:
         apply_url = item.get("apply_url", "").strip()
         company = item.get("company", "Company")
         role = item.get("role", "Product Manager")
+
+        # Skip blacklisted companies
+        if any(b.lower() in company.lower() for b in blacklist):
+            logging.info(f"Skipping {role} at {company} (Company is blacklisted).")
+            continue
 
         # Route A: Direct Email Application for leads with verified email
         if status in ["PENDING_OUTREACH", "APPLICATION_READY", "JOB_LINK_SAVED"] and contact_email:
