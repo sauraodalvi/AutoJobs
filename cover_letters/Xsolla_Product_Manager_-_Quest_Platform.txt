@@ -5,7 +5,21 @@ Apply Link:
 Date Generated: 2026-08-26
 ============================================================
 
-User Safety: safe
+**Saurao Dalvi**
+Pune, India (Open to Remote)
+sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
+
+---
+
+**Subject: Application – Product Manager, Quest Platform**
+
+Dear Xsolla Hiring Team,
+
+I am writing to express my strong interest in the **Product Manager** role for the Quest Platform at Xsolla. As an AI Product Manager and Forward Deployed Engineer with 3+ years of experience driving 0-to-1 product development across drone autonomy, healthcare SaaS, and enterprise security, I thrive at the intersection of customer pain points, AI-native solutions, and scalable platform thinking. Xsolla's mission to empower creators and game studios through commerce, distribution, and engagement tooling deeply resonates with my builder mindset — having personally owned roadmaps, launched AI products from scratch, and translated complex technical capabilities into measurable customer outcomes. I am confident my hybrid background in product management and hands-on engineering will allow me to contribute meaningfully to the Quest Platform's evolution.
+
+At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI-driven drone SaaS product that scaled to approximately $6K MRR within its first months. At CrelioHealth, I led the Smart Reports roadmap, a feature that grew lab revenue by roughly $2,000 MRR per customer and reduced sample turnaround time by 18% through custom LLM prompt pipelines, while also cutting patient registration time by 58%. Earlier, at Sprinto, I partnered with engineering and security teams to ship enterprise compliance features in a fast-moving SaaS environment. Beyond my core **Product Manager** work, I have built developer CLIs, automated cross-app workflows using Python, Zapier, and Make, and shipped AI products such as Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2. These experiences have sharpened my ability to define product vision, prioritize ruthlessly, write tight PRDs, and ship outcomes — not just outputs.
+
+I would welcome the opportunity to discuss how my experience launching and scaling platform products can help Xsolla accelerate growth for the Quest Platform and the creators it serves. I am highly available for a
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

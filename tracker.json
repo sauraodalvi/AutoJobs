@@ -468,7 +468,7 @@
     "contact_name": "Customer.io Talent Acquisition Team",
     "contact_email": "careers@customerio.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
+    "status": "APPLIED_EMAIL",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -496,6 +496,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Customer.io Talent Acquisition Team (careers@customerio.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to careers@customerio.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -542,7 +546,7 @@
     "contact_name": "Xsolla Talent Acquisition Team",
     "contact_email": "careers@xsolla.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
+    "status": "APPLIED_EMAIL",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -570,6 +574,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Xsolla Talent Acquisition Team (careers@xsolla.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to careers@xsolla.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -581,8 +589,8 @@
     "contact_name": "LeafLink Talent Acquisition Team",
     "contact_email": "careers@leaflink.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_EMAIL",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -609,6 +617,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact LeafLink Talent Acquisition Team (careers@leaflink.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to careers@leaflink.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -620,8 +632,8 @@
     "contact_name": "Huzzle Talent Acquisition Team",
     "contact_email": "careers@huzzle.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_EMAIL",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -648,6 +660,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Huzzle Talent Acquisition Team (careers@huzzle.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to careers@huzzle.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -787,8 +803,8 @@
     "contact_name": "HireVue Inc Talent Acquisition Team",
     "contact_email": "jobs@hirevue.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_EMAIL",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -811,6 +827,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact HireVue Inc Talent Acquisition Team (jobs@hirevue.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to jobs@hirevue.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -923,7 +943,7 @@
     "contact_name": "Google Talent Acquisition Team",
     "contact_email": "careers@google.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4446789696",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -955,6 +975,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Google Talent Acquisition Team (careers@google.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Google Product Manager, User Voice AI and Agentic Experiences application) with attached resume to careers@google.com."
       }
     ]
   },
@@ -966,7 +990,7 @@
     "contact_name": "Simpplr Talent Acquisition Team",
     "contact_email": "careers@simpplr.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4457370990",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -998,6 +1022,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Simpplr Talent Acquisition Team (careers@simpplr.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Simpplr Senior Product Manager - AI Products application) with attached resume to careers@simpplr.com."
       }
     ]
   },
@@ -1009,7 +1037,7 @@
     "contact_name": "Forcepoint Talent Acquisition Team",
     "contact_email": "careers@forcepoint.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4456491446",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1041,6 +1069,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Forcepoint Talent Acquisition Team (careers@forcepoint.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Forcepoint Sr. Product Manager- Cloud DLP application) with attached resume to careers@forcepoint.com."
       }
     ]
   },
@@ -1083,7 +1115,7 @@
     "contact_name": "PhonePe Talent Acquisition Team",
     "contact_email": "careers@phonepe.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4444590351",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1115,6 +1147,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact PhonePe Talent Acquisition Team (careers@phonepe.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my PhonePe Product Manager application) with attached resume to careers@phonepe.com."
       }
     ]
   },
@@ -1165,7 +1201,7 @@
     "contact_name": "Contrails AI Talent Acquisition Team",
     "contact_email": "careers@contrailsai.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4455021182",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1197,6 +1233,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Contrails AI Talent Acquisition Team (careers@contrailsai.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Contrails AI Product Manager application) with attached resume to careers@contrailsai.com."
       }
     ]
   },
