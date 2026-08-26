@@ -1453,5 +1453,93 @@
       }
     ],
     "outreach_style": "referral"
+  },
+  {
+    "job_id": "job_0ef6be41",
+    "company": "Camunda",
+    "role": "Principal Product Manager- Time to First Production",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-principal-product-manager-time-to-first-production-35436",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-26",
+        "action": "Lead added for Principal Product Manager- Time to First Production at Camunda (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_955e8fd7",
+    "company": "Wolt - English",
+    "role": "Product Manager, Search",
+    "location": "Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/wolt-english/product-manager-search-berlin-128167",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-26",
+        "action": "Lead added for Product Manager, Search at Wolt - English (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Generated tailored application kit & cover letter (Wolt_-_English_Product_Manager_Search.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2a3a9413",
+    "company": "mozilla",
+    "role": "Senior Product Manager, Mobile",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/mozilla/senior-product-manager-mobile-345952",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-26",
+        "action": "Lead added for Senior Product Manager, Mobile at mozilla (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Generated tailored application kit & cover letter (mozilla_Senior_Product_Manager_Mobile.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_752ba9dd",
+    "company": "grafanalabs",
+    "role": "Staff Product Manager, OpenTelemetry | UK | Remote",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-product-manager-opentelemetry-uk-remote-22840",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-26",
+        "action": "Lead added for Staff Product Manager, OpenTelemetry | UK | Remote at grafanalabs (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Generated tailored application kit & cover letter (grafanalabs_Staff_Product_Manager_OpenTelemetry_UK_Remote.txt). Status updated to APPLICATION_READY."
+      }
+    ]
   }
 ]
