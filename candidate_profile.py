@@ -24,6 +24,8 @@ TARGET_LOCATIONS_STR = "Pune, European Union, Japan, Singapore, Indonesia, and R
 
 LINKEDIN_URL = "https://www.linkedin.com/in/saurao-dalvi/"
 PORTFOLIO_URL = "https://sauraodalvi.netlify.app/"
+PHONE = "+91 9172671040"
+EMAIL = "sauraodalvi97@gmail.com"
 
 
 def get_context_prompt() -> str:

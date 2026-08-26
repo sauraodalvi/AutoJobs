@@ -329,17 +329,43 @@ def send_daily_digest(recipient_email: str = None) -> bool:
     if application_ready_items:
         body_lines.extend([
             "=" * 60,
-            "🎯 TOP TARGET ROLES WITH PRE-BUILT COVER LETTERS",
+            "🎯 1-CLICK READY TARGETS & PRE-BUILT KITS",
             "=" * 60
         ])
-        for idx, job in enumerate(application_ready_items[:6], 1):
+        for idx, job in enumerate(application_ready_items[:5], 1):
             comp = job.get("company", "Company")
             role = job.get("role", "Product Manager")
             loc = job.get("location", "Remote")
             url = job.get("apply_url", "N/A")
             body_lines.append(f"{idx}. {role} at {comp} ({loc})")
-            body_lines.append(f"   👉 Apply Link: {url}")
-            body_lines.append(f"   📁 Cover Letter Kit: cover_letters/{comp}_{role}.txt")
+            body_lines.append(f"   👉 Direct Apply Link: {url}")
+            body_lines.append(f"   📁 Tailored Cover Letter: cover_letters/{comp}_{role}.txt")
+            body_lines.append("")
+
+    # High-Value Referral Targets
+    import referral_engine
+    top_referral_jobs = sorted(
+        data,
+        key=lambda j: referral_engine.calculate_referral_priority(j.get("role", ""), j.get("company", ""), j.get("location", ""), j.get("description", ""))[0],
+        reverse=True
+    )[:5]
+
+    if top_referral_jobs:
+        body_lines.extend([
+            "=" * 60,
+            "⭐ TOP REFERRAL TARGETS & 1-CLICK LINKEDIN DISCOVERY",
+            "=" * 60
+        ])
+        for idx, job in enumerate(top_referral_jobs, 1):
+            comp = job.get("company", "Company")
+            role = job.get("role", "Product Manager")
+            loc = job.get("location", "Remote")
+            stars, fit = referral_engine.calculate_referral_priority(role, comp, loc, job.get("description", ""))
+            li_search = referral_engine.generate_linkedin_search_url(comp, role, loc)
+            body_lines.append(f"{idx}. {'⭐' * stars} {role} at {comp}")
+            body_lines.append(f"   🔍 Find Referrers / Hiring Managers on LinkedIn:")
+            body_lines.append(f"      {li_search}")
+            body_lines.append(f"   📋 1-Click Referral Packet: referrals/{comp}_{role}.txt")
             body_lines.append("")
 
     body_lines.append("=" * 60)

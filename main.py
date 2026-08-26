@@ -7,6 +7,7 @@ import candidate_profile
 import job_fetcher
 import contact_finder
 import cover_letter_generator
+import referral_engine
 import auto_applier
 import inbox_monitor
 import outbound_engine
@@ -36,12 +37,13 @@ def main():
     except Exception as e:
         logging.error(f"Contact finder step encountered an error: {e}")
 
-    # Step 3: Pre-generate tailored application kits & cover letters for direct job links
-    logging.info("\n--- STEP 3: Synthesizing Tailored Application Kits & Cover Letters ---")
+    # Step 3: Pre-generate tailored application kits & referral dossiers
+    logging.info("\n--- STEP 3: Synthesizing Tailored Kits, Cover Letters & Referral Dossiers ---")
     try:
         cover_letter_generator.generate_kits_for_all_saved_leads(max_kits=5)
+        referral_engine.generate_all_referral_dossiers()
     except Exception as e:
-        logging.error(f"Cover letter generator step encountered an error: {e}")
+        logging.error(f"Cover letter and referral kit generator encountered an error: {e}")
 
     # Step 4: Run auto_applier to submit applications for leads with verified hiring endpoints
     logging.info("\n--- STEP 4: Running Autonomous Job Applier (Direct Email & Web Submissions) ---")

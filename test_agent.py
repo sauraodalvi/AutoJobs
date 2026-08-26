@@ -337,6 +337,27 @@ class TestReferralAgent(unittest.TestCase):
         data = auto_applier.load_tracker()
         self.assertEqual(data[0]["status"], "PENDING_OUTREACH")
 
+    def test_referral_engine(self):
+        import referral_engine
+        stars, fit_reason = referral_engine.calculate_referral_priority("AI Product Manager", "Simpplr", "Bengaluru", "Building LLM platform")
+        self.assertGreaterEqual(stars, 4)
+        self.assertIn("AI/LLM", fit_reason)
+
+        url = referral_engine.generate_linkedin_search_url("Google", "Product Manager", "Pune")
+        self.assertIn("linkedin.com", url)
+        self.assertIn("Google", url)
+
+        packet = referral_engine.generate_referral_packet({
+            "company": "Simpplr",
+            "role": "Senior Product Manager - AI Products",
+            "location": "Bengaluru",
+            "apply_url": "https://linkedin.com/jobs/view/123",
+            "description": "Looking for PM with LLM experience"
+        })
+        self.assertEqual(packet["company"], "Simpplr")
+        self.assertIn("Saurao Dalvi", packet["forwardable_blurb"])
+        self.assertIn("Simpplr", packet["peer_message"])
+
 
 if __name__ == "__main__":
     unittest.main()
