@@ -1,0 +1,23 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager at Thomson Reuters
+Apply Link: https://www.linkedin.com/jobs/view/4457472852
+Date Generated: 2026-08-26
+============================================================
+
+Dear Hiring Team,  
+
+I am a results‑driven Product Manager with over three years of hands‑on experience delivering AI‑first, 0‑to‑1 products that power autonomous drones, healthcare SaaS, and enterprise security platforms. At FlytBase, I defined and executed the product roadmap for Prediq, an AI drone SaaS that grew to $6 K MRR within its first year, directly aligning with Thomson Reuters’s mission to build innovative, data‑driven solutions. My background as a Forward‑Deployed Engineer and AI Product Manager has equipped me to translate complex technical requirements into market‑ready features, a capability I am eager to bring to Thomson Reuters’s global product portfolio.  
+
+In my most recent roles, I owned the end‑to‑end roadmap for Smart Reports at CrelioHealth, increasing lab revenue by $2 K MRR per lab while cutting patient registration time by 58 % and sample turnaround by 18 % through custom AI prompt pipelines and LLM‑powered workflows. At Sprinto, I launched enterprise security automation tools that reduced manual processes by 50 % and enabled cross‑app orchestration via internal CLIs, Zapier, Make, and Python scripts. These initiatives demonstrate my ability to ship high‑impact, AI‑native products, scale MRR, and drive measurable customer value—core responsibilities of a Product Manager.  
+
+I am excited about the opportunity to discuss how my proven track record of building and scaling AI products can accelerate growth for Thomson Reuters. Please let me know a convenient time for a conversation, and I will be ready to share how my strategic vision and execution experience can contribute to your product success.  
+
+Sincerely,  
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

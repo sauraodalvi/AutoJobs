@@ -1,0 +1,27 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager at Hem Securities Ltd.
+Apply Link: https://www.linkedin.com/jobs/view/4458719038
+Date Generated: 2026-08-26
+============================================================
+
+**[Hiring Manager's Name]**
+Hiring Team
+Hem Securities Ltd.
+Jaipur, Rajasthan, India
+
+**Subject: Application for Product Manager — Hem Securities Ltd.**
+
+Dear Hiring Team,
+
+I am writing to express my strong interest in the **Product Manager** role at Hem Securities Ltd. As an AI Product Manager and Forward Deployed Engineer with 3+ years of experience owning 0-to-1 roadmaps and shipping customer-facing AI/automation products at FlytBase, CrelioHealth, and Sprinto, I am excited by the opportunity to drive product-led growth within India's dynamic broking and fintech landscape. Hem Securities' commitment to empowering traders and investors with technology-first solutions aligns directly with my passion for building intelligent, scalable products that solve real user problems — from drone autonomy platforms to healthcare SaaS and enterprise compliance systems.
+
+In my current role as **Product Manager** at FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI-native drone SaaS product, growing it to approximately $6K MRR from scratch. Previously, as the **Product Manager** for Smart Reports at CrelioHealth, I drove a feature that increased lab revenue by ~$2,000 MRR per lab while reducing patient registration time by 58% and sample turnaround by 18% through custom LLM prompt pipelines. Across Sprinto and FlytBase, I have built internal developer CLIs, automated cross-app workflows using Zapier, Make, and Python, and shipped AI-native products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2. I also co-founded Elite PM in partnership with a Microsoft **Product Manager**, deepening my craft in product strategy, user discovery, and execution. My engineering background enables me to prototype rapidly, partner deeply with data and engineering teams, and translate AI capabilities (LLMs, agentic workflows, automation) into measurable product outcomes.
+
+I would welcome the opportunity to discuss how my 0-to-1 building experience, AI fluency, and proven track record of shipping revenue-impacting products can accelerate Hem Securities' product roadmap and trader experience. I am based in India and available for an interview at your earliest convenience. Thank you for considering my
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

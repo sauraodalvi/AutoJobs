@@ -1569,8 +1569,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4456584160",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-25",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1589,6 +1589,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -1600,8 +1604,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4458719038",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-25",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1620,6 +1624,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -1631,9 +1639,9 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4456915164",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-25",
-    "last_action_date": "2026-08-25",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
       {
@@ -1643,6 +1651,10 @@
       {
         "date": "2026-08-25",
         "action": "Generated tailored application kit & cover letter (CaratLane_-_A_TATA_Product_Product_Manager.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -1654,8 +1666,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4458589856",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-25",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1674,6 +1686,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -1685,8 +1701,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4457472852",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-25",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1705,6 +1721,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
