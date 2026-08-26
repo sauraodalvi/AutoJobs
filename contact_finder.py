@@ -132,11 +132,6 @@ def discover_contact(company: str, apply_url: str = "") -> dict:
     if contact and contact.get("email"):
         return contact
 
-    # 3. Try Live Zero-Send SMTP Probe for standard talent acquisition channels
-    contact = find_probed_talent_channel(company, domain)
-    if contact and contact.get("email"):
-        return contact
-
     return {}
 
 
