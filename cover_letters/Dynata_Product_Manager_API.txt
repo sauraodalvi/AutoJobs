@@ -5,11 +5,29 @@ Apply Link:
 Date Generated: 2026-08-26
 ============================================================
 
-Dear Hiring Team,
+**Saurao Dalvi**
+sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi | Pune, India / Remote
 
-I am reaching out to express my strong interest in the Product Manager, API role at Dynata. As an AI Product Manager with over three years of experience owning end-to-end product roadmaps — from ideation through launch and growth — I am drawn to Dynata's mission to transform how the world makes decisions with data at scale. My background in building AI-native products, developer-facing tooling, and LLM-powered workflows positions me to contribute meaningfully to Dynata's API product strategy from day one.
+---
 
-Throughout my career, I have consistently operated as a Product Manager driving measurable impact across SaaS and AI domains. At FlytBase, I led the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS platform that grew to approximately $6K MRR, directly informing enterprise product decisions through customer discovery and data-driven iteration. At CrelioHealth, I owned the Smart Reports roadmap, delivering a product that increased lab revenue by roughly $2,000 MRR per lab while cutting patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. At Sprinto, I built internal developer CLIs and automated cross-application workflows using Python, Zapier, and Make — experiences that sharpened my ability to translate complex technical requirements into scalable, user-facing API products.
+**Hiring Manager**
+Dynata
+[Company Address]
+
+**Re: Product Manager, API (Remote)**
+
+---
+
+Dear Dynata Hiring Team,
+
+As an AI Product Manager and Forward Deployed Engineer with 3+ years of hands-on experience owning 0-to-1 product roadmaps, shipping customer-facing AI products, and turning complex technical capabilities into scalable SaaS revenue, I was immediately drawn to the Product Manager, API role at Dynata. At FlytBase, I owned the end-to-end lifecycle of Prediq, an AI-native drone SaaS platform—conducting customer discovery, defining the API surface, prioritizing the build, and scaling it to ~$6K MRR. I've built my career at the intersection of product strategy, applied AI, and developer-facing platforms, and I'm excited to bring that same ownership-driven, outcome-oriented approach to Dynata's first-party data and insights API ecosystem.
+
+Across FlytBase, CrelioHealth, and Sprinto, I've consistently delivered measurable Product Manager impact by pairing roadmap ownership with deep technical execution. At CrelioHealth, I owned the Smart Reports roadmap, driving ~$2,000 MRR per lab in incremental revenue while cutting patient registration time by ~58% and sample turnaround by 18% through custom LLM prompt pipelines. I've shipped internal developer CLIs, automated cross-app workflows with Zapier, Make, and Python, and built AI products like Hidden Jobs (50K+ indexed ATS listings) and agentic systems that turn raw data into actionable outcomes. My engineering background allows me to write the spec, debate API contracts with engineers, and ship the product—all while keeping the customer and the business model at the center.
+
+I would welcome the opportunity to discuss how my experience scaling API-driven and AI-native products can accelerate Dynata's product growth and platform strategy. I'm available for an interview at your convenience and would love to dive deeper into how I can contribute to your roadmap from day one. Thank you for considering my application—I look forward to your reply.
+
+Sincerely,
+**Saurao Dal
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

@@ -5,20 +5,16 @@ Apply Link:
 Date Generated: 2026-08-26
 ============================================================
 
-**Saurao Dalvi**
-sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
+Dear Hiring Team at LeafLink,
 
----
+I am writing to express my strong interest in the Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-**Re: Product Manager — LeafLink (Remote)**
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with LeafLink's technical and product ambitions.
 
-Dear LeafLink Hiring Team,
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for LeafLink.
 
-As a **Product Manager** with 3+ years of hands-on experience shipping 0-to-1 AI-native products, I am excited to apply for the Product Manager role at LeafLink. I thrive at the intersection of customer insight, technical execution, and measurable business outcomes, having led the roadmap and launch of Prediq (AI drone SaaS) at FlytBase to ~$6K MRR, owned the Smart Reports roadmap at CrelioHealth driving ~$2,000 MRR per lab, and contributed to enterprise security workflows at Sprinto. Building LeafLink's wholesale cannabis platform requires a Product Manager who can translate complex operator workflows into elegant, scalable product experiences, and I bring exactly that builder-first, metric-driven approach. My portfolio at sauraodalvi.netlify.app and background deploying AI in production environments position me to contribute meaningfully from day one.
-
-At FlytBase, I owned the end-to-end product lifecycle for an AI SaaS product, partnering with engineering, design, and sales to ship LLM-powered features that moved revenue. At CrelioHealth, I rebuilt the Smart Reports experience and deployed custom AI prompt pipelines that cut patient registration time by ~58% and reduced sample turnaround by 18%—directly improving lab P&L. At Sprinto, I worked within a fast-moving product team to streamline compliance workflows for B2B SaaS customers. Beyond these roles, I independently built and launched AI products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2, and co-founded Elite PM in partnership with a Microsoft Product Manager. These experiences sharpened my ability to operate as a Product Manager who ships, measures, and iterates rapidly across diverse domains including drone autonomy, healthcare SaaS, and enterprise security.
-
-LeafLink's mission to modernize the cannabis supply chain resonates deeply with my passion for building category-defining software in complex, regulated industries. I would welcome the opportunity to discuss how my experience scaling AI products, leading cross-functional teams, and driving
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

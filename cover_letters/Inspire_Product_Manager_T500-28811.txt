@@ -5,11 +5,14 @@ Apply Link: https://www.linkedin.com/jobs/view/4458161783
 Date Generated: 2026-08-26
 ============================================================
 
-Dear Hiring Manager,
 
-I am writing to express my strong interest in the Product Manager position at Inspire. As an AI Product Manager with over three years of experience leading 0-to-1 product development and cross-functional teams at companies like FlytBase, CrelioHealth, and Sprinto, I bring a proven track record of turning complex AI capabilities into scalable, revenue-generating products that customers depend on. My background in building LLM-powered workflows, developer CLIs, and agentic systems aligns directly with the innovative product vision driving Inspire forward, and I am eager to bring this energy to a team shaping the future of intelligent products.
+Dear Hiring Team at Inspire,
 
-Throughout my career, I have owned the full product lifecycle — from discovery and roadmap planning through to launch and growth. At FlytBase, I conceived, built, and scaled Prediq, an AI-powered drone SaaS platform, growing it to approximately $6,000 in monthly recurring revenue without a
+I am excited to apply for the Product Manager position at Inspire. With over three years of experience as an AI Product Manager and Forward Deployed Engineer, I have a proven track record of taking AI-native products from 0-to-1, scaling them into revenue-generating solutions, and leading cross-functional teams to ship customer-facing products that solve real problems at scale. My background across drone autonomy, healthcare SaaS, and enterprise security SaaS aligns directly with Inspire's mission to build products that people genuinely love, and I am eager to bring this hands-on, outcome-driven approach to your team.
+
+At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI-powered drone SaaS product that grew to approximately $6K MRR within its first phase, directly validating demand through customer discovery and rapid iteration. At CrelioHealth, I owned the Smart Reports roadmap — a product that increased lab revenue by roughly $2,000 MRR per lab — while also building custom AI prompt pipelines that cut patient registration time by 58% and sample turnaround time by 18%. At Sprinto, I designed and shipped developer CLIs and automated complex cross-application workflows using Python, Zapier, and Make, improving internal efficiency and reducing manual overhead across teams. Beyond these roles, I built and launched Stare V2 and Hidden Jobs (50,000+ live ATS jobs indexed), demonstrating a consistent ability to identify market gaps, define product requirements, and deliver shipped features that move key metrics. As a Product Manager, I operate at the intersection of customer insight, technical feasibility, and business growth — and I have the metrics to show it.
+
+I am genuinely energized by Inspire's product vision and would love the opportunity to discuss how I can contribute to driving product growth, accelerating roadmaps, and delivering impact from day one. Please feel free to reach out at your earliest convenience — I am available for a conversation at your convenience and can be reached via my portfolio at https://sauraodalvi.netlify.app/ or LinkedIn at https
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

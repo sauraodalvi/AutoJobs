@@ -202,7 +202,7 @@
     "history": [
       {
         "date": "2026-08-23",
-        "action": "Lead added for Senior Product Manager \u00e2\u20ac\u201d Platform Experiences at jobs - Personio (Remote (Deutschland)). Initial status: JOB_LINK_SAVED."
+        "action": "Lead added for Senior Product Manager â€” Platform Experiences at jobs - Personio (Remote (Deutschland)). Initial status: JOB_LINK_SAVED."
       },
       {
         "date": "2026-08-23",
@@ -327,7 +327,7 @@
     "history": [
       {
         "date": "2026-08-23",
-        "action": "Lead added for Product Manager [Espa\u00c3\u00b1a] at Product Hackers (Remote). Initial status: JOB_LINK_SAVED."
+        "action": "Lead added for Product Manager [EspaÃ±a] at Product Hackers (Remote). Initial status: JOB_LINK_SAVED."
       },
       {
         "date": "2026-08-23",
@@ -595,9 +595,9 @@
     "role": "Product Manager",
     "location": "Remote",
     "contact_name": "LeafLink Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@leaflink.com",
     "apply_url": "",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_EMAIL",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -621,6 +621,14 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact LeafLink Talent Acquisition Team (careers@leaflink.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to careers@leaflink.com. Status set to APPLIED_EMAIL."
       },
       {
         "date": "2026-08-26",
@@ -716,9 +724,9 @@
     "role": "Product Manager, API",
     "location": "Remote",
     "contact_name": "Dynata Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "jobs@dynata.com",
     "apply_url": "",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_EMAIL",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -742,6 +750,14 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Dynata Talent Acquisition Team (jobs@dynata.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to jobs@dynata.com. Status set to APPLIED_EMAIL."
       },
       {
         "date": "2026-08-26",
@@ -865,7 +881,7 @@
     "history": [
       {
         "date": "2026-08-23",
-        "action": "Lead added for Product Manager \u00e2\u20ac\u201c Smart Electricity Meters at GridCrest by Kaynes (Kolkata, West Bengal, India). Initial status: JOB_LINK_SAVED."
+        "action": "Lead added for Product Manager â€“ Smart Electricity Meters at GridCrest by Kaynes (Kolkata, West Bengal, India). Initial status: JOB_LINK_SAVED."
       },
       {
         "date": "2026-08-23",
@@ -873,7 +889,7 @@
       },
       {
         "date": "2026-08-25",
-        "action": "Generated tailored application kit & cover letter (GridCrest_by_Kaynes_Product_Manager_\u00e2_Smart_Electricity_Meters.txt). Status updated to APPLICATION_READY."
+        "action": "Generated tailored application kit & cover letter (GridCrest_by_Kaynes_Product_Manager_â_Smart_Electricity_Meters.txt). Status updated to APPLICATION_READY."
       },
       {
         "date": "2026-08-26",
@@ -1051,9 +1067,9 @@
     "role": "Sr. Product Manager- Cloud DLP",
     "location": "Thane, Maharashtra, India",
     "contact_name": "Forcepoint Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@forcepoint.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4456491446",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_EMAIL",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1093,6 +1109,14 @@
       {
         "date": "2026-08-26",
         "action": "Automated bounce detected for careers@forcepoint.com. Status set to EMAIL_BOUNCED."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Forcepoint Talent Acquisition Team (careers@forcepoint.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to careers@forcepoint.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -1227,9 +1251,9 @@
     "role": "Product Manager",
     "location": "Bengaluru, Karnataka, India",
     "contact_name": "Contrails AI Talent Acquisition Team",
-    "contact_email": "careers@contrailsai.com",
+    "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4455021182",
-    "status": "OUTREACH_SENT",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1298,7 +1322,7 @@
   {
     "job_id": "job_2f06dd77",
     "company": "Product Hackers",
-    "role": "Product Manager [Espa\u00f1a]",
+    "role": "Product Manager [España]",
     "location": "Remote",
     "contact_name": "Hiring Team",
     "contact_email": "",
@@ -1310,7 +1334,7 @@
     "history": [
       {
         "date": "2026-08-25",
-        "action": "Lead added for Product Manager [Espa\u00f1a] at Product Hackers (Remote). Initial status: JOB_LINK_SAVED."
+        "action": "Lead added for Product Manager [España] at Product Hackers (Remote). Initial status: JOB_LINK_SAVED."
       },
       {
         "date": "2026-08-26",
@@ -1520,7 +1544,7 @@
     "contact_name": "Motive Talent Acquisition Team",
     "contact_email": "careers@motive.com",
     "apply_url": "",
-    "status": "OUTREACH_SENT",
+    "status": "EMAIL_BOUNCED",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1544,6 +1568,10 @@
       {
         "date": "2026-08-26",
         "action": "Sent initial pitch (Note on my Motive Senior Product Manager, Fleet Management application) with attached resume to careers@motive.com."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated bounce detected for careers@motive.com. Status set to EMAIL_BOUNCED."
       }
     ]
   },
@@ -1623,9 +1651,9 @@
     "role": "Product Manager",
     "location": "Hyderabad, Telangana, India",
     "contact_name": "Deloitte Talent Acquisition Team",
-    "contact_email": "careers@deloitte.com",
+    "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4455888582",
-    "status": "OUTREACH_SENT",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1701,9 +1729,9 @@
     "role": "Product Manager [T500-28811]",
     "location": "Hyderabad, Telangana, India",
     "contact_name": "Inspire Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@inspire.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4458161783",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_EMAIL",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1731,6 +1759,14 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Inspire Talent Acquisition Team (careers@inspire.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Inspire Talent Acquisition Team (careers@inspire.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to careers@inspire.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -1740,9 +1776,9 @@
     "role": "Product Manager",
     "location": "Vadodara, Gujarat, India",
     "contact_name": "Hitachi Energy Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "hiring@hitachienergy.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4430943165",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_EMAIL",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1770,6 +1806,14 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Hitachi Energy Talent Acquisition Team (hiring@hitachienergy.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Hitachi Energy Talent Acquisition Team (hiring@hitachienergy.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to hiring@hitachienergy.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -1814,9 +1858,9 @@
     "role": "Product Manager",
     "location": "Jaipur, Rajasthan, India",
     "contact_name": "Hem Securities Ltd. Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@hemsecurities.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4458719038",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1840,6 +1884,10 @@
       {
         "date": "2026-08-26",
         "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Hem Securities Ltd. Talent Acquisition Team (careers@hemsecurities.com). Promoted to PENDING_OUTREACH."
       },
       {
         "date": "2026-08-26",
@@ -1880,9 +1928,9 @@
     "role": "Product Manager",
     "location": "Bengaluru, Karnataka, India",
     "contact_name": "ShopDeck Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@shopdeck.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4458589856",
-    "status": "APPLICATION_READY",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1910,6 +1958,14 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact ShopDeck Talent Acquisition Team (careers@shopdeck.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact ShopDeck Talent Acquisition Team (careers@shopdeck.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my ShopDeck Product Manager application) with attached resume to careers@shopdeck.com."
       }
     ]
   },
@@ -1919,9 +1975,9 @@
     "role": "Product Manager",
     "location": "Remote",
     "contact_name": "Thomson Reuters Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@thomsonreuters.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4457472852",
-    "status": "APPLICATION_READY",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1949,6 +2005,14 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Thomson Reuters Talent Acquisition Team (careers@thomsonreuters.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Thomson Reuters Talent Acquisition Team (careers@thomsonreuters.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Thomson Reuters Product Manager application) with attached resume to careers@thomsonreuters.com."
       }
     ]
   },
@@ -1958,9 +2022,9 @@
     "role": "Product Manager (B2C)",
     "location": "Gurugram, Haryana, India",
     "contact_name": "Fareportal Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@fareportal.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4456942746",
-    "status": "APPLICATION_READY",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1984,6 +2048,14 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Fareportal Talent Acquisition Team (careers@fareportal.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Fareportal Talent Acquisition Team (careers@fareportal.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Fareportal Product Manager (B2C) application) with attached resume to careers@fareportal.com."
       }
     ]
   },
@@ -1993,9 +2065,9 @@
     "role": "Senior Product Manager - Cisco Wireless",
     "location": "Bengaluru, Karnataka, India",
     "contact_name": "Cisco Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@cisco.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4448146910",
-    "status": "APPLICATION_READY",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2019,6 +2091,14 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Cisco Talent Acquisition Team (careers@cisco.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Cisco Talent Acquisition Team (careers@cisco.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Cisco Senior Product Manager - Cisco Wireless application) with attached resume to careers@cisco.com."
       }
     ]
   },
@@ -2028,9 +2108,9 @@
     "role": "APM/Product Manager",
     "location": "Gurugram, Haryana, India",
     "contact_name": "Ambak Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "jobs@ambak.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4458192528",
-    "status": "APPLICATION_READY",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2054,6 +2134,14 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Ambak Talent Acquisition Team (jobs@ambak.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Ambak Talent Acquisition Team (jobs@ambak.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Ambak APM/Product Manager application) with attached resume to jobs@ambak.com."
       }
     ]
   },
@@ -2063,9 +2151,9 @@
     "role": "Senior Product Manager",
     "location": "Bengaluru, Karnataka, India",
     "contact_name": "BlinkRx Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "jobs@blinkrx.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4456686604",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2089,6 +2177,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact BlinkRx Talent Acquisition Team (jobs@blinkrx.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact BlinkRx Talent Acquisition Team (jobs@blinkrx.com). Promoted to PENDING_OUTREACH."
       }
     ]
   },
@@ -2098,9 +2190,9 @@
     "role": "Senior Product Manager - AI",
     "location": "Bengaluru, Karnataka, India",
     "contact_name": "GE Vernova Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@gevernova.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4448336585",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2120,6 +2212,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact GE Vernova Talent Acquisition Team (careers@gevernova.com). Promoted to PENDING_OUTREACH."
       },
       {
         "date": "2026-08-26",
@@ -2195,9 +2291,9 @@
     "role": "Product Manager",
     "location": "Gurugram, Haryana, India",
     "contact_name": "TAAS Partners Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@taaspartners.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4457410953",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2217,6 +2313,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact TAAS Partners Talent Acquisition Team (careers@taaspartners.com). Promoted to PENDING_OUTREACH."
       },
       {
         "date": "2026-08-26",
@@ -2270,11 +2370,11 @@
       },
       {
         "date": "2026-08-25",
-        "action": "Sent initial pitch (Applying for Sr Product Manager at UKG \u2013 can you help with referral?) with attached resume to sauraodalvi97+referral@gmail.com."
+        "action": "Sent initial pitch (Applying for Sr Product Manager at UKG – can you help with referral?) with attached resume to sauraodalvi97+referral@gmail.com."
       },
       {
         "date": "2026-08-25",
-        "action": "Sent initial pitch (Applying for Sr Product Manager at UKG \u2013 can you help with referral?) with attached resume to sauraodalvi97+referral@gmail.com."
+        "action": "Sent initial pitch (Applying for Sr Product Manager at UKG – can you help with referral?) with attached resume to sauraodalvi97+referral@gmail.com."
       }
     ],
     "outreach_style": "referral"
@@ -2285,9 +2385,9 @@
     "role": "Principal Product Manager- Time to First Production",
     "location": "Remote",
     "contact_name": "Camunda Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@camunda.com",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-principal-product-manager-time-to-first-production-35436",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2303,6 +2403,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Camunda Talent Acquisition Team (careers@camunda.com). Promoted to PENDING_OUTREACH."
       },
       {
         "date": "2026-08-26",
@@ -2401,9 +2505,9 @@
     "role": "Senior Product Manager",
     "location": "USA (Remote)",
     "contact_name": "Medely Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "jobs@medely.com",
     "apply_url": "https://jobicy.com/jobs/151761-senior-product-manager-3",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2419,6 +2523,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Medely Talent Acquisition Team (jobs@medely.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Medely Talent Acquisition Team (jobs@medely.com). Promoted to PENDING_OUTREACH."
       }
     ]
   },
@@ -2428,9 +2536,9 @@
     "role": "Product Manager",
     "location": "Gurugram, Haryana, India",
     "contact_name": "ixigo Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@ixigo.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4459117559",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2442,6 +2550,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact ixigo Talent Acquisition Team (careers@ixigo.com). Promoted to PENDING_OUTREACH."
       },
       {
         "date": "2026-08-26",
@@ -2478,9 +2590,9 @@
     "role": "Product Manager (Hotels)",
     "location": "Bangalore Urban, Karnataka, India",
     "contact_name": "MakeMyTrip Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@makemytrip.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4449484413",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2496,6 +2608,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact MakeMyTrip Talent Acquisition Team (careers@makemytrip.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact MakeMyTrip Talent Acquisition Team (careers@makemytrip.com). Promoted to PENDING_OUTREACH."
       }
     ]
   },
@@ -2505,9 +2621,9 @@
     "role": "Product Manager",
     "location": "Gurugram, Haryana, India",
     "contact_name": "Hero FinCorp Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@herofincorp.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4459143733",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2523,6 +2639,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Hero FinCorp Talent Acquisition Team (careers@herofincorp.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Hero FinCorp Talent Acquisition Team (careers@herofincorp.com). Promoted to PENDING_OUTREACH."
       }
     ]
   },
@@ -2532,9 +2652,9 @@
     "role": "AI Product Manager",
     "location": "Pune, India",
     "contact_name": "Icertis Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@icertis.com",
     "apply_url": "",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2546,6 +2666,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Icertis Talent Acquisition Team (careers@icertis.com). Promoted to PENDING_OUTREACH."
       },
       {
         "date": "2026-08-26",
@@ -2582,9 +2706,9 @@
     "role": "Product Manager",
     "location": "Chennai, Tamil Nadu, India",
     "contact_name": "Animaker Inc. Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@animaker.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4457923311",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2600,6 +2724,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Animaker Inc. Talent Acquisition Team (careers@animaker.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Animaker Inc. Talent Acquisition Team (careers@animaker.com). Promoted to PENDING_OUTREACH."
       }
     ]
   },
@@ -2609,9 +2737,9 @@
     "role": "Product Manager(Forward Deployed)",
     "location": "Gurugram, Haryana, India",
     "contact_name": "Hero Vired Talent Acquisition Team",
-    "contact_email": "",
+    "contact_email": "careers@herovired.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4457210102",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2623,6 +2751,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Hero Vired Talent Acquisition Team (careers@herovired.com). Promoted to PENDING_OUTREACH."
       },
       {
         "date": "2026-08-26",
