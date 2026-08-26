@@ -5,13 +5,13 @@ Apply Link: https://www.linkedin.com/jobs/view/4446916541
 Date Generated: 2026-08-26
 ============================================================
 
-Dear Hiring Manager,
+Dear Hiring Team at Blackbaud India,
 
-I am writing to express my strong interest in the Senior Product Manager position at Blackbaud India. As an AI Product Manager with over 3 years of hands-on experience building and scaling innovative AI-native products from the ground up, I am excited about the opportunity to contribute to Blackbaud's mission of empowering social good organizations through technology. My background spans multiple SaaS domains including drone autonomy, healthcare, and enterprise security, where I have consistently demonstrated the ability to translate customer needs into actionable product roadmaps that drive measurable business impact.
+I am writing to express my strong interest in the Senior Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-Throughout my career as a Product Manager, I have successfully launched several 0-to-1 products that achieved significant market traction. At FlytBase, I owned the complete roadmap and launch of Prediq (AI drone SaaS), growing it to $6K MRR within the first year. Similarly, at CrelioHealth, I led the development of Smart Reports, which increased lab revenue by $2,000 MRR per lab while reducing patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. My expertise extends to building internal developer CLIs, automating complex workflows with Python and no-code tools, and creating LLM-powered solutions like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2. These accomplishments showcase my ability to leverage AI technologies to solve real business problems and create products that customers love.
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Blackbaud India's technical and product ambitions.
 
-I am particularly drawn to Blackbaud's commitment to social impact and would welcome the opportunity to discuss how my experience as a Product Manager can contribute to your organization's continued growth and innovation. I look forward to exploring how my skills in AI product development, cross-functional leadership, and customer-centric approach can drive success for Blackbaud India. Please feel free to contact me to schedule a conversation.
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Blackbaud India.
 
 Sincerely,
 Saurao Dalvi

@@ -395,10 +395,10 @@
     "company": "Nagarro",
     "role": "Product Manager",
     "location": "Remote",
-    "contact_name": "Hiring Team",
-    "contact_email": "",
+    "contact_name": "Nagarro Talent Acquisition Team",
+    "contact_email": "careers@nagarro.com",
     "apply_url": "",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_EMAIL",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -422,6 +422,14 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Nagarro Talent Acquisition Team (careers@nagarro.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to careers@nagarro.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -707,11 +715,11 @@
     "company": "Dynata",
     "role": "Product Manager, API",
     "location": "Remote",
-    "contact_name": "Hiring Team",
-    "contact_email": "",
+    "contact_name": "Dynata Talent Acquisition Team",
+    "contact_email": "jobs@dynata.com",
     "apply_url": "",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_EMAIL",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -734,6 +742,14 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Dynata Talent Acquisition Team (jobs@dynata.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to jobs@dynata.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -1037,7 +1053,7 @@
     "contact_name": "Forcepoint Talent Acquisition Team",
     "contact_email": "careers@forcepoint.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4456491446",
-    "status": "OUTREACH_SENT",
+    "status": "EMAIL_BOUNCED",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1073,6 +1089,10 @@
       {
         "date": "2026-08-26",
         "action": "Sent initial pitch (Note on my Forcepoint Sr. Product Manager- Cloud DLP application) with attached resume to careers@forcepoint.com."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated bounce detected for careers@forcepoint.com. Status set to EMAIL_BOUNCED."
       }
     ]
   },
@@ -1159,10 +1179,10 @@
     "company": "Skyhigh Security",
     "role": "Senior Product Manager",
     "location": "Remote",
-    "contact_name": "Hiring Team",
-    "contact_email": "",
+    "contact_name": "Skyhigh Security Talent Acquisition Team",
+    "contact_email": "careers@skyhighsecurity.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4444507106",
-    "status": "APPLICATION_READY",
+    "status": "APPLIED_EMAIL",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1190,6 +1210,14 @@
       {
         "date": "2026-08-26",
         "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Skyhigh Security Talent Acquisition Team (careers@skyhighsecurity.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to careers@skyhighsecurity.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -1306,8 +1334,8 @@
     "contact_name": "Remedy Product Studio Talent Acquisition Team",
     "contact_email": "careers@remedyproductstudio.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
-    "date_applied": "2026-08-25",
+    "status": "APPLIED_EMAIL",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1326,6 +1354,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Remedy Product Studio Talent Acquisition Team (careers@remedyproductstudio.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to careers@remedyproductstudio.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -1364,8 +1396,8 @@
     "contact_name": "Lifelancer Talent Acquisition Team",
     "contact_email": "careers@lifelancer.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
-    "date_applied": "2026-08-25",
+    "status": "APPLIED_EMAIL",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -1384,6 +1416,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Lifelancer Talent Acquisition Team (careers@lifelancer.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated application & resume PDF submitted to careers@lifelancer.com. Status set to APPLIED_EMAIL."
       }
     ]
   },
@@ -1449,7 +1485,7 @@
     "contact_name": "Jerry Talent Acquisition Team",
     "contact_email": "careers@jerry.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1469,6 +1505,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Jerry Talent Acquisition Team (careers@jerry.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Jerry Senior Product Manager, Emerging Products (0-1) application) with attached resume to careers@jerry.com."
       }
     ]
   },
@@ -1477,10 +1517,10 @@
     "company": "Motive",
     "role": "Senior Product Manager, Fleet Management",
     "location": "Remote",
-    "contact_name": "Hiring Team",
-    "contact_email": "",
+    "contact_name": "Motive Talent Acquisition Team",
+    "contact_email": "careers@motive.com",
     "apply_url": "",
-    "status": "APPLICATION_READY",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1496,6 +1536,14 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Motive Talent Acquisition Team (careers@motive.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Motive Senior Product Manager, Fleet Management application) with attached resume to careers@motive.com."
       }
     ]
   },
@@ -1507,7 +1555,7 @@
     "contact_name": "Klaxoon Talent Acquisition Team",
     "contact_email": "careers@klaxoon.com",
     "apply_url": "",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1527,6 +1575,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Klaxoon Talent Acquisition Team (careers@klaxoon.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Klaxoon Group Product Manager [Klaxoon] application) with attached resume to careers@klaxoon.com."
       }
     ]
   },
@@ -1535,10 +1587,10 @@
     "company": "DTN",
     "role": "Senior Product Manager, Intelligence Products",
     "location": "Remote",
-    "contact_name": "Hiring Team",
-    "contact_email": "",
+    "contact_name": "DTN Talent Acquisition Team",
+    "contact_email": "careers@dtn.com",
     "apply_url": "",
-    "status": "APPLICATION_READY",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1554,6 +1606,14 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact DTN Talent Acquisition Team (careers@dtn.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my DTN Senior Product Manager, Intelligence Products application) with attached resume to careers@dtn.com."
       }
     ]
   },
@@ -1565,7 +1625,7 @@
     "contact_name": "Deloitte Talent Acquisition Team",
     "contact_email": "careers@deloitte.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4455888582",
-    "status": "PENDING_OUTREACH",
+    "status": "OUTREACH_SENT",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1593,6 +1653,10 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Deloitte Talent Acquisition Team (careers@deloitte.com). Promoted to PENDING_OUTREACH."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Sent initial pitch (Note on my Deloitte Product Manager application) with attached resume to careers@deloitte.com."
       }
     ]
   },
@@ -1675,10 +1739,10 @@
     "company": "Hitachi Energy",
     "role": "Product Manager",
     "location": "Vadodara, Gujarat, India",
-    "contact_name": "Hiring Team",
-    "contact_email": "",
+    "contact_name": "Hitachi Energy Talent Acquisition Team",
+    "contact_email": "hiring@hitachienergy.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4430943165",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -1702,6 +1766,10 @@
       {
         "date": "2026-08-26",
         "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Hitachi Energy Talent Acquisition Team (hiring@hitachienergy.com). Promoted to PENDING_OUTREACH."
       }
     ]
   },
@@ -2029,10 +2097,10 @@
     "company": "GE Vernova",
     "role": "Senior Product Manager - AI",
     "location": "Bengaluru, Karnataka, India",
-    "contact_name": "Hiring Team",
-    "contact_email": "",
+    "contact_name": "GE Vernova Talent Acquisition Team",
+    "contact_email": "careers@gevernova.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4448336585",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2052,6 +2120,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact GE Vernova Talent Acquisition Team (careers@gevernova.com). Promoted to PENDING_OUTREACH."
       }
     ]
   },
@@ -2432,10 +2504,10 @@
     "company": "Hero FinCorp",
     "role": "Product Manager",
     "location": "Gurugram, Haryana, India",
-    "contact_name": "Hiring Team",
-    "contact_email": "",
+    "contact_name": "Hero FinCorp Talent Acquisition Team",
+    "contact_email": "careers@herofincorp.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4459143733",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2447,6 +2519,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Hero FinCorp Talent Acquisition Team (careers@herofincorp.com). Promoted to PENDING_OUTREACH."
       }
     ]
   },
@@ -2455,10 +2531,10 @@
     "company": "Icertis",
     "role": "AI Product Manager",
     "location": "Pune, India",
-    "contact_name": "Hiring Team",
-    "contact_email": "",
+    "contact_name": "Icertis Talent Acquisition Team",
+    "contact_email": "careers@icertis.com",
     "apply_url": "",
-    "status": "APPLICATION_READY",
+    "status": "PENDING_OUTREACH",
     "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
@@ -2470,6 +2546,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Discovered verified recruiter contact Icertis Talent Acquisition Team (careers@icertis.com). Promoted to PENDING_OUTREACH."
       }
     ]
   },

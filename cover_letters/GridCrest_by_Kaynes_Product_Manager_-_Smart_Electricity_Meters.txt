@@ -5,11 +5,26 @@ Apply Link: https://www.linkedin.com/jobs/view/4456086749
 Date Generated: 2026-08-26
 ============================================================
 
-Saurao Dalvi  
-Product Manager – Smart Electricity Meters  
-Kolkata, West Bengal, India  
+**[Saurao Dalvi]**
+Pune, Maharashtra, India | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
 
-I am an AI‑product leader with 3+ years of end‑to‑end Product Manager experience building and scaling
+15 January 2026
+
+**Hiring Manager**
+GridCrest by Kaynes
+Kolkata, West Bengal, India
+
+---
+
+**Re: Product Manager – Smart Electricity Meters**
+
+Dear Hiring Team at GridCrest by Kaynes,
+
+As an AI Product Manager with 3+ years of hands-on experience building 0-to-1 products at the intersection of hardware telemetry, SaaS, and intelligent automation, I am excited to apply for the Product Manager – Smart Electricity Meters role at GridCrest by Kaynes. At FlytBase, I owned the end-to-end roadmap for an AI drone SaaS platform, translating complex autonomy workflows into shipped features used by enterprise customers. At CrelioHealth and Sprinto, I partnered closely with engineering, design, sales, and customer success to ship AI-native workflows that directly moved revenue and operational KPIs. I am eager to bring that same product-led, customer-obsessed approach to GridCrest's mission of modernizing smart electricity metering across India and beyond.
+
+In my current role, I own the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS product that scaled to approximately $6K MRR within months of release. At CrelioHealth, I owned the Smart Reports roadmap, driving a ~$2,000 MRR uplift per lab, while reducing patient registration time by ~58% and sample turnaround by 18% through custom LLM prompt pipelines and agentic workflows. I have built internal developer CLIs, automated cross-app processes with Zapier, Make, and Python, and shipped AI-first products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2, demonstrating a strong bias for execution. As a Product Manager operating in AI-heavy, data-rich environments, I am comfortable translating technical depth, telemetry, and regulatory constraints into clear product strategy, prioritized backlogs, and measurable customer outcomes—exactly the muscle required for a connected-meter platform serving utilities, DISCOMs, and end consumers.
+
+GridCrest by Kaynes
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

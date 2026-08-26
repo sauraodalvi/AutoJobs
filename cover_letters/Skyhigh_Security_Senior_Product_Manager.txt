@@ -5,19 +5,23 @@ Apply Link: https://www.linkedin.com/jobs/view/4444507106
 Date Generated: 2026-08-26
 ============================================================
 
-Dear Hiring Team at Skyhigh Security,
+**Saurao Dalvi**
+Pune, India | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
 
-I am writing to express my strong interest in the Senior Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
+---
 
-In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Skyhigh Security's technical and product ambitions.
+**Re: Senior Product Manager — Skyhigh Security (Remote)**
 
-I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Skyhigh Security.
+Dear Skyhigh Security Hiring Team,
 
-Sincerely,
-Saurao Dalvi
+As a **Product Manager** with 3+ years of hands-on experience owning 0-to-1 product lifecycles across AI, SaaS, and security-adjacent platforms, I am excited to apply for the Senior Product Manager role at Skyhigh Security. My career has been defined by a builder's mindset: shipping AI-native products from blank canvas to scaled revenue, whether leading the launch of Prediq (AI drone SaaS) to ~$6K MRR at FlytBase, owning the Smart Reports roadmap at CrelioHealth, or contributing to enterprise security workflows at Sprinto. I thrive at the intersection of customer insight, technical depth, and cross-functional execution — exactly the muscle Skyhigh Security needs to advance its Security Service Edge vision in a market rapidly being reshaped by AI.
+
+My impact as a Product Manager is measurable and customer-validated. I cut patient registration time by ~58% and sample turnaround by 18% at CrelioHealth through custom LLM prompt pipelines, increasing lab revenue by ~$2,000 MRR per deployment. At FlytBase, I drove Prediq from concept to paying customers, while also building internal developer CLIs and automating complex cross-app workflows with Zapier, Make, and Python — directly accelerating the velocity of the engineering and GTM teams. Beyond my core roles, I independently shipped AI products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2, and co-founded Elite PM with a Microsoft Product Manager to mentor the next generation of product builders. These experiences have sharpened my ability to translate ambiguous enterprise security problems into shipped, revenue-generating product outcomes.
+
+I am eager to bring this 0-to-1 energy, AI fluency, and customer-obsessed execution to Skyhigh Security as your next Senior Product Manager. I would welcome the opportunity to discuss how my background in shipping AI-powered SaaS at scale can accelerate the roadmap, deepen customer trust, and
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

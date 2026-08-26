@@ -1,0 +1,18 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager, API at Dynata
+Apply Link: 
+Date Generated: 2026-08-26
+============================================================
+
+Dear Hiring Team,
+
+I am reaching out to express my strong interest in the Product Manager, API role at Dynata. As an AI Product Manager with over three years of experience owning end-to-end product roadmaps — from ideation through launch and growth — I am drawn to Dynata's mission to transform how the world makes decisions with data at scale. My background in building AI-native products, developer-facing tooling, and LLM-powered workflows positions me to contribute meaningfully to Dynata's API product strategy from day one.
+
+Throughout my career, I have consistently operated as a Product Manager driving measurable impact across SaaS and AI domains. At FlytBase, I led the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS platform that grew to approximately $6K MRR, directly informing enterprise product decisions through customer discovery and data-driven iteration. At CrelioHealth, I owned the Smart Reports roadmap, delivering a product that increased lab revenue by roughly $2,000 MRR per lab while cutting patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. At Sprinto, I built internal developer CLIs and automated cross-application workflows using Python, Zapier, and Make — experiences that sharpened my ability to translate complex technical requirements into scalable, user-facing API products.
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
