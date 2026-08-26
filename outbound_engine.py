@@ -153,19 +153,21 @@ def execute_daily_sequence():
         if status in ["REPLIED_STOPPED", "EMAIL_BOUNCED", "JOB_LINK_SAVED", "APPLICATION_READY"] or not contact_email:
             continue
 
-        # Extra Guard: Convert generic/invalid email targets to JOB_LINK_SAVED
+        # Extra Guard: Convert generic/invalid email targets to APPLICATION_READY
         is_valid_email, reason = email_validator.is_valid_recruiter_email(contact_email, verify_mx=True, allow_hiring_channels=True)
         if not is_valid_email:
-            logging.info(f"Skipping cold email to invalid/generic target '{contact_email}' for {role} at {company} ({reason}). Updating status to JOB_LINK_SAVED.")
-            item["status"] = "JOB_LINK_SAVED"
+            logging.info(f"Skipping cold email to invalid target '{contact_email}' for {role} at {company} ({reason}). Updating status to APPLICATION_READY.")
+            item["status"] = "APPLICATION_READY"
             item["contact_email"] = ""
-            item["last_action_date"] = today_str
-            item["history"].append({
-                "date": today_str,
-                "action": f"Invalid recipient email target ({reason}). Reset status to JOB_LINK_SAVED."
-            })
             changes_made = True
-            continue
+        if email_validator.is_hiring_channel_email(contact_email):
+            is_deliv, probe_reason = email_validator.verify_smtp_mailbox_deliverable(contact_email, timeout=4)
+            if not is_deliv or "250" not in probe_reason:
+                logging.info(f"Skipping cold email to unverified channel '{contact_email}' for {role} at {company} ({probe_reason}). Staging as APPLICATION_READY.")
+                item["status"] = "APPLICATION_READY"
+                item["contact_email"] = ""
+                changes_made = True
+                continue
 
         # Loop A: Pending Outreach
         if status == "PENDING_OUTREACH":

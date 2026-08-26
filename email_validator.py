@@ -236,9 +236,8 @@ def verify_smtp_mailbox_deliverable(email: str, timeout: int = 5) -> tuple[bool,
         elif code in [550, 551, 553, 554]:
             return False, f"Mailbox rejected (SMTP {code}: {msg_str[:60]})"
         else:
-            # 4xx or server policy - allow if MX is valid
-            return True, f"Mailbox accepted with status {code}"
+            return False, f"Mailbox unconfirmed (SMTP status {code})"
     except Exception as e:
-        # Fallback to DNS MX validation if port 25 is firewalled/restricted
-        return has_valid_mx_record(domain), f"DNS MX check fallback ({e})"
+        # If port 25 is firewalled/restricted, NEVER assume speculative emails are valid
+        return False, f"SMTP probe unavailable/unconfirmed ({e})"
 

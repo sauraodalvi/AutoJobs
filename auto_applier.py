@@ -47,6 +47,15 @@ def apply_via_email(job: dict) -> bool:
         logging.error(f"Cannot apply to {contact_email}: {reason}")
         return False
 
+    # For generic hiring channels (careers@, jobs@, etc.), enforce live 250 OK verification to prevent bounces
+    if email_validator.is_hiring_channel_email(contact_email):
+        is_deliv, probe_reason = email_validator.verify_smtp_mailbox_deliverable(contact_email, timeout=4)
+        if not is_deliv or "250" not in probe_reason:
+            logging.warning(f"Skipping email delivery to speculative channel <{contact_email}>: Remote mailbox not confirmed 250 ({probe_reason}). Staging lead as APPLICATION_READY.")
+            job["status"] = "APPLICATION_READY"
+            job["contact_email"] = ""
+            return False
+
     logging.info(f"🚀 Dispatching Autonomous Job Application for {role} at {company} to <{contact_email}>...")
 
     # Generate or load tailored cover letter
