@@ -40,6 +40,12 @@ VALID_HIRING_PREFIXES = {
 
 GENERIC_ROLE_PREFIXES = DEAD_OR_BOUNCE_PREFIXES
 
+# Permanently blacklisted email addresses confirmed bounced from Gmail delivery reports
+PERMANENTLY_BLACKLISTED_EMAILS = {
+    "hiring@hitachienergy.com",   # Microsoft 365 group - sender not allowed
+    "careers@motive.com",          # Confirmed delivery failure via messagelabs
+}
+
 # Regex for standard RFC 5322 email syntax
 EMAIL_REGEX = re.compile(
     r"^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)+$"
@@ -183,6 +189,10 @@ def is_valid_recruiter_email(email: str, verify_mx: bool = True, allow_hiring_ch
         return False, "Empty or non-string email"
 
     email = email.strip().lower()
+
+    # Check against permanently blacklisted emails (confirmed bounced from delivery reports)
+    if email in PERMANENTLY_BLACKLISTED_EMAILS:
+        return False, f"Permanently blacklisted email address (confirmed bounce): {email}"
 
     if not validate_email_syntax(email):
         return False, "Invalid email syntax"
