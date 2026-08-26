@@ -5,24 +5,16 @@ Apply Link: https://www.linkedin.com/jobs/view/4456873068
 Date Generated: 2026-08-26
 ============================================================
 
-**Saurao Dalvi**
-Pune, India | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
+Dear Hiring Team at Sarvam,
 
----
+I am writing to express my strong interest in the Product Manager - Chanakya position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-**Hiring Team**
-Sarvam AI
-Bawana, Delhi, India
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Sarvam's technical and product ambitions.
 
-**Subject: Application for Product Manager – Chanakya**
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Sarvam.
 
-Dear Hiring Team,
-
-As a Product Manager with 3+ years of hands-on experience building and shipping AI-native products from 0-to-1, I am excited to apply for the Product Manager – Chanakya role at Sarvam. Your mission to build India's foundational AI platform deeply resonates with my journey—owning the end-to-end roadmap and launch of Prediq (an AI drone SaaS now generating ~$6K MRR at FlytBase), shaping the Smart Reports roadmap at CrelioHealth, and building agentic LLM workflows that automate complex cross-application processes at Sprinto. I thrive at the intersection of frontier AI and customer pain, and I want to channel that energy into shipping product that matters for a billion users.
-
-In my current role as AI Product Manager & Forward Deployed Engineer at FlytBase, I have owned full product lifecycle responsibilities: customer discovery, PRDs, prioritization, sprint execution, and post-launch iteration—while staying deeply technical by building internal developer CLIs, prompt pipelines, and LLM-powered automation that cut patient registration time by ~58% and sample turnaround by 18% at CrelioHealth, and directly lifted lab revenue by ~$2,000 MRR per lab. Beyond my day job, I have independently shipped AI products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2, and co-founded Elite PM with a Microsoft Product Manager to mentor the next generation of product builders. This combination of Product Manager rigor and AI engineering depth is exactly the dual fluency required to build Chanakya into a category-defining product.
-
-I would welcome the opportunity to discuss how my experience shipping AI products at scale, leading cross-functional teams, and obsessing over customer outcomes can accelerate Sarvam's roadmap. I am available for a conversation at your convenience and would love to explore how I can contribute to your mission from the Bawana office
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

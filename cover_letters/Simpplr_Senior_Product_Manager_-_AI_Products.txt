@@ -5,14 +5,16 @@ Apply Link: https://www.linkedin.com/jobs/view/4457370990
 Date Generated: 2026-08-26
 ============================================================
 
-Saurao Dalvi  
-+91-XXXXXXXXXX | saurao.dalvi@email.com | https://sauraodalvi.netlify.app/ | https://www.linkedin.com/in/saurao-dalvi/  
+Dear Hiring Team at Simpplr,
 
-**Hiring Team, Simpplr**  
+I am writing to express my strong interest in the Senior Product Manager - AI Products position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am writing to express my strong interest in the Senior **Product Manager - AI Products** role at Simpplr. My experience defining roadmap strategy for LLM-native platforms—specifically launching Prediq (AI drone SaaS) to $6K MRR and architecting agentic workflows as a Forward Deployed Engineer at FlytBase—aligns directly with your mission to transform the employee experience through generative AI. I thrive in ambiguity, translating complex technical capabilities into intuitive, high-adoption products that drive measurable business outcomes.  
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Simpplr's technical and product ambitions.
 
-In my current role at FlytBase, I own the end-to-end lifecycle for AI products, collaborating with ML engineers and designers to ship LLM-powered developer CLIs and automated cross-app workflows using Python, Zapier, and Make. At CrelioHealth, I led the **Product Manager** roadmap for Smart Reports, increasing lab revenue by ~$2,000 MRR per lab while cutting patient registration time by 58% and sample turnaround by 18% via custom AI prompt pipelines. At Sprinto, I drove compliance automation features for a Series B security SaaS platform. This track record of scaling MRR, reducing operational latency by 18–58%, and delivering developer-facing AI tooling
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Simpplr.
+
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

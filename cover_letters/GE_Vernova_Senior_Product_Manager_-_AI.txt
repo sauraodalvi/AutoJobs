@@ -1,0 +1,25 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager - AI at GE Vernova
+Apply Link: https://www.linkedin.com/jobs/view/4448336585
+Date Generated: 2026-08-26
+============================================================
+
+**Saurao Dalvi**
+sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi | Pune, India
+
+**Re: Senior Product Manager – AI | GE Vernova | Bengaluru, India**
+
+---
+
+Dear GE Vernova Hiring Team,
+
+As an AI Product Manager with 3+ years of hands-on experience shipping 0-to-1 products across drone autonomy, healthcare SaaS, and enterprise security, I am thrilled to apply for the Senior Product Manager – AI role at GE Vernova. GE Vernova's mission to electrify and decarbonize the world through intelligent, AI-native energy systems resonates deeply with the product philosophy I have honed while building Prediq (AI drone SaaS reaching ~$6K MRR), leading the Smart Reports roadmap at CrelioHealth, and engineering agentic LLM workflows for enterprise customers. I bring a rare hybrid of product strategy and technical depth, having owned end-to-end product lifecycles, partnered directly with engineering on architecture decisions, and embedded with customers as a Forward Deployed Engineer at FlytBase. This combination of customer obsession, commercial accountability, and AI fluency is exactly the Product Manager profile needed to translate Vernova's grid software and electrification roadmap into market-defining AI products from Bengaluru.
+
+At FlytBase, I owned the 0-to-1 product roadmap and GTM motion for Prediq, an AI-native drone SaaS, growing it to ~$6K MRR while shipping computer vision and LLM-powered autonomy features to enterprise customers. At CrelioHealth, I led the Smart Reports roadmap, a product line that increased lab revenue by ~$2,000 MRR per lab, and engineered custom AI prompt pipelines that cut patient registration time by 58% and sample turnaround by 18%—directly tying Product Manager decisions to measurable operational and financial outcomes. At Sprinto, I partnered with security and compliance engineering to deliver AI-assisted audit workflows that accelerated SOC 2 evidence collection for hundreds of B2B SaaS customers. Beyond these roles, I have built and launched AI products from scratch, including Hidden Jobs (indexing 50K+ live ATS jobs) and Stare V2, co-founded
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

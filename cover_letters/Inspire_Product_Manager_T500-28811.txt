@@ -5,14 +5,27 @@ Apply Link: https://www.linkedin.com/jobs/view/4458161783
 Date Generated: 2026-08-26
 ============================================================
 
+**[Your Name]**
+Pune, Maharashtra, India | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
+
+Date: [Insert Date]
+
+Hiring Manager
+Inspire
+Hyderabad, Telangana, India
+
+**Re: Product Manager [T500-28811]**
 
 Dear Hiring Team at Inspire,
 
-I am excited to apply for the Product Manager position at Inspire. With over three years of experience as an AI Product Manager and Forward Deployed Engineer, I have a proven track record of taking AI-native products from 0-to-1, scaling them into revenue-generating solutions, and leading cross-functional teams to ship customer-facing products that solve real problems at scale. My background across drone autonomy, healthcare SaaS, and enterprise security SaaS aligns directly with Inspire's mission to build products that people genuinely love, and I am eager to bring this hands-on, outcome-driven approach to your team.
+I am writing to express my strong interest in the Product Manager role at Inspire. As an AI Product Manager and Forward Deployed AI Engineer with 3+ years of experience owning 0-to-1 product roadmaps, launching AI-native SaaS products, and leading cross-functional teams across FlytBase, CrelioHealth, and Sprinto, I am confident in my ability to drive meaningful product outcomes for Inspire. My track record of shipping customer-facing AI and automation solutions—from drone autonomy platforms to healthcare and enterprise security SaaS—aligns directly with the impact-driven Product Manager profile you are seeking.
 
-At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI-powered drone SaaS product that grew to approximately $6K MRR within its first phase, directly validating demand through customer discovery and rapid iteration. At CrelioHealth, I owned the Smart Reports roadmap — a product that increased lab revenue by roughly $2,000 MRR per lab — while also building custom AI prompt pipelines that cut patient registration time by 58% and sample turnaround time by 18%. At Sprinto, I designed and shipped developer CLIs and automated complex cross-application workflows using Python, Zapier, and Make, improving internal efficiency and reducing manual overhead across teams. Beyond these roles, I built and launched Stare V2 and Hidden Jobs (50,000+ live ATS jobs indexed), demonstrating a consistent ability to identify market gaps, define product requirements, and deliver shipped features that move key metrics. As a Product Manager, I operate at the intersection of customer insight, technical feasibility, and business growth — and I have the metrics to show it.
+At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS product, scaling it to approximately $6K MRR from scratch. At CrelioHealth, I led the Smart Reports roadmap, increasing lab revenue by ~$2,000 MRR per lab, and reduced patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. Beyond core Product Manager responsibilities, I built internal developer CLIs, automated cross-app workflows using Zapier, Make, and Python, and shipped independent AI products such as Hidden Jobs (indexing 50K+ live ATS jobs) and Stare V2. I also co-founded Elite PM in partnership with a Microsoft Product Manager, deepening my craft in product strategy, user research, and execution.
 
-I am genuinely energized by Inspire's product vision and would love the opportunity to discuss how I can contribute to driving product growth, accelerating roadmaps, and delivering impact from day one. Please feel free to reach out at your earliest convenience — I am available for a conversation at your convenience and can be reached via my portfolio at https://sauraodalvi.netlify.app/ or LinkedIn at https
+I am excited about the opportunity to bring this same 0-to-1 builder mindset, AI-fluency, and customer-obsessed Product Manager approach to Inspire. I would welcome the chance to discuss how my experience shipping AI-powered products, scaling revenue, and leading cross-functional teams can accelerate Inspire's product growth. Thank you for your time and consideration—I look forward to the opportunity to connect.
+
+Warm regards,
+**Saurao Dalvi**
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

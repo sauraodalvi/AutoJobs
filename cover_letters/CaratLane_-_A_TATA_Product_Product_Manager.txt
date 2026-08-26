@@ -5,11 +5,24 @@ Apply Link: https://www.linkedin.com/jobs/view/4456915164
 Date Generated: 2026-08-26
 ============================================================
 
-I am an AI Product Manager with over three years of hands‑on experience delivering 0‑to‑1 AI‑driven products, and I am excited to bring this track record to CaratLane – A TATA Product as a Product Manager in Mumbai. My proven ability to shape product vision, build roadmaps, and launch market‑leading solutions aligns directly with CaratLane’s ambition to innovate and scale within the TATA ecosystem.  
+**Saurao Dalvi**
+Pune, Maharashtra, India | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
 
-At FlytBase I owned the roadmap and launch of Prediq, an AI drone SaaS that grew to ~$6K MRR within six months, demonstrating my capacity as a Product Manager to create revenue from inception. At CrelioHealth I defined the Smart Reports roadmap, increasing lab revenue by ~$2,000 MRR per lab, and introduced AI prompt pipelines that cut patient registration time by 58% and sample turnaround by 18%, showcasing measurable impact for a Product Manager. At Sprinto, I built and launched enterprise security solutions, including Hidden Jobs (50K+ indexed ATS jobs) and Stare V2, while creating internal developer CLIs and cross‑app automation with Python, Zapier and Make, further evidencing my product‑led growth capabilities.  
+---
 
-I am eager to discuss how my proven ability to launch AI products, scale MRR, and accelerate customer outcomes can drive CaratLane’s next phase of growth. Please let me know a convenient time for a conversation.
+**Hiring Manager**
+CaratLane – A TATA Product
+Mumbai, Maharashtra, India
+
+**Subject: Application for the Role of Product Manager**
+
+Dear Hiring Team at CaratLane – A TATA Product,
+
+I am writing to express my strong interest in the **Product Manager** role at CaratLane – A TATA Product. As an AI Product Manager and Forward Deployed Engineer with 3+ years of experience owning 0-to-1 roadmaps, launching customer-facing AI-native products, and translating complex user problems into measurable business outcomes, I am excited by the opportunity to contribute to CaratLane's mission of redefining how India discovers and purchases fine jewellery. Having shipped products at FlytBase, CrelioHealth, and Sprinto, I bring a builder's mindset combined with the strategic discipline of a Product Manager who can balance customer empathy, commercial rigor, and AI-first execution — qualities I believe align directly with CaratLane's ambitious product vision within the TATA ecosystem.
+
+In my current role as a Product Manager & Forward Deployed Engineer at FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS platform that grew to ~$6K MRR within months of launch. At CrelioHealth, I led the roadmap for Smart Reports, driving ~$2,000 MRR uplift per lab while reducing patient registration time by ~58% and sample turnaround by 18% through custom LLM-powered prompt pipelines and intelligent workflow automation. I have also built internal developer CLIs, automated cross-application processes using Zapier, Make, and Python, and independently shipped AI products such as Hidden Jobs (indexing 50K+ live ATS jobs) and Stare V2. Each of these initiatives required a Product Manager to define the problem, prioritize ruthlessly, align cross-functional teams, and ship outcomes — not just features.
+
+I am eager to bring this same 0-to-1 ownership, AI-native product thinking, and customer-obsessed execution to CaratLane – A T
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

@@ -5,20 +5,18 @@ Apply Link: https://www.linkedin.com/jobs/view/4458719038
 Date Generated: 2026-08-26
 ============================================================
 
-**[Hiring Manager's Name]**
-Hiring Team
-Hem Securities Ltd.
-Jaipur, Rajasthan, India
 
-**Subject: Application for Product Manager — Hem Securities Ltd.**
 
-Dear Hiring Team,
+**Saurao Dalvi**
+📧 sauraodalvi12@gmail.com | 📱 +91-98765-XXXXX | 🔗 LinkedIn | 🌐 sauraodalvi.netlify.app
 
-I am writing to express my strong interest in the **Product Manager** role at Hem Securities Ltd. As an AI Product Manager and Forward Deployed Engineer with 3+ years of experience owning 0-to-1 roadmaps and shipping customer-facing AI/automation products at FlytBase, CrelioHealth, and Sprinto, I am excited by the opportunity to drive product-led growth within India's dynamic broking and fintech landscape. Hem Securities' commitment to empowering traders and investors with technology-first solutions aligns directly with my passion for building intelligent, scalable products that solve real user problems — from drone autonomy platforms to healthcare SaaS and enterprise compliance systems.
+**Cover Letter**
 
-In my current role as **Product Manager** at FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI-native drone SaaS product, growing it to approximately $6K MRR from scratch. Previously, as the **Product Manager** for Smart Reports at CrelioHealth, I drove a feature that increased lab revenue by ~$2,000 MRR per lab while reducing patient registration time by 58% and sample turnaround by 18% through custom LLM prompt pipelines. Across Sprinto and FlytBase, I have built internal developer CLIs, automated cross-app workflows using Zapier, Make, and Python, and shipped AI-native products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2. I also co-founded Elite PM in partnership with a Microsoft **Product Manager**, deepening my craft in product strategy, user discovery, and execution. My engineering background enables me to prototype rapidly, partner deeply with data and engineering teams, and translate AI capabilities (LLMs, agentic workflows, automation) into measurable product outcomes.
+Hem Securities Ltd. represents a compelling opportunity to apply AI-native product thinking to one of India's most dynamic financial markets, and I am excited to bring my 3+ years of experience as an AI Product Manager to drive that vision forward. My track record of building products from the ground up—across drone autonomy, healthcare SaaS, and enterprise security—has given me a rare combination of technical depth and product instinct that maps directly to what a high-growth securities firm needs to scale. I have spent my career at the intersection of AI engineering and product strategy, and I am looking for exactly the kind of mission-driven product environment that Hem Securities Ltd. is building.
 
-I would welcome the opportunity to discuss how my 0-to-1 building experience, AI fluency, and proven track record of shipping revenue-impacting products can accelerate Hem Securities' product roadmap and trader experience. I am based in India and available for an interview at your earliest convenience. Thank you for considering my
+At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS platform that scaled to approximately $6K MRR, giving me end-to-end ownership of product strategy, GTM execution, and iteration based on real customer feedback. At CrelioHealth, I led the Smart Reports roadmap—a Product Manager-driven initiative that increased lab revenue by roughly $2,000 MRR per lab—and built custom AI prompt pipelines that cut patient registration time by 58% and sample turnaround by 18%, directly demonstrating the kind of measurable, cross-functional product impact I am prepared to deliver. I have also built and shipped AI products at scale, including Hidden Jobs with over 50K live ATS jobs indexed, and developed internal developer CLIs and automated workflows using Python, Zapier, and Make that eliminated operational bottlenecks across teams. Each of these experiences sharpened my ability to act as both a Product Manager and a technical operator—identifying problems, shipping solutions fast, and measuring outcomes rigorously.
+
+I am genuinely energized by Hem Securities Ltd.'s position at the forefront of India's financial technology landscape, and I am confident that my background in shipping AI-powered products,
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

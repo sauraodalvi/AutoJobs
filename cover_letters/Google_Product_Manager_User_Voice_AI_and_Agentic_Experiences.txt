@@ -5,26 +5,13 @@ Apply Link: https://www.linkedin.com/jobs/view/4446789696
 Date Generated: 2026-08-26
 ============================================================
 
+Dear Google Hiring Team,
 
+I am writing to express my strong interest in the Product Manager, User Voice AI and Agentic Experiences role at Google. As an AI Product Manager and Forward Deployed Engineer with 3+ years of hands-on experience driving 0-to-1 product builds, shaping roadmaps, and leading cross-functional teams, I have consistently delivered customer-facing AI and automation solutions that move metrics. From owning the launch of Prediq, an AI-native drone SaaS that scaled to ~$6K MRR at FlytBase, to building agentic LLM workflows, developer CLIs, and AI-powered products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2, I thrive at the intersection of product strategy, applied AI, and user-centric design. My track record of co-founding the Elite PM platform in partnership with a Microsoft Product Manager further reflects my deep commitment to product craft and the broader PM community.
 
-[Your Name]
-[Your Address]
-[Your Phone Number]
-[Your Email]
-[Your LinkedIn URL]
-[Your Portfolio URL]
+In my Product Manager roles at FlytBase, CrelioHealth, and Sprinto, I have owned end-to-end roadmaps and shipped measurable impact across drone autonomy, healthcare SaaS, and enterprise security. At CrelioHealth, I led the Smart Reports roadmap, growing lab revenue by ~$2,000 MRR per lab while reducing patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. At Sprinto and FlytBase, I built internal developer CLIs and automated complex cross-app processes using Zapier, Make, and Python, accelerating delivery for engineering and operations teams. I am energized by Google's mission to organize the world's information and build helpful, agentic experiences, and I bring a builder's mindset combined with the quantitative rigor needed to ship products that resonate globally with users.
 
-[Date]
-
-Hiring Manager
-Google
-Hyderabad, Telangana India
-
-Dear Hiring Manager,
-
-I am writing with great enthusiasm to apply for the Product Manager, User Voice AI and Agentic Experiences role at Google. As an AI Product Manager with 3+ years of experience spearheading 0-to-1 product initiatives, I have a proven track record of translating complex AI technologies into intuitive, customer-centric solutions. My journey has been defined by building and launching AI-native products—from drone autonomy SaaS at FlytHealth to healthcare analytics at CrelioHealth—aligning directly with Google’s vision to harness AI for meaningful user experiences. I am eager to bring my expertise in agentic systems and LLM-powered workflows to a team shaping the future of user interaction.
-
-In my previous roles as a Product Manager, I have consistently delivered measurable business impact by owning end-to-end product roadmaps. At FlytBase, I led the 0-to-1 launch of Prediq, an AI drone SaaS platform that grew to ~$6K MRR. At CrelioHealth, I owned the Smart Reports product, increasing lab
+I would welcome the opportunity to discuss how my experience as a Product Manager building AI-native, voice-first, and agentic products can help advance Google's user voice and agentic experiences vision. I am deeply passionate about leveraging LLMs and autonomous workflows to create delightful, intuitive product experiences, and I am confident that my 0-to-1 execution muscle, cross-functional leadership, and customer empathy align strongly with what this role demands. Thank you for
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

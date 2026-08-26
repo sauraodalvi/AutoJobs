@@ -5,16 +5,17 @@ Apply Link: https://www.linkedin.com/jobs/view/4454658110
 Date Generated: 2026-08-26
 ============================================================
 
+**Cover Letter**
+
 Dear Hiring Team at Ema,
 
-I am writing to express my strong interest in the Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
+I am writing to express my strong interest in the Product Manager role at Ema. With over three years of experience as an AI Product Manager and Forward Deployed Engineer, I have built and shipped AI-native products from the ground up—aligning product vision, engineering execution, and customer impact. Ema's mission to develop universal AI infrastructure resonates deeply with my track record of translating cutting-edge AI capabilities into products that deliver measurable business value, and I am excited about the opportunity to contribute to a company defining the next generation of enterprise AI.
 
-In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Ema's technical and product ambitions.
+At FlytBase, I led the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS product that scaled to approximately $6K MRR. At CrelioHealth, I owned the Smart Reports product roadmap, generating an estimated $2,000 MRR increase per lab, while reducing patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. I have hands-on experience building developer CLIs, LLM-powered workflows, and agentic systems that automate complex cross-application processes—skills directly applicable to shaping Ema's AI-first product experiences. Additionally, I launched AI products like Hidden Jobs, indexing over 50K live ATS jobs, and co-founded the Elite PM platform in partnership with a Microsoft Product Manager, reinforcing my ability to build, iterate, and grow products in fast-paced environments.
 
-I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Ema.
+I am energized by Ema's trajectory and would welcome the opportunity to discuss how my product leadership, AI expertise, and bias toward shipping impact-driven solutions can accelerate Ema's mission. I look forward to connecting.
 
-Sincerely,
-Saurao Dalvi
+Warm
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

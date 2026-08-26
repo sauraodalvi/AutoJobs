@@ -202,7 +202,7 @@
     "history": [
       {
         "date": "2026-08-23",
-        "action": "Lead added for Senior Product Manager \u00e2\u20ac\u201d Platform Experiences at jobs - Personio (Remote (Deutschland)). Initial status: JOB_LINK_SAVED."
+        "action": "Lead added for Senior Product Manager â€” Platform Experiences at jobs - Personio (Remote (Deutschland)). Initial status: JOB_LINK_SAVED."
       },
       {
         "date": "2026-08-23",
@@ -327,7 +327,7 @@
     "history": [
       {
         "date": "2026-08-23",
-        "action": "Lead added for Product Manager [Espa\u00c3\u00b1a] at Product Hackers (Remote). Initial status: JOB_LINK_SAVED."
+        "action": "Lead added for Product Manager [EspaÃ±a] at Product Hackers (Remote). Initial status: JOB_LINK_SAVED."
       },
       {
         "date": "2026-08-23",
@@ -881,7 +881,7 @@
     "history": [
       {
         "date": "2026-08-23",
-        "action": "Lead added for Product Manager \u00e2\u20ac\u201c Smart Electricity Meters at GridCrest by Kaynes (Kolkata, West Bengal, India). Initial status: JOB_LINK_SAVED."
+        "action": "Lead added for Product Manager â€“ Smart Electricity Meters at GridCrest by Kaynes (Kolkata, West Bengal, India). Initial status: JOB_LINK_SAVED."
       },
       {
         "date": "2026-08-23",
@@ -889,7 +889,7 @@
       },
       {
         "date": "2026-08-25",
-        "action": "Generated tailored application kit & cover letter (GridCrest_by_Kaynes_Product_Manager_\u00e2_Smart_Electricity_Meters.txt). Status updated to APPLICATION_READY."
+        "action": "Generated tailored application kit & cover letter (GridCrest_by_Kaynes_Product_Manager_â_Smart_Electricity_Meters.txt). Status updated to APPLICATION_READY."
       },
       {
         "date": "2026-08-26",
@@ -1322,7 +1322,7 @@
   {
     "job_id": "job_2f06dd77",
     "company": "Product Hackers",
-    "role": "Product Manager [Espa\u00f1a]",
+    "role": "Product Manager [España]",
     "location": "Remote",
     "contact_name": "Hiring Team",
     "contact_email": "",
@@ -1334,7 +1334,7 @@
     "history": [
       {
         "date": "2026-08-25",
-        "action": "Lead added for Product Manager [Espa\u00f1a] at Product Hackers (Remote). Initial status: JOB_LINK_SAVED."
+        "action": "Lead added for Product Manager [España] at Product Hackers (Remote). Initial status: JOB_LINK_SAVED."
       },
       {
         "date": "2026-08-26",
@@ -2370,11 +2370,11 @@
       },
       {
         "date": "2026-08-25",
-        "action": "Sent initial pitch (Applying for Sr Product Manager at UKG \u2013 can you help with referral?) with attached resume to sauraodalvi97+referral@gmail.com."
+        "action": "Sent initial pitch (Applying for Sr Product Manager at UKG – can you help with referral?) with attached resume to sauraodalvi97+referral@gmail.com."
       },
       {
         "date": "2026-08-25",
-        "action": "Sent initial pitch (Applying for Sr Product Manager at UKG \u2013 can you help with referral?) with attached resume to sauraodalvi97+referral@gmail.com."
+        "action": "Sent initial pitch (Applying for Sr Product Manager at UKG – can you help with referral?) with attached resume to sauraodalvi97+referral@gmail.com."
       }
     ],
     "outreach_style": "referral"
@@ -2759,6 +2759,52 @@
       {
         "date": "2026-08-26",
         "action": "Discovered verified recruiter contact Hero Vired Talent Acquisition Team (careers@herovired.com). Promoted to PENDING_OUTREACH."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f7cb85d7",
+    "company": "Pingidentity",
+    "role": "Product Manager - Identity for AI",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/product-manager-identity-for-ai-458709",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-26",
+        "action": "Lead added for Product Manager - Identity for AI at Pingidentity (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Generated tailored application kit & cover letter (Pingidentity_Product_Manager_-_Identity_for_AI.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7e8be8a5",
+    "company": "Emplifimonster",
+    "role": "Senior Product Manager",
+    "location": "Czech Republic, France, or Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/emplifimonster/senior-product-manager-czech-republic-france-or-germany-425304",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-26",
+        "action": "Lead added for Senior Product Manager at Emplifimonster (Czech Republic, France, or Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Generated tailored application kit & cover letter (Emplifimonster_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   }

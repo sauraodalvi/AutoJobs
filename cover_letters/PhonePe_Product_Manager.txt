@@ -5,19 +5,13 @@ Apply Link: https://www.linkedin.com/jobs/view/4444590351
 Date Generated: 2026-08-26
 ============================================================
 
-Dear Hiring Team at PhonePe,
 
-I am writing to express my strong interest in the Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
+Dear Hiring Team,
 
-In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with PhonePe's technical and product ambitions.
-
-I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for PhonePe.
-
-Sincerely,
-Saurao Dalvi
+I am writing to express my strong interest in the Product Manager role at PhonePe. With over three years of experience as an AI Product Manager and Forward Deployed Engineer, I have a proven track record of taking AI-native products from 0-to-1 and scaling them into revenue-generating solutions. At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS platform that reached approximately $6K MRR, and at CrelioHealth, I led the Smart Reports product roadmap that increased lab revenue by roughly $2,000 MRR per lab. I am drawn to PhonePe's mission to democratize digital payments across India, and I am eager to bring my cross-functional expertise in AI product strategy, developer tooling, and LLM-powered workflows to a company operating at the intersection of
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

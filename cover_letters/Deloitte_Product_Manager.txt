@@ -5,23 +5,16 @@ Apply Link: https://www.linkedin.com/jobs/view/4455888582
 Date Generated: 2026-08-26
 ============================================================
 
+Dear Hiring Team at Deloitte,
 
+I am writing to express my strong interest in the Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-[Your Name]
-[Your Address]
-[Your Phone Number]
-[Your Email Address]
-[Date]
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Deloitte's technical and product ambitions.
 
-Hiring Manager
-Deloitte
-Hyderabad, Telangana, India
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Deloitte.
 
-Dear Hiring Manager,
-
-I am writing with great enthusiasm to apply for the Product Manager position at Deloitte. As an accomplished AI Product Manager with over 3+ years of experience spearheading 0-to-1 product strategies and launches, I am eager to bring my expertise in building intelligent, customer-centric solutions to a global leader in consulting and innovation. My background aligns perfectly with Deloitte's vision to drive technological advancement and deliver tangible value, having successfully owned the end-to-end product lifecycle for AI-native products in dynamic sectors including drone autonomy, healthcare SaaS, and enterprise security.
-
-In my previous roles, I have consistently delivered measurable impact as a Product Manager. At FlytBase, I owned the roadmap and launch of Prediq, an AI drone SaaS solution that scaled to ~$6K MRR. At CrelioHealth, I led the product strategy for Smart Reports, which directly increased lab revenue by ~$2,000 MRR per lab. My hands-on experience extends to developing LLM
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

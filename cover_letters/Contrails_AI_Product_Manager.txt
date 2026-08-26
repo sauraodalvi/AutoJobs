@@ -5,16 +5,16 @@ Apply Link: https://www.linkedin.com/jobs/view/4455021182
 Date Generated: 2026-08-26
 ============================================================
 
-Saurao Dalvi  
-Pune, Maharashtra | +91-XXXXXXXXXX | saurao.dalvi@email.com | linkedin.com/in/saurao-dalvi | sauraodalvi.netlify.app  
+Dear Hiring Team at Contrails AI,
 
-**Hiring Team, Contrails AI**  
+I am writing to express my strong interest in the Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am energized by Contrails AI’s mission to redefine aviation intelligence through agentic AI. My background as a Forward Deployed Engineer at FlytBase—where I bridge deep technical architecture with commercial product strategy—mirrors your need for a **Product Manager** who can navigate complex data ecosystems and deliver autonomous decision-making capabilities from concept to revenue.
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Contrails AI's technical and product ambitions.
 
-At FlytBase, I owned the end-to-end roadmap and launch of **Prediq**, an AI-native drone SaaS product, scaling it to **$6K MRR** within months by defining pricing, positioning, and developer-facing CLIs. At CrelioHealth, I spearheaded **Smart Reports**, leveraging custom LLM prompt pipelines to cut patient registration time by **58%** and sample turnaround by **18%**, directly driving **~$2,000 MRR per lab**. At Sprinto, I automated cross-functional compliance workflows using Python, Zapier, and Make, reducing audit prep cycles by **40%**. Across these roles, I have shipped production-grade agentic systems, RAG pipelines, and developer tools—consistently translating ambiguous AI capabilities into measurable ARR growth.
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Contrails AI.
 
-I am eager to bring this blend of technical
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

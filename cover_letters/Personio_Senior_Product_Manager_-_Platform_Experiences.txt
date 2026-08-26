@@ -5,15 +5,11 @@ Apply Link: https://www.arbeitnow.com/jobs/companies/jobs-personio/remote-senior
 Date Generated: 2026-08-26
 ============================================================
 
+Dear Hiring Manager,
 
+I am reaching out to apply for the Senior Product Manager – Platform Experiences role at Personio. As an AI Product Manager with over three years of experience building 0-to-1 products and scaling AI-native solutions at FlytBase, CrelioHealth, and Sprinto, I bring a proven track record of aligning product vision with customer impact—exactly the kind of cross-functional ownership Personio's platform team needs. I am drawn to Personio's mission to make HR processes effortless for small and medium-sized businesses across Europe, and I am eager to bring my expertise in roadmap ownership, LLM-powered automation, and developer tooling to drive meaningful product growth at scale.
 
-**Subject: Application for Senior Product Manager - Platform Experiences**
-
-Dear Hiring Team,
-
-I am writing with great enthusiasm to apply for the Senior Product Manager - Platform Experiences role at Personio. With over three years of hands-on, 0-to-1 experience as an AI Product Manager, I have a proven track record of designing and launching intelligent, customer-centric solutions that drive significant business growth. My background in building AI-native products and developer tools aligns perfectly with Personio's vision of creating an intuitive and powerful platform that empowers HR teams across Europe and beyond.
-
-As a Product Manager, I specialize in bridging technical innovation with market needs. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS that grew to ~$6K MRR. My experience also includes spearheading AI-driven features like Smart Reports at CrelioHealth, which increased lab revenue by ~$2,000 MRR per lab, and developing custom AI prompt pipelines that reduced patient registration time by 58% and sample turnaround by 18%. Furthermore, my experience as a Forward Deployed Engineer has honed my ability to build practical LLM-powered workflows and
+My work demonstrates what I can deliver as a Senior Product Manager: at FlytBase, I owned the full 0-to-1 roadmap and launch of Prediq, an AI drone SaaS that grew to approximately $6K MRR; at CrelioHealth, I built Smart Reports into the core product offering, generating an additional $2,000 MRR per lab; and across both environments, I designed AI prompt pipelines that cut patient registration time by 58% and sample turnaround by 18%. I have hands-on experience with agentic systems, LLM-powered workflows, and internal developer CLIs that accelerated cross-functional velocity. These results reflect my core strengths: data-driven decision-making, deep collaboration
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

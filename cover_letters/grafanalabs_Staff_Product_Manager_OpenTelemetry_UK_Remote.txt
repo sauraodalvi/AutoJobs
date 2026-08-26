@@ -1,0 +1,28 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Staff Product Manager, OpenTelemetry | UK | Remote at grafanalabs
+Apply Link: https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-product-manager-opentelemetry-uk-remote-22840
+Date Generated: 2026-08-26
+============================================================
+
+**[Saurao Dalvi]**
+[Email] | [Phone] | Pune, India (Open to UK Remote)
+[LinkedIn] | [Portfolio]
+
+**Re: Staff Product Manager, OpenTelemetry | Grafana Labs | UK Remote**
+
+---
+
+Dear Grafana Labs Hiring Team,
+
+As a Product Manager with 3+ years of hands-on experience shipping 0-to-1 AI-native products at FlytBase, CrelioHealth, and Sprinto, I am thrilled to apply for the Staff Product Manager, OpenTelemetry role at Grafana Labs. Grafana's mission to democratize observability through OpenTelemetry resonates deeply with my own builder journey—I have consistently operated at the intersection of complex technical systems and customer-facing product clarity, from launching Prediq (an AI drone SaaS scaling to ~$6K MRR) to owning the Smart Reports roadmap at CrelioHealth where I drove ~$2,000 MRR uplift per lab. My experience building developer CLIs, automating cross-app workflows, and shipping LLM-powered agentic systems has trained me to think like a Product Manager who can credibly engage with platform engineers while never losing sight of end-user outcomes.
+
+At FlytBase, I owned the 0-to-1 product roadmap for an AI autonomy product, translating ambiguous customer pain into shipped capabilities that drove real adoption. At CrelioHealth, I built custom AI prompt pipelines that cut patient registration time by ~58% and reduced sample turnaround by 18%—direct, measurable Product Manager impact on operational KPIs that customers cared about. I have shipped developer-facing CLIs, internal automation tooling across Zapier, Make, and Python, and AI products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2. Beyond execution, I co-founded the Elite PM platform in partnership with a Microsoft Product Manager, which sharpened my product judgment and reinforced that great product work compounds when shared with the community. This blend of AI fluency, platform thinking, and relentless 0-to-1 shipping is exactly what Grafana Labs needs to push OpenTelemetry adoption forward.
+
+I would welcome the opportunity to discuss how my experience scaling AI-driven product lines, partnering deeply with engineering, and owning roadmaps
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
