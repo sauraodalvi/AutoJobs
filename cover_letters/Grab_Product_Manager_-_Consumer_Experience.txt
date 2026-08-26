@@ -1,0 +1,26 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager - Consumer Experience at Grab
+Apply Link: 
+Date Generated: 2026-08-26
+============================================================
+
+**Saurao Dalvi**
+Pune, India | Open to Singapore & Remote
+sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
+
+---
+
+**Application: Product Manager - Consumer Experience, Grab (Singapore / Remote)**
+
+Dear Grab Hiring Team,
+
+As an AI Product Manager and Forward Deployed Engineer with 3+ years of hands-on experience shipping 0-to-1 products that touch real consumers every day, I am excited to apply for the Product Manager - Consumer Experience role at Grab. From launching Prediq, an AI-native drone SaaS that grew to ~$6K MRR at FlytBase, to owning the Smart Reports roadmap at CrelioHealth (lifting lab revenue by ~$2,000 MRR per lab and cutting patient registration time by ~58%), I have built a career on translating ambiguous user problems into shipped, measurable outcomes. The opportunity to shape consumer experiences for millions of Southeast Asian users at Grab, a company that lives and breathes AI-first product thinking, is precisely the environment where I do my best work. My portfolio at sauraodalvi.netlify.app showcases a track record of building agentic LLM workflows, internal developer CLIs, and consumer-facing AI products that I would love to bring to your team.
+
+In my current role as a Product Manager and AI Engineer at FlytBase, I own end-to-end product discovery, prioritization, and launches across AI/automation features, partnering closely with engineering, design, sales, and customer success to ship to enterprise customers. At CrelioHealth, I led a cross-functional team to cut sample turnaround time by 18% using custom AI prompt pipelines and shipped a developer CLI that automated cross-app workflows across Zapier, Make, and Python, freeing dozens of hours per week for the operations team. At Sprinto, I contributed to a security SaaS platform serving hundreds of B2B customers, deepening my instincts for trust, compliance, and friction reduction. Beyond my day job, I have built and launched AI products like Hidden Jobs (50K+ live ATS jobs indexed) and co-founded Elite PM in partnership with a Microsoft Product Manager, sharpening my craft as a community-driven builder. Together,
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
