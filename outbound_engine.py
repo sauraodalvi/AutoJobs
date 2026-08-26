@@ -276,8 +276,7 @@ def send_daily_digest(recipient_email: str = None) -> bool:
         elif st in ["OUTREACH_SENT", "FOLLOWUP_SENT", "PENDING_OUTREACH"]:
             outreach_items.append(item)
 
-    total_applied = counts.get("APPLIED_EMAIL", 0) + counts.get("APPLIED_ONLINE", 0)
-    subject = f"🚀 AutoJobs Morning Briefing - {today_str} ({total_applied} Applied | {counts.get('OUTREACH_SENT', 0)} Pitches)"
+    subject = f"🚀 AutoJobs Morning Briefing - {today_str} ({len(application_ready_items)} Kits Ready | {counts.get('OUTREACH_SENT', 0)} Pitches)"
 
     body_lines = [
         f"Hi {config.CANDIDATE_NAME},",
@@ -285,15 +284,13 @@ def send_daily_digest(recipient_email: str = None) -> bool:
         f"Here is your AutoJobs autonomous agent daily briefing for {today_str}:",
         "",
         "=" * 60,
-        "📊 APPLICATION & OUTREACH METRICS",
+        "📊 PIPELINE & APPLICATION METRICS",
         "=" * 60,
-        f"• Autonomous Applications Submitted: {total_applied}",
-        f"• Active Cold Referral Pitches:      {counts.get('OUTREACH_SENT', 0)}",
-        f"• Pending Recruiter Pitches:         {counts.get('PENDING_OUTREACH', 0)}",
+        f"• 1-Click Application Kits Ready:     {len(application_ready_items)}",
+        f"• Verified Recruiter Pitches Sent:    {counts.get('OUTREACH_SENT', 0)}",
+        f"• Direct Email Applications Sent:     {counts.get('APPLIED_EMAIL', 0)}",
         f"• Follow-ups Sent:                   {counts.get('FOLLOWUP_SENT', 0)}",
-        f"• Direct Apply Links Ready:          {counts.get('APPLICATION_READY', 0) + counts.get('JOB_LINK_SAVED', 0)}",
-        f"• Recruiter Responses:               {counts.get('REPLIED_STOPPED', 0)}",
-        f"• Total Tracked Positions:           {len(data)}",
+        f"• Total Target Positions Tracked:    {len(data)}",
         "",
     ]
 

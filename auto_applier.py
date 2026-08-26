@@ -165,25 +165,14 @@ def apply_to_pending_jobs(max_applications: int = 5) -> int:
                     logging.info(f"Staggering application rate by {stagger} seconds...")
                     time.sleep(stagger)
 
-        # Route B: Browser / Web Application for leads with apply_url
+        # Route B: Direct Web Application staging with tailored kits
         elif status in ["APPLICATION_READY", "JOB_LINK_SAVED"] and apply_url and not contact_email:
-            logging.info(f"Processing automated web application for {role} at {company} ({apply_url})...")
-            success, msg = browser_applier.submit_web_application(item)
-            if success:
-                item["status"] = "APPLIED_ONLINE"
-                item["date_applied"] = today_str
+            logging.info(f"Staging 1-click tailored application kit for {role} at {company} ({apply_url})...")
+            kit_path = cover_letter_generator.generate_cover_letter_for_item(item)
+            if item.get("status") != "APPLICATION_READY":
+                item["status"] = "APPLICATION_READY"
                 item["last_action_date"] = today_str
-                if "history" not in item:
-                    item["history"] = []
-                item["history"].append({
-                    "date": today_str,
-                    "action": f"Automated web application processed: {msg}. Status set to APPLIED_ONLINE."
-                })
-                applications_submitted += 1
                 changes_made = True
-
-                stagger = random.randint(3, 8)
-                time.sleep(stagger)
 
     if changes_made:
         save_tracker(data)
