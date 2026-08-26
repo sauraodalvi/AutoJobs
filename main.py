@@ -48,7 +48,7 @@ def main():
     # Step 4: Run auto_applier to submit applications for leads with verified hiring endpoints
     logging.info("\n--- STEP 4: Running Autonomous Job Applier (Direct Email & Web Submissions) ---")
     try:
-        auto_applier.apply_to_pending_jobs(max_applications=5)
+        auto_applier.apply_to_pending_jobs(max_applications=20)
     except Exception as e:
         logging.error(f"Auto applier step encountered an error: {e}")
 
