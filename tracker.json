@@ -163,8 +163,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/jobs-personio/remote-senior-product-manager-platform-experiences-210636",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -195,6 +195,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on ARBEITNOW (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -758,9 +762,9 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4456086749",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-25",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
       {
@@ -774,6 +778,10 @@
       {
         "date": "2026-08-25",
         "action": "Generated tailored application kit & cover letter (GridCrest_by_Kaynes_Product_Manager_â_Smart_Electricity_Meters.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -785,9 +793,9 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4446916541",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-23",
-    "last_action_date": "2026-08-25",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
       {
@@ -801,6 +809,10 @@
       {
         "date": "2026-08-25",
         "action": "Generated tailored application kit & cover letter (Blackbaud_India_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -812,8 +824,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4454658110",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -836,6 +848,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%). Status set to APPLIED_ONLINE."
       }
     ]
   },
@@ -847,8 +863,8 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4446789696",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-23",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-26",
     "last_action_date": "2026-08-26",
     "followup_count": 0,
     "history": [
@@ -871,6 +887,10 @@
       {
         "date": "2026-08-26",
         "action": "Cleaned unverified speculative email target. Converted to direct 1-click web apply (APPLICATION_READY)."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Automated web application processed: Application successfully processed and submitted on GENERIC_WEB (Match Score: 98%). Status set to APPLIED_ONLINE."
       }
     ]
   },

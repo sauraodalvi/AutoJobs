@@ -2,22 +2,21 @@
 COVER LETTER & APPLICATION KIT
 Target: Senior Product Manager at Blackbaud India
 Apply Link: https://www.linkedin.com/jobs/view/4446916541
-Date Generated: 2026-08-25
+Date Generated: 2026-08-26
 ============================================================
 
-Dear Hiring Team at Blackbaud India,
+Saurao Dalvi  
+AI Product Manager & Engineer  
+https://sauraodalvi.netlify.app/ | https://www.linkedin.com/in/saurao-dalvi/  
 
-I am writing to express my strong interest in the Senior Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in taking 0-to-1 SaaS products from initial concept to commercial scale.
+Dear Hiring Team,
 
-In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build LLM-powered workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background directly aligns with Blackbaud India's product ambitions.
+As an AI Product Manager with over three years of end‑to‑end 0‑to‑1 experience launching AI‑driven SaaS products—from autonomous drone analytics at FlytBase to healthcare workflow automation at CrelioHealth—I am eager to bring my product‑first mindset to Blackbaud India’s mission of empowering social‑good organizations. My track record of defining vision, prioritizing roadmaps, and shipping measurable outcomes aligns directly with the Senior Product Manager role and Blackbaud’s focus on innovative, impact‑focused solutions.
 
-I would welcome the opportunity to discuss how my AI product management background can add immediate value to Blackbaud India.
-
-Sincerely,
-Saurao Dalvi
+In my most recent role as AI Product Manager & Forward Deployed Engineer at FlytBase, I owned the roadmap and launch of Prediq, an AI‑powered drone SaaS that grew to ~$6K MRR within six months. At CrelioHealth, I spearheaded Smart Reports, boosting lab revenue by ~$2K MR
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: C:\Users\saura\OneDrive\Desktop\Resume\Compact\Saurao Dalvi.pdf
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

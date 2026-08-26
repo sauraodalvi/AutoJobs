@@ -5,20 +5,11 @@ Apply Link: https://www.arbeitnow.com/jobs/companies/jobs-personio/remote-senior
 Date Generated: 2026-08-26
 ============================================================
 
-Saurao Dalvi  
-AI Product Manager & Engineer | https://sauraodalvi.netlify.app  
-LinkedIn: https://www.linkedin.com/in/saurao-dalvi/  
+**Saurao Dalvi**
+sauraodalvi.netlify.app | +91 98765 43210
+[Date]
 
-Dear Personio Hiring Team,
-
-I am an AI‑focused Product Manager with over three years of end‑to‑end 0‑to‑1 experience building and scaling data‑driven products—from autonomous drone AI at FlytBase to healthcare SaaS workflows at CrelioHealth and compliance automation at Sprinto. My track record of translating complex technical capabilities into customer‑centric roadmaps aligns directly with Personio’s mission to empower HR teams through seamless platform experiences.
-
-In my most recent role as AI Product Manager at FlytBase, I owned the roadmap and launch of Prediq, an AI‑driven drone SaaS that grew to ~$6K MRR within six months, and I engineered LLM‑powered prompt pipelines that cut patient registration time by ~58% and sample turnaround by 18% at CrelioHealth, boosting lab revenue by ~$2K MRR per site. I also built internal developer CLIs and automated cross‑app processes with Zapier, Make, and Python, delivering measurable efficiency gains of 20‑50%+ across teams. These outcomes demonstrate my ability to ship high‑impact, scalable products while driving measurable business results—core expectations for a Senior Product Manager – Platform Experiences at Personio.
-
-I am eager to bring this blend of AI product strategy, execution rigor, and growth‑focused mindset to Personio’s platform team. Please let me know a convenient time to discuss how I can help accelerate your product vision and deliver exceptional HR experiences for customers across Europe and beyond.
-
-Sincerely,  
-Saurao
+Hiring Team
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
