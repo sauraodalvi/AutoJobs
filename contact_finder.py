@@ -88,25 +88,6 @@ def find_recruiter_via_web_search(company: str, domain: str) -> dict:
     return {}
 
 
-def find_probed_talent_channel(company: str, domain: str) -> dict:
-    """
-    Probes standard talent acquisition channels using zero-send SMTP verification.
-    Only returns a contact if the target mail server explicitly confirms with SMTP 250 OK.
-    """
-    if not domain:
-        return {}
-    
-    candidate_prefixes = ["careers", "jobs", "hiring", "talent", "join", "recruiting"]
-    for prefix in candidate_prefixes:
-        email_addr = f"{prefix}@{domain}"
-        is_deliv, reason = email_validator.verify_smtp_mailbox_deliverable(email_addr, timeout=4)
-        if is_deliv and "250" in reason:
-            logging.info(f"Verified live recipient mailbox: {email_addr} ({reason})")
-            return {
-                "name": f"{company} Talent Acquisition Team",
-                "email": email_addr,
-                "title": "Hiring Team"
-            }
     return {}
 
 

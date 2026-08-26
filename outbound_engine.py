@@ -154,20 +154,13 @@ def execute_daily_sequence():
             continue
 
         # Extra Guard: Convert generic/invalid email targets to APPLICATION_READY
-        is_valid_email, reason = email_validator.is_valid_recruiter_email(contact_email, verify_mx=True, allow_hiring_channels=True)
-        if not is_valid_email:
-            logging.info(f"Skipping cold email to invalid target '{contact_email}' for {role} at {company} ({reason}). Updating status to APPLICATION_READY.")
+        is_valid_email, reason = email_validator.is_valid_recruiter_email(contact_email, verify_mx=True, allow_hiring_channels=False)
+        if not is_valid_email or email_validator.is_hiring_channel_email(contact_email):
+            logging.info(f"Skipping cold email to non-human/generic target '{contact_email}' for {role} at {company}. Updating status to APPLICATION_READY.")
             item["status"] = "APPLICATION_READY"
             item["contact_email"] = ""
             changes_made = True
-        if email_validator.is_hiring_channel_email(contact_email):
-            is_deliv, probe_reason = email_validator.verify_smtp_mailbox_deliverable(contact_email, timeout=4)
-            if not is_deliv or "250" not in probe_reason:
-                logging.info(f"Skipping cold email to unverified channel '{contact_email}' for {role} at {company} ({probe_reason}). Staging as APPLICATION_READY.")
-                item["status"] = "APPLICATION_READY"
-                item["contact_email"] = ""
-                changes_made = True
-                continue
+            continue
 
         # Loop A: Pending Outreach
         if status == "PENDING_OUTREACH":

@@ -42,19 +42,12 @@ def apply_via_email(job: dict) -> bool:
         logging.warning(f"No contact email available for {role} at {company}. Cannot submit email application.")
         return False
 
-    is_valid, reason = email_validator.is_valid_recruiter_email(contact_email, verify_mx=True, allow_hiring_channels=True)
-    if not is_valid:
-        logging.error(f"Cannot apply to {contact_email}: {reason}")
+    is_valid, reason = email_validator.is_valid_recruiter_email(contact_email, verify_mx=True, allow_hiring_channels=False)
+    if not is_valid or email_validator.is_hiring_channel_email(contact_email):
+        logging.info(f"Staging {role} at {company} as APPLICATION_READY (Direct portal apply & referral only).")
+        job["status"] = "APPLICATION_READY"
+        job["contact_email"] = ""
         return False
-
-    # For generic hiring channels (careers@, jobs@, etc.), enforce live 250 OK verification to prevent bounces
-    if email_validator.is_hiring_channel_email(contact_email):
-        is_deliv, probe_reason = email_validator.verify_smtp_mailbox_deliverable(contact_email, timeout=4)
-        if not is_deliv or "250" not in probe_reason:
-            logging.warning(f"Skipping email delivery to speculative channel <{contact_email}>: Remote mailbox not confirmed 250 ({probe_reason}). Staging lead as APPLICATION_READY.")
-            job["status"] = "APPLICATION_READY"
-            job["contact_email"] = ""
-            return False
 
     logging.info(f"🚀 Dispatching Autonomous Job Application for {role} at {company} to <{contact_email}>...")
 
