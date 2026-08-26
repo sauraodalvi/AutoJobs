@@ -1595,5 +1595,28 @@
         "action": "Generated tailored application kit & cover letter (Emplifimonster_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
+  },
+  {
+    "job_id": "job_92ff128b",
+    "company": "KoRo Handels GmbH",
+    "role": "Senior Product Manager - Outbound Logistics & Returns (m/f/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/koro-handels-gmbh/senior-product-manager-outbound-logistics-returns-berlin-472955",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-08-26",
+    "last_action_date": "2026-08-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-26",
+        "action": "Lead added for Senior Product Manager - Outbound Logistics & Returns (m/f/d) at KoRo Handels GmbH (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-26",
+        "action": "Generated tailored application kit & cover letter (KoRo_Handels_GmbH_Senior_Product_Manager_-_Outbound_Logistics_Returns_m_f_d.txt). Status updated to APPLICATION_READY."
+      }
+    ]
   }
 ]

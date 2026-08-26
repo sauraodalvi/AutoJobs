@@ -5,19 +5,22 @@ Apply Link: https://www.arbeitnow.com/jobs/companies/camunda/remote-principal-pr
 Date Generated: 2026-08-26
 ============================================================
 
-Dear Hiring Team at Camunda,
+# Cover Letter for Camunda — Principal Product Manager, Time to First Production
 
-I am writing to express my strong interest in the Principal Product Manager- Time to First Production position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
+**Saurao Dalvi** | [sauraodalvi.netlify.app](https://sauraodalvi.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/saurao-dalvi/)
 
-In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Camunda's technical and product ambitions.
+---
 
-I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Camunda.
+Dear Camunda Hiring Team,
 
-Sincerely,
-Saurao Dalvi
+I am writing to apply for the **Principal Product Manager — Time to First Production** role at Camunda. As an AI Product Manager and Forward Deployed Engineer with 3+ years of hands-on experience taking products from 0-to-1, I have repeatedly focused on a metric that mirrors Camunda's "time to first production" mission: how quickly a customer goes from signup to real, measurable value. At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS product, taking it from concept to ~$6K MRR. At CrelioHealth, I owned the Smart Reports roadmap and shipped AI-driven workflows that cut patient registration time by ~58% and improved sample turnaround by 18% — both velocity wins for the end user. I would love to bring that same builder-first product instinct to Camunda's orchestration platform.
+
+As a Product Manager who has shipped across drone autonomy, healthcare SaaS, and enterprise security SaaS, I bring a rare combination of customer-facing deployment experience and product strategy. At Sprinto, I worked on enterprise security compliance workflows where reducing "time to first audit-ready" directly unlocked revenue; at CrelioHealth, I built custom LLM prompt pipelines and automation agents that compressed multi-hour clinical workflows into minutes. I have built internal developer CLIs, automated complex cross-app processes with Zapier, Make, and Python, and launched AI-native products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2. These are not side projects — they are the daily work of a Product Manager who is equally comfortable in a customer call, a PRD, and a terminal. My co-founded community with a Microsoft Product Manager further reflects my commitment to elevating the Product Manager craft.
+
+Cam
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

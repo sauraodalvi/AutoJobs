@@ -5,19 +5,15 @@ Apply Link: https://www.arbeitnow.co.uk/jobs/companies/mozilla/senior-product-ma
 Date Generated: 2026-08-26
 ============================================================
 
-Dear Hiring Team at mozilla,
 
-I am writing to express my strong interest in the Senior Product Manager, Mobile position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
+Dear Mozilla Hiring Team,
 
-In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with mozilla's technical and product ambitions.
+I am writing to express my strong interest in the Senior Product Manager, Mobile role at Mozilla. As an AI Product Manager with over three years of experience leading 0-to-1 product development — from shaping roadmaps and defining AI-native features to shipping customer-facing solutions at scale — I am energized by Mozilla's mission to keep the internet open, accessible, and human-centered. My background in building autonomous systems, AI workflows, and cross-platform developer tools aligns directly with the kind of product thinking and technical depth this role demands.
 
-I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for mozilla.
-
-Sincerely,
-Saurao Dalvi
+Throughout my career as a Product Manager, I have consistently delivered measurable outcomes through end-to-end ownership of products across drone autonomy, healthcare SaaS, and enterprise security SaaS. At FlytBase, I built and scaled Prediq, an AI-powered drone SaaS platform, from zero to approximately $6K MRR by leading the full product lifecycle — roadmap, design, launch, and iteration. At CrelioHealth, I owned the Smart Reports roadmap, driving $2,000 incremental MRR per lab through data-informed feature development. Most recently,
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
