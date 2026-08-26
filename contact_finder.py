@@ -88,38 +88,11 @@ def find_recruiter_via_web_search(company: str, domain: str) -> dict:
     return {}
 
 
-def find_verified_talent_channel(company: str, domain: str) -> dict:
-    """
-    Verifies company domain MX records and connects to the official Talent / Careers channel.
-    """
-    if not domain or not email_validator.has_valid_mx_record(domain):
-        return {}
-
-    # Prefer standard talent acquisition addresses
-    candidate_channels = [
-        ("Talent Acquisition Team", f"talent@{domain}"),
-        ("Recruiting Team", f"recruiting@{domain}"),
-        ("Careers Team", f"careers@{domain}"),
-        ("Hiring Team", f"jobs@{domain}"),
-        ("People & Talent Team", f"hiring@{domain}")
-    ]
-
-    for title, email_addr in candidate_channels:
-        is_valid, _ = email_validator.is_valid_recruiter_email(email_addr, verify_mx=True, allow_hiring_channels=True)
-        if is_valid:
-            return {
-                "name": title,
-                "email": email_addr,
-                "title": f"Talent Acquisition at {company}"
-            }
-
-    return {}
-
-
 def discover_contact(company: str, apply_url: str = "") -> dict:
     """
     Attempts multi-source discovery for recruiter or talent acquisition contact info.
-    Returns dict with 'name' and 'email' ONLY if an MX-verified contact email is found.
+    Returns dict with 'name' and 'email' ONLY if a confirmed verified email is found.
+    NEVER generates speculative/guessed emails (e.g. talent@domain) to prevent bounces.
     """
     domain = clean_company_domain(company, apply_url)
     if not domain:
@@ -132,15 +105,10 @@ def discover_contact(company: str, apply_url: str = "") -> dict:
         if contact and contact.get("email"):
             return contact
 
-    # 2. Try Web search pattern matching
+    # 2. Try Web search pattern matching for explicitly published recruiter emails
     contact = find_recruiter_via_web_search(company, domain)
     if contact and contact.get("email"):
         return contact
-
-    # 3. Resolve MX-verified company talent / careers channel
-    talent_contact = find_verified_talent_channel(company, domain)
-    if talent_contact and talent_contact.get("email"):
-        return talent_contact
 
     return {}
 

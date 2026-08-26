@@ -88,12 +88,13 @@ class TestReferralAgent(unittest.TestCase):
             "revolut.com"
         )
 
-    @patch("email_validator.has_valid_mx_record", return_value=True)
-    def test_contact_finder_talent_channel(self, mock_mx):
-        contact = contact_finder.find_verified_talent_channel("Personio", "personio.de")
+    @patch("config.HUNTER_API_KEY", "test_hunter_key")
+    @patch("contact_finder.find_recruiter_via_hunter", return_value={"name": "Sarah Recruiter", "email": "sarah@personio.de", "title": "Lead Recruiter"})
+    def test_contact_finder_discovery(self, mock_hunter):
+        contact = contact_finder.discover_contact("Personio", "https://personio.de/jobs/123")
         self.assertTrue(bool(contact))
-        self.assertIn("personio.de", contact["email"])
-        self.assertIn("Talent", contact["name"])
+        self.assertEqual(contact["email"], "sarah@personio.de")
+        self.assertEqual(contact["name"], "Sarah Recruiter")
 
     @patch("email_validator.has_valid_mx_record", return_value=True)
     def test_job_fetcher_sync_and_deduplication(self, mock_mx):

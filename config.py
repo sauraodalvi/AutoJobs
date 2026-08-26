@@ -31,6 +31,7 @@ BLACKLIST_COMPANIES = ["FlytBase", "Flytbase"]
 # API Keys & Auth Credentials
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+HUNTER_API_KEY = os.getenv("HUNTER_API_KEY", "")
 EMAIL_USER = os.getenv("EMAIL_USER", CANDIDATE_EMAIL)
 EMAIL_PASS = os.getenv("EMAIL_PASS", "")
 

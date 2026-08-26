@@ -72,10 +72,10 @@ def run_comprehensive_test():
     logging.info("✅ Email validation logic passed: Dead/bounce prefixes blocked, talent channels verified.")
 
     # 3. Test Contact Discovery
-    logging.info("\n--- [TEST 3/7] Testing Verified Talent Channel Discovery ---")
-    contact = contact_finder.find_verified_talent_channel("Personio", "personio.de")
-    assert contact and "email" in contact, "Failed to resolve talent channel for Personio"
-    logging.info(f"✅ Discovered Verified Contact: {contact['name']} <{contact['email']}>")
+    logging.info("\n--- [TEST 3/7] Testing Verified Contact Discovery ---")
+    domain = contact_finder.clean_company_domain("Personio", "https://personio.de/jobs/123")
+    assert domain == "personio.de", f"Domain cleaning failed: {domain}"
+    logging.info(f"✅ Discovered & Cleaned Domain: {domain}")
 
     # 4. Test Tailored Cover Letter Synthesis
     logging.info("\n--- [TEST 4/7] Testing Tailored Cover Letter Generation ---")
