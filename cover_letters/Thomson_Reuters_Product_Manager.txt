@@ -5,27 +5,3 @@ Apply Link: https://www.linkedin.com/jobs/view/4457472852
 Date Generated: 2026-08-26
 ============================================================
 
-**Saurao Dalvi**
-sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
-
----
-
-**Re: Product Manager — Thomson Reuters (Remote)**
-
-Dear Thomson Reuters Hiring Team,
-
-As a Product Manager with 3+ years of hands-on experience shipping 0-to-1 AI-native products, I thrive at the intersection of customer pain points, emerging technology, and revenue-generating execution. At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS platform that scaled to ~$6K MRR from scratch—directly shaping product strategy, pricing, and go-to-market for an enterprise customer base. My background spans drone autonomy, healthcare SaaS, and enterprise security SaaS, giving me a unique vantage point to translate complex AI capabilities into intuitive, trusted workflows—exactly the craft Thomson Reuters demands as it reimagines legal, tax, and information services for the AI era.
-
-I have consistently delivered measurable impact as a Product Manager by treating every feature as a hypothesis and every release as a learning loop. At CrelioHealth, I owned the Smart Reports roadmap, growing lab revenue by ~$2,000 MRR per lab, while cutting patient registration time by ~58% and sample turnaround by 18% through custom LLM prompt pipelines. At Sprinto, I partnered with engineering and security teams to ship compliance automation that enterprise customers actually adopt. Beyond core PM work, I have built internal developer CLIs, orchestrated cross-app workflows with Zapier, Make, and Python, and launched AI products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2—giving me the technical depth to prototype rapidly and the product judgment to scale what works.
-
-I would welcome the opportunity to discuss how my product management experience—combining AI fluency, 0-to-1 builder instincts, and a track record of turning vision into shipped, monetized outcomes—can accelerate Thomson Reuters's product roadmap. I am excited about the chance to contribute to a company whose information products shape decisions across the global legal and financial ecosystem, and I am available for a conversation at your earliest convenience.
-
-Thank you for your time and consideration.
-
-Warm regards
-
-============================================================
-CANDIDATE CONTACT SUMMARY:
-Name: Saurao Dalvi
-Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
