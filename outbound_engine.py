@@ -45,10 +45,10 @@ def send_email(to_email: str, subject: str, body: str, is_digest: bool = False, 
     """
     to_email = to_email.strip()
 
-    # Pre-flight MX and Syntax Check
+    # Pre-flight Syntax, MX, and Mailbox Check
     if not is_digest:
-        is_valid, reason = email_validator.is_valid_recruiter_email(to_email, verify_mx=True, allow_hiring_channels=True)
-        if not is_valid:
+        is_deliverable, reason = email_validator.verify_smtp_mailbox_deliverable(to_email)
+        if not is_deliverable:
             logging.error(f"Cannot send email to {to_email}: {reason}. Aborting delivery.")
             return False
     else:

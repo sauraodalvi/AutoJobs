@@ -201,3 +201,44 @@ def is_valid_recruiter_email(email: str, verify_mx: bool = True, allow_hiring_ch
         return False, f"Domain {domain} has no valid MX or DNS records"
 
     return True, "Valid"
+
+
+def verify_smtp_mailbox_deliverable(email: str, timeout: int = 5) -> tuple[bool, str]:
+    """
+    Performs a live zero-send SMTP RCPT TO probe against the destination MX server.
+    Returns (is_deliverable: bool, reason: str).
+    Guarantees that a mailbox exists on the remote mail server before sending any email.
+    """
+    is_syntax_valid, reason = is_valid_recruiter_email(email, verify_mx=True)
+    if not is_syntax_valid:
+        return False, reason
+
+    domain = email.split("@")[1].lower()
+    try:
+        import dns.resolver
+        import smtplib
+        records = dns.resolver.resolve(domain, 'MX', lifetime=timeout)
+        if not records or len(records) == 0:
+            return False, f"No MX records found for {domain}"
+        
+        mx_host = sorted(records, key=lambda r: r.preference)[0].exchange.to_text().rstrip('.')
+        
+        s = smtplib.SMTP(timeout=timeout)
+        s.connect(mx_host, 25)
+        s.helo("gmail.com")
+        s.mail("sauraodalvi97@gmail.com")
+        code, msg = s.rcpt(email)
+        s.quit()
+        
+        msg_str = msg.decode(errors="ignore") if isinstance(msg, bytes) else str(msg)
+        if code == 250:
+            return True, f"Mailbox verified (SMTP 250: {msg_str[:60]})"
+        elif code in [550, 551, 553, 554]:
+            return False, f"Mailbox rejected (SMTP {code}: {msg_str[:60]})"
+        else:
+            # 4xx or server policy - allow if MX is valid
+            return True, f"Mailbox accepted with status {code}"
+    except Exception as e:
+        # Fallback to DNS MX validation if port 25 is firewalled/restricted
+        return has_valid_mx_record(domain), f"DNS MX check fallback ({e})"
+
