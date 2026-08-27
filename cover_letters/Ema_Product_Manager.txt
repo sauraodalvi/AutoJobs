@@ -1,0 +1,37 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager at Ema
+Apply Link: https://www.arbeitnow.co.uk/jobs/companies/ema/product-manager-london-412186
+Date Generated: 2026-08-27
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Role:** Product Manager / APM / AI Product Manager
+   - **Target Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote (but role is specifically UK Remote)
+   - **Summary:** AI Product Manager & AI Engineer at FlytBase, 3+ years, 0-to-1 builder, AI/automation, drone autonomy, healthcare SaaS, enterprise security SaaS.
+   - **Portfolio/LinkedIn:** Provided
+   - **Key Highlights:** Listed metrics and achievements
+   - **Task:** Write a 3-paragraph ATS-optimized cover letter for Company: Ema, Role: Product Manager, Location: UK Remote
+   - **Key ATS Keywords:** "Product Manager" (must naturally incorporate)
+   - **Structure:**
+     - Paragraph 1: High-energy intro, position as AI PM with 3+ years 0-to-1 experience aligning with Ema's product vision
+     - Paragraph 2: Specific metrics & impact, ship 0-to-1 products, scaled MRR, built LLM workflows, cut turnaround by 18-50%+, weave in "Product Manager"
+     - Paragraph 3: Crisp CTA, enthusiasm to discuss driving product growth for Ema
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff
+
+2.  **Deconstruct Requirements:**
+   - 3 paragraphs only
+   - Must include "Product Manager" keyword naturally (likely multiple times, ATS-friendly)
+   - Must incorporate key metrics from highlights
+   - Must align with Ema (I need to know what Ema does, but I can research/generalize: Ema is an AI employee/workforce automation company, likely AI agents, enterprise automation. I'll tailor to "AI workforce" or "AI agents" context.)
+   - Location: UK Remote - mention that or imply readiness
+   - No fluff, concise, high keyword density
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
