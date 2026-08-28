@@ -1,0 +1,26 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager at Experian
+Apply Link: https://www.linkedin.com/jobs/view/4460302469
+Date Generated: 2026-08-28
+============================================================
+
+**Saurao Dalvi**  
+Pune, India | sauraodalvi@gmail.com | https://saurao-dalvi.netlify.app/ | https://www.linkedin.com/in/saurao-dalvi/  
+
+Dear Hiring Manager,
+
+As an AI Product Manager with 3+ years of experience building and scaling 0-to-1 AI-native products, I bring a unique blend of technical depth and strategic execution that aligns closely with Experian’s mission to power opportunities through data-driven innovation. Currently serving as an AI Product Manager & Forward Deployed Engineer at FlytBase, I specialize in translating complex AI capabilities into compelling product experiences—driving roadmap definition, cross-functional alignment, and customer-centric delivery across SaaS platforms in drone autonomy, healthcare, and enterprise security.
+
+In my current role, I own the end-to-end product lifecycle of Prediq, an AI-powered drone SaaS platform, scaling it from concept to ~$6K MRR. At CrelioHealth, I led the roadmap for Smart Reports, increasing lab revenue by ~$2,000 MRR per lab, while also cutting patient registration time by ~58% and sample turnaround by 18% through custom LLM-powered prompt pipelines. At Sprinto (a leading cybersecurity compliance platform), I built internal developer CLIs and automated cross-app workflows using Python, Zapier, and Make—streamlining operations and reducing manual effort by over 50%. As a Product Manager across these ventures, I’ve consistently delivered measurable impact by combining data, AI, and user insights to shape high-growth products.
+
+I’m excited about the opportunity to bring this same energy and expertise to Experian as a Product Manager, helping drive the next wave of innovation in financial technology and data solutions. I’d welcome the chance to discuss how my background in AI product strategy and rapid execution can contribute to Experian’s continued success.
+
+Best regards,  
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

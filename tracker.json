@@ -1333,10 +1333,10 @@
     "contact_name": "Priya Chowdhary",
     "contact_email": "sauraodalvi97+recruiter@gmail.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4454516367",
-    "status": "OUTREACH_SENT",
+    "status": "FOLLOWUP_SENT",
     "date_applied": "2026-08-25",
-    "last_action_date": "2026-08-25",
-    "followup_count": 0,
+    "last_action_date": "2026-08-28",
+    "followup_count": 1,
     "history": [
       {
         "date": "2026-08-25",
@@ -1349,6 +1349,10 @@
       {
         "date": "2026-08-25",
         "action": "Sent initial pitch (Note on my Valiance Solutions Product Manager application) with attached resume to sauraodalvi97+recruiter@gmail.com."
+      },
+      {
+        "date": "2026-08-28",
+        "action": "Sent follow-up pitch #1 (Re: Note on my Valiance Solutions Product Manager application) to sauraodalvi97+recruiter@gmail.com."
       }
     ]
   },
@@ -1360,10 +1364,10 @@
     "contact_name": "Nitisha Varun",
     "contact_email": "sauraodalvi97+referral@gmail.com",
     "apply_url": "https://www.linkedin.com/jobs/view/4452989378",
-    "status": "OUTREACH_SENT",
+    "status": "FOLLOWUP_SENT",
     "date_applied": "2026-08-25",
-    "last_action_date": "2026-08-25",
-    "followup_count": 0,
+    "last_action_date": "2026-08-28",
+    "followup_count": 1,
     "history": [
       {
         "date": "2026-08-25",
@@ -1376,6 +1380,10 @@
       {
         "date": "2026-08-25",
         "action": "Sent initial pitch (Applying for Sr Product Manager at UKG – can you help with referral?) with attached resume to sauraodalvi97+referral@gmail.com."
+      },
+      {
+        "date": "2026-08-28",
+        "action": "Sent follow-up pitch #1 (Re: Applying for Sr Product Manager at UKG – can you help with referral?) to sauraodalvi97+referral@gmail.com."
       }
     ],
     "outreach_style": "referral"
@@ -1817,6 +1825,106 @@
       },
       {
         "date": "2026-08-27",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
+      }
+    ]
+  },
+  {
+    "job_id": "job_49c157ce",
+    "company": "Thiga",
+    "role": "Senior Product Manager/Consultant (f/m/ x)",
+    "location": "Hamburg, Munich, Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/thiga/senior-product-manager-consultant-f-m-x-hamburg-munich-berlin-196503",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-28",
+    "last_action_date": "2026-08-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-28",
+        "action": "Lead added for Senior Product Manager/Consultant (f/m/ x) at Thiga (Hamburg, Munich, Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-28",
+        "action": "Autonomous web application submitted on ARBEITNOW: Application successfully processed and submitted on ARBEITNOW (Match Score: 88%)"
+      }
+    ]
+  },
+  {
+    "job_id": "job_ed805582",
+    "company": "Verve",
+    "role": "Senior Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/verve/senior-product-manager-london-96733",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-28",
+    "last_action_date": "2026-08-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-28",
+        "action": "Lead added for Senior Product Manager at Verve (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-28",
+        "action": "Generated tailored application kit & cover letter (Verve_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-28",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
+      }
+    ]
+  },
+  {
+    "job_id": "job_48bdbb78",
+    "company": "Experian",
+    "role": "Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4460302469",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-28",
+    "last_action_date": "2026-08-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-28",
+        "action": "Lead added for Product Manager at Experian (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-28",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
+      }
+    ]
+  },
+  {
+    "job_id": "job_178d27ba",
+    "company": "Midtronics",
+    "role": "Product Manager - India",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4460113714",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-28",
+    "last_action_date": "2026-08-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-28",
+        "action": "Lead added for Product Manager - India at Midtronics (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-28",
+        "action": "Generated tailored application kit & cover letter (Midtronics_Product_Manager_-_India.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-28",
         "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
