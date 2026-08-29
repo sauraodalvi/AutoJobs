@@ -1928,5 +1928,253 @@
         "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
+  },
+  {
+    "job_id": "job_662b207b",
+    "company": "Bjak",
+    "role": "Product Lead - AI Finance App",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-lead-ai-finance-app-germany-449512",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-08-29",
+    "last_action_date": "2026-08-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-29",
+        "action": "Lead added for Product Lead - AI Finance App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-29",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Lead_-_AI_Finance_App.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_107cb852",
+    "company": "Bjak",
+    "role": "Product Manager - AI Stockbroking App",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-stockbroking-app-germany-12976",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-08-29",
+    "last_action_date": "2026-08-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-29",
+        "action": "Lead added for Product Manager - AI Stockbroking App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-29",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Manager_-_AI_Stockbroking_App.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_29302c82",
+    "company": "Bjak",
+    "role": "Product Owner, Technical - AI Stockbroking",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-owner-technical-ai-stockbroking-germany-14562",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-08-29",
+    "last_action_date": "2026-08-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-29",
+        "action": "Lead added for Product Owner, Technical - AI Stockbroking at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-29",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Owner_Technical_-_AI_Stockbroking.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a18c209a",
+    "company": "Bjak",
+    "role": "Product Owner, Technical - AI Investing",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-owner-technical-ai-investing-germany-53660",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-08-29",
+    "last_action_date": "2026-08-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-29",
+        "action": "Lead added for Product Owner, Technical - AI Investing at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-29",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Owner_Technical_-_AI_Investing.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_22a4912b",
+    "company": "Bjak",
+    "role": "Product Manager - AI Stockbroking",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-stockbroking-germany-199348",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-08-29",
+    "last_action_date": "2026-08-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-29",
+        "action": "Lead added for Product Manager - AI Stockbroking at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-29",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Manager_-_AI_Stockbroking.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_01475c88",
+    "company": "Bjak",
+    "role": "Product Manager - AI Neobank App",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-neobank-app-germany-483036",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-29",
+    "last_action_date": "2026-08-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-29",
+        "action": "Lead added for Product Manager - AI Neobank App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2815cfbe",
+    "company": "Bjak",
+    "role": "Product Lead - AI Investing",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-lead-ai-investing-germany-335086",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-29",
+    "last_action_date": "2026-08-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-29",
+        "action": "Lead added for Product Lead - AI Investing at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c5983ced",
+    "company": "Bjak",
+    "role": "Product Manager - AI Investing",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-investing-germany-349561",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-29",
+    "last_action_date": "2026-08-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-29",
+        "action": "Lead added for Product Manager - AI Investing at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_06d85f9d",
+    "company": "Bjak",
+    "role": "Product Manager - AI Finance",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-finance-germany-60081",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-29",
+    "last_action_date": "2026-08-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-29",
+        "action": "Lead added for Product Manager - AI Finance at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d61075a2",
+    "company": "tink GmbH",
+    "role": "E-Commerce Product Owner:in (all genders)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/tink-gmbh/e-commerce-product-ownerin-all-genders-berlin-224589",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-29",
+    "last_action_date": "2026-08-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-29",
+        "action": "Lead added for E-Commerce Product Owner:in (all genders) at tink GmbH (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_54d43c86",
+    "company": "Wolt - English",
+    "role": "Product Manager, Homepage",
+    "location": "London, England, United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wolt-english/product-manager-homepage-london-52373",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-29",
+    "last_action_date": "2026-08-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-29",
+        "action": "Lead added for Product Manager, Homepage at Wolt - English (London, England, United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b11254ff",
+    "company": "MoonPay",
+    "role": "Senior Product Manager, KYB - MoonPay Enterprise",
+    "location": "London - Hybrid",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/senior-product-manager-kyb-moonpay-enterprise-london-hybrid-23264",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-29",
+    "last_action_date": "2026-08-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-29",
+        "action": "Lead added for Senior Product Manager, KYB - MoonPay Enterprise at MoonPay (London - Hybrid). Initial status: JOB_LINK_SAVED."
+      }
+    ]
   }
 ]

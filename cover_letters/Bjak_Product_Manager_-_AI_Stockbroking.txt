@@ -1,0 +1,30 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager - AI Stockbroking at Bjak
+Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-stockbroking-germany-199348
+Date Generated: 2026-08-29
+============================================================
+
+**Saurao Dalvi**
+sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi
+
+---
+
+**Hiring Team, Bjak**
+Germany
+
+**Re: Product Manager – AI Stockbroking**
+
+Dear Hiring Team,
+
+Bjak's mission to democratize financial access across Southeast Asia through intelligent, AI-driven products resonates strongly with my trajectory as a Product Manager who has spent the last 3+ years building, shipping, and scaling AI-native software at the intersection of autonomy, healthcare, and enterprise SaaS. As a Forward Deployed AI Product Manager & Engineer at FlytBase, a CrelioHealth Product Manager driving diagnostic workflow automation, and a Product Builder behind multiple 0-to-1 launches, I have repeatedly owned ambiguous problem spaces, translated them into clear roadmaps, and delivered customer-facing AI solutions that moved real revenue metrics. Bjak's focus on AI-powered stockbroking is precisely the kind of high-leverage, regulated, data-rich domain where I thrive — building products that combine LLM workflows, intelligent agents, and user-centric product thinking to unlock financial outcomes for millions of users.
+
+The numbers tell the story of a Product Manager who ships. At FlytBase, I owned the 0-to-1 product strategy and launch of Prediq, an AI drone SaaS product, scaling it to approximately $6K MRR within months of release. At CrelioHealth, I owned the Smart Reports roadmap end-to-end, growing lab revenue by roughly $2,000 MRR per adopting lab, while redesigning patient onboarding with custom LLM prompt pipelines that cut registration time by 58% and reduced sample turnaround time by 18%. Across Sprinto and personal ventures, I have built AI-powered agentic workflows, developer CLIs, and automated cross-app pipelines using Python, Zapier, and Make — and shipped consumer AI products like Hidden Jobs (indexing 50,000+ live ATS jobs) and Stare V2, both from zero. I am comfortable moving between SQL, APIs, model behavior, and roadmap tradeoffs, which is exactly the fluency an AI Product Manager needs in a fast-paced, ML-heavy environment like Bjak.
+
+I would welcome
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
