@@ -1,0 +1,33 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager - AI Neobank App at Bjak
+Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-neobank-app-germany-483036
+Date Generated: 2026-08-30
+============================================================
+
+**[Your Name]**
+Pune, India | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi | [Email] | [Phone]
+
+---
+
+**Hiring Manager**
+Bjak
+Germany
+
+**Re: Product Manager – AI Neobank App**
+
+Dear Hiring Manager,
+
+As a Product Manager with 3+ years of hands-on experience shipping 0-to-1 AI-native products, I was immediately drawn to Bjak's mission of building an intelligent neobank that puts cutting-edge AI directly into the hands of millions of users across Southeast Asia. At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS product that grew to ~$6K MRR from scratch, validating my ability to take ambiguous AI concepts and convert them into revenue-generating, customer-loved products. My career has been defined by sitting at the intersection of product strategy, LLM engineering, and customer empathy — exactly the trifecta an AI neobank demands.
+
+The impact I bring translates directly into the metrics Bjak cares about. As the Product Manager behind CrelioHealth's Smart Reports, I drove a ~$2,000 MRR uplift per lab while cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines — proof that I can ship AI workflows that move both the top line and operational efficiency. Beyond core product work, I've built internal developer CLIs, agentic LLM workflows, and end-to-end automation using Python, Zapier, and Make, and have shipped AI products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2. Across FlytBase, CrelioHealth, and Sprinto, I've led cross-functional squads of engineers, designers, and data scientists, consistently owning outcomes from discovery through GTM.
+
+I would welcome the opportunity to discuss how my experience as a deployed AI Product Manager — paired with my engineering depth — can accelerate Bjak's roadmap across Germany and SEA. I'm available for a conversation at your earliest convenience and have attached my portfolio for deeper context on my recent AI product work. Thank you for your time; I look forward to hearing from you.
+
+
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

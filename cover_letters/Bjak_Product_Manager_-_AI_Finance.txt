@@ -1,0 +1,24 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager - AI Finance at Bjak
+Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-finance-germany-60081
+Date Generated: 2026-08-30
+============================================================
+
+
+Dear Hiring Team at Bjak,
+
+I am writing to express my strong interest in the Product Manager – AI Finance role at Bjak. With over three years of experience as an AI Product Manager and Forward Deployed Engineer, I have built and shipped AI-native products from 0-to-1, led cross-functional teams, and delivered measurable revenue impact across drone autonomy, healthcare SaaS, and enterprise compliance platforms. Bjak's mission to simplify complex financial services through technology deeply resonates with my track record of turning ambiguous product spaces into scalable, customer-facing AI solutions, and I am excited about the opportunity to bring that same product craft to Bjak's AI finance ecosystem.
+
+At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS product that reached approximately $6K MRR, making real-time AI analytics accessible to enterprise drone operators. At CrelioHealth, I redefined the product experience by introducing Smart Reports—a feature that increased lab revenue by roughly $2,000 MRR per lab—while also cutting patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines and workflow automation. Beyond that, I have shipped developer-facing CLIs, built LLM-powered agentic workflows, and indexed over 50,000 live ATS jobs through products I co-built and launched independently. As a Product Manager who has operated at the intersection of AI engineering and product strategy, I bring a rare combination of technical fluency and product instincts that translates directly to defining and executing the roadmap for Bjak's AI-powered financial products. I am particularly drawn to Bjak's position in Southeast Asia's digital financial landscape and the scale at which AI can transform how users compare and access financial services.
+
+I would welcome the opportunity to discuss how my experience launching AI products, scaling MRR, and leading cross-functional teams can drive meaningful growth for Bjak. I am actively exploring roles in Germany and the broader EU and Southeast Asia markets, and I am confident this is a strong mutual fit. Let's connect.
+
+Warm regards,
+**Saura
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

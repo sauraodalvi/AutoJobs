@@ -2052,14 +2052,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-neobank-app-germany-483036",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-29",
-    "last_action_date": "2026-08-29",
+    "last_action_date": "2026-08-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-29",
         "action": "Lead added for Product Manager - AI Neobank App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-30",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Manager_-_AI_Neobank_App.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -2071,14 +2075,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-lead-ai-investing-germany-335086",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-29",
-    "last_action_date": "2026-08-29",
+    "last_action_date": "2026-08-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-29",
         "action": "Lead added for Product Lead - AI Investing at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-30",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Lead_-_AI_Investing.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -2090,14 +2098,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-investing-germany-349561",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-29",
-    "last_action_date": "2026-08-29",
+    "last_action_date": "2026-08-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-29",
         "action": "Lead added for Product Manager - AI Investing at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-30",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Manager_-_AI_Investing.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -2109,14 +2121,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-finance-germany-60081",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-29",
-    "last_action_date": "2026-08-29",
+    "last_action_date": "2026-08-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-29",
         "action": "Lead added for Product Manager - AI Finance at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-30",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Manager_-_AI_Finance.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -2147,14 +2163,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wolt-english/product-manager-homepage-london-52373",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-29",
-    "last_action_date": "2026-08-29",
+    "last_action_date": "2026-08-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-29",
         "action": "Lead added for Product Manager, Homepage at Wolt - English (London, England, United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-30",
+        "action": "Generated tailored application kit & cover letter (Wolt_-_English_Product_Manager_Homepage.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -2174,6 +2194,310 @@
       {
         "date": "2026-08-29",
         "action": "Lead added for Senior Product Manager, KYB - MoonPay Enterprise at MoonPay (London - Hybrid). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_24a517b3",
+    "company": "GT",
+    "role": "Technical Product Manager | NDA",
+    "location": "Europe (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/152052-technical-product-manager-nda",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Technical Product Manager | NDA at GT (Europe (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0681ae27",
+    "company": "sumup",
+    "role": "Senior Technical Product Manager",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-technical-product-manager-berlin-352102",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Senior Technical Product Manager at sumup (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1020a388",
+    "company": "Adsquare",
+    "role": "Product Owner - SDV Data Products (f/m/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/adsquare/product-owner-sdv-data-products-berlin-18744",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Product Owner - SDV Data Products (f/m/d) at Adsquare (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8605d2cb",
+    "company": "Thermondo",
+    "role": "Senior Product Manager Service Subscriptions (m/w/d)",
+    "location": "Berlin (Zentrale)",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-product-manager-service-subscriptions-berlin-zentrale-365156",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Senior Product Manager Service Subscriptions (m/w/d) at Thermondo (Berlin (Zentrale)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_394f0b93",
+    "company": "Thermondo",
+    "role": "Senior Product Manager Service Cockpit (m/w/d)",
+    "location": "Berlin (Zentrale)",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-product-manager-service-cockpit-berlin-zentrale-415432",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Senior Product Manager Service Cockpit (m/w/d) at Thermondo (Berlin (Zentrale)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_682b8283",
+    "company": "Thermondo",
+    "role": "Product Manager Customer Care (f/m/d) | Fixed-Term Parental Leave Cover",
+    "location": "Berlin (Zentrale)",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/thermondo/product-manager-customer-care-fixed-term-parental-leave-cover-berlin-zentrale-221401",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Product Manager Customer Care (f/m/d) | Fixed-Term Parental Leave Cover at Thermondo (Berlin (Zentrale)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_abdab7d4",
+    "company": "OXG Glasfaser GmbH",
+    "role": "(Senior) IT Product Owner Data Platform (m/w/d)",
+    "location": "Düsseldorf und Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-92446",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for (Senior) IT Product Owner Data Platform (m/w/d) at OXG Glasfaser GmbH (Düsseldorf und Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d7e3fe0c",
+    "company": "wolt",
+    "role": "Product Manager, Homepage",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wolt/product-manager-homepage-london-300598",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Product Manager, Homepage at wolt (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8bf59bfb",
+    "company": "Bjak",
+    "role": "Product Lead - AI Stockbroking App",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-stockbroking-app-london-160467",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Product Lead - AI Stockbroking App at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3a8d1cdb",
+    "company": "Bjak",
+    "role": "Product Lead - AI Investing App",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-investing-app-london-87523",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Product Lead - AI Investing App at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_434114a4",
+    "company": "Bjak",
+    "role": "Product Lead - AI Neobank App",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-neobank-app-london-396388",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Product Lead - AI Neobank App at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4c7ee656",
+    "company": "Bjak",
+    "role": "Product Manager - Stockbroking",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-manager-stockbroking-london-270116",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Product Manager - Stockbroking at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_197214be",
+    "company": "Bjak",
+    "role": "Product Owner, Technical - AI Neobank",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-neobank-london-284095",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Product Owner, Technical - AI Neobank at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a6029b76",
+    "company": "Bjak",
+    "role": "Product Owner, Technical - AI Finance",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-finance-london-294216",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Product Owner, Technical - AI Finance at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3c15d2fa",
+    "company": "QAD",
+    "role": "Senior Product Manager",
+    "location": "Pune Division, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4433058501",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Senior Product Manager at QAD (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f3dc57f6",
+    "company": "Nasdaq",
+    "role": "Lead Platform Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4422339980",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-30",
+    "last_action_date": "2026-08-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-30",
+        "action": "Lead added for Lead Platform Product Manager at Nasdaq (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
