@@ -5,33 +5,18 @@ Apply Link: https://www.arbeitnow.co.uk/jobs/companies/ema/product-manager-londo
 Date Generated: 2026-08-27
 ============================================================
 
-Here's a thinking process:
+**Subject: Application for Product Manager - Saurao Dalvi**
 
-1.  **Analyze the Request:**
-   - **Candidate:** Saurao Dalvi
-   - **Target Role:** Product Manager / APM / AI Product Manager
-   - **Target Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote (but role is specifically UK Remote)
-   - **Summary:** AI Product Manager & AI Engineer at FlytBase, 3+ years, 0-to-1 builder, AI/automation, drone autonomy, healthcare SaaS, enterprise security SaaS.
-   - **Portfolio/LinkedIn:** Provided
-   - **Key Highlights:** Listed metrics and achievements
-   - **Task:** Write a 3-paragraph ATS-optimized cover letter for Company: Ema, Role: Product Manager, Location: UK Remote
-   - **Key ATS Keywords:** "Product Manager" (must naturally incorporate)
-   - **Structure:**
-     - Paragraph 1: High-energy intro, position as AI PM with 3+ years 0-to-1 experience aligning with Ema's product vision
-     - Paragraph 2: Specific metrics & impact, ship 0-to-1 products, scaled MRR, built LLM workflows, cut turnaround by 18-50%+, weave in "Product Manager"
-     - Paragraph 3: Crisp CTA, enthusiasm to discuss driving product growth for Ema
-   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff
+Dear Ema Hiring Team,
 
-2.  **Deconstruct Requirements:**
-   - 3 paragraphs only
-   - Must include "Product Manager" keyword naturally (likely multiple times, ATS-friendly)
-   - Must incorporate key metrics from highlights
-   - Must align with Ema (I need to know what Ema does, but I can research/generalize: Ema is an AI employee/workforce automation company, likely AI agents, enterprise automation. I'll tailor to "AI workforce" or "AI agents" context.)
-   - Location: UK Remote - mention that or imply readiness
-   - No fluff, concise, high keyword density
+I am writing to express my enthusiastic interest in the Product Manager position at Ema. As an accomplished AI Product Manager with over three years of hands-on experience in building and launching 0-to-1 AI-native products, I am confident my expertise in shaping product roadmaps, leading cross-functional teams, and delivering impactful AI/automation solutions aligns perfectly with Ema's innovative vision. My background as an AI Engineer and Forward Deployed Engineer has provided me with a unique blend of technical depth and product leadership, honed across diverse domains including drone autonomy, healthcare SaaS, and enterprise security.
+
+My career has been marked by a consistent ability to drive significant product impact. At FlytBase, I owned the 0-to-1 roadmap and successful launch of Prediq, an AI drone SaaS that rapidly scaled to ~$6K MRR. Similarly, as a Product Manager at CrelioHealth, I owned the roadmap for Smart Reports, directly contributing to an increase of approximately $2,000 MRR per lab. I have a proven track record of leveraging AI to optimize operations, demonstrated by cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. My experience extends to building internal developer CLIs, automating complex workflows with tools like Zapier and Make, and architecting LLM-powered workflows and agentic systems, including the successful launch of AI products like Hidden Jobs (50K+ indexed jobs) and Stare V2.
+
+I am eager to bring my passion for building groundbreaking AI products and my proven ability as a Product Manager to Ema. My portfolio at sauraodalvi.netlify.app further details my contributions, and I am particularly excited by the opportunity to contribute to Ema's mission from a remote United Kingdom base. Thank you for your time and consideration; I look forward to the opportunity to discuss how my skills and experience can drive significant product growth for Ema.
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

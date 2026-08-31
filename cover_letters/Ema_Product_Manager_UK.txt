@@ -5,17 +5,29 @@ Apply Link: https://www.arbeitnow.co.uk/jobs/companies/ema/product-manager-uk-lo
 Date Generated: 2026-08-27
 ============================================================
 
-Saurao Dalvi  
-https://sauraodalvi.netlify.app | https://www.linkedin.com/in/saurao-dalvi/  
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email]
 
-Dear Hiring Team,
+[Date]
 
-I am an AI Product Manager with 3+ years of end‑to‑end 0‑to‑1 experience launching AI‑driven products that align with Ema’s vision of intelligent, scalable enterprise solutions. Having built and shipped AI‑native SaaS offerings at FlytBase, CrelioHealth, and Sprinto, I bring a proven ability to translate technical depth into market‑winning roadmaps—exactly the expertise Ema seeks in its next Product Manager.
+Hiring Manager
+Ema
+[Company Address, if known, otherwise omit]
 
-In my most recent role as AI Product Manager & Forward Deployed Engineer at FlytBase, I owned the 0‑to‑1 roadmap and launch of **Prediq**, an AI drone SaaS that grew to ≈ $6K MRR within six months. At CrelioHealth I drove the **Smart Reports** feature, lifting lab revenue by ≈ $2K MRR per lab and cutting patient registration time by ≈ 58% through custom LLM prompt pipelines. I also built internal developer CLIs, automated cross‑app workflow
+**Subject: Product Manager Application – Saurao Dalvi: Driving AI-Native Product Innovation at Ema**
+
+Dear Hiring Manager,
+
+I am writing to express my profound interest in the Product Manager position at Ema, having closely followed your innovative strides in AI-powered solutions. As an accomplished AI Product Manager with over three years of hands-on experience in building and scaling 0-to-1 AI-native products, I am confident my proven ability to shape product roadmaps, lead cross-functional teams, and deliver impactful customer-facing solutions directly aligns with Ema’s vision. My background as an AI Engineer and Forward-Deployed Engineer at FlytBase, CrelioHealth, and Sprinto has equipped me with a unique blend of technical depth and product leadership essential for this Product Manager role.
+
+My career is marked by tangible successes in bringing innovative AI products to market and driving significant business growth. At FlytBase, I owned the 0-to-1 roadmap and successful launch of Prediq (AI drone SaaS), which rapidly scaled to ~$6K MRR. Similarly, at CrelioHealth, my leadership as a Product Manager for Smart Reports directly contributed to increasing laboratory revenue by approximately $2,000 MRR per lab. Beyond revenue generation, I demonstrably improved operational efficiency by cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. My experience extends to building internal developer CLIs, automating complex workflows with Zapier, Make, and Python, and developing LLM-powered workflows and agentic systems, all critical competencies for a Product Manager at Ema.
+
+The opportunity to contribute my expertise in AI product development and strategic execution as a Product Manager at Ema is incredibly exciting. My portfolio, including projects like Hidden Jobs (50K+ indexed ATS jobs) and Stare V2, further showcases my capability to transform complex problems into user-centric, scalable AI solutions. I am eager to
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

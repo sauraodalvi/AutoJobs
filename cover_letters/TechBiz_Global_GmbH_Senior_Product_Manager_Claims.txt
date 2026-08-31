@@ -1,0 +1,32 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager Claims at TechBiz Global GmbH
+Apply Link: https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/remote-senior-product-manager-claims-berlin-145076
+Date Generated: 2026-08-27
+============================================================
+
+**[Your Name]**
+[Your Address] | [Your Phone] | [Your Email]
+
+**[Date]**
+
+Hiring Manager
+TechBiz Global GmbH
+[Company Address, if known, otherwise omit]
+
+**Dear Hiring Manager,**
+
+I am writing to express my enthusiastic interest in the Senior Product Manager Claims position at TechBiz Global GmbH. As an AI Product Manager with over three years of hands-on experience in bringing 0-to-1 AI-native solutions to market, I am deeply impressed by TechBiz Global GmbH's commitment to innovation in the claims sector. My background in shaping product roadmaps, leading cross-functional teams, and delivering impactful AI/automation solutions across diverse SaaS environments—from drone autonomy at FlytBase to healthcare SaaS at CrelioHealth and enterprise security at Sprinto—aligns perfectly with the strategic product vision I envision for this crucial **Product Manager** role.
+
+My career is marked by a consistent record of driving tangible business outcomes through astute product leadership. At FlytBase, I owned the 0-to-1 roadmap and successful launch of Prediq, an AI drone SaaS solution that rapidly grew to ~$6K MRR. Similarly, as a **Product Manager** at CrelioHealth, my ownership of the Smart Reports roadmap directly contributed to increasing lab revenue by approximately $2,000 MRR per lab, while simultaneously leveraging custom AI prompt pipelines to cut patient registration time by ~58% and sample turnaround by 18%. Beyond these direct product successes, I have a proven ability to build robust internal developer CLIs, automate complex processes with advanced tools, and develop innovative AI products like Hidden Jobs, showcasing my full-stack product development capabilities as a **Product Manager**.
+
+I am confident that my unique blend of AI engineering expertise and product management acumen makes me an ideal candidate to drive significant impact as a Senior Product Manager Claims at TechBiz Global GmbH. I am eager to discuss how my experience in building and scaling AI-powered solutions can contribute to your team's success and propel your product growth. Thank you for your time and consideration.
+
+**Sincerely,**
+**Saurao Dalvi**
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf
