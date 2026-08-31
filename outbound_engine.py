@@ -39,9 +39,9 @@ def save_tracker(data):
         logging.error(f"Failed to save tracker.json: {e}")
 
 
-def send_email(to_email: str, subject: str, body: str, is_digest: bool = False, attach_resume: bool = True) -> bool:
+def send_email(to_email: str, subject: str, body: str, is_digest: bool = False, attach_resume: bool = True, html_body: str = None) -> bool:
     """
-    Transmits an email via SMTP with proper MX validation, RFC PDF attachment, and exception handling.
+    Transmits an email via SMTP with proper MX validation, RFC PDF attachment, and HTML/Text multipart formatting.
     """
     to_email = to_email.strip()
 
@@ -61,11 +61,17 @@ def send_email(to_email: str, subject: str, body: str, is_digest: bool = False, 
         return False
 
     try:
-        msg = MIMEMultipart()
+        msg = MIMEMultipart("alternative" if html_body else "mixed")
         msg["From"] = config.EMAIL_USER
         msg["To"] = to_email
         msg["Subject"] = subject
+
+        # Attach plain text
         msg.attach(MIMEText(body, "plain", "utf-8"))
+
+        # Attach HTML if provided
+        if html_body:
+            msg.attach(MIMEText(html_body, "html", "utf-8"))
 
         # Attach Resume PDF for outbound job pitches / follow-ups
         if not is_digest and attach_resume:
@@ -343,7 +349,7 @@ def send_daily_digest(recipient_email: str = None) -> bool:
         data,
         key=lambda j: referral_engine.calculate_referral_priority(j.get("role", ""), j.get("company", ""), j.get("location", ""), j.get("description", ""))[0],
         reverse=True
-    )[:5]
+    )[:6]
 
     if top_referral_jobs:
         body_lines.extend([
@@ -367,8 +373,71 @@ def send_daily_digest(recipient_email: str = None) -> bool:
     body_lines.append("Generated automatically by AutoJobs Autonomous Agent.")
     body = "\n".join(body_lines)
 
+    # Construct Rich Executive HTML Email
+    html_cards = []
+    for job in top_referral_jobs:
+        comp = job.get("company", "Company")
+        role = job.get("role", "Product Manager")
+        loc = job.get("location", "Remote")
+        stars, fit = referral_engine.calculate_referral_priority(role, comp, loc, job.get("description", ""))
+        li_search = referral_engine.generate_linkedin_search_url(comp, role, loc)
+        apply_url = job.get("apply_url", "#")
+        html_cards.append(f"""
+        <div style="background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                <h3 style="margin: 0; color: #f8fafc; font-size: 16px;">{comp} — {role}</h3>
+                <span style="color: #fbbf24; font-size: 14px;">{'⭐' * stars}</span>
+            </div>
+            <p style="margin: 0 0 12px 0; color: #94a3b8; font-size: 13px;">📍 {loc} &nbsp;|&nbsp; 🎯 {fit}</p>
+            <div style="margin-top: 10px;">
+                <a href="{li_search}" style="background: #0077b5; color: #ffffff; text-decoration: none; padding: 8px 14px; border-radius: 6px; font-weight: 600; font-size: 12px; display: inline-block; margin-right: 8px;">🔍 1-Click Find PM Referrers on LinkedIn</a>
+                {f'<a href="{apply_url}" style="background: #4f46e5; color: #ffffff; text-decoration: none; padding: 8px 14px; border-radius: 6px; font-weight: 600; font-size: 12px; display: inline-block;">👉 Direct Apply</a>' if apply_url and apply_url != '#' else ''}
+            </div>
+        </div>
+        """)
+
+    html_body = f"""
+    <!DOCTYPE html>
+    <html>
+    <head><meta charset="utf-8"></head>
+    <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background-color: #0b0f19; color: #f8fafc; margin: 0; padding: 24px;">
+        <div style="max-width: 650px; margin: 0 auto; background: #111827; border: 1px solid #1f2937; border-radius: 12px; padding: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);">
+            <div style="border-bottom: 1px solid #1f2937; padding-bottom: 16px; margin-bottom: 20px; display: flex; align-items: center; justify-content: space-between;">
+                <div>
+                    <h1 style="margin: 0; font-size: 20px; color: #818cf8;">⚡ AutoJobs Referral AI Briefing</h1>
+                    <p style="margin: 4px 0 0 0; font-size: 13px; color: #94a3b8;">Daily Executive Digest for {config.CANDIDATE_NAME} ({today_str})</p>
+                </div>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-bottom: 20px; text-align: center;">
+                <div style="background: #1e293b; padding: 12px; border-radius: 6px; border: 1px solid #334155;">
+                    <div style="font-size: 20px; font-weight: bold; color: #38bdf8;">{len(application_ready_items)}</div>
+                    <div style="font-size: 11px; color: #94a3b8;">Kits Ready</div>
+                </div>
+                <div style="background: #1e293b; padding: 12px; border-radius: 6px; border: 1px solid #334155;">
+                    <div style="font-size: 20px; font-weight: bold; color: #10b981;">{counts.get('OUTREACH_SENT', 0)}</div>
+                    <div style="font-size: 11px; color: #94a3b8;">Pitches Sent</div>
+                </div>
+                <div style="background: #1e293b; padding: 12px; border-radius: 6px; border: 1px solid #334155;">
+                    <div style="font-size: 20px; font-weight: bold; color: #fbbf24;">{len(data)}</div>
+                    <div style="font-size: 11px; color: #94a3b8;">Tracked Leads</div>
+                </div>
+            </div>
+
+            <h2 style="font-size: 15px; color: #f8fafc; text-transform: uppercase; letter-spacing: 0.05em; margin: 24px 0 12px 0;">⭐ Top Priority Referral Targets Today</h2>
+            {''.join(html_cards)}
+
+            <div style="margin-top: 24px; padding-top: 16px; border-top: 1px solid #1f2937; text-align: center;">
+                <a href="http://localhost:8000/dashboard/" style="background: linear-gradient(135deg, #6366f1, #a855f7); color: #ffffff; text-decoration: none; padding: 10px 20px; border-radius: 8px; font-weight: bold; font-size: 14px; display: inline-block;">🚀 Open AutoJobs Talent Copilot Dashboard</a>
+                <p style="margin: 12px 0 0 0; font-size: 11px; color: #64748b;">Autonomous PM / APM Pipeline Orchestrated by AutoJobs.</p>
+            </div>
+        </div>
+    </body>
+    </html>
+    """
+
     logging.info(f"Dispatching 09:00 AM Daily Digest to {target_email}...")
-    return send_email(target_email, subject, body, is_digest=True, attach_resume=False)
+    return send_email(target_email, subject, body, is_digest=True, attach_resume=False, html_body=html_body)
 
 
 if __name__ == "__main__":
