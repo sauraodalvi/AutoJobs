@@ -13,6 +13,10 @@ if exist "%~dp0.venv\Scripts\python.exe" (
 )
 
 echo.
+echo Launching AutoJobs Talent Copilot Dashboard...
+start http://localhost:8000/dashboard/
+
+echo.
 echo Daily sequence finished at %date% %time%.
 echo ===================================================
 endlocal

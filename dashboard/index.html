@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AutoJobs Referral AI Agent — Talent Copilot</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-layout">
+    <!-- Top Navigation -->
+    <header class="navbar">
+      <div class="nav-brand">
+        <div class="logo-icon">⚡</div>
+        <div class="brand-text">
+          <span class="brand-name">AutoJobs</span>
+          <span class="brand-badge">REFERRAL AI AGENT</span>
+        </div>
+      </div>
+
+      <div class="nav-status">
+        <div class="status-indicator live">
+          <span class="pulse-dot"></span>
+          <span>Cloud Agent: <strong>Active & Syncing</strong></span>
+        </div>
+        <div class="profile-chip">
+          <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Saurao" alt="Avatar" class="avatar">
+          <div class="profile-info">
+            <span class="profile-name">Saurao Dalvi</span>
+            <span class="profile-role">AI Product Manager</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Grid -->
+    <main class="main-container">
+      <!-- Left Column: 1-Click Ingestion & Copilot Input -->
+      <section class="left-panel">
+        <div class="card glass-card">
+          <div class="card-header">
+            <div class="header-title">
+              <span class="icon">🎯</span>
+              <h2>Instant Referral Ingest</h2>
+            </div>
+            <span class="sub-badge">1-Click AI Synthesis</span>
+          </div>
+          <p class="card-desc">Paste a job posting or target company to instantly synthesize referral connection notes, forwardable blurbs, and cold pitches.</p>
+
+          <form id="ingest-form" class="ingest-form">
+            <div class="form-group">
+              <label for="input-company">Company Name</label>
+              <input type="text" id="input-company" placeholder="e.g. Revolut, Grab, Personio, Stripe" required>
+            </div>
+
+            <div class="form-group">
+              <label for="input-role">Target Role</label>
+              <input type="text" id="input-role" value="Product Manager" placeholder="e.g. AI Product Manager, APM" required>
+            </div>
+
+            <div class="form-group">
+              <label for="input-location">Location / Region</label>
+              <input type="text" id="input-location" value="Remote / EU / Pune" placeholder="e.g. Pune, Germany, Singapore, Remote">
+            </div>
+
+            <div class="form-group">
+              <label for="input-url">Job Listing URL (Optional)</label>
+              <input type="url" id="input-url" placeholder="https://linkedin.com/jobs/view/... or Careers page">
+            </div>
+
+            <div class="form-group">
+              <label for="input-desc">Key Job Requirements / Snippet</label>
+              <textarea id="input-desc" rows="3" placeholder="Paste snippet or keywords (e.g. LLM workflows, B2B SaaS, 0-to-1 PM)..."></textarea>
+            </div>
+
+            <div class="button-group">
+              <button type="submit" id="btn-generate" class="btn btn-primary">
+                <span class="btn-icon">⚡</span> Synthesize Referral Packet
+              </button>
+              <button type="button" id="btn-mock" class="btn btn-secondary">
+                <span>✨ Load Sample Lead</span>
+              </button>
+            </div>
+          </form>
+
+          <!-- 1-Click Bookmarklet Tool -->
+          <div class="bookmarklet-box">
+            <div class="box-title">
+              <span>🚀 1-Click Browser Bookmarklet</span>
+            </div>
+            <p>Drag this button to your Chrome/Brave bookmarks bar to 1-click capture jobs while browsing LinkedIn, Greenhouse, or Lever:</p>
+            <a href="javascript:(function(){const c=prompt('Company Name:',document.title.split(' hiring ')[1]||'');const r=prompt('Role Title:',document.title.split(' hiring ')[0]||'Product Manager');if(c){window.open('http://localhost:8000/dashboard/?company='+encodeURIComponent(c)+'&role='+encodeURIComponent(r)+'&url='+encodeURIComponent(window.location.href),'_blank');}})();" class="bookmarklet-link" onclick="alert('Drag this button to your Bookmarks Bar!');return false;">
+              📌 AutoJobs 1-Click Capture
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right Column: Live Referral Dossier & Pipeline -->
+      <section class="right-panel">
+        <!-- Top Metrics -->
+        <div class="stats-row">
+          <div class="stat-card">
+            <div class="stat-num" id="stat-leads">45</div>
+            <div class="stat-label">Active Leads Tracked</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num" id="stat-kits">31</div>
+            <div class="stat-label">Referral Kits Synthesized</div>
+          </div>
+          <div class="stat-card highlight">
+            <div class="stat-num" id="stat-ats">94%</div>
+            <div class="stat-label">Avg. ATS Match Score</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num" id="stat-pitches">2</div>
+            <div class="stat-label">Direct Pitches Out</div>
+          </div>
+        </div>
+
+        <!-- Generated Referral Dossier View -->
+        <div class="card glass-card dossier-container" id="dossier-card">
+          <div class="card-header">
+            <div class="header-title">
+              <span class="icon">⭐</span>
+              <h2 id="dossier-title">Active Referral Dossier</h2>
+            </div>
+            <div class="priority-stars" id="dossier-stars">⭐⭐⭐⭐⭐ (98% Match)</div>
+          </div>
+
+          <div class="dossier-body">
+            <!-- Master 1-Click Auto-Pilot Button -->
+            <div class="master-cta-box">
+              <button type="button" id="btn-master-autopilot" class="btn-master" onclick="executeMasterAutoPilot()">
+                <span class="pulse-icon">⚡</span>
+                <span class="btn-text">
+                  <strong>1-CLICK FULL REFERRAL LAUNCH (AUTO-PILOT)</strong>
+                  <small>Auto-Copy Peer Note + Open LinkedIn PM Referrers + Send Pitch & Resume via Gmail</small>
+                </span>
+              </button>
+              <div id="autopilot-status-steps" class="autopilot-status" style="display:none;">
+                <div class="step-item step-done" id="ap-step-1">✔ 1. ATS Match & Strategy Synthesized (98% Match)</div>
+                <div class="step-item" id="ap-step-2">⏳ 2. Copying LinkedIn Connect Note to clipboard...</div>
+                <div class="step-item" id="ap-step-3">⏳ 3. Transmitting Email Pitch & Resume PDF via Gmail...</div>
+                <div class="step-item" id="ap-step-4">⏳ 4. Launching LinkedIn Referrer search...</div>
+              </div>
+            </div>
+
+            <!-- Step 1: 1-Click LinkedIn Search -->
+            <div class="dossier-step">
+              <div class="step-label">
+                <span class="step-badge">STEP 1</span>
+                <strong>Find Employees & Referrers on LinkedIn</strong>
+              </div>
+              <div class="step-action">
+                <a href="#" id="link-linkedin-search" target="_blank" class="btn btn-linkedin">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/></svg>
+                  <span>1-Click Find PM Referrers at Target Company</span>
+                </a>
+              </div>
+            </div>
+
+            <!-- Step 2: Peer Connection Message -->
+            <div class="dossier-step">
+              <div class="step-label">
+                <span class="step-badge">STEP 2</span>
+                <strong>1-Click LinkedIn Connect Note (&lt;300 Chars)</strong>
+              </div>
+              <div class="code-box">
+                <p id="txt-peer-note">Hi [Name], noticed your great work at Revolut! I'm applying for the Product Manager - AI Platform position. With 3+ years scaling 0-to-1 AI SaaS products at FlytBase and CrelioHealth, my background maps closely. Open to passing my profile along for an internal referral?</p>
+                <button class="btn-copy" onclick="copyText('txt-peer-note')">📋 Copy Note</button>
+              </div>
+            </div>
+
+            <!-- Step 3: Forwardable HR Blurb -->
+            <div class="dossier-step">
+              <div class="step-label">
+                <span class="step-badge">STEP 3</span>
+                <strong>Zero-Effort Forwardable Blurb (For Referrer to Paste to HR)</strong>
+              </div>
+              <div class="code-box">
+                <pre id="txt-forwardable">Candidate: Saurao Dalvi
+Role Applied: Product Manager - AI Platform
+Overview: AI Product Manager with 3+ years experience scaling 0-to-1 SaaS products at FlytBase & CrelioHealth. Track record increasing MRR, launching LLM agent features, and leading cross-functional teams.
+Contact: sauraodalvi97@gmail.com
+LinkedIn: https://www.linkedin.com/in/saurao-dalvi/
+Portfolio: https://sauraodalvi.netlify.app/</pre>
+                <button class="btn-copy" onclick="copyText('txt-forwardable')">📋 Copy Blurb</button>
+              </div>
+            </div>
+
+            <!-- Step 4: Direct Hiring Manager Pitch -->
+            <div class="dossier-step">
+              <div class="step-label">
+                <span class="step-badge">STEP 4</span>
+                <strong>Direct Hiring Manager / Founder Cold Pitch & 1-Click Send</strong>
+              </div>
+              <div class="code-box">
+                <pre id="txt-hm-pitch">Subject: Note regarding Product Manager - AI Platform opening – Saurao Dalvi
+
+Dear Hiring Team,
+
+I noticed Revolut is expanding its AI Platform team. As an AI Product Manager with 3+ years experience driving 0-to-1 B2B SaaS products at FlytBase and CrelioHealth, I specialize in shipping LLM workflows, customer-centric features, and MRR growth.
+
+Key Highlights:
+• Shipped 0-to-1 AI SaaS platform scaling commercial adoption.
+• Scaled SaaS features increasing account MRR.
+• Deep technical grounding in LLM architectures and agile execution.
+
+I would love to connect and share how my experience can accelerate your roadmap.
+
+Best regards,
+Saurao Dalvi
+https://www.linkedin.com/in/saurao-dalvi/</pre>
+                <button class="btn-copy" onclick="copyText('txt-hm-pitch')">📋 Copy Pitch</button>
+              </div>
+
+              <!-- 1-Click Direct Email Dispatch Panel -->
+              <div class="dispatch-panel" style="margin-top: 0.75rem; background: rgba(30, 41, 59, 0.7); border: 1px solid var(--border-color); border-radius: var(--radius-sm); padding: 0.9rem; display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;">
+                <div style="flex: 1; min-width: 220px;">
+                  <input type="email" id="input-recipient-email" placeholder="Recruiter / Hiring Manager email (e.g. talent@revolut.com)" style="width: 100%; padding: 0.55rem 0.8rem; background: #0f172a; border: 1px solid var(--border-color); border-radius: 6px; color: #fff; font-size: 0.85rem;">
+                </div>
+                <div style="display: flex; gap: 0.5rem;">
+                  <button type="button" id="btn-1click-send" class="btn btn-primary" style="padding: 0.55rem 1rem; font-size: 0.85rem;" onclick="dispatchPitchViaApi()">
+                    <span>🚀 1-Click Send Email & Resume</span>
+                  </button>
+                  <a href="#" id="link-gmail-open" target="_blank" class="btn btn-secondary" style="padding: 0.55rem 1rem; font-size: 0.85rem;" onclick="openInGmailWeb(event)">
+                    <span>✉️ Open in Gmail</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Pipeline Kanban / Table -->
+        <div class="card glass-card pipeline-card">
+          <div class="card-header">
+            <div class="header-title">
+              <span class="icon">📊</span>
+              <h2>Active Outreach & Referral Pipeline</h2>
+            </div>
+            <div class="filter-controls">
+              <button class="filter-btn active" data-filter="all">All</button>
+              <button class="filter-btn" data-filter="ready">Ready (31)</button>
+              <button class="filter-btn" data-filter="sent">Sent (2)</button>
+              <button class="filter-btn" data-filter="applied">Applied (11)</button>
+            </div>
+          </div>
+
+          <div class="table-responsive">
+            <table class="pipeline-table">
+              <thead>
+                <tr>
+                  <th>Company</th>
+                  <th>Target Role</th>
+                  <th>Location</th>
+                  <th>ATS Fit</th>
+                  <th>Status</th>
+                  <th>Action</th>
+                </tr>
+              </thead>
+              <tbody id="pipeline-tbody">
+                <!-- Populated dynamically via app.js -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div id="toast" class="toast">Copied to clipboard!</div>
+  <script src="app.js"></script>
+</body>
+</html>

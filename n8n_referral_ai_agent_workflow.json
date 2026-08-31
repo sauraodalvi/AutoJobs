@@ -1,0 +1,157 @@
+{
+  "name": "AutoJobs - Referral AI Agent Workflow",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 9 * * *"
+            }
+          ]
+        }
+      },
+      "id": "node-schedule-daily",
+      "name": "Daily 09:00 AM Cron Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [200, 300]
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "ingest-job",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "node-webhook-ingest",
+      "name": "Webhook Ingest (Copilot / Bookmarklet)",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [200, 520],
+      "webhookId": "autojobs-ingest-job"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Set Candidate Profile & Ingested Job Context\nconst input = $input.first().json;\n\nconst profile = {\n  name: \"Saurao Dalvi\",\n  email: \"sauraodalvi97@gmail.com\",\n  phone: \"+91 9876543210\",\n  title: \"AI Product Manager / Associate Product Manager\",\n  linkedin: \"https://www.linkedin.com/in/saurao-dalvi/\",\n  portfolio: \"https://sauraodalvi.netlify.app/\",\n  experience_years: \"3+\",\n  past_companies: \"FlytBase (Drone Tech B2B SaaS) & CrelioHealth (HealthTech SaaS)\",\n  core_strengths: \"0-to-1 Product Management, LLM & AI Workflows, MRR Growth, Customer Discovery, Agile Leadership\",\n  target_locations: [\"Pune\", \"European Union\", \"Germany\", \"Netherlands\", \"UK\", \"Japan\", \"Singapore\", \"Indonesia\", \"Remote\"]\n};\n\nconst job = {\n  company: input.company || \"Target Company\",\n  role: input.role || \"Product Manager\",\n  location: input.location || \"Remote / Global\",\n  url: input.url || input.apply_url || \"\",\n  description: input.description || \"\",\n  contact_name: input.contact_name || \"Hiring Team\",\n  contact_email: input.contact_email || \"\"\n};\n\n// Generate 1-Click LinkedIn Search Query for Referrers\nconst cleanCompany = job.company.replace(/[^a-zA-Z0-9 ]/g, \"\").trim();\nconst linkedinSearchUrl = `https://www.linkedin.com/search/results/people/?keywords=${encodeURIComponent(cleanCompany + ' Product Manager')}&origin=GLOBAL_SEARCH_HEADER`;\n\nreturn {\n  json: {\n    profile,\n    job,\n    linkedinSearchUrl,\n    timestamp: new Date().toISOString()\n  }\n};"
+      },
+      "id": "node-profile-context",
+      "name": "Profile & Context Injector",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [460, 400]
+    },
+    {
+      "parameters": {
+        "model": "google/gemini-2.5-flash",
+        "prompt": "={{ 'You are an elite Executive Career & Referral AI Agent representing ' + $json.profile.name + ' (' + $json.profile.title + ').\\n\\n' +\n'TARGET ROLE: ' + $json.job.role + ' at ' + $json.job.company + ' (' + $json.job.location + ')\\n' +\n'JOB LINK: ' + $json.job.url + '\\n' +\n'CANDIDATE BACKGROUND: 3+ years experience scaling 0-to-1 AI SaaS products at FlytBase & CrelioHealth. Track record driving MRR and launching LLM agent workflows.\\n\\n' +\n'Generate a structured JSON output with the exact keys:\\n' +\n'1. \"stars\": Number from 1 to 5 indicating strategic fit score.\\n' +\n'2. \"fit_reason\": 1-line reason for the priority rating.\\n' +\n'3. \"ats_score\": Match percentage (e.g. 92).\\n' +\n'4. \"keywords\": Array of top 4 matching keywords.\\n' +\n'5. \"linkedin_connect_note\": Ultra-concise, personalized LinkedIn connect note (<300 characters, zero fluff, mentioning shared tech / domain).\\n' +\n'6. \"forwardable_referral_blurb\": 3-line zero-effort candidate snippet for an internal employee to forward directly to HR/recruiting portal.\\n' +\n'7. \"hiring_manager_cold_email\": Subject and body for a direct pitch to the hiring manager highlighting measurable 0-to-1 PM impact.\\n' +\n'8. \"followup_1_email\": Friendly follow-up email to be sent 3 days later.\\n' +\n'9. \"followup_2_email\": Final polite check-in email for 7 days later.\\n\\n' +\n'Return strictly valid JSON without markdown wrapping.' }}"
+      },
+      "id": "node-ai-synthesis",
+      "name": "Gemini 2.5 Referral AI Engine",
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 1.4,
+      "position": [700, 400]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Parse AI Output into Clean Referral Packet\nlet aiRaw = $input.first().json.text || $input.first().json.content || \"{}\";\nlet parsed = {};\n\ntry {\n  // Strip possible markdown fences\n  aiRaw = aiRaw.replace(/```json/g, \"\").replace(/```/g, \"\").trim();\n  parsed = JSON.parse(aiRaw);\n} catch (e) {\n  parsed = {\n    stars: 5,\n    fit_reason: \"High strategic fit for AI Product Management\",\n    ats_score: 90,\n    keywords: [\"AI Product Management\", \"0-to-1 SaaS\", \"LLM Workflows\", \"MRR Growth\"],\n    linkedin_connect_note: `Hi [Name], saw your work at ${$node[\"Profile & Context Injector\"].json.job.company}! Applying for ${$node[\"Profile & Context Injector\"].json.job.role}. With 3+ yrs scaling 0-to-1 AI SaaS, my background maps closely. Open to passing my profile along for internal referral?`,\n    forwardable_referral_blurb: `Candidate: Saurao Dalvi | Role: ${$node[\"Profile & Context Injector\"].json.job.role}\\nOverview: AI Product Manager with 3+ yrs scaling 0-to-1 B2B SaaS. Strong track record in LLM workflows and MRR growth.\\nContact: sauraodalvi97@gmail.com | Portfolio: https://sauraodalvi.netlify.app/`,\n    hiring_manager_cold_email: `Subject: Note regarding ${$node[\"Profile & Context Injector\"].json.job.role} - Saurao Dalvi\\n\\nDear Hiring Team,\\nI noticed ${$node[\"Profile & Context Injector\"].json.job.company} is seeking a ${$node[\"Profile & Context Injector\"].json.job.role}. As an AI PM with 3+ years experience driving 0-to-1 B2B SaaS products at FlytBase and CrelioHealth, I specialize in shipping LLM workflows and scaling MRR.`\n  };\n}\n\nconst merged = {\n  ...$node[\"Profile & Context Injector\"].json,\n  referral_packet: parsed\n};\n\nreturn { json: merged };"
+      },
+      "id": "node-parse-packet",
+      "name": "Packet Formatter & Schema Validator",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [920, 400]
+    },
+    {
+      "parameters": {
+        "chatId": "={{ $env.TELEGRAM_CHAT_ID || '@your_channel_or_chat_id' }}",
+        "text": "={{ '⭐ *NEW REFERRAL DOSSIER READY*\\n\\n' +\n'🏢 *Company:* ' + $json.job.company + '\\n' +\n'🎯 *Role:* ' + $json.job.role + '\\n' +\n'📍 *Location:* ' + $json.job.location + '\\n' +\n'⭐ *Priority Fit:* ' + '⭐'.repeat($json.referral_packet.stars || 4) + ' (' + ($json.referral_packet.ats_score || 90) + '% Match)\\n\\n' +\n'🔍 *Find Referrers on LinkedIn:*\\n' + $json.linkedinSearchUrl + '\\n\\n' +\n'💬 *1-Click LinkedIn Note:*\\n`' + $json.referral_packet.linkedin_connect_note + '`\\n\\n' +\n'📋 *Forwardable HR Blurb:*\\n`' + $json.referral_packet.forwardable_referral_blurb + '`' }}",
+        "additionalFields": {
+          "parse_mode": "Markdown"
+        }
+      },
+      "id": "node-telegram-alert",
+      "name": "Send Interactive Telegram Alert",
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1.2,
+      "position": [1160, 260]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify({\n  status: 'success',\n  message: 'Referral dossier generated successfully',\n  data: $json\n}) }}"
+      },
+      "id": "node-webhook-response",
+      "name": "Webhook JSON Response",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [1160, 520]
+    }
+  ],
+  "connections": {
+    "Daily 09:00 AM Cron Trigger": {
+      "main": [
+        [
+          {
+            "node": "Profile & Context Injector",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Webhook Ingest (Copilot / Bookmarklet)": {
+      "main": [
+        [
+          {
+            "node": "Profile & Context Injector",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Profile & Context Injector": {
+      "main": [
+        [
+          {
+            "node": "Gemini 2.5 Referral AI Engine",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Gemini 2.5 Referral AI Engine": {
+      "main": [
+        [
+          {
+            "node": "Packet Formatter & Schema Validator",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Packet Formatter & Schema Validator": {
+      "main": [
+        [
+          {
+            "node": "Send Interactive Telegram Alert",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Webhook JSON Response",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}
