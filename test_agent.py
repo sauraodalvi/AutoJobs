@@ -358,6 +358,31 @@ class TestReferralAgent(unittest.TestCase):
         self.assertIn("Saurao Dalvi", packet["forwardable_blurb"])
         self.assertIn("Simpplr", packet["peer_message"])
 
+    def test_referral_peer_message_fits_linkedin_connect_limit(self):
+        import referral_engine
+        # LinkedIn Connect notes are capped at 300 chars. Long role titles
+        # used to overflow this limit (observed up to 341 chars) and would be
+        # rejected on send. Assert the peer message is always <= 300.
+        long_roles = [
+            "GROUP PRODUCT MANAGER, DATA PRODUCTS & ANALYTICS - REMOTE (#Wayne, PA, US, 19087)",
+            "Senior Product Manager, Product Management at DeliciousDoughnuts (E-Commerce)",
+            "Associate Product Manager - Platform, Infrastructure & Search Innovations (Contracts)",
+            "Senior Technical Product Manager - Customer Experience & Analytics (All Genders) - Berlin",
+        ]
+        long_companies = ["TE Connectivity", "Public Consulting Group, Inc.", "KoRo Handels GmbH", "THG Plc"]
+        for role, company in zip(long_roles, long_companies):
+            packet = referral_engine.generate_referral_packet({
+                "company": company,
+                "role": role,
+                "location": "Remote",
+                "apply_url": "https://example.com/jobs/1",
+                "description": "AI product role",
+            })
+            self.assertLessEqual(
+                len(packet["peer_message"]),
+                300,
+                f"peer_message too long ({len(packet['peer_message'])} chars) for {company} / {role}",
+            )
 
     def test_location_filtering(self):
         import config

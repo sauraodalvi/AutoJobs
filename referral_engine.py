@@ -104,8 +104,9 @@ def generate_referral_packet(job: dict) -> Dict[str, str]:
     kw_str = ", ".join(keywords[:3]) if keywords else "AI Product Management, 0-to-1 SaaS"
 
     # 1. Peer / Alumni Referral Request (Strictly < 300 chars for LinkedIn Connect Note)
-    # LinkedIn Connect notes max out at 300 characters, so we trim verbose role titles
-    # (location codes, parenthetical asides, long suffixes) to guarantee the note fits.
+    # LinkedIn Connect notes are capped at 300 characters. We write a compact
+    # note with a shortened role title so it always fits, then fall back to a
+    # role-less variant for the rare extreme case (very long company + role).
     MAX_CONNECT_NOTE = 300
 
     def _shorten_role(label: str, budget: int = 45) -> str:
@@ -113,20 +114,25 @@ def generate_referral_packet(job: dict) -> Dict[str, str]:
         label = re.sub(r"\s+", " ", label).strip(" -–,;")
         return label[:budget].rstrip(" -–,;") if len(label) > budget else label
 
-    short_role = _shorten_role(role)
-    peer_message = (
-        f"Hi [Name], saw your work at {company}! Applying for {short_role}. "
-        f"With 3+ yrs scaling 0-to-1 AI SaaS at FlytBase & CrelioHealth, my background maps closely. "
-        f"Open to passing my profile along for an internal referral? I have a 2-line blurb ready to make it zero-effort."
-    )
-    # In case an extremely long company name still pushes us over the limit,
-    # drop to the role title alone as a final safety net (still human-readable).
-    if len(peer_message) > MAX_CONNECT_NOTE:
-        peer_message = (
-            f"Hi [Name], saw your work at {company}! I'm applying for a Product Manager role "
-            f"at {company} and my background (3+ yrs scaling 0-to-1 AI SaaS at FlytBase & CrelioHealth) "
-            f"maps closely. Open to passing my profile along as an internal referral? A 2-line blurb is ready."
+    def _peer_note(company_label: str, role_label: str) -> str:
+        if role_label:
+            return (
+                f"Hi [Name], saw your work at {company_label}! I'm applying for {role_label}. "
+                f"My background (3+ yrs scaling 0-to-1 AI SaaS at FlytBase & CrelioHealth) maps closely. "
+                f"Open to an internal referral? A 2-line blurb is ready."
+            )
+        return (
+            f"Hi [Name], I'm applying for a Product Manager role and my background (3+ yrs scaling "
+            f"0-to-1 AI SaaS at FlytBase & CrelioHealth) maps closely to your team's work. "
+            f"Open to an internal referral? A 2-line blurb is ready."
         )
+
+    short_role = _shorten_role(role)
+    peer_message = _peer_note(company, short_role)
+    if len(peer_message) > MAX_CONNECT_NOTE:
+        peer_message = _peer_note(company, "")
+    if len(peer_message) > MAX_CONNECT_NOTE:
+        peer_message = _peer_note("", "")
 
     # 2. Forwardable Referrer Blurb (What the employee pastes to their HR portal)
     forwardable_blurb = (
