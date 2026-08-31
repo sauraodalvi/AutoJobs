@@ -1,0 +1,33 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: (Senior) IT Product Owner Data Platform (m/w/d) at OXG Glasfaser GmbH
+Apply Link: https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-92446
+Date Generated: 2026-08-31
+============================================================
+
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email]
+
+[Date]
+
+Hiring Team
+OXG Glasfaser GmbH
+[Company Address, if known, otherwise omit]
+
+**Subject: Application for (Senior) IT Product Owner Data Platform (m/w/d) – Saurao Dalvi**
+
+Dear Hiring Team,
+
+I am writing to express my enthusiastic interest in the (Senior) IT Product Owner Data Platform (m/w/d) position at OXG Glasfaser GmbH. With over three years of dedicated experience as an AI Product Manager and AI Engineer, I specialize in the **0-to-1 product management** of AI-native solutions and possess a proven track record of driving innovation and growth. My background, spanning drone autonomy at FlytBase, healthcare SaaS at CrelioHealth, and enterprise security SaaS at Sprinto, aligns perfectly with the strategic vision required to excel in a data-centric product role within a dynamic organization like OXG Glasfaser GmbH.
+
+My career is marked by tangible impact and a consistent ability to deliver. At FlytBase, I spearheaded the **0-to-1 product management** and launch of Prediq (AI drone SaaS), contributing to its rapid growth to ~$6K **MRR**. Similarly, at CrelioHealth, I owned the roadmap for Smart Reports, directly increasing lab revenue by approximately $2,000 **MRR** per lab. My expertise extends to optimizing critical business processes, evidenced by cutting patient registration time by ~58% and sample turnaround by 18% through custom **AI workflows** and LLM-powered pipelines. I am adept at fostering **cross-functional leadership**, building internal developer CLIs, and automating complex systems with tools like Zapier, Make, and Python, consistently delivering solutions that enhance efficiency and drive significant **SaaS MRR growth**.
+
+I am particularly excited by the opportunity to apply my skills in building robust data platforms and leveraging AI to unlock new possibilities at OXG Glasfaser GmbH. My portfolio, available at sauraodalvi.netlify.app, further demonstrates my capabilities in creating impactful, AI-
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

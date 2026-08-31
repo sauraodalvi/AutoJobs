@@ -2,23 +2,32 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager - AI Finance at Bjak
 Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-finance-germany-60081
-Date Generated: 2026-08-30
+Date Generated: 2026-08-31
 ============================================================
 
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email]
 
-Dear Hiring Team at Bjak,
+[Date]
 
-I am writing to express my strong interest in the Product Manager – AI Finance role at Bjak. With over three years of experience as an AI Product Manager and Forward Deployed Engineer, I have built and shipped AI-native products from 0-to-1, led cross-functional teams, and delivered measurable revenue impact across drone autonomy, healthcare SaaS, and enterprise compliance platforms. Bjak's mission to simplify complex financial services through technology deeply resonates with my track record of turning ambiguous product spaces into scalable, customer-facing AI solutions, and I am excited about the opportunity to bring that same product craft to Bjak's AI finance ecosystem.
+Hiring Team
+Bjak
+[Company Address - if known, otherwise omit]
 
-At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS product that reached approximately $6K MRR, making real-time AI analytics accessible to enterprise drone operators. At CrelioHealth, I redefined the product experience by introducing Smart Reports—a feature that increased lab revenue by roughly $2,000 MRR per lab—while also cutting patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines and workflow automation. Beyond that, I have shipped developer-facing CLIs, built LLM-powered agentic workflows, and indexed over 50,000 live ATS jobs through products I co-built and launched independently. As a Product Manager who has operated at the intersection of AI engineering and product strategy, I bring a rare combination of technical fluency and product instincts that translates directly to defining and executing the roadmap for Bjak's AI-powered financial products. I am particularly drawn to Bjak's position in Southeast Asia's digital financial landscape and the scale at which AI can transform how users compare and access financial services.
+**Subject: AI Product Manager – Driving Innovation at Bjak**
 
-I would welcome the opportunity to discuss how my experience launching AI products, scaling MRR, and leading cross-functional teams can drive meaningful growth for Bjak. I am actively exploring roles in Germany and the broader EU and Southeast Asia markets, and I am confident this is a strong mutual fit. Let's connect.
+Dear Hiring Team,
 
-Warm regards,
-**Saura
+As an AI Product Manager with over three years of hands-on experience in pioneering 0-to-1 AI-native products, I am thrilled to express my keen interest in the Product Manager - AI Finance role at Bjak in Germany. My background in shaping product roadmaps, leading cross-functional teams, and delivering impactful AI/automation solutions across diverse sectors—including drone autonomy, healthcare SaaS, and enterprise security—aligns perfectly with Bjak's innovative vision at the intersection of AI and finance. I am confident that my proven ability to translate complex technical concepts into tangible product success makes me an ideal candidate to contribute significantly to your team.
+
+My career is marked by a consistent track record of launching and scaling successful products. At FlytBase, I owned the 0-to-1 roadmap and successful launch of Prediq (AI drone SaaS), which rapidly scaled to ~$6K MRR. Similarly, as a Product Manager at CrelioHealth, I owned the roadmap for Smart Reports, directly contributing to a ~$2,000 MRR increase per lab. My expertise extends to optimizing operational efficiency, evidenced by cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. Furthermore, I have built internal developer CLIs, automated complex processes with leading integration platforms, and developed LLM-powered workflows and agentic systems, consistently demonstrating my capabilities as a Product Manager in delivering high-impact solutions.
+
+I am eager to bring my expertise in building and scaling AI products to Bjak, contributing to your mission of revolutionizing the finance industry with intelligent solutions. My portfolio, available at sauraodalvi.netlify.app, further details my impactful contributions and 0-to-1 product development journey. Thank you for considering my application. I look forward to the opportunity to discuss how my skills as an AI Product Manager can drive significant product growth
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

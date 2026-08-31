@@ -2,28 +2,25 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager, Homepage at Wolt - English
 Apply Link: https://www.arbeitnow.co.uk/jobs/companies/wolt-english/product-manager-homepage-london-52373
-Date Generated: 2026-08-30
+Date Generated: 2026-08-31
 ============================================================
 
-Saurao Dalvi  
-[Your Address] • Pune, India • +91 XXXXXXXXXX • saurao@email.com • https://sauraodalvi.netlify.app  
+**Subject: Application for Product Manager, Homepage - Saurao Dalvi**
 
-[Date]  
+Dear Wolt Hiring Team,
 
-Hiring Team – Wolt (London)  
-Wolt – English  
-London, United Kingdom  
+As an accomplished AI Product Manager with over three years of experience building and launching innovative 0-to-1 solutions, I am writing to express my enthusiastic interest in the Product Manager, Homepage position at Wolt. My background at FlytBase, CrelioHealth, and Sprinto, where I consistently delivered customer-facing AI and automation products, aligns perfectly with Wolt's commitment to creating exceptional user experiences. I am particularly drawn to Wolt's dynamic environment and your focus on optimizing critical user touchpoints, a challenge I am eager to tackle as a Product Manager.
 
-Dear Hiring Team,  
+My track record demonstrates a consistent ability to drive significant impact through strategic product leadership. At FlytBase, I owned the 0-to-1 roadmap and successful launch of Prediq, an AI drone SaaS, which rapidly grew to ~$6K MRR. Similarly, at CrelioHealth, my ownership of the Smart Reports roadmap led to an estimated increase of ~$2,000 MRR per lab. I further optimized operations by cutting patient registration time by ~58% and sample turnaround by 18% using custom AI prompt pipelines. Beyond these successes, I've built internal developer CLIs, automated complex processes, and independently launched AI products like Hidden Jobs, showcasing my versatility as a Product Manager.
 
-As an AI Product Manager with 3+ years of end‑to‑end 0‑to‑1 experience building and scaling AI‑driven products—from drone autonomy at FlytBase to healthcare SaaS at CrelioHealth and enterprise security at Sprinto—I am eager to bring my product‑first mindset to Wolt’s Homepage team. My track record of defining vision, aligning cross‑functional stakeholders, and shipping measurable outcomes aligns directly with Wolt’s mission to delight users through seamless, data‑powered experiences.  
+I am confident that my blend of AI engineering expertise, product management acumen, and proven ability to scale products from conception to market will be a valuable asset to Wolt. I am excited by the prospect of contributing to the evolution of Wolt's homepage experience and driving meaningful product growth. Thank you for your time and consideration; I look forward to the opportunity to discuss how my skills and experience can benefit Wolt.
 
-In my most recent role I owned the roadmap and launch of **Prediq**, an AI‑native drone SaaS that grew to ~$6K MRR within six months, and I led the Smart Reports initiative at CrelioHealth, boosting lab revenue by ~$2K MRR per site while cutting patient registration time by 58% and sample turnaround by 18% through custom LLM prompt pipelines. I also built internal developer CLIs and automated workflows with Zapier, Make, and Python, and shipped AI products such as Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2. These experiences have honed my ability to translate technical depth into clear product strategy—a core competency for a **Product Manager** focused on Wolt’s homepage evolution.  
+Sincerely,
 
-I am excited about the opportunity to discuss
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

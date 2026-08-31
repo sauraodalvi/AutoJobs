@@ -1,0 +1,33 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Technical Product Manager at sumup
+Apply Link: https://www.arbeitnow.com/jobs/companies/sumup/senior-technical-product-manager-berlin-352102
+Date Generated: 2026-08-31
+============================================================
+
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email]
+
+[Date]
+
+Hiring Manager
+SumUp
+[Company Address - If known, otherwise omit]
+
+**Subject: Senior Technical Product Manager Application - Saurao Dalvi**
+
+Dear SumUp Hiring Team,
+
+I am writing to express my enthusiastic interest in the Senior Technical Product Manager position at SumUp in Berlin. As an AI Product Manager with over three years of hands-on experience in building and scaling AI-native products from conception to launch, my background in leading cross-functional teams and delivering impactful customer-facing automation solutions aligns perfectly with SumUp's innovative spirit in empowering small businesses. My proven track record as a 0-to-1 builder, particularly in developing LLM-powered workflows and agentic systems, positions me to significantly contribute to your product vision and drive tangible value.
+
+My experience as a Product Manager has been consistently marked by quantifiable impact. At FlytBase, I owned the 0-to-1 roadmap and successful launch of Prediq, an AI drone SaaS that rapidly scaled to ~$6K MRR. Similarly, at CrelioHealth, my ownership of the Smart Reports roadmap directly contributed to increasing lab revenue by ~$2,000 MRR per lab, while custom AI prompt pipelines I implemented reduced patient registration time by ~58% and sample turnaround by 18%. Beyond these successes, I have engineered internal developer CLIs and automated complex processes using modern tools, further demonstrating my technical depth as a Product Manager. My portfolio, including AI products like Hidden Jobs (50K+ ATS jobs indexed) and my role in co-founding Elite PM, further showcases my dedication to impactful product development.
+
+I am eager to bring my expertise in AI product strategy, execution, and growth to SumUp. My passion for creating intuitive and powerful solutions that empower users resonates deeply with your mission. I am confident that my blend of technical acumen and product leadership makes me an ideal candidate to drive innovation within your team. Thank you for your time and consideration; I look forward to discussing how I can contribute to SumUp's continued success as a Senior Technical
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

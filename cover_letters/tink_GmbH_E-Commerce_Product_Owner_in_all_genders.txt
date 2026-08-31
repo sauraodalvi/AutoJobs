@@ -2,6 +2,32 @@
 COVER LETTER & APPLICATION KIT
 Target: E-Commerce Product Owner:in (all genders) at tink GmbH
 Apply Link: https://www.arbeitnow.com/jobs/companies/tink-gmbh/e-commerce-product-ownerin-all-genders-berlin-224589
-Date Generated: 2026-08-30
+Date Generated: 2026-08-31
 ============================================================
 
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email Address]
+
+[Date]
+
+Hiring Team
+tink GmbH
+[Company Address - if known, otherwise omit]
+
+**Subject: E-Commerce Product Owner:in – Saurao Dalvi, AI Product Leader with 0-to-1 SaaS Growth Expertise**
+
+Dear Hiring Team,
+
+My 3+ years of experience as an AI Product Manager and Engineer, marked by a consistent track record of building and scaling AI-native solutions from inception, aligns perfectly with the innovative spirit at tink GmbH. I am particularly drawn to this E-Commerce Product Owner:in role, eager to leverage my expertise in **0-to-1 Product Management** to drive impactful growth within your dynamic e-commerce landscape. My career has been defined by shaping product roadmaps, leading diverse cross-functional teams, and delivering tangible business outcomes, skills I am confident will directly contribute to tink's continued success.
+
+At FlytBase, I owned the **0-to-1 roadmap** and successful launch of Prediq, an AI drone SaaS, directly contributing to its rapid growth to ~$6K **SaaS MRR Growth**. Similarly, at CrelioHealth, my ownership of the Smart Reports roadmap significantly boosted lab revenue by ~$2,000 MRR per lab. I possess deep experience in optimizing operations through advanced **AI Workflows**, evidenced by cutting patient registration time by ~58% and sample turnaround by 18% via custom AI prompt pipelines. My proven ability in **Cross-Functional Leadership** extends to building internal developer CLIs and automating complex processes, reflecting a holistic approach to product development and operational efficiency. Furthermore, my hands-on experience building and launching impactful AI products like Hidden Jobs and Stare V2, alongside co-founding Elite PM, showcases a relentless drive for innovation and market impact.
+
+I am enthusiastic about the opportunity to bring my blend of AI product leadership, 0-to-1 building experience, and a data-driven approach to tink GmbH. My portfolio at sauraodalvi.netlify.app and LinkedIn profile (linkedin.com/in/sa
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

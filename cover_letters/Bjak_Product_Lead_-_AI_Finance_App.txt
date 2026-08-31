@@ -2,13 +2,32 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Lead - AI Finance App at Bjak
 Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/product-lead-ai-finance-app-germany-449512
-Date Generated: 2026-08-30
+Date Generated: 2026-08-31
 ============================================================
 
-User Safety: safe
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email]
+
+[Date]
+
+Hiring Team
+Bjak
+[Company Address, if known, otherwise omit]
+
+**Subject: Product Lead - AI Finance App Application - Saurao Dalvi: Driving 0-to-1 AI Product Innovation**
+
+Dear Bjak Hiring Team,
+
+I am writing to express my profound interest in the Product Lead - AI Finance App position at Bjak. With over three years of dedicated experience as an AI Product Manager and Engineer, I specialize in the end-to-end development and launch of AI-native products, a skillset perfectly aligned with Bjak’s innovative financial technology vision. My career has been defined by **0-to-1 Product Management**, transforming nascent ideas into impactful, revenue-generating solutions across diverse sectors, including drone autonomy, healthcare SaaS, and enterprise security SaaS. I am confident that my proven ability to lead cross-functional teams and deliver cutting-edge AI solutions will be instrumental in advancing Bjak's product roadmap in the German market.
+
+My track record demonstrates a consistent ability to drive significant **SaaS MRR Growth** and operational efficiency through strategic product leadership. At FlytBase, I spearheaded the **0-to-1 Product Management** and launch of Prediq (AI drone SaaS), which rapidly scaled to ~$6K MRR. Similarly, at CrelioHealth, my ownership of the Smart Reports roadmap directly increased lab revenue by approximately $2,000 MRR per lab. I have a deep expertise in designing and implementing advanced **AI Workflows**, evidenced by cutting patient registration time by ~58% and sample turnaround by 18% using custom AI prompt pipelines. My experience extends to building internal developer CLIs and automating complex processes, showcasing my capacity for **Cross-Functional Leadership** in driving technical product development and market adoption.
+
+I am eager to bring my expertise in building and scaling AI-powered products to Bjak, particularly within the dynamic AI finance app landscape. My portfolio at sauraodalvi.netlify.app further illustrates my capabilities in developing impactful AI solutions from conception to market. I am enthusiastic about
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

@@ -2,25 +2,25 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Owner, Technical - AI Investing at Bjak
 Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/product-owner-technical-ai-investing-germany-53660
-Date Generated: 2026-08-29
+Date Generated: 2026-08-31
 ============================================================
 
+**Subject: Application for Product Owner, Technical - AI Investing - Saurao Dalvi**
 
+Dear Bjak Hiring Team,
 
-Of course. Here is the highly compelling, ATS-optimized cover letter tailored for the Product Owner, Technical - AI Investing role at Bjak.
+I am writing to express my enthusiastic interest in the Product Owner, Technical - AI Investing position at Bjak, as advertised in Germany. With over three years of dedicated experience as an AI Product Manager and Forward Deployed Engineer, I bring a proven track record of driving **0-to-1 Product Management** initiatives and delivering impactful AI/automation solutions across diverse SaaS environments. My background in orchestrating complex **AI Workflows** and leading cross-functional teams to achieve significant **SaaS MRR Growth** aligns perfectly with Bjak's innovative vision for AI-driven investing.
 
-***
+My career highlights demonstrate a consistent ability to translate strategic vision into tangible product success. At FlytBase, I owned the **0-to-1 Product Management** roadmap and launch of Prediq, an AI drone SaaS, which rapidly scaled to ~$6K MRR. Similarly, at CrelioHealth, my ownership of the Smart Reports roadmap directly contributed to increasing lab revenue by ~$2,000 MRR per lab, showcasing my expertise in driving **SaaS MRR Growth**. I have a strong command of building sophisticated **AI Workflows**, evidenced by cutting patient registration time by ~58% and sample turnaround by 18% using custom AI prompt pipelines. My experience in **Cross-Functional Leadership** extends to building internal developer CLIs and automating complex processes, consistently delivering measurable improvements and fostering product innovation.
 
-**Subject: Application for Product Owner, Technical - AI Investing**
+I am particularly excited by Bjak's mission to revolutionize investing through AI, a domain where my expertise in building and scaling AI-native products can make an immediate impact. My portfolio at sauraodalvi.netlify.app further illustrates my capabilities in developing cutting-edge AI solutions. I am eager to discuss how my experience in **0-to-1 Product Management**, optimizing **AI Workflows**, and achieving substantial **SaaS MRR Growth** through effective **Cross-Functional Leadership** can contribute to Bjak's continued success. Thank you for your time and consideration.
 
-Dear Hiring Team,
+Sincerely,
 
-As an AI Product Manager with over 3 years of hands-on, 0-to-1 experience in shipping innovative solutions, I am excited to apply for the Product Owner, Technical - AI Investing role at Bjak. My career has been defined by a passion for architecting and launching AI-native products from concept to market, and I am confident that my proven ability to translate complex technical workflows into user-centric value aligns perfectly with Bjak's vision to pioneer the future of AI-driven investing.
-
-My background is rooted in **0-To-1 Product Management**, where I have consistently delivered measurable impact. At FlytBase, I owned the roadmap and launch of Prediq, an AI drone SaaS that scaled to ~$6K MRR, demonstrating my ability to drive **Saas Mrr Growth**. This experience was built on a foundation of designing sophisticated **Ai Workflows** and leveraging **Cross-Functional Leadership
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

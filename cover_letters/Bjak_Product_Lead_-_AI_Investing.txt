@@ -2,25 +2,35 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Lead - AI Investing at Bjak
 Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/product-lead-ai-investing-germany-335086
-Date Generated: 2026-08-30
+Date Generated: 2026-08-31
 ============================================================
 
-**Saurao Dalvi**  
-Pune, India | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi  
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email]
+
+[Date]
+
+Hiring Manager
+Bjak
+[Company Address, if known, otherwise omit]
+
+**Subject: Product Lead - AI Investing | Saurao Dalvi: Driving 0-to-1 AI Product Innovation for Bjak**
 
 Dear Hiring Manager,
 
-I’m an AI Product Manager with 3+ years of 0-to-1 experience building and scaling AI-native SaaS products. With a background in shaping product roadmaps, leading cross-functional teams, and delivering customer-facing AI/automation solutions, I’m excited to bring my expertise in 0-to-1 product management and AI workflows to Bjak as your next Product Lead – AI Investing.
+My proven expertise in **0-to-1 Product Management** and AI-driven solutions, honed over three years as an AI Product Manager and Engineer, perfectly aligns with Bjak's vision for a Product Lead - AI Investing. My career has been dedicated to transforming nascent ideas into impactful, customer-facing AI products across diverse sectors including drone autonomy, healthcare SaaS, and enterprise security. I am particularly drawn to Bjak's pioneering work in AI investing and am confident my experience in building and scaling AI-native platforms will be instrumental in driving your next phase of growth.
 
-At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS platform, scaling it to ~$6K MRR. At CrelioHealth, I drove the roadmap of Smart Reports, increasing lab revenue by ~$2,000 MRR per lab, and reduced patient registration time by 58% and sample turnaround by 18% using custom AI prompt pipelines. I’ve also led cross-functional leadership initiatives across engineering, design, and customer success, consistently delivering SaaS MRR growth while building developer CLIs, LLM-powered workflows, and agentic systems.
+At FlytBase, I spearheaded the **0-to-1 Product Management** and launch of Prediq (AI drone SaaS), which rapidly achieved ~$6K **SaaS MRR Growth**. Similarly, at CrelioHealth, my leadership in the Smart Reports roadmap directly contributed to a ~$2,000 MRR increase per lab, demonstrating a clear impact on **SaaS MRR Growth**. My proficiency in developing sophisticated **AI Workflows** is evidenced by cutting patient registration time by ~58% and sample turnaround by 18% using custom AI prompt pipelines. I consistently excel in **Cross-Functional Leadership**, orchestrating teams to build developer CLIs and automate complex processes, showcasing my ability to translate technical innovation into tangible business value.
 
-I’m passionate about leveraging AI to drive smarter investing outcomes and would love to discuss how I can help Bjak accelerate product-led growth in AI-driven financial solutions. Let’s connect.
+I am eager to discuss how my track record of delivering measurable results through innovative AI product development and strategic **Cross-Functional Leadership** can contribute to Bjak's continued success in the AI investing space. My portfolio at sauraodalvi.netlify.app further details my contributions to impactful projects, including the 0-to-1 build of Hidden Jobs. Thank you for your time and consideration; I look forward to the opportunity to connect.
 
-Best regards,  
+Sincerely,
 Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

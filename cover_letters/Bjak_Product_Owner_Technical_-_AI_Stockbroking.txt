@@ -2,19 +2,21 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Owner, Technical - AI Stockbroking at Bjak
 Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/product-owner-technical-ai-stockbroking-germany-14562
-Date Generated: 2026-08-29
+Date Generated: 2026-08-31
 ============================================================
 
-**Saurao Dalvi**  
-Product Owner, Technical – AI Stockbroking  
-Bjak | Germany  
+**Subject: Application for Product Owner, Technical - AI Stockbroking - Saurao Dalvi**
 
-Dear Hiring Team,  
+Dear Bjak Hiring Team,
 
-I am an AI‑driven Product Owner with 3+ years of 0‑to‑1 Product Management experience who thrives on building transformative SaaS products from the ground up. At
+I am writing to express my enthusiastic interest in the Product Owner, Technical - AI Stockbroking position in Germany, as advertised. With over three years of hands-on experience as an AI Product Manager and Engineer, I have a proven track record of spearheading **0-to-1 Product Management** initiatives, delivering customer-facing AI/automation solutions, and cultivating significant **SaaS MRR Growth**. My background in developing and launching AI-native products, particularly within high-growth sectors like drone autonomy and healthcare SaaS, aligns perfectly with Bjak's innovative vision for AI-driven stockbroking. I am confident that my expertise in translating complex technical capabilities into impactful product strategies will be invaluable to your team.
+
+My career demonstrates a consistent ability to drive tangible results through strategic product leadership. At FlytBase, I owned the **0-to-1 Product Management** roadmap and successful launch of Prediq (AI drone SaaS), contributing to its growth to ~$6K MRR. Similarly, at CrelioHealth, I owned the roadmap for Smart Reports, directly increasing lab revenue by approximately $2,000 MRR per lab. I have a strong foundation in optimizing operations and enhancing user experience, exemplified by reducing patient registration time by ~58% and sample turnaround by 18% through custom **AI Workflows** and prompt pipelines. My experience extends to building internal developer CLIs and automating complex processes, showcasing my technical acumen and ability to lead **cross-functional leadership** efforts in delivering robust, scalable solutions that directly impact **SaaS MRR Growth**.
+
+I am particularly excited by Bjak's commitment to leveraging AI within the financial sector and believe my experience as a 0-to-1 builder of agentic systems and LLM-powered workflows makes me an ideal candidate. My portfolio (sauraodalvi.netlify.app) further illustrates my capabilities in developing innovative AI products. I am eager to discuss how my strategic product vision and technical proficiency can contribute to Bjak's continued success and drive significant product growth. Thank you
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf
