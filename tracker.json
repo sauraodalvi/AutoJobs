@@ -2457,14 +2457,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-stockbroking-app-london-160467",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-30",
-    "last_action_date": "2026-08-30",
+    "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-30",
         "action": "Lead added for Product Lead - AI Stockbroking App at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Lead_-_AI_Stockbroking_App.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -2495,14 +2499,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-neobank-app-london-396388",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-30",
-    "last_action_date": "2026-08-30",
+    "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-30",
         "action": "Lead added for Product Lead - AI Neobank App at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Lead_-_AI_Neobank_App.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -2514,14 +2522,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-manager-stockbroking-london-270116",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-30",
-    "last_action_date": "2026-08-30",
+    "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-30",
         "action": "Lead added for Product Manager - Stockbroking at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Manager_-_Stockbroking.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -2533,14 +2545,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-neobank-london-284095",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-30",
-    "last_action_date": "2026-08-30",
+    "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-30",
         "action": "Lead added for Product Owner, Technical - AI Neobank at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Owner_Technical_-_AI_Neobank.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -2552,14 +2568,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-finance-london-294216",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-30",
-    "last_action_date": "2026-08-30",
+    "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-30",
         "action": "Lead added for Product Owner, Technical - AI Finance at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Owner_Technical_-_AI_Finance.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -2731,6 +2751,25 @@
       {
         "date": "2026-08-31",
         "action": "Lead added for Product Manager - Digital Healthcare & Transformation at SUN PHARMA (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_33b207fe",
+    "company": "Enode",
+    "role": "Product Lead - Experience",
+    "location": "Europe,  Norway (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/148057-product-lead-experience",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-08-31",
+    "last_action_date": "2026-08-31",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-31",
+        "action": "Lead added for Product Lead - Experience at Enode (Europe,  Norway (Remote)). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
