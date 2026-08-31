@@ -12,3 +12,9 @@ __pycache__/
 venv/
 .venv/
 env/
+
+# Runtime logs, screenshots & transient agent output
+logs/
+
+# Empty npm stub with no package.json
+package-lock.json
