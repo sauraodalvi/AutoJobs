@@ -5,3 +5,29 @@ Apply Link: https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-stoc
 Date Generated: 2026-08-31
 ============================================================
 
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email]
+
+[Date]
+
+Hiring Manager
+Bjak
+[Company Address, if known, otherwise omit]
+
+**Subject: Product Lead - AI Stockbroking App | Saurao Dalvi: Driving 0-to-1 AI Product Innovation and SaaS MRR Growth**
+
+Dear Hiring Manager,
+
+My application for the Product Lead – AI Stockbroking App role at Bjak immediately resonated with my proven expertise in building and scaling AI-native products from conception to market leadership. As an AI Product Manager with over three years of dedicated experience in 0-to-1 product management across diverse SaaS environments, I am adept at translating complex AI capabilities into tangible business value. My background at FlytBase, CrelioHealth, and Sprinto has equipped me with a unique blend of strategic vision and hands-on execution in developing innovative AI workflows, directly aligning with Bjak's mission to revolutionize stockbroking through intelligent solutions.
+
+My career is marked by a consistent track record of delivering significant impact and driving SaaS MRR growth. At FlytBase, I owned the 0-to-1 roadmap and successful launch of Prediq, an AI drone SaaS that rapidly scaled to ~$6K MRR. Similarly, at CrelioHealth, my leadership in the Smart Reports roadmap directly contributed to increasing lab revenue by approximately $2,000 MRR per lab. I have a strong history of leveraging AI workflows to optimize operations, demonstrated by cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. My experience extends to fostering Cross-Functional Leadership, guiding engineering teams in building developer CLIs and automating complex processes, alongside creating and launching impactful AI products such as Hidden Jobs and Stare V2.
+
+I am particularly enthusiastic about the opportunity to apply my 0-to-1 product management acumen and experience in scaling AI-powered SaaS solutions to Bjak's innovative AI stockbroking platform. My portfolio, available at sauraodalvi.netlify.app, further illustrates my capability in bringing ambitious AI products to life. I am confident
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

@@ -1331,9 +1331,9 @@
     "role": "Product Manager",
     "location": "Remote",
     "contact_name": "Priya Chowdhary",
-    "contact_email": "sauraodalvi97+recruiter@gmail.com",
+    "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4454516367",
-    "status": "FOLLOWUP_SENT",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-28",
     "followup_count": 1,
@@ -1362,9 +1362,9 @@
     "role": "Sr Product Manager",
     "location": "Remote",
     "contact_name": "Nitisha Varun",
-    "contact_email": "sauraodalvi97+referral@gmail.com",
+    "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4452989378",
-    "status": "FOLLOWUP_SENT",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-08-25",
     "last_action_date": "2026-08-28",
     "followup_count": 1,
@@ -2457,8 +2457,8 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-stockbroking-app-london-160467",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-30",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-31",
     "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
@@ -2469,6 +2469,10 @@
       {
         "date": "2026-08-31",
         "action": "Generated tailored application kit & cover letter (Bjak_Product_Lead_-_AI_Stockbroking_App.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 80%)"
       }
     ]
   },
@@ -2480,14 +2484,22 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-investing-app-london-87523",
-    "status": "JOB_LINK_SAVED",
-    "date_applied": "2026-08-30",
-    "last_action_date": "2026-08-30",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-31",
+    "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-30",
         "action": "Lead added for Product Lead - AI Investing App at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Lead_-_AI_Investing_App.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 80%)"
       }
     ]
   },
@@ -2499,8 +2511,8 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-neobank-app-london-396388",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-30",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-31",
     "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
@@ -2511,6 +2523,10 @@
       {
         "date": "2026-08-31",
         "action": "Generated tailored application kit & cover letter (Bjak_Product_Lead_-_AI_Neobank_App.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 80%)"
       }
     ]
   },
@@ -2522,8 +2538,8 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-manager-stockbroking-london-270116",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-30",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-31",
     "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
@@ -2534,6 +2550,10 @@
       {
         "date": "2026-08-31",
         "action": "Generated tailored application kit & cover letter (Bjak_Product_Manager_-_Stockbroking.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
   },
@@ -2545,8 +2565,8 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-neobank-london-284095",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-30",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-31",
     "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
@@ -2557,6 +2577,10 @@
       {
         "date": "2026-08-31",
         "action": "Generated tailored application kit & cover letter (Bjak_Product_Owner_Technical_-_AI_Neobank.txt). Status updated to APPLICATION_READY."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 80%)"
       }
     ]
   },
@@ -2568,8 +2592,8 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-finance-london-294216",
-    "status": "APPLICATION_READY",
-    "date_applied": "2026-08-30",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-31",
     "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
@@ -2579,7 +2603,7 @@
       },
       {
         "date": "2026-08-31",
-        "action": "Generated tailored application kit & cover letter (Bjak_Product_Owner_Technical_-_AI_Finance.txt). Status updated to APPLICATION_READY."
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 80%)"
       }
     ]
   },
@@ -2591,14 +2615,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4433058501",
-    "status": "JOB_LINK_SAVED",
-    "date_applied": "2026-08-30",
-    "last_action_date": "2026-08-30",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-31",
+    "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-30",
         "action": "Lead added for Senior Product Manager at QAD (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
   },
@@ -2610,14 +2638,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4422339980",
-    "status": "JOB_LINK_SAVED",
-    "date_applied": "2026-08-30",
-    "last_action_date": "2026-08-30",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-31",
+    "last_action_date": "2026-08-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-08-30",
         "action": "Lead added for Lead Platform Product Manager at Nasdaq (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
   },
@@ -2629,7 +2661,7 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/future-demand/associate-product-manager-delivery-berlin-399180",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-31",
     "last_action_date": "2026-08-31",
     "followup_count": 0,
@@ -2637,6 +2669,10 @@
       {
         "date": "2026-08-31",
         "action": "Lead added for Associate Product Manager, Delivery (m/f/d) at Future Demand (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on ARBEITNOW: Application successfully processed and submitted on ARBEITNOW (Match Score: 91%)"
       }
     ]
   },
@@ -2648,7 +2684,7 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-finance-app-germany-128152",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-31",
     "last_action_date": "2026-08-31",
     "followup_count": 0,
@@ -2656,6 +2692,10 @@
       {
         "date": "2026-08-31",
         "action": "Lead added for Technical Product Manager - AI Finance App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on ARBEITNOW: Application successfully processed and submitted on ARBEITNOW (Match Score: 98%)"
       }
     ]
   },
@@ -2705,7 +2745,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4459758801",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-31",
     "last_action_date": "2026-08-31",
     "followup_count": 0,
@@ -2713,6 +2753,10 @@
       {
         "date": "2026-08-31",
         "action": "Lead added for Product Manager at Soch Street (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
   },
@@ -2724,7 +2768,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4405640348",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-31",
     "last_action_date": "2026-08-31",
     "followup_count": 0,
@@ -2732,6 +2776,10 @@
       {
         "date": "2026-08-31",
         "action": "Lead added for Lead Product Manager at Nasdaq (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
   },
@@ -2743,7 +2791,7 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4450317262",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-31",
     "last_action_date": "2026-08-31",
     "followup_count": 0,
@@ -2751,18 +2799,22 @@
       {
         "date": "2026-08-31",
         "action": "Lead added for Product Manager - Digital Healthcare & Transformation at SUN PHARMA (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on GENERIC_WEB: Application successfully processed and submitted on GENERIC_WEB (Match Score: 88%)"
       }
     ]
   },
   {
-    "job_id": "job_33b207fe",
+    "job_id": "job_36f04aa2",
     "company": "Enode",
     "role": "Product Lead - Experience",
     "location": "Europe,  Norway (Remote)",
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/148057-product-lead-experience",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLIED_ONLINE",
     "date_applied": "2026-08-31",
     "last_action_date": "2026-08-31",
     "followup_count": 0,
@@ -2770,6 +2822,33 @@
       {
         "date": "2026-08-31",
         "action": "Lead added for Product Lead - Experience at Enode (Europe,  Norway (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on JOBICY: Application successfully processed and submitted on JOBICY (Match Score: 70%)"
+      }
+    ]
+  },
+  {
+    "job_id": "job_6d441c49",
+    "company": "nearshorefriends GmbH",
+    "role": "German Speaking Product Owner",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/nearshorefriends-gmbh/german-speaking-product-owner-munich-278767",
+    "status": "APPLIED_ONLINE",
+    "date_applied": "2026-08-31",
+    "last_action_date": "2026-08-31",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-08-31",
+        "action": "Lead added for German Speaking Product Owner at nearshorefriends GmbH (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-08-31",
+        "action": "Autonomous web application submitted on ARBEITNOW: Application successfully processed and submitted on ARBEITNOW (Match Score: 70%)"
       }
     ]
   }

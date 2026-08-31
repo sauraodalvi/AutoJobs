@@ -1,0 +1,33 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Technical Product Manager - AI Finance App at Bjak
+Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-finance-app-germany-128152
+Date Generated: 2026-08-31
+============================================================
+
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email]
+
+[Date]
+
+Hiring Team
+Bjak
+[Company Address, if known, otherwise omit]
+
+**Subject: Technical Product Manager - AI Finance App – Saurao Dalvi**
+
+Dear Bjak Hiring Team,
+
+As an accomplished AI Product Manager with over three years of hands-on experience in pioneering AI-native product development and driving substantial growth, I am keenly interested in the Technical Product Manager – AI Finance App position at Bjak. My background aligns precisely with your need for an innovative Product Manager capable of transforming complex ideas into impactful solutions. At FlytBase, I served as both an AI Product Manager and AI Engineer, specializing in forward-deployed solutions and spearheading the 0-to-1 development of AI/automation products across diverse sectors including drone autonomy, healthcare SaaS, and enterprise security. My proven ability to lead cross-functional teams and shape product roadmaps, particularly in AI and automation, positions me to make immediate and significant contributions to Bjak's cutting-edge AI finance application.
+
+My career is marked by a consistent track record of delivering measurable impact and scaling products from inception. At FlytBase, I owned the 0-to-1 roadmap and successful launch of Prediq (AI drone SaaS), which grew to ~$6K MRR. As a Product Manager at CrelioHealth, I owned the roadmap for Smart Reports, directly contributing to a ~$2,000 MRR increase per lab by optimizing healthcare operations. I further demonstrated my technical acumen by cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines, and by building internal developer CLIs and automating complex processes with LLM-powered workflows. My experience as a Product Manager extends to building and launching successful AI products like Hidden Jobs and Stare V2, alongside co-founding Elite PM, showcasing my entrepreneurial drive and dedication to product excellence.
+
+My passion for building innovative AI-native products, coupled with a strong focus on developer tools and agentic systems, makes me an ideal candidate to drive the future of Bjak's AI Finance
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

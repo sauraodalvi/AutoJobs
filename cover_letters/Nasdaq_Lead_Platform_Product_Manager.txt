@@ -1,0 +1,25 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Lead Platform Product Manager at Nasdaq
+Apply Link: https://www.linkedin.com/jobs/view/4422339980
+Date Generated: 2026-08-31
+============================================================
+
+Subject: Application for Lead Platform Product Manager - Saurao Dalvi
+
+Dear Hiring Manager,
+
+My 3+ years of experience as an AI Product Manager, driving 0-to-1 product development and scaling AI-native solutions, aligns perfectly with Nasdaq's innovative platform vision. At FlytBase, I spearheaded the roadmap and launch of Prediq, an AI drone SaaS, achieving ~$6K MRR. My expertise extends to leading cross-functional teams and delivering impactful customer-facing AI/automation solutions across diverse domains including drone autonomy, healthcare SaaS, and enterprise security SaaS. I am confident my proven ability to translate complex technical challenges into market-leading products makes me an ideal candidate for a Lead Platform Product Manager role at Nasdaq.
+
+My track record demonstrates a consistent ability to deliver tangible results as a Product Manager. At CrelioHealth, I owned the roadmap for Smart Reports, directly contributing to a ~$2,000 MRR increase per lab. Furthermore, I significantly optimized operational efficiency by cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. Beyond this, I have a strong foundation in building internal developer CLIs and automating complex processes using Zapier, Make, and Python, showcasing my proficiency in developing robust platform solutions. I am adept at leveraging cutting-edge technologies, including LLM-powered workflows and agentic systems, to create impactful products.
+
+I am eager to discuss how my experience as a Product Manager in building and scaling AI-powered platforms can contribute to Nasdaq's continued success and innovation. My portfolio at sauraodalvi.netlify.app provides further insight into my work, including the launch of AI products like Hidden Jobs and Stare V2. Thank you for your time and consideration; I look forward to the opportunity to contribute to your team as a Lead Platform Product Manager.
+
+Sincerely,
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

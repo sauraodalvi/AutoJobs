@@ -1,0 +1,33 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager at Soch Street
+Apply Link: https://www.linkedin.com/jobs/view/4459758801
+Date Generated: 2026-08-31
+============================================================
+
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email Address]
+
+[Date]
+
+Hiring Team
+Soch Street
+[Company Address, if known, otherwise omit]
+
+**Subject: Product Manager Application – Saurao Dalvi: Driving AI-Native Product Innovation at Soch Street**
+
+Dear Soch Street Hiring Team,
+
+As an AI Product Manager with over three years of hands-on experience in shaping product roadmaps and delivering customer-facing AI/automation solutions, I am incredibly enthusiastic about the Product Manager opportunity at Soch Street. My background as both an AI Product Manager and AI Engineer at companies like FlytBase, CrelioHealth, and Sprinto has equipped me with a unique 0-to-1 builder mindset, perfectly aligning with your commitment to innovative product vision. I have a proven track record of leading cross-functional teams and translating complex AI capabilities into tangible business value, making me confident in my ability to contribute significantly to Soch Street’s product development and strategic growth from day one.
+
+My career is marked by quantifiable achievements in launching and scaling AI-powered products. At FlytBase, I owned the 0-to-1 roadmap and successful launch of Prediq, an AI drone SaaS that rapidly grew to ~$6K MRR. Similarly, as a Product Manager at CrelioHealth, I owned the roadmap for Smart Reports, directly contributing to a ~$2,000 MRR increase per lab. I’ve consistently demonstrated my ability to optimize operations and enhance user experience, for instance, cutting patient registration time by ~58% and sample turnaround by 18% using custom AI prompt pipelines. Beyond this, I have built internal developer CLIs, automated complex cross-app processes with Zapier, Make, and Python, and developed successful AI-native products like Hidden Jobs (50K+ live ATS jobs indexed), showcasing my comprehensive capabilities as a Product Manager.
+
+I am particularly excited by Soch Street's mission and believe my expertise in architecting LLM-powered workflows and agentic systems, coupled with my experience in diverse tech environments, makes me an ideal candidate to drive your next
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

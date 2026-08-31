@@ -5,17 +5,29 @@ Apply Link: https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-techni
 Date Generated: 2026-08-31
 ============================================================
 
-**Saurao Dalvi**
-[Email] | [Phone] | [LinkedIn]
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email Address]
 
-17 January 2025
+[Date]
 
-Dear Hiring Team at Bjak,
+Hiring Team
+Bjak
+[Company Address, if known, otherwise omit]
 
-I am writing to express my strong interest in the Product Owner, Technical — AI Neobank role at Bjak. With over three years of experience in 0-to-1 product management and AI engineering, I have built and launched AI-native products from scratch across drone autonomy, healthcare SaaS, and enterprise security platforms — consistently translating ambiguous product visions into shipped, revenue-generating features. Bjak's mission to make insurance and financial services radically accessible through technology deeply resonates with my passion
+**Subject: Empowering Bjak's AI Neobank Vision: Saurao Dalvi, AI Product Manager**
+
+Dear Hiring Team,
+
+I am writing with immense enthusiasm to express my interest in the Product Owner, Technical - AI Neobank position at Bjak. With over three years of dedicated experience as an AI Product Manager and AI Engineer, I have consistently driven the **0-to-1 product management** and launch of innovative AI solutions across diverse sectors, including drone autonomy, healthcare SaaS, and enterprise security. My proven track record in shaping product roadmaps, leading cross-functional teams, and delivering customer-facing AI/automation solutions aligns perfectly with Bjak's pioneering work in the AI Neobank space. I am confident my expertise in building AI-native products and developer CLIs will be instrumental in advancing your technical product vision.
+
+My career is marked by tangible impact and a deep understanding of **0-to-1 product management**. At FlytBase, I owned the complete **0-to-1 roadmap** and successful launch of Prediq (AI drone SaaS), which rapidly grew to ~$6K **SaaS MRR growth**. Similarly, at CrelioHealth, my ownership of the Smart Reports roadmap directly contributed to increasing lab revenue by approximately $2,000 MRR per lab. I've consistently leveraged advanced **AI workflows**, including custom AI prompt pipelines, to achieve significant operational efficiencies, such as cutting patient registration time by ~58% and sample turnaround by 18%. My experience extends to building internal developer CLIs and automating complex cross-application processes, demonstrating strong technical acumen and **cross-functional leadership** in delivering high-impact solutions.
+
+I am eager to bring my expertise in scaling AI-powered solutions and driving significant **SaaS MRR growth** to Bjak. My portfolio, available at https://sauraodalvi.netlify.app/, further illustrates my capabilities in building and launching successful AI products. I am confident that
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

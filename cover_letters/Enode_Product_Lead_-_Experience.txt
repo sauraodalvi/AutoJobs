@@ -1,0 +1,22 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Lead - Experience at Enode
+Apply Link: https://jobicy.com/jobs/148057-product-lead-experience
+Date Generated: 2026-08-31
+============================================================
+
+Subject: Application for Product Lead - Experience | Saurao Dalvi - AI Product Management & 0-to-1 Innovation
+
+Dear Enode Hiring Team,
+
+My 3+ years of experience as an AI Product Manager and Engineer, marked by a consistent track record of 0-to-1 product development and significant SaaS MRR growth, positions me as an ideal candidate for the Product Lead - Experience role at Enode. My background in building and scaling AI-native solutions across diverse sectors, including drone autonomy (FlytBase) and healthcare SaaS (CrelioHealth), directly aligns with Enode's innovative product vision and commitment to shaping future user experiences. I am particularly drawn to Enode's mission and believe my expertise in leveraging artificial intelligence to create impactful user journeys will be invaluable.
+
+At FlytBase, I spearheaded the 0-to-1 roadmap and successful launch of Prediq, an AI drone SaaS that rapidly achieved ~$6K MRR, demonstrating my capability in driving **SaaS MRR Growth** from conception to market. Similarly, at CrelioHealth, I owned the roadmap for Smart Reports, directly contributing to an increase of ~$2,000 MRR per lab. My proficiency extends to optimizing operations through advanced **AI Workflows**, evidenced by cutting patient registration time by ~58% and sample turnaround by 18% using custom AI prompt pipelines. This experience, combined with my **Cross-Functional Leadership** in delivering customer-facing AI/automation solutions and building internal developer CLIs, underscores my ability to lead complex product initiatives from inception. My portfolio further showcases my **0-to-1 Product Management** prowess with successful launches like Hidden Jobs and Stare V2.
+
+I am eager to apply my proven ability to innovate, scale products, and lead cross-functional teams to Enode, contributing to your continued success in shaping exceptional user experiences. Thank you for considering my application. I look forward to the opportunity to discuss how my expertise can drive significant impact as your next Product Lead - Experience.
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

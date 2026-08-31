@@ -5,20 +5,29 @@ Apply Link: https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-techni
 Date Generated: 2026-08-31
 ============================================================
 
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email Address]
 
+[Date]
 
-Of course. Here is a highly compelling, ATS-optimized cover letter tailored for the Product Owner, Technical - AI Finance role at Bjak.
+Hiring Manager
+Bjak
+[Company Address - If known, otherwise omit]
 
-***
+**Subject: Empowering Bjak's AI Finance Vision: Saurao Dalvi, Product Owner, Technical - AI Finance**
 
-Dear Hiring Team,
+Dear Hiring Manager,
 
-As an AI Product Manager with 3+ years of experience in 0-to-1 product development, I am excited to apply for the Product Owner, Technical - AI Finance role at Bjak. My hands-on journey has been defined by architecting and launching AI-native products from concept to market, with a deep-seated passion for leveraging technology to solve complex financial challenges—a vision I see powerfully reflected in Bjak's mission. I am confident that my unique blend of forward-deployed engineering expertise and strategic product ownership is precisely the skillset needed to drive innovation and value in your AI-driven finance platform.
+My 3+ years of dedicated experience as an AI Product Manager and Engineer, marked by a consistent track record of 0-to-1 product development, aligns precisely with Bjak's innovative direction in AI Finance. I am particularly drawn to this Product Owner, Technical role due to Bjak's commitment to leveraging artificial intelligence to redefine financial solutions. My expertise in translating complex AI capabilities into tangible, market-ready products, coupled with my strategic approach to product roadmaps and my demonstrated ability to drive **0-to-1 Product Management**, positions me as an ideal candidate to contribute immediately to your team in the United Kingdom.
 
-My track record is built on delivering tangible business impact through **0-to-1 Product Management** and sophisticated **AI Workflows**. At FlytBase, I owned the entire roadmap for Prediq, an AI drone SaaS product, scaling it to a sustainable ~$6K MRR. This success is a testament to my ability to lead **Cross-Functional** teams, translating technical requirements into product features that drive **SaaS MRR Growth**. I have a proven history of building LLM-powered workflows that deliver operational excellence,
+At FlytBase, I spearheaded the 0-to-1 roadmap and successful launch of Prediq, an AI drone SaaS solution that rapidly scaled to ~$6K MRR, showcasing my ability to deliver significant **SaaS MRR Growth**. Similarly, at CrelioHealth, I owned the roadmap for Smart Reports, directly increasing laboratory revenue by approximately $2,000 MRR per lab. My proficiency extends to optimizing operational efficiencies through advanced **AI Workflows**, as evidenced by cutting patient registration time by ~58% and sample turnaround by 18% using custom AI prompt pipelines. I have consistently demonstrated strong **Cross-Functional Leadership**, guiding teams from concept to deployment for AI-native products, developer CLIs, and LLM-powered systems across diverse industries, from drone autonomy to healthcare and enterprise security.
+
+I am eager to leverage my proven ability to build and scale AI products, coupled with my passion for the intersection of AI and finance, to drive impactful innovation at Bjak. My portfolio, available at https://sauraodalvi.netlify.app/, further illustrates my capabilities in building and launching successful AI solutions. Thank you for considering my application; I look forward to
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

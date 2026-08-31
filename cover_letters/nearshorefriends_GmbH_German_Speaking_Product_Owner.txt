@@ -1,0 +1,30 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: German Speaking Product Owner at nearshorefriends GmbH
+Apply Link: https://www.arbeitnow.com/jobs/companies/nearshorefriends-gmbh/german-speaking-product-owner-munich-278767
+Date Generated: 2026-08-31
+============================================================
+
+**[Your Name]**
+[Your Address] | [Your Phone] | [Your Email] | [Your LinkedIn Profile URL]
+
+**[Date]**
+
+**[Hiring Manager Name] (If known, otherwise use title)**
+**[Hiring Manager Title]**
+nearshorefriends GmbH
+[Company Address]
+
+**Dear [Mr./Ms./Mx. Last Name, or Hiring Team at nearshorefriends GmbH],**
+
+I am writing to express my enthusiastic interest in the German Speaking Product Owner position at nearshorefriends GmbH. With over three years of dedicated experience as an AI Product Manager and AI Engineer, I bring a proven track record in **0-to-1 Product Management** and the successful development of AI-native solutions. My background aligns perfectly with your innovative product vision, having spearheaded the creation and launch of impactful AI/automation products across diverse sectors including drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), and enterprise security SaaS (Sprinto). My proficiency in fostering **AI Workflows** and driving tangible business outcomes makes me confident in my ability to significantly contribute to your team.
+
+My career is marked by substantial achievements in driving **SaaS MRR Growth** and demonstrating robust **Cross-Functional Leadership**. At FlytBase, I owned the **0-to-1 Product Management** roadmap and launch of Prediq, an AI drone SaaS that rapidly scaled to ~$6K MRR. Similarly, at CrelioHealth, my ownership of the Smart Reports roadmap directly increased lab revenue by approximately $2,000 MRR per lab, while also cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. I have consistently delivered impact by building internal developer CLIs, automating complex cross-app processes with advanced **AI Workflows**, and creating successful AI products such as Hidden Jobs (indexing 50K+ live ATS jobs) and Stare V2.
+
+I am eager to leverage my expertise in **0-to-1 Product Management**, **AI Workflows**, and driving **SaaS MRR Growth** to contribute to nearshorefriends GmbH's continued success. My experience
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

@@ -6,31 +6,28 @@ Date Generated: 2026-08-31
 ============================================================
 
 [Your Name]
-[Your Phone Number] | [Your Email]
-[Your LinkedIn Profile] | [Your Portfolio Link]
+[Your Address]
+[Your Phone Number]
+[Your Email]
 
 [Date]
 
-Hiring Manager
+Hiring Team
 Bjak
-United Kingdom (Remote/Hybrid)
+[Company Address, if known, otherwise omit]
 
-**RE: Product Manager - Stockbroking**
+**Subject: Product Manager - Stockbroking – Saurao Dalvi: Driving 0-to-1 Innovation in AI Product Management**
 
-Dear Hiring Manager,
+Dear Hiring Team,
 
-I am writing to express my strong interest in the Product Manager position at Bjak. With over three years of experience as an AI Product Manager and Forward Deployed Engineer, I specialize in the 0-to-1 development of high-impact, scalable products. My background in building AI-native systems and agentic workflows aligns perfectly with Bjak’s vision of leveraging cutting-edge technology to disrupt the stockbroking and financial services landscape. I bring a unique blend of technical engineering depth and strategic product ownership, ensuring that complex technical capabilities translate directly into seamless user experiences and commercial growth.
+As an AI Product Manager with over three years of dedicated experience in building and scaling transformative 0-to-1 products, I am profoundly enthusiastic about the opportunity to contribute to Bjak as a Product Manager – Stockbroking. My background as both an AI Product Manager and a Forward Deployed AI Engineer has equipped me with a unique blend of strategic product vision and technical execution, aligning perfectly with Bjak's innovative spirit. At FlytBase, I spearheaded the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS solution that rapidly grew to ~$6K MRR, demonstrating my ability to identify market needs and deliver impactful, revenue-generating products from inception. My expertise lies in translating complex AI capabilities into intuitive, customer-centric solutions, a skill I am confident will be invaluable in enhancing Bjak’s stockbroking offerings.
 
-Throughout my career, I have consistently delivered measurable business outcomes by owning end-to-end product roadmaps. At FlytBase, I led the 0-to-1 launch of Prediq (AI drone SaaS), scaling it to ~$6K MRR. While at CrelioHealth, I served as the Product Manager for Smart Reports, which increased revenue by ~$2,000 MRR per lab, and implemented AI prompt pipelines that slashed patient registration time by 58% and sample turnaround by 18%. From building developer CLIs and automating enterprise workflows with Python and Make to launching AI products like Hidden Jobs (indexing 50K+ ATS jobs), I have a proven track record of shipping products that optimize efficiency and drive top-line revenue.
+My career is marked by a consistent track record of delivering measurable impact and driving significant growth as a Product Manager. At CrelioHealth, I owned the roadmap for Smart Reports, directly contributing to an increase of ~$2,000 MRR per lab and cutting patient registration time by ~58% through custom AI prompt pipelines. This focus on efficiency and revenue generation, coupled with an 18% reduction in sample turnaround, underscores my ability to optimize critical business processes through intelligent product design. Furthermore, my experience as a Product Manager extends to building internal developer CLIs and automating complex cross-application workflows using tools like Zapier, Make, and Python, ensuring operational excellence alongside external product innovation. My portfolio, including AI products like Hidden Jobs (50K+ indexed jobs) and Stare V2, further showcases my capability to build and launch successful AI-native solutions.
 
-I am eager to bring this expertise in AI automation and product scaling to Bjak to help evolve your stockbroking offerings and enhance the customer journey. I am confident that my ability to bridge the gap between complex AI engineering and market-ready product strategy will be a significant asset to your team. I look forward to the opportunity to discuss how my experience as a Product Manager can contribute to Bjak’s continued growth and innovation.
-
-Sincerely,
-
-Saurao Dalvi
+I am eager to apply my proven leadership in AI Product Management, my 0
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

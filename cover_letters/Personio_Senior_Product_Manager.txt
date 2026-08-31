@@ -5,19 +5,29 @@ Apply Link: https://personio.de/jobs/spm
 Date Generated: 2026-08-31
 ============================================================
 
-Dear Hiring Team at Personio,
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email]
 
-I am writing to express my strong interest in the Senior Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
+[Date]
 
-In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with Personio's technical and product ambitions.
+Hiring Manager
+Personio
+[Company Address, if known, otherwise omit]
 
-I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for Personio.
+**Subject: Senior Product Manager Application - Saurao Dalvi**
 
-Sincerely,
-Saurao Dalvi
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Senior Product Manager position at Personio. As an AI Product Manager with over three years of hands-on experience, I bring a proven track record of spearheading 0-to-1 product development and delivering impactful AI-driven solutions across diverse industries, including drone autonomy, healthcare SaaS, and enterprise security. My expertise in translating complex technical capabilities into market-leading products, coupled with a deep understanding of AI-native architectures and agile methodologies, aligns perfectly with Personio's innovative approach to HR software. I am confident my background as a Product Manager will significantly contribute to your team's success in scaling and enhancing your product offerings.
+
+My career is marked by tangible results and a relentless focus on product-market fit. At FlytBase, I owned the 0-to-1 roadmap and successful launch of Prediq, an AI drone SaaS, which rapidly scaled to ~$6K MRR. Similarly, as a Product Manager at CrelioHealth, I owned the roadmap for Smart Reports, directly contributing to a ~$2,000 MRR increase per lab. My ability to leverage AI extends to operational efficiency, as demonstrated by cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. Beyond feature development, I have a strong foundation in building developer CLIs and automating complex workflows with tools like Zapier, Make, and Python, consistently driving efficiency and scalability as a Product Manager.
+
+I am eager to bring my expertise in building and scaling AI-driven products to Personio. My portfolio, available at sauraodalvi.netlify.app, further showcases my capabilities as a Product Manager, including projects like Hidden Jobs (50K+ indexed jobs) and the co-founding of Elite PM. I am excited by the prospect of contributing to Personio's mission and am keen
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

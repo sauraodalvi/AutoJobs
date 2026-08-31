@@ -1,0 +1,25 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager - Digital Healthcare & Transformation at SUN PHARMA
+Apply Link: https://www.linkedin.com/jobs/view/4450317262
+Date Generated: 2026-08-31
+============================================================
+
+**Subject: Product Manager Application - Saurao Dalvi: Driving Digital Healthcare Innovation**
+
+Dear [Hiring Manager Name],
+
+As an AI Product Manager with over three years of hands-on experience in pioneering 0-to-1 AI-native products and driving digital transformation, I am incredibly enthusiastic about the Product Manager - Digital Healthcare & Transformation role at SUN PHARMA. My background aligns perfectly with your mission to innovate within the healthcare sector. At FlytBase, I spearheaded the development and launch of Prediq, an AI drone SaaS that rapidly scaled to ~$6K MRR, demonstrating my ability to translate cutting-edge technology into tangible business growth. My expertise lies in shaping product roadmaps, leading cross-functional teams, and delivering impactful customer-facing AI/automation solutions across diverse industries, including healthcare SaaS.
+
+My track record as a Product Manager is defined by quantifiable impact and a relentless focus on delivering value. At CrelioHealth, I owned the roadmap for Smart Reports, directly contributing to a ~$2,000 MRR increase per lab. Furthermore, my implementation of custom AI prompt pipelines at CrelioHealth dramatically cut patient registration time by ~58% and sample turnaround by 18%, showcasing my ability to leverage AI for operational efficiency and enhanced user experience. Beyond healthcare, I have built internal developer CLIs, automated complex processes using Zapier, Make, and Python, and successfully launched independent AI products like Hidden Jobs and Stare V2, proving my versatility and commitment to building innovative solutions.
+
+I am confident that my blend of AI engineering acumen and strategic product leadership makes me an ideal candidate to drive product growth and digital transformation initiatives at SUN PHARMA. I am eager to discuss how my proven ability to build and scale impactful products, coupled with my deep understanding of AI-driven innovation, can contribute to your team's success as a Product Manager. Thank you for your time and consideration.
+
+Sincerely,
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

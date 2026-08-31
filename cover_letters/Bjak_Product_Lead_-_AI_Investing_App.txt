@@ -5,3 +5,25 @@ Apply Link: https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-inve
 Date Generated: 2026-08-31
 ============================================================
 
+[Date]
+
+[Hiring Manager Name] (If known, otherwise "Hiring Team")
+[Hiring Manager Title]
+Bjak
+[Company Address, if known, otherwise omit]
+
+**Subject: Product Lead - AI Investing App | Saurao Dalvi: Driving 0-to-1 AI Product Innovation and SaaS MRR Growth**
+
+Dear Bjak Hiring Team,
+
+My extensive experience as an AI Product Manager and Engineer, particularly in driving **0-to-1 Product Management** initiatives, aligns perfectly with Bjak's vision for a groundbreaking AI Investing App. With over three years of hands-on experience shaping product roadmaps and leading cross-functional teams, I have consistently delivered customer-facing AI/automation solutions across diverse domains including drone autonomy, healthcare SaaS, and enterprise security. My proven track record in building AI-native products, developer CLIs, and LLM-powered workflows makes me confident in my ability to significantly contribute to Bjak's innovative product development and market leadership.
+
+At FlytBase, I owned the **0-to-1 roadmap** and successful launch of Prediq (AI drone SaaS), which grew to ~$6K **SaaS MRR Growth**. Similarly, at CrelioHealth, I owned the roadmap for Smart Reports, directly contributing to an increase of approximately $2,000 MRR per lab. My expertise extends to implementing advanced **AI Workflows**, evidenced by cutting patient registration time by ~58% and sample turnaround by 18% using custom AI prompt pipelines. I have consistently demonstrated strong **Cross-Functional Leadership** in building internal developer CLIs and automating complex processes with tools like Zapier, Make, and Python, ensuring efficient product delivery and operational excellence.
+
+I am eager to apply my passion for building impactful AI products and my proven ability to drive significant **SaaS MRR Growth** to the Product Lead role at Bjak. My portfolio, available at sauraodalvi.netlify.app, further showcases my capabilities in launching successful AI products like Hidden Jobs and Stare V2. I am enthusiastic about the opportunity to discuss how my expertise can contribute to Bjak's success in revolutionizing
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

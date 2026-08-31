@@ -1,0 +1,33 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager at QAD
+Apply Link: https://www.linkedin.com/jobs/view/4433058501
+Date Generated: 2026-08-31
+============================================================
+
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email]
+
+[Date]
+
+Hiring Team
+QAD
+[QAD Address - if known, otherwise omit]
+
+**Subject: Senior Product Manager Application – Saurao Dalvi: Driving AI-Powered Product Innovation for QAD**
+
+Dear Hiring Team,
+
+I am writing to express my enthusiastic interest in the Senior Product Manager position at QAD, Pune Division. As an AI Product Manager with over three years of hands-on experience in shaping product roadmaps and delivering impactful AI/automation solutions, I am confident my proven track record of 0-to-1 product development and strategic leadership aligns perfectly with QAD's vision for innovative enterprise solutions. My expertise spans drone autonomy, healthcare SaaS, and enterprise security SaaS, consistently driving growth and efficiency through cutting-edge AI-native products and robust product management methodologies.
+
+My career is marked by tangible results and a relentless focus on delivering value. At FlytBase, I owned the 0-to-1 roadmap and successful launch of Prediq (AI drone SaaS), contributing to a significant ~$6K MRR. Similarly, as a Product Manager at CrelioHealth, I spearheaded the roadmap for Smart Reports, directly increasing lab revenue by an estimated ~$2,000 MRR per lab and cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. Beyond these successes, I've built internal developer CLIs, automated complex processes with leading tools, and launched successful AI products like Hidden Jobs (50K+ indexed ATS jobs), demonstrating my comprehensive capabilities as a Product Manager and my ability to build agentic systems and LLM-powered workflows from inception.
+
+I am eager to bring my strategic vision, technical acumen, and passion for building transformative products to QAD. My portfolio, available at [https://sauraodalvi.netlify.app/](https://sauraodalvi.netlify.app/) and LinkedIn profile [https://www.linkedin.com/in/saurao-dalvi/](https://www.linkedin.com/in/saurao-
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

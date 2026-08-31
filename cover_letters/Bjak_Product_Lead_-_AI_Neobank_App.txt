@@ -5,30 +5,29 @@ Apply Link: https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-neob
 Date Generated: 2026-08-31
 ============================================================
 
-
-
-Saurao Dalvi
+[Your Name]
 [Your Address]
 [Your Phone Number]
 [Your Email Address]
-[Your LinkedIn URL]
-[Your Portfolio URL]
 
 [Date]
 
-Hiring Manager
+Hiring Team
 Bjak
-[Company Address]
-[City, Postal Code, United Kingdom]
+[Company Address, if known]
 
-Dear Hiring Manager,
+**Subject: Product Lead - AI Neobank App – Saurao Dalvi: Driving 0-to-1 AI Product Innovation for Bjak**
 
-I am excited to apply for the Product Lead - AI Neobank App position at Bjak. With over three years of hands-on experience in 0-to-1 product management, I have a proven track record of conceptualizing, launching, and scaling AI-native products that drive significant business value. My journey has been defined by building from scratch and orchestrating cross-functional teams to deliver innovative solutions, a passion that aligns perfectly with Bjak's vision of redefining financial services through AI.
+Dear Hiring Team,
 
-My experience is deeply rooted in driving Saas MRR Growth and designing intelligent Ai Workflows. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS product that achieved ~$6K MRR. At CrelioHealth, I
+I am writing with immense enthusiasm to express my interest in the Product Lead - AI Neobank App position at Bjak. My expertise as an AI Product Manager and Engineer, with over three years of dedicated experience in pioneering **0-to-1 Product Management** across diverse SaaS environments, perfectly aligns with Bjak's vision for an innovative AI-driven neobank. At FlytBase, I successfully led the development and launch of Prediq, an AI drone SaaS, demonstrating my capability to translate complex technical concepts into tangible, market-ready products. My track record in scaling customer-facing AI/automation solutions, coupled with a deep understanding of AI workflows and product lifecycle management, positions me to make an immediate and significant impact on Bjak’s strategic objectives.
+
+My career is defined by quantifiable success in driving **SaaS MRR Growth** and orchestrating impactful **AI Workflows**. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, which rapidly grew to ~$6K MRR. Similarly, at CrelioHealth, my ownership of the Smart Reports roadmap directly contributed to a ~$2,000 MRR increase per lab, while simultaneously cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. I have a proven history of leading cross-functional teams to deliver such results, extending to building internal developer CLIs and automating complex processes. My experience as a **0-to-1 Product Management** builder of AI-native products, LLM-powered workflows, and agentic systems, including publicly launched applications like Hidden Jobs, directly translates to the dynamic environment of an AI neobank.
+
+I am particularly excited by Bjak’s ambition to redefine financial services through AI. My comprehensive experience in end-to-
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

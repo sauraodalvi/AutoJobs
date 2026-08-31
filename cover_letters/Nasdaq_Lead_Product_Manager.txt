@@ -1,0 +1,24 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Lead Product Manager at Nasdaq
+Apply Link: https://www.linkedin.com/jobs/view/4405640348
+Date Generated: 2026-08-31
+============================================================
+
+Dear Hiring Manager,
+
+My 3+ years of experience as an AI Product Manager, driving 0-to-1 product development and scaling customer-facing AI/automation solutions, aligns perfectly with Nasdaq's innovative product vision. At FlytBase, I spearheaded the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS, which rapidly grew to ~$6K MRR. My expertise in transforming complex technical challenges into market-ready products, coupled with a deep understanding of AI-native architectures and agentic systems, positions me as an ideal candidate to contribute to Nasdaq's continued success as a **Product Manager**.
+
+My track record demonstrates a consistent ability to deliver significant, measurable impact. As a **Product Manager** at CrelioHealth, I owned the roadmap for Smart Reports, directly contributing to a ~$2,000 MRR increase per lab, and achieved a remarkable 58% reduction in patient registration time and 18% improvement in sample turnaround through custom AI prompt pipelines. I have a proven history of shipping impactful products, from building developer CLIs to automating intricate cross-application processes with Zapier, Make, and Python, showcasing my proficiency in leveraging technology to drive business outcomes. Furthermore, my work on AI products like Hidden Jobs and Stare V2, alongside co-founding Elite PM, underscores my entrepreneurial spirit and dedication to cutting-edge product development.
+
+I am eager to bring my passion for building and scaling impactful AI products to Nasdaq as a Lead **Product Manager**. My commitment to driving product growth and delivering innovative solutions aligns seamlessly with Nasdaq's mission. I am confident that my strategic vision and hands-on execution experience will be invaluable, and I welcome the opportunity to discuss how I can contribute to your team.
+
+Sincerely,
+
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf

@@ -1,0 +1,33 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Associate Product Manager, Delivery (m/f/d) at Future Demand
+Apply Link: https://www.arbeitnow.com/jobs/companies/future-demand/associate-product-manager-delivery-berlin-399180
+Date Generated: 2026-08-31
+============================================================
+
+[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email]
+
+[Date]
+
+Hiring Team
+Future Demand
+[Company Address, if known, otherwise omit]
+
+**Subject: Application for Associate Product Manager, Delivery (m/f/d) - Saurao Dalvi**
+
+Dear Future Demand Hiring Team,
+
+I am writing to express my profound interest in the Associate Product Manager, Delivery (m/f/d) position in Berlin. With over three years of experience as an AI Product Manager and AI Engineer, I have a proven track record of spearheading 0-to-1 product development and delivering impactful customer-facing AI/automation solutions across diverse industries, including drone autonomy, healthcare SaaS, and enterprise security. My background aligns perfectly with Future Demand’s innovative approach to product delivery, and I am confident that my expertise in shaping product roadmaps and leading cross-functional teams will be a significant asset to your organization.
+
+My career has been defined by tangible results and a relentless focus on product innovation. As a Product Manager at FlytBase, I owned the 0-to-1 roadmap and successful launch of Prediq, an AI drone SaaS that rapidly scaled to ~$6K MRR. Similarly, at CrelioHealth, I owned the roadmap for Smart Reports, directly contributing to an increase of ~$2,000 MRR per lab and significantly cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. My experience extends to building internal developer CLIs, automating complex cross-application processes, and launching AI-native products such as Hidden Jobs and Stare V2. These achievements demonstrate my capability to excel as an Associate Product Manager, driving product growth and efficiency.
+
+I am eager to bring my passion for building innovative AI products and my data-driven approach to Future Demand. My portfolio, available at [https://sauraodalvi.netlify.app/](https://sauraodalvi.netlify.app/), further showcases my ability to deliver high-impact solutions. Thank you for considering my application. I am enthusiastic about the opportunity to discuss how my skills and experience as
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf
