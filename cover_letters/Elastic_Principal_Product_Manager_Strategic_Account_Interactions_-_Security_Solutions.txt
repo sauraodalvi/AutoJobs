@@ -1,0 +1,36 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Principal Product Manager (Strategic Account Interactions) - Security Solutions at Elastic
+Apply Link: https://www.arbeitnow.co.uk/jobs/companies/elastic/principal-product-manager-strategic-account-interactions-security-solutions-91900
+Date Generated: 2026-09-01
+============================================================
+
+[Your Name]
+[Your Phone Number] | [Your Email]
+[Your Portfolio Link] | [Your LinkedIn Link]
+
+[Date]
+
+Hiring Manager, Product Team
+Elastic
+[Office Location / Remote]
+
+**RE: Principal Product Manager (Strategic Account Interactions) – Security Solutions**
+
+Dear Hiring Manager,
+
+As an AI Product Manager and Engineer with a proven track record of building 0-to-1 AI-native products, I have followed Elastic’s evolution from a search engine to a comprehensive security and observability powerhouse with great admiration. My background as a Forward Deployed Engineer and Product Manager allows me to bridge the gap between complex technical architecture and strategic customer outcomes—a synergy critical for the Principal Product Manager role. I am eager to bring my expertise in agentic systems and LLM-powered workflows to Elastic, ensuring that strategic account interactions are seamless, automated, and high-impact.
+
+Throughout my career, I have specialized in transforming ambiguous customer pain points into scalable revenue streams. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, scaling it to ~$6K MRR. During my tenure at CrelioHealth, I led the roadmap for Smart Reports, which increased lab revenue by ~$2,000 MRR per facility. By designing custom AI prompt pipelines, I successfully reduced patient registration time by 58% and sample turnaround by 18%. My experience at Sprinto further sharpened my ability to deliver enterprise-grade security SaaS solutions, while my technical proficiency in building developer CLIs and automating cross-app processes ensures I can lead the technical execution of Elastic’s security solutions with precision.
+
+I am confident that my blend of technical depth in AI and strategic experience as a Product Manager makes me an ideal fit to drive growth and operational excellence for Elastic’s strategic accounts. I have a demonstrated ability to ship products that deliver immediate ROI and long-term scalability. I welcome the opportunity to discuss how my experience building AI-driven automation and enterprise security tools can contribute to the continued success of Elastic’s security portfolio.
+
+Best regards,
+
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

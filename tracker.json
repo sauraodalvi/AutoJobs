@@ -2851,5 +2851,196 @@
         "action": "Autonomous web application submitted on ARBEITNOW: Application successfully processed and submitted on ARBEITNOW (Match Score: 70%)"
       }
     ]
+  },
+  {
+    "job_id": "job_935f8a6b",
+    "company": "Eleve Talent",
+    "role": "Knit - Lead Product Manager",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-lead-product-manager-115209",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-09-01",
+    "last_action_date": "2026-09-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-01",
+        "action": "Lead added for Knit - Lead Product Manager at Eleve Talent (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-01",
+        "action": "Generated tailored application kit & cover letter (Eleve_Talent_Knit_-_Lead_Product_Manager.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_66f1e963",
+    "company": "Gismart",
+    "role": "Product Manager (Radiotech)",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-product-manager-radiotech-120708",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-01",
+    "last_action_date": "2026-09-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-01",
+        "action": "Lead added for Product Manager (Radiotech) at Gismart (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_18c2c9bd",
+    "company": "Elastic",
+    "role": "Principal Product Manager (Strategic Account Interactions) - Security Solutions",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/principal-product-manager-strategic-account-interactions-security-solutions-91900",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-09-01",
+    "last_action_date": "2026-09-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-01",
+        "action": "Lead added for Principal Product Manager (Strategic Account Interactions) - Security Solutions at Elastic (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-01",
+        "action": "Generated tailored application kit & cover letter (Elastic_Principal_Product_Manager_Strategic_Account_Interactions_-_Security_Solutions.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1ab35332",
+    "company": "Objectway",
+    "role": "Product Owner",
+    "location": "LONDON",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/objectway/product-owner-london-90614",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-01",
+    "last_action_date": "2026-09-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-01",
+        "action": "Lead added for Product Owner at Objectway (LONDON). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a252418a",
+    "company": "Objectway",
+    "role": "Product Manager - Wealth Management",
+    "location": "LONDON",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/objectway/product-manager-wealth-management-london-215372",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-09-01",
+    "last_action_date": "2026-09-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-01",
+        "action": "Lead added for Product Manager - Wealth Management at Objectway (LONDON). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-01",
+        "action": "Generated tailored application kit & cover letter (Objectway_Product_Manager_-_Wealth_Management.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b5448bfc",
+    "company": "intercom",
+    "role": "Staff AI Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-ai-product-manager-london-329323",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-09-01",
+    "last_action_date": "2026-09-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-01",
+        "action": "Lead added for Staff AI Product Manager at intercom (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-01",
+        "action": "Generated tailored application kit & cover letter (intercom_Staff_AI_Product_Manager.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2c1073a3",
+    "company": "Amgen",
+    "role": "Sr. Digital Product Manager, Product Operations - Playbook & Training",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-01",
+    "last_action_date": "2026-09-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-01",
+        "action": "Lead added for Sr. Digital Product Manager, Product Operations - Playbook & Training at Amgen (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d3176f8b",
+    "company": "Lennar",
+    "role": "LTG - Group Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-01",
+    "last_action_date": "2026-09-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-01",
+        "action": "Lead added for LTG - Group Product Manager at Lennar (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7851f52b",
+    "company": "Epiq",
+    "role": "Senior Product Manager, Data Mining",
+    "location": "Pune District, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4460236492",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-09-01",
+    "last_action_date": "2026-09-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-01",
+        "action": "Lead added for Senior Product Manager, Data Mining at Epiq (Pune District, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-01",
+        "action": "Generated tailored application kit & cover letter (Epiq_Senior_Product_Manager_Data_Mining.txt). Status updated to APPLICATION_READY."
+      }
+    ]
   }
 ]
