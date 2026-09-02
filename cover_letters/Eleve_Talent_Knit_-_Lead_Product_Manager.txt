@@ -2,12 +2,16 @@
 COVER LETTER & APPLICATION KIT
 Target: Knit - Lead Product Manager at Eleve Talent
 Apply Link: https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-lead-product-manager-115209
-Date Generated: 2026-09-01
+Date Generated: 2026-09-02
 ============================================================
 
-**Saurao Dalvi**
 
-I am an AI Product Manager with 3+ years of end-to-end 0-to-1 product ownership experience that directly aligns with Eleve Talent’s mission to build
+
+Dear Hiring Team,
+
+I am excited to apply for the Lead Product Manager role at Eleve Talent. As an AI Product Manager with over three years of experience building and launching products from the ground up, I bring a strong track record of aligning product strategy with customer outcomes — exactly the kind of ownership and cross-functional leadership this role demands. My work spans drone AI SaaS, healthcare technology, and enterprise compliance platforms, and I am eager to bring that breadth of 0-to-1 product experience to Eleve Talent's mission of transforming talent acquisition and development at scale.
+
+In my current role as an AI Product Manager & Forward Deployed Engineer at FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI-powered drone SaaS platform that grew to approximately $6,000 MRR, directly shaping product strategy from ideation through delivery. At CrelioHealth, I led the Smart Reports roadmap, which increased lab revenue by roughly $2,000 MRR per lab, while cutting patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. I have also shipped developer CLIs, built LLM-powered
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

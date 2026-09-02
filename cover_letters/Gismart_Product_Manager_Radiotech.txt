@@ -2,6 +2,17 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager (Radiotech) at Gismart
 Apply Link: https://www.arbeitnow.com/jobs/companies/gismart/remote-product-manager-radiotech-120708
-Date Generated: 2026-09-01
+Date Generated: 2026-09-02
 ============================================================
 
+I am an AI Product Manager with over three years of 0‑to‑1 experience building radiotech‑focused, AI‑driven solutions that accelerate product adoption and revenue growth. At FlytBase, I defined and launched the Prediq roadmap as a Product Manager, delivering an AI drone SaaS that scaled to $6K MRR within months. My background in forward‑deployed engineering and cross‑functional leadership equips me to translate Gismart’s product vision into market‑ready radiotech offerings, making me an immediate fit for your Remote Product Manager role.  
+
+In my recent positions, I owned the Smart Reports roadmap at CrelioHealth, where my Product Manager initiatives increased lab revenue by $2,000 MRR per lab and cut patient registration time by 58% through custom AI prompt pipelines. At Sprinto, I engineered LLM‑powered workflows and agentic systems that reduced sample turnaround by 18% and automated complex cross‑app processes using Python CLIs, Zapier, and Make, driving measurable efficiency gains. I also launched Hidden Jobs, indexing 50K+ live ATS positions, and co‑founded the Elite PM platform with a Microsoft Product Manager, further demonstrating my ability to ship high‑impact AI products at scale.  
+
+I am eager to discuss how my proven track record of growing MRR, accelerating delivery cycles, and building AI‑native radiotech products can drive Gismart’s next wave of innovation. Let’s schedule a conversation to explore how I can contribute as your next Product Manager and help achieve ambitious growth targets.
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

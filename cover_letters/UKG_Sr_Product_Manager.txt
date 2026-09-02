@@ -2,22 +2,17 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-08-26
+Date Generated: 2026-09-02
 ============================================================
 
-Dear Hiring Team at UKG,
+I am Saurao Dalvi, an AI Product Manager with over three years of 0‑to‑1 product experience that directly aligns with UKG’s vision of intelligent, automated workplaces. My background spans building AI‑native SaaS solutions—from drone autonomy at FlytBase to healthcare workflow automation at CrelioHealth and enterprise security at Sprinto—where I have consistently delivered customer‑centric roadmaps, led cross‑functional teams, and accelerated product adoption as a Product Manager.
 
-I am writing to express my strong interest in the Sr Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
+In my most recent role, I owned the end‑to‑end roadmap and launch of Prediq, an AI drone SaaS that grew to approximately $6K MRR, and drove the Smart Reports roadmap at CrelioHealth, increasing lab revenue by roughly $2,000 MRR per lab. I engineered LLM‑powered prompt pipelines that cut patient registration time by 58% and sample turnaround by 18%, and built internal developer CLIs plus automation frameworks with Python, Zapier, and Make that streamlined complex cross‑app processes. These initiatives showcased my ability to scale MRR, improve operational efficiency, and launch high‑impact AI products as a Product Manager.
 
-In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with UKG's technical and product ambitions.
-
-I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for UKG.
-
-Sincerely,
-Saurao Dalvi
+I am eager to bring this blend of AI product expertise, data‑driven growth, and remote collaboration to UKG and discuss how I can drive further product growth for your organization. Let’s connect to explore how my experience as a Product Manager can contribute to UKG’s mission.
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
 Name: Saurao Dalvi
 Email: sauraodalvi97@gmail.com
-Resume: C:\git_projects\AutoJobs\Saurao_Dalvi_Resume.pdf
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

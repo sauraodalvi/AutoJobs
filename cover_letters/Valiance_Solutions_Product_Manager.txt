@@ -2,6 +2,21 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager at Valiance Solutions
 Apply Link: https://www.linkedin.com/jobs/view/4454516367
-Date Generated: 2026-09-01
+Date Generated: 2026-09-02
 ============================================================
 
+---
+
+**Cover Letter**
+
+Dear Hiring Team at Valiance Solutions,
+
+As an AI Product Manager with over three years of experience shipping 0-to-1 AI-native products across drone autonomy, healthcare SaaS, and enterprise security, I am excited to apply for the Product Manager role at Valiance Solutions. My track record of owning end-to-end product roadmaps, scaling revenue from zero, and embedding AI into enterprise workflows directly aligns with Valiance Solutions's mission to deliver intelligent, scalable solutions. I bring a rare blend of technical depth and product instincts that enables me to bridge engineering execution with market demand, and I am eager to bring this combination to a team redefining what's possible in enterprise AI.
+
+In my current role as an AI Product Manager and Forward Deployed Engineer at FlytBase, I built and scaled Prediq—an AI-powered drone SaaS product—from scratch to approximately $6,000 MRR, defining the entire roadmap, customer discovery process, and go-to-market strategy. At CrelioHealth, I owned the Smart Reports product roadmap, driving a
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

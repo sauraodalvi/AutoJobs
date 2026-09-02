@@ -2883,14 +2883,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-product-manager-radiotech-120708",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-01",
-    "last_action_date": "2026-09-01",
+    "last_action_date": "2026-09-02",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-01",
         "action": "Lead added for Product Manager (Radiotech) at Gismart (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-02",
+        "action": "Generated tailored application kit & cover letter (Gismart_Product_Manager_Radiotech.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -2925,14 +2929,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/objectway/product-owner-london-90614",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-01",
-    "last_action_date": "2026-09-01",
+    "last_action_date": "2026-09-02",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-01",
         "action": "Lead added for Product Owner at Objectway (LONDON). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-02",
+        "action": "Generated tailored application kit & cover letter (Objectway_Product_Owner.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3040,6 +3048,360 @@
       {
         "date": "2026-09-01",
         "action": "Generated tailored application kit & cover letter (Epiq_Senior_Product_Manager_Data_Mining.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_01fc5e16",
+    "company": "Rithum",
+    "role": "Product Manager - Technical",
+    "location": "UK (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/152306-product-manager-technical",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Product Manager - Technical at Rithum (UK (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-02",
+        "action": "Generated tailored application kit & cover letter (Rithum_Product_Manager_-_Technical.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ead73ac3",
+    "company": "mozilla",
+    "role": "Senior Staff Product Manager, Browser Control Platform",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-staff-product-manager-browser-control-platform-397767",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Senior Staff Product Manager, Browser Control Platform at mozilla (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-02",
+        "action": "Generated tailored application kit & cover letter (mozilla_Senior_Staff_Product_Manager_Browser_Control_Platform.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ce8b032a",
+    "company": "Bjak",
+    "role": "Technical Product Lead - AI Stockbroking",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-stockbroking-germany-446243",
+    "status": "APPLICATION_READY",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Lead - AI Stockbroking at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-02",
+        "action": "Generated tailored application kit & cover letter (Bjak_Technical_Product_Lead_-_AI_Stockbroking.txt). Status updated to APPLICATION_READY."
+      }
+    ]
+  },
+  {
+    "job_id": "job_abe17ee1",
+    "company": "Bjak",
+    "role": "Technical Product Lead - AI Investing",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-investing-germany-77609",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Lead - AI Investing at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_75ecf689",
+    "company": "Bjak",
+    "role": "Technical Product Lead - AI Neobank",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-neobank-germany-232644",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Lead - AI Neobank at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_da0d075b",
+    "company": "Bjak",
+    "role": "Technical Product Lead - AI Finance",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-finance-germany-460608",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Lead - AI Finance at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_cbf39ef0",
+    "company": "Bjak",
+    "role": "Technical Product Lead - AI Stockbroking App",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-stockbroking-app-germany-64949",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Lead - AI Stockbroking App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a9f16661",
+    "company": "Bjak",
+    "role": "Technical Product Manager - AI Stockbroking",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-stockbroking-germany-428285",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Manager - AI Stockbroking at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7f51bf06",
+    "company": "Bjak",
+    "role": "Technical Product Lead - AI Investing App",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-investing-app-germany-59107",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Lead - AI Investing App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_56ce329a",
+    "company": "Bjak",
+    "role": "Technical Product Lead - AI Neobank App",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-neobank-app-germany-349171",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Lead - AI Neobank App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_70700cdc",
+    "company": "Bjak",
+    "role": "Technical Product Manager - AI Investing",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-investing-germany-140630",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Manager - AI Investing at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_37ea6a60",
+    "company": "Bjak",
+    "role": "Technical Product Manager - AI Neobank",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-neobank-germany-46204",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Manager - AI Neobank at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7b35a785",
+    "company": "Bjak",
+    "role": "Technical Product Lead - AI Finance App",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-finance-app-germany-434104",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Lead - AI Finance App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4f3150c4",
+    "company": "Bjak",
+    "role": "Technical Product Manager - AI Stockbroking App",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-stockbroking-app-germany-77356",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Manager - AI Stockbroking App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f1022639",
+    "company": "Bjak",
+    "role": "Technical Product Manager - AI Investing App",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-investing-app-germany-219285",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Manager - AI Investing App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_576b8de1",
+    "company": "Bjak",
+    "role": "Technical Product Manager - AI Neobank App",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-neobank-app-germany-462404",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Technical Product Manager - AI Neobank App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_75570c87",
+    "company": "N8N",
+    "role": "Senior Product Manager - Core Experience",
+    "location": "Berlin Office",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-product-manager-core-experience-berlin-120518",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Senior Product Manager - Core Experience at N8N (Berlin Office). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9ca5cfb4",
+    "company": "JPMorganChase",
+    "role": "Product Manager",
+    "location": "Pune Division, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4462050677",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-02",
+    "last_action_date": "2026-09-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-02",
+        "action": "Lead added for Product Manager at JPMorganChase (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
