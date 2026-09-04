@@ -1,0 +1,26 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Technical Product Lead - AI Neobank App at Bjak
+Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-neobank-app-germany-349171
+Date Generated: 2026-09-04
+============================================================
+
+[Saurao Dalvi]
+[Portfolio: sauraodalvi.netlify.app] | [LinkedIn: linkedin.com/in/saurao-dalvi]
+[Location: Germany / Remote]
+
+**Re: Technical Product Lead – AI Neobank App**
+
+Dear Bjak Hiring Team,
+
+As an AI Product Manager with 3+ years of hands-on experience shipping 0-to-1 SaaS products at FlytBase, CrelioHealth, and Sprinto, I am applying for the Technical Product Lead – AI Neobank App role with strong conviction. Bjak's mission to democratize access to financial services across Southeast Asia resonates deeply with my track record of building AI-native products that convert complex technical capabilities into measurable customer outcomes. I bring a builder's mindset, a sharp product instinct, and deep familiarity with LLM workflows, agentic systems, and developer-facing tooling — exactly the combination needed to lead an AI-first neobank from inception to scale.
+
+In my current role at FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS product, growing it to ~$6K MRR through tight cross-functional leadership between engineering, design, and GTM. At CrelioHealth, I owned the Smart Reports roadmap — a healthcare AI workflow that lifted lab revenue by ~$2,000 MRR per lab, cut patient registration time by ~58%, and reduced sample turnaround by 18% via custom LLM prompt pipelines. Across all three companies, I have consistently operated as a 0-to-1 product manager: scoping MVPs, writing PRDs, prototyping with code, running experiments, and shipping fast. I have also built and launched side-products such as Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2, and co-founded Elite PM with a Microsoft Product Manager — proof that I do not stop at the boundary of my job description. This SaaS MRR growth discipline, paired with deep cross-functional leadership and proven AI workflow expertise, is directly transferable to a Technical Product Lead role inside a fast-moving AI neobank.
+
+I would welcome the opportunity to discuss how my experience building AI-driven SaaS
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

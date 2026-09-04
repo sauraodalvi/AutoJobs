@@ -3174,14 +3174,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-finance-germany-460608",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-02",
-    "last_action_date": "2026-09-02",
+    "last_action_date": "2026-09-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-02",
         "action": "Lead added for Technical Product Lead - AI Finance at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-04",
+        "action": "Generated tailored application kit & cover letter (Bjak_Technical_Product_Lead_-_AI_Finance.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3262,14 +3266,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-neobank-app-germany-349171",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-02",
-    "last_action_date": "2026-09-02",
+    "last_action_date": "2026-09-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-02",
         "action": "Lead added for Technical Product Lead - AI Neobank App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-04",
+        "action": "Generated tailored application kit & cover letter (Bjak_Technical_Product_Lead_-_AI_Neobank_App.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3281,14 +3289,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-investing-germany-140630",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-02",
-    "last_action_date": "2026-09-02",
+    "last_action_date": "2026-09-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-02",
         "action": "Lead added for Technical Product Manager - AI Investing at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-04",
+        "action": "Generated tailored application kit & cover letter (Bjak_Technical_Product_Manager_-_AI_Investing.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3300,14 +3312,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-neobank-germany-46204",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-02",
-    "last_action_date": "2026-09-02",
+    "last_action_date": "2026-09-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-02",
         "action": "Lead added for Technical Product Manager - AI Neobank at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-04",
+        "action": "Generated tailored application kit & cover letter (Bjak_Technical_Product_Manager_-_AI_Neobank.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3319,14 +3335,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-finance-app-germany-434104",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-02",
-    "last_action_date": "2026-09-02",
+    "last_action_date": "2026-09-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-02",
         "action": "Lead added for Technical Product Lead - AI Finance App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-04",
+        "action": "Generated tailored application kit & cover letter (Bjak_Technical_Product_Lead_-_AI_Finance_App.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3536,6 +3556,158 @@
       {
         "date": "2026-09-03",
         "action": "Lead added for Senior Product Manager at Responsive (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3a9ecefe",
+    "company": "celonis",
+    "role": "Senior Application Product Manager - Supply Chain - Procurement",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-application-product-manager-supply-chain-procurement-munich-95849",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-04",
+    "last_action_date": "2026-09-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-04",
+        "action": "Lead added for Senior Application Product Manager - Supply Chain - Procurement at celonis (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3ba7ac40",
+    "company": "autoscout24",
+    "role": "Product Manager, BSG (m/f/d)",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/autoscout24/product-manager-bsg-376558",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-04",
+    "last_action_date": "2026-09-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-04",
+        "action": "Lead added for Product Manager, BSG (m/f/d) at autoscout24 (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_59dc2be6",
+    "company": "Atolls",
+    "role": "Senior Product Manager (Giftcard)",
+    "location": "London, England, United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/senior-product-manager-giftcard-london-231979",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-04",
+    "last_action_date": "2026-09-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-04",
+        "action": "Lead added for Senior Product Manager (Giftcard) at Atolls (London, England, United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_18907f7e",
+    "company": "Mubi",
+    "role": "Senior Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/mubi/senior-product-manager-london-195200",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-04",
+    "last_action_date": "2026-09-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-04",
+        "action": "Lead added for Senior Product Manager at Mubi (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1c98a79b",
+    "company": "ThriveCart",
+    "role": "Product Manager - Payments",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/thrivecart/product-manager-payments-london-331375",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-04",
+    "last_action_date": "2026-09-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-04",
+        "action": "Lead added for Product Manager - Payments at ThriveCart (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_bbddfa34",
+    "company": "MoonPay",
+    "role": "Product Manager, Crypto Asset Management",
+    "location": "London - Hybrid",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/product-manager-crypto-asset-management-london-hybrid-386040",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-04",
+    "last_action_date": "2026-09-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-04",
+        "action": "Lead added for Product Manager, Crypto Asset Management at MoonPay (London - Hybrid). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ef615722",
+    "company": "Newfold Digital",
+    "role": "Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4460483717",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-04",
+    "last_action_date": "2026-09-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-04",
+        "action": "Lead added for Product Manager at Newfold Digital (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_870e7398",
+    "company": "Entain India",
+    "role": "Product Manager",
+    "location": "Pune Division, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4462822076",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-04",
+    "last_action_date": "2026-09-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-04",
+        "action": "Lead added for Product Manager at Entain India (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

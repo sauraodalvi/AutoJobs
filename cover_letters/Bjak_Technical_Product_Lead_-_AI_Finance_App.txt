@@ -1,0 +1,23 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Technical Product Lead - AI Finance App at Bjak
+Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-finance-app-germany-434104
+Date Generated: 2026-09-04
+============================================================
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Technical Product Lead position at Bjak. With over 3 years of hands-on experience as an AI Product Manager and AI Engineer, I have successfully launched multiple AI-native products from concept to market, demonstrating a proven track record in 0-to-1 Product Management. My background spans building AI-powered SaaS solutions across diverse verticals—drone autonomy, healthcare, and enterprise security—aligning perfectly with Bjak's vision of leveraging cutting-edge AI to transform financial services.
+
+Throughout my career, I have demonstrated exceptional Cross-Functional Leadership by owning end-to-end roadmaps and delivering measurable business impact. At FlytBase, I led the 0-to-1 launch of Prediq (AI drone SaaS), achieving $6K MRR through strategic product-market fit execution. Similarly, at CrelioHealth, I drove Smart Reports roadmap that increased lab revenue by $2,000 MRR per lab while cutting patient registration time by 58% and sample turnaround by 18% using custom AI workflows. My experience building LLM-powered workflows, internal developer CLIs, and agentic systems—including Hidden Jobs (50K+ live ATS jobs) and Stare V2—demonstrates my ability to deliver scalable SaaS MRR growth through innovative AI solutions.
+
+I am excited about the opportunity to bring my expertise in 0-to-1 Product Management and AI workflows to Bjak's mission of democratizing finance through technology. I would welcome the chance to discuss how my Cross-Functional Leadership skills and proven track record in SaaS MRR growth can contribute to Bjak's continued success. Thank you for your consideration, and I look forward to speaking with you soon.
+
+Sincerely,
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
