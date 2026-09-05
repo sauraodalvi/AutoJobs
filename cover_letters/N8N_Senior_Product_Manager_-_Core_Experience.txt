@@ -1,0 +1,31 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager - Core Experience at N8N
+Apply Link: https://www.arbeitnow.com/jobs/companies/n8n/senior-product-manager-core-experience-berlin-120518
+Date Generated: 2026-09-05
+============================================================
+
+[Your Name]
+[Your Address]
+[City, Postal Code, Germany]
+[Email Address] | [Phone Number]
+[LinkedIn Profile URL]
+[Date]
+
+Hiring Committee
+n8n
+Berlin, Germany
+
+Re: Application for Senior Product Manager – Core Experience
+
+Dear Hiring Committee,
+
+I am writing to express my enthusiastic interest in the Senior Product Manager – Core Experience role at n8n. As a Product Manager with 3+ years of hands-on experience driving 0-to-1 product development across AI-native platforms, I bring a builder's mindset and a deep operational understanding of automation ecosystems that closely align with n8n's mission to empower technical teams with workflow orchestration. Having shipped AI-driven SaaS products that reached meaningful MRR milestones, led cross-functional teams of engineers and designers, and partnered directly with customers to translate complex technical capabilities into intuitive user experiences, I am confident in my fit to shape the core experience of a category-defining automation platform. My portfolio (sauraodalvi.netlify.app) showcases a track record of turning ambitious AI product visions into shipped, revenue-generating reality.
+
+In my current role as an AI Product Manager and Forward Deployed Engineer at FlytBase, I owned the end-to-end roadmap for a 0-to-1 AI drone SaaS product (Prediq), scaling it to approximately $6K MRR while collaborating closely with engineering, sales, and end customers. Prior to that, as a Product Manager at CrelioHealth, I owned the Smart Reports roadmap, driving an incremental ~$2,000 MRR per lab by leveraging custom AI prompt pipelines that cut patient registration time by 58% and sample turnaround by 18%. At Sprinto, I contributed to enterprise security SaaS workflows that automated complex compliance processes for hundreds of B2B customers. Beyond these roles, I have built and launched AI-native products including Hidden Jobs (indexing 50K+ live ATS jobs) and Stare V2, co-founded the Elite PM platform in partnership with a Microsoft Product Manager, and developed internal developer CLIs alongside automation frameworks using Zapier, Make, and Python. These experiences have given me a Product Manager's perspective grounded in real shipping velocity, customer empathy
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

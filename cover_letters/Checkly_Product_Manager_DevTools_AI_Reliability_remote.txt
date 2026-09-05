@@ -1,0 +1,36 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager (DevTools & AI Reliability, remote) at Checkly
+Apply Link: https://www.arbeitnow.com/jobs/companies/checkly/product-manager-devtools-ai-reliability-remote-berlin-99554
+Date Generated: 2026-09-05
+============================================================
+
+[Your Name]
+[Your Phone Number] | [Your Email]
+[Your LinkedIn Profile] | [Your Portfolio Link]
+
+[Date]
+
+Hiring Manager, Product
+Checkly
+Remote
+
+**RE: Product Manager (DevTools & AI Reliability)**
+
+Dear Checkly Hiring Team,
+
+As an AI Product Manager and Engineer with over three years of experience building 0-to-1 technical products, I have followed Checkly’s evolution in the monitoring and reliability space with great interest. My background is uniquely positioned at the intersection of DevTools and AI—combining the strategic mindset of a Product Manager with the technical depth of a Forward Deployed Engineer. Having scaled AI-native SaaS products from conception to revenue, I am eager to apply my expertise in agentic systems and developer experience (DX) to enhance Checkly’s AI reliability offerings and empower developers to maintain flawless uptime.
+
+Throughout my career, I have specialized in transforming complex technical capabilities into high-growth product features. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq (AI drone SaaS), successfully scaling it to ~$6K MRR. My tenure as a Product Manager at CrelioHealth saw me lead the "Smart Reports" initiative, which increased lab revenue by ~$2,000 MRR per facility, while my implementation of custom AI prompt pipelines slashed patient registration time by 58% and sample turnaround by 18%. Beyond high-level strategy, I am a builder who has developed internal developer CLIs and indexed 50K+ ATS jobs for AI-driven platforms, ensuring that the products I manage are technically viable, scalable, and deeply aligned with developer needs.
+
+Checkly is redefining how teams approach synthetic monitoring and reliability, and I am confident that my experience shipping LLM-powered workflows and automation tools makes me an ideal fit for this role. I am excited about the possibility of driving product growth and reliability innovation for your global user base. I look forward to discussing how my hybrid technical-product background can contribute to Checkly’s continued success.
+
+Best regards,
+
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

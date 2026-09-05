@@ -1,0 +1,21 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Technical Product Manager - AI Neobank App at Bjak
+Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-neobank-app-germany-462404
+Date Generated: 2026-09-05
+============================================================
+
+Saurao Dalvi  
+Pune, Maharashtra | +91-XXXXXXXXXX | saurao.dalvi@email.com | https://sauraodalvi.netlify.app/ | https://www.linkedin.com/in/saurao-dalvi/  
+
+**Application for Technical Product Manager - AI Neobank App (Germany)**
+
+As an AI Product Manager with 3+ years of 0-to-1 execution spanning drone autonomy, healthcare SaaS, and enterprise security, I am energized by Bjak’s mission to democratize financial access through an AI-native neobank. My background as a Forward Deployed Engineer at FlytBase—where I bridge deep technical architecture with commercial product strategy—aligns directly with your need for a Technical Product Manager who can own the full lifecycle of LLM-powered banking workflows, from prompt engineering and RAG pipelines to regulatory-compliant deployment in the EU market.
+
+In my current role, I owned the 0-to-1 roadmap and launch of **Prediq**, an AI drone SaaS product, scaling it to **~$6K MRR** by defining pricing, positioning, and developer-facing CLIs. At CrelioHealth, I drove the **Smart Reports** roadmap, increasing lab revenue by **~$2,000 MRR per lab** and cutting patient registration time by **58%** and sample turnaround by **18%** via custom LLM prompt pipelines and automation frameworks (Python, Zapier, Make). At Sprinto, I shipped compliance automation features for SOC2/ISO27001 readiness, collaborating with engineering to reduce audit evidence collection overhead. Across these roles, I have consistently delivered **Product Manager** outcomes by translating ambiguous AI
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

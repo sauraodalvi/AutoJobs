@@ -1,0 +1,33 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior AI Product Manager at 9Fin
+Apply Link: https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-ai-product-manager-london-379136
+Date Generated: 2026-09-05
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Roles:** Product Manager / APM / AI Product Manager
+   - **Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote
+   - **Summary:** AI Product Manager & AI Engineer (Forward Deployed Engineer) at FlytBase, 3+ years, 0-to-1 builder, AI/automation, drone autonomy, healthcare SaaS, enterprise security SaaS.
+   - **Portfolio/LinkedIn:** Provided
+   - **Key Highlights:** Listed bullets
+   - **Task:** Write a 3-paragraph ATS-optimized cover letter for Company: 9Fin, Role: Senior AI Product Manager, Location: London
+   - **Key ATS Keywords:** Product Manager, Ai Product Manager (must naturally incorporate)
+   - **Structure:**
+     - Paragraph 1: High-energy intro positioning as AI PM with 3+ years 0-to-1 experience aligning with 9Fin's product vision.
+     - Paragraph 2: Specific metrics & impact (shipped 0-to-1 products, scaled MRR, built LLM workflows, cut turnaround 18-50%+), weaving in Product Manager, Ai Product Manager.
+     - Paragraph 3: Crisp CTA expressing enthusiasm to discuss driving product growth for 9Fin.
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff.
+
+2.  **Deconstruct the Requirements:**
+   - 3 paragraphs only
+   - Must include "Product Manager" and "Ai Product Manager" (or "AI Product Manager"? The prompt says "Ai Product Manager" - I'll use "AI Product Manager" naturally, but ensure the exact keyword "Ai Product Manager" appears or I'll use "AI Product Manager" as the standard. The prompt says: "Key ATS Keywords to naturally incorporate: Product Manager, Ai Product Manager". I'll make sure both appear exactly or very naturally. I'll use "AI Product Manager" as it
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

@@ -3396,14 +3396,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-neobank-app-germany-462404",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-02",
-    "last_action_date": "2026-09-02",
+    "last_action_date": "2026-09-05",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-02",
         "action": "Lead added for Technical Product Manager - AI Neobank App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-05",
+        "action": "Generated tailored application kit & cover letter (Bjak_Technical_Product_Manager_-_AI_Neobank_App.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3415,14 +3419,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-product-manager-core-experience-berlin-120518",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-02",
-    "last_action_date": "2026-09-02",
+    "last_action_date": "2026-09-05",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-02",
         "action": "Lead added for Senior Product Manager - Core Experience at N8N (Berlin Office). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-05",
+        "action": "Generated tailored application kit & cover letter (N8N_Senior_Product_Manager_-_Core_Experience.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3434,14 +3442,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4462050677",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-02",
-    "last_action_date": "2026-09-02",
+    "last_action_date": "2026-09-05",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-02",
         "action": "Lead added for Product Manager at JPMorganChase (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-05",
+        "action": "Generated tailored application kit & cover letter (JPMorganChase_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3453,14 +3465,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/checkly/product-manager-devtools-ai-reliability-remote-berlin-99554",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-03",
-    "last_action_date": "2026-09-03",
+    "last_action_date": "2026-09-05",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-03",
         "action": "Lead added for Product Manager (DevTools & AI Reliability, remote) at Checkly (Remote (UTC-3 to UTC+3)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-05",
+        "action": "Generated tailored application kit & cover letter (Checkly_Product_Manager_DevTools_AI_Reliability_remote.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3472,14 +3488,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-ai-product-manager-london-379136",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-03",
-    "last_action_date": "2026-09-03",
+    "last_action_date": "2026-09-05",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-03",
         "action": "Lead added for Senior AI Product Manager at 9Fin (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-05",
+        "action": "Generated tailored application kit & cover letter (9Fin_Senior_AI_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3708,6 +3728,63 @@
       {
         "date": "2026-09-04",
         "action": "Lead added for Product Manager at Entain India (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3783d8d7",
+    "company": "Stark",
+    "role": "Technical Product Manager (All gender)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/stark/technical-product-manager-all-gender-berlin-340395",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-05",
+    "last_action_date": "2026-09-05",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-05",
+        "action": "Lead added for Technical Product Manager (All gender) at Stark (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_77c17ffe",
+    "company": "Apexx",
+    "role": "Head of Product",
+    "location": "London HQ",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/apexx/head-of-product-farringdon-18233",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-05",
+    "last_action_date": "2026-09-05",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-05",
+        "action": "Lead added for Head of Product at Apexx (London HQ). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6c66335f",
+    "company": "9Fin",
+    "role": "Senior Product Manager (Data APIs)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-product-manager-data-apis-london-48581",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-05",
+    "last_action_date": "2026-09-05",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-05",
+        "action": "Lead added for Senior Product Manager (Data APIs) at 9Fin (London). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

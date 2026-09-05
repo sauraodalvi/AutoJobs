@@ -1,0 +1,28 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager at JPMorganChase
+Apply Link: https://www.linkedin.com/jobs/view/4462050677
+Date Generated: 2026-09-05
+============================================================
+
+# Cover Letter
+
+**Saurao Dalvi**
+sauraodalvi@gmail.com | +91 | LinkedIn: linkedin.com/in/saurao-dalvi
+Portfolio: sauraodalvi.netlify.app
+
+---
+
+**Re: Product Manager Position – Pune Division**
+
+Dear Hiring Team,
+
+As an AI Product Manager with over three years of experience shipping 0-to-1 products that generate measurable revenue impact, I am excited to apply for the Product Manager role at JPMorganChase. My track record of building AI-native products, scaling SaaS solutions from concept to $6K+ MRR, and leading cross-functional teams aligns directly with JPMorganChase's commitment to delivering innovative financial products at scale. At FlytBase, CrelioHealth, and Sprinto, I have consistently translated complex customer problems into product roadmaps that drive growth—a philosophy I am eager to bring to one of the world's most influential financial institutions.
+
+In my current role as an AI Product Manager and Forward Deployed Engineer at FlytBase, I owned the complete 0-to-1 journey of Prediq—an AI drone SaaS platform—from roadmap strategy through launch, scaling it to approximately $6,000 MRR. At CrelioHealth, I owned the Smart Reports product roadmap, directly increasing lab revenue by approximately $2,000 MRR per lab while cutting patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. I have built LLM-powered workflows, developer CLIs, and agentic systems that automate complex processes, and I have indexed over 50,000+ live ATS jobs for product features reaching thousands of users. My experience spans the full product lifecycle—discovery, delivery,
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
