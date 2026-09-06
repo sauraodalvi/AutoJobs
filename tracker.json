@@ -3358,14 +3358,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-stockbroking-app-germany-77356",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-02",
-    "last_action_date": "2026-09-02",
+    "last_action_date": "2026-09-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-02",
         "action": "Lead added for Technical Product Manager - AI Stockbroking App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-06",
+        "action": "Generated tailored application kit & cover letter (Bjak_Technical_Product_Manager_-_AI_Stockbroking_App.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3377,14 +3381,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-investing-app-germany-219285",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-02",
-    "last_action_date": "2026-09-02",
+    "last_action_date": "2026-09-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-02",
         "action": "Lead added for Technical Product Manager - AI Investing App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-06",
+        "action": "Generated tailored application kit & cover letter (Bjak_Technical_Product_Manager_-_AI_Investing_App.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3511,14 +3519,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-product-manager-london-233754",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-03",
-    "last_action_date": "2026-09-03",
+    "last_action_date": "2026-09-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-03",
         "action": "Lead added for Senior Product Manager at 9Fin (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-06",
+        "action": "Generated tailored application kit & cover letter (9Fin_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3530,14 +3542,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/product-manager-clinical-trials-london-331407",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-03",
-    "last_action_date": "2026-09-03",
+    "last_action_date": "2026-09-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-03",
         "action": "Lead added for Product Manager, Clinical Trials at Heidi (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-06",
+        "action": "Generated tailored application kit & cover letter (Heidi_Product_Manager_Clinical_Trials.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3587,14 +3603,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-application-product-manager-supply-chain-procurement-munich-95849",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-04",
-    "last_action_date": "2026-09-04",
+    "last_action_date": "2026-09-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-04",
         "action": "Lead added for Senior Application Product Manager - Supply Chain - Procurement at celonis (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-06",
+        "action": "Generated tailored application kit & cover letter (celonis_Senior_Application_Product_Manager_-_Supply_Chain_-_Procurement.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3785,6 +3805,196 @@
       {
         "date": "2026-09-05",
         "action": "Lead added for Senior Product Manager (Data APIs) at 9Fin (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_64497ac5",
+    "company": "Guidepoint",
+    "role": "Product Manager - AI Product Engineering",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/guidepoint/product-manager-ai-product-engineering-london-227150",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-06",
+    "last_action_date": "2026-09-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-06",
+        "action": "Lead added for Product Manager - AI Product Engineering at Guidepoint (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c885aef1",
+    "company": "Coreweaveu",
+    "role": "Staff Product Manager - Physical AI/Robotics",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-physical-ai-robotics-london-203840",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-06",
+    "last_action_date": "2026-09-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-06",
+        "action": "Lead added for Staff Product Manager - Physical AI/Robotics at Coreweaveu (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1122110b",
+    "company": "Coreweaveu",
+    "role": "Staff Product Manager, Applied Physical AI",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-applied-physical-ai-london-308855",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-06",
+    "last_action_date": "2026-09-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-06",
+        "action": "Lead added for Staff Product Manager, Applied Physical AI at Coreweaveu (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9bdaf7fd",
+    "company": "Hexa",
+    "role": "Product Lead @Panora",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hexa/product-lead-at-panora-paris-469260",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-06",
+    "last_action_date": "2026-09-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-06",
+        "action": "Lead added for Product Lead @Panora at Hexa (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_eb73a5e2",
+    "company": "Thiga",
+    "role": "Product Owner / Product Manager Senior (H/F)",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/product-owner-product-manager-senior-h-f-paris-465918",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-06",
+    "last_action_date": "2026-09-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-06",
+        "action": "Lead added for Product Owner / Product Manager Senior (H/F) at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f971938d",
+    "company": "Thiga",
+    "role": "Product Owner / Product Manager (H/F)",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/product-owner-product-manager-h-f-paris-131762",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-06",
+    "last_action_date": "2026-09-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-06",
+        "action": "Lead added for Product Owner / Product Manager (H/F) at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1a4f3832",
+    "company": "Thiga",
+    "role": "Product Ops IA / Product Manager Ops - (H/F)",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/product-ops-ia-product-manager-ops-h-f-paris-162031",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-06",
+    "last_action_date": "2026-09-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-06",
+        "action": "Lead added for Product Ops IA / Product Manager Ops - (H/F) at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1f422c22",
+    "company": "Thiga",
+    "role": "Lead Product Manager & Coach Produit H/F",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/lead-product-manager-coach-produit-h-f-paris-461691",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-06",
+    "last_action_date": "2026-09-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-06",
+        "action": "Lead added for Lead Product Manager & Coach Produit H/F at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a9620211",
+    "company": "Thiga",
+    "role": "Head of Product Transformation / Consultant·e en Organisation Produit H/F",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/head-of-product-transformation-consultante-en-organisation-produit-h-f-paris-495288",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-06",
+    "last_action_date": "2026-09-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-06",
+        "action": "Lead added for Head of Product Transformation / Consultant·e en Organisation Produit H/F at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9e663256",
+    "company": "Thiga",
+    "role": "Data Product Manager H/F",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/data-product-manager-h-f-paris-106595",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-06",
+    "last_action_date": "2026-09-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-06",
+        "action": "Lead added for Data Product Manager H/F at Thiga (Paris). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

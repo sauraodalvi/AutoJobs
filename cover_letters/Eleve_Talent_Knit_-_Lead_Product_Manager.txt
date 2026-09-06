@@ -2,16 +2,16 @@
 COVER LETTER & APPLICATION KIT
 Target: Knit - Lead Product Manager at Eleve Talent
 Apply Link: https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-lead-product-manager-115209
-Date Generated: 2026-09-02
+Date Generated: 2026-09-06
 ============================================================
 
-
+# Cover Letter
 
 Dear Hiring Team,
 
-I am excited to apply for the Lead Product Manager role at Eleve Talent. As an AI Product Manager with over three years of experience building and launching products from the ground up, I bring a strong track record of aligning product strategy with customer outcomes — exactly the kind of ownership and cross-functional leadership this role demands. My work spans drone AI SaaS, healthcare technology, and enterprise compliance platforms, and I am eager to bring that breadth of 0-to-1 product experience to Eleve Talent's mission of transforming talent acquisition and development at scale.
+As an AI Product Manager with over three years of experience shipping 0-to-1 products that drive measurable revenue, I am excited to apply for the Lead Product Manager role at Eleve Talent. My track record of building AI-native solutions—from autonomous drone SaaS to healthcare automation—aligns directly with your mission to transform how teams connect talent with opportunity. I have built, launched, and scaled products end-to-end, and I am ready to bring that same ownership mentality to Knit as your next Lead Product Manager.
 
-In my current role as an AI Product Manager & Forward Deployed Engineer at FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI-powered drone SaaS platform that grew to approximately $6,000 MRR, directly shaping product strategy from ideation through delivery. At CrelioHealth, I led the Smart Reports roadmap, which increased lab revenue by roughly $2,000 MRR per lab, while cutting patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. I have also shipped developer CLIs, built LLM-powered
+At FlytBase, I owned the full roadmap and launch of Prediq, an AI drone SaaS that reached approximately $6K MRR, defining the go-to-market strategy and iterating on customer feedback to drive adoption. At CrelioHealth
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

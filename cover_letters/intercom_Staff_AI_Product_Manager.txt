@@ -2,10 +2,14 @@
 COVER LETTER & APPLICATION KIT
 Target: Staff AI Product Manager at intercom
 Apply Link: https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-ai-product-manager-london-329323
-Date Generated: 2026-09-01
+Date Generated: 2026-09-06
 ============================================================
 
-Saurao Dalvi, an AI Product Manager with 3+ years of end‑to‑end 0‑to‑1 experience, is eager to bring my track record of launching AI‑native solutions to Intercom’s mission of making internet business personal. My background in shaping product roadmaps, leading cross‑functional teams, and delivering customer‑facing AI/automation across drone autonomy, healthcare SaaS, and enterprise security aligns directly with Intercom’s focus on intelligent, scalable product experiences
+I am a Product Manager and Ai Product Manager with over three years of end‑to‑end experience delivering 0‑to‑1 AI‑driven solutions that accelerate product vision and market adoption. At FlytBase, I defined and launched the Prediq roadmap, taking a nascent drone‑autonomy SaaS from concept to $6K MRR within months, while simultaneously leading cross‑functional teams to ship LLM‑powered workflows and agentic systems that unlocked new customer value. My blend of deep technical insight and product strategy directly mirrors Intercom’s mission to build intuitive, AI‑enhanced communication tools for a global user base.  
+
+In my recent roles, I have consistently translated AI research into revenue‑generating products: I owned the Smart Reports roadmap at CrelioHealth, driving a $2K MRR uplift per laboratory and cutting patient registration time by 58% through custom AI prompt pipelines; at Sprinto, I engineered internal CLIs and Zapier/Make automations that reduced sample turnaround by 18% and streamlined complex cross‑app processes. I also built and launched Hidden Jobs, indexing 50K+ live ATS listings, and co‑founded the Elite PM platform with a Microsoft Product Manager, demonstrating my ability to scale AI products from prototype to high‑growth. These results showcase my proven track record as a Product Manager who delivers measurable impact through AI innovation.  
+
+I am eager to bring this high‑energy, metric‑focused mindset to Intercom’s London team and discuss how I can drive product growth and AI excellence for your customers. Let’s connect soon to explore how my experience as an Ai Product Manager can accelerate Intercom’s vision and expand its market footprint.
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

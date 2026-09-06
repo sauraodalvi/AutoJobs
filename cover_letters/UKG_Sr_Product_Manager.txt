@@ -2,6 +2,35 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-09-05
+Date Generated: 2026-09-06
 ============================================================
 
+[Your Name]
+[Your Phone Number] | [Your Email]
+[Your Portfolio Link] | [Your LinkedIn Link]
+
+[Date]
+
+Hiring Manager, Product Team
+UKG
+Remote
+
+**RE: Senior Product Manager Application**
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Senior Product Manager position at UKG. As an AI Product Manager and Engineer with over three years of experience building 0-to-1 AI-native products, I specialize in bridging the gap between complex technical capabilities and scalable business value. Having led high-impact initiatives across drone autonomy, healthcare SaaS, and enterprise security, I am eager to bring my expertise in agentic systems and LLM-powered workflows to UKG to enhance your product ecosystem and drive operational excellence for your global workforce management solutions.
+
+My track record as a Product Manager is defined by delivering measurable revenue growth and efficiency gains. At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS that scaled to ~$6K MRR. While at CrelioHealth, I spearheaded the "Smart Reports" feature, increasing revenue by ~$2,000 MRR per lab, and engineered custom AI prompt pipelines that slashed patient registration time by 58% and sample turnaround by 18%. From building developer CLIs to launching AI products like Hidden Jobs (indexing 50K+ ATS jobs), I possess the rare combination of technical depth as an engineer and the strategic foresight of a Product Manager to ship products that solve real-world enterprise pain points.
+
+I am impressed by UKG’s commitment to creating a great place to work through innovative technology, and I am confident that my experience in automating complex cross-app processes and scaling AI products will contribute significantly to your growth. I look forward to the opportunity to discuss how my background in 0-to-1 product development can help UKG continue to lead the HCM and workforce management space.
+
+Best regards,
+
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

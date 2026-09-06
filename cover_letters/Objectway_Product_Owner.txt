@@ -2,6 +2,36 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Owner at Objectway
 Apply Link: https://www.arbeitnow.co.uk/jobs/companies/objectway/product-owner-london-90614
-Date Generated: 2026-09-02
+Date Generated: 2026-09-06
 ============================================================
 
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Roles:** Product Manager / APM / AI Product Manager
+   - **Target Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote (but role is specific: Objectway, London, Product Owner)
+   - **Summary:** AI Product Manager & AI Engineer at FlytBase, 3+ years, 0-to-1 builder, cross-functional, AI/automation across drone autonomy, healthcare SaaS, enterprise security.
+   - **Portfolio/LinkedIn:** Provided
+   - **Key Highlights:** Listed bullet points
+   - **Task:** Write a 3-paragraph ATS-optimized cover letter for Objectway, Product Owner role, London location.
+   - **Key ATS Keywords to naturally incorporate:** 0-To-1 Product Management, Ai Workflows, Saas Mrr Growth, Cross-Functional Leadership
+   - **Structure:**
+     - Paragraph 1: High-energy intro, positioning as AI PM with 3+ years 0-to-1 exp aligning with Objectway's vision
+     - Paragraph 2: Specific metrics & impact, weaving in the 4 keywords naturally, covering FlytBase/CrelioHealth/Sprinto, MRR, LLM workflows, turnaround reduction
+     - Paragraph 3: Crisp CTA expressing enthusiasm to discuss driving product growth for Objectway
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff
+
+2.  **Deconstruct the Requirements:**
+   - 3 paragraphs only
+   - Must include specific keywords exactly/near-naturally: "0-To-1 Product Management", "Ai Workflows", "Saas Mrr Growth", "Cross-Functional Leadership"
+   - Must reference candidate's actual experience but framed for the role
+   - Must be ATS-optimized (keyword density, formatting, no fluff)
+   - Target company: Objectway, Role: Product Owner, Location: London
+   - Must have 3 distinct
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

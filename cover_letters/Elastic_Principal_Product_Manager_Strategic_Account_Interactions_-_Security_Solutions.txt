@@ -2,16 +2,15 @@
 COVER LETTER & APPLICATION KIT
 Target: Principal Product Manager (Strategic Account Interactions) - Security Solutions at Elastic
 Apply Link: https://www.arbeitnow.co.uk/jobs/companies/elastic/principal-product-manager-strategic-account-interactions-security-solutions-91900
-Date Generated: 2026-09-02
+Date Generated: 2026-09-06
 ============================================================
 
-# Cover Letter
+**Saurao Dalvi**  
+[Phone] • [Email] • https://sauraodalvi.netlify.app/  
 
 Dear Hiring Team,
 
-As an AI Product Manager who has spent 3+ years building and shipping AI-native products from scratch—scaling them to revenue-generating, customer-facing solutions—I am excited to apply for the Principal Product Manager role on Elastic's Security Solutions team. Elastic's mission to make data usable at scale resonates deeply with my track record of 0-to-1 product development at the intersection of AI, automation, and enterprise software. My experience leading cross-functional teams to deliver LLM-powered workflows, developer tools, and agentic systems aligns directly with your goal of driving innovation in security analytics and observability.
-
-At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS platform that reached approximately $6K MRR through strategic account interactions and product-led growth. At CrelioHealth, I drove the Smart Reports roadmap that increased lab revenue by ~$2,000 MRR per lab while cutting patient registration time by 58% using custom AI prompt pipelines—a direct parallel to how Elastic transforms raw security telemetry into actionable intelligence. At Spr
+I am an AI‑focused Product Manager with over three years of 0‑to‑1 experience delivering high‑impact security and AI solutions across FlytBase, CrelioHealth, and Sprinto. At FlytBase I owned the full roadmap and launch of Prediq, an AI‑driven drone SaaS that grew to ≈ $6K MRR, demonstrating my ability to translate strategic vision into scalable revenue. My work aligns with Elastic’s mission to empower security teams with intelligent, searchable data platforms, and I am eager to bring that same product‑first mindset to Elastic’s Strategic Account Interactions organization.
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
