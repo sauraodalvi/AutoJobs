@@ -3565,14 +3565,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/product-owner-communications-channels-ai-manchester-177736",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-03",
-    "last_action_date": "2026-09-03",
+    "last_action_date": "2026-09-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-03",
         "action": "Lead added for Product Owner - Communications Channels & AI at PHMG Careers (Manchester, England, United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-07",
+        "action": "Generated tailored application kit & cover letter (PHMG_Careers_Product_Owner_-_Communications_Channels_AI.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3584,14 +3588,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4459953262",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-03",
-    "last_action_date": "2026-09-03",
+    "last_action_date": "2026-09-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-03",
         "action": "Lead added for Senior Product Manager at Responsive (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-07",
+        "action": "Generated tailored application kit & cover letter (Responsive_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3626,14 +3634,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/autoscout24/product-manager-bsg-376558",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-04",
-    "last_action_date": "2026-09-04",
+    "last_action_date": "2026-09-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-04",
         "action": "Lead added for Product Manager, BSG (m/f/d) at autoscout24 (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-07",
+        "action": "Generated tailored application kit & cover letter (autoscout24_Product_Manager_BSG_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3645,14 +3657,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/senior-product-manager-giftcard-london-231979",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-04",
-    "last_action_date": "2026-09-04",
+    "last_action_date": "2026-09-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-04",
         "action": "Lead added for Senior Product Manager (Giftcard) at Atolls (London, England, United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-07",
+        "action": "Generated tailored application kit & cover letter (Atolls_Senior_Product_Manager_Giftcard.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3664,14 +3680,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/mubi/senior-product-manager-london-195200",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-04",
-    "last_action_date": "2026-09-04",
+    "last_action_date": "2026-09-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-04",
         "action": "Lead added for Senior Product Manager at Mubi (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-07",
+        "action": "Generated tailored application kit & cover letter (Mubi_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3995,6 +4015,63 @@
       {
         "date": "2026-09-06",
         "action": "Lead added for Data Product Manager H/F at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_889885a6",
+    "company": "ucm.agency",
+    "role": "Technical Product Manager (m/w/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/ucmagency/technical-product-manager-berlin-217600",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-07",
+    "last_action_date": "2026-09-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-07",
+        "action": "Lead added for Technical Product Manager (m/w/d) at ucm.agency (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a65ec4e9",
+    "company": "Proton",
+    "role": "Senior Product Manager",
+    "location": "Geneva, Switzerland, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/proton/senior-product-manager-geneva-switzerland-paris-215658",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-07",
+    "last_action_date": "2026-09-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-07",
+        "action": "Lead added for Senior Product Manager at Proton (Geneva, Switzerland, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_93733b8c",
+    "company": "Finarkein",
+    "role": "Product Manager-II",
+    "location": "Pune Division, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4463602105",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-07",
+    "last_action_date": "2026-09-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-07",
+        "action": "Lead added for Product Manager-II at Finarkein (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

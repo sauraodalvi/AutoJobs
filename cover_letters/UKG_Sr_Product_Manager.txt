@@ -2,32 +2,17 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-09-06
+Date Generated: 2026-09-07
 ============================================================
 
-[Your Name]
-[Your Phone Number] | [Your Email]
-[Your Portfolio Link] | [Your LinkedIn Link]
 
-[Date]
+Dear Hiring Team at UKG,
 
-Hiring Manager, Product Team
-UKG
-Remote
+I am excited to apply for the Sr Product Manager position at UKG. As an AI Product Manager and Forward Deployed Engineer with over three years of experience building and scaling 0-to-1 products across drone autonomy, healthcare SaaS, and enterprise security platforms, I bring a rare blend of technical depth and product instincts that I believe aligns directly with UKG's mission to modernize the future of work. My track record of owning full product lifecycles — from roadmap strategy and cross-functional alignment to launch and post-launch growth — positions me to make an immediate impact on UKG's product suite.
 
-**RE: Senior Product Manager Application**
+At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI-powered drone SaaS platform that grew to approximately $6K MRR, demonstrating my ability to identify market gaps and deliver AI-native products from zero to revenue. At CrelioHealth, I owned the Smart Reports product roadmap, directly increasing lab revenue by ~$2,000 MRR per lab while cutting patient registration time by 58% and sample turnaround time by 18% through custom AI prompt pipelines. At Sprinto, I built developer CLIs and automated complex cross-application workflows using Python and no-code platforms, accelerating engineering velocity across teams. Most recently, I built and launched Hidden Jobs — an AI product that indexed over 50,000 live ATS jobs — showcasing my ability to move fast, ship, and iterate. These outcomes reflect my core philosophy as a Product Manager: ship products that create measurable, compounding value for customers and the business.
 
-Dear Hiring Manager,
-
-I am writing to express my strong interest in the Senior Product Manager position at UKG. As an AI Product Manager and Engineer with over three years of experience building 0-to-1 AI-native products, I specialize in bridging the gap between complex technical capabilities and scalable business value. Having led high-impact initiatives across drone autonomy, healthcare SaaS, and enterprise security, I am eager to bring my expertise in agentic systems and LLM-powered workflows to UKG to enhance your product ecosystem and drive operational excellence for your global workforce management solutions.
-
-My track record as a Product Manager is defined by delivering measurable revenue growth and efficiency gains. At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS that scaled to ~$6K MRR. While at CrelioHealth, I spearheaded the "Smart Reports" feature, increasing revenue by ~$2,000 MRR per lab, and engineered custom AI prompt pipelines that slashed patient registration time by 58% and sample turnaround by 18%. From building developer CLIs to launching AI products like Hidden Jobs (indexing 50K+ ATS jobs), I possess the rare combination of technical depth as an engineer and the strategic foresight of a Product Manager to ship products that solve real-world enterprise pain points.
-
-I am impressed by UKG’s commitment to creating a great place to work through innovative technology, and I am confident that my experience in automating complex cross-app processes and scaling AI products will contribute significantly to your growth. I look forward to the opportunity to discuss how my background in 0-to-1 product development can help UKG continue to lead the HCM and workforce management space.
-
-Best regards,
-
-Saurao Dalvi
+I am particularly drawn to UKG because of its scale, complexity, and commitment to transforming the HR and workforce management space with intelligent, human-centered technology. I am eager to bring my experience building AI-driven workflows, scaling B2B SaaS products, and partnering closely with engineering and design teams to help UKG continue leading in this space. I would welcome the opportunity to discuss how my background as a Product Manager — and my passion for building products that genuinely improve people's work lives — can
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
