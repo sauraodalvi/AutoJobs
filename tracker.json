@@ -3722,14 +3722,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/product-manager-crypto-asset-management-london-hybrid-386040",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-04",
-    "last_action_date": "2026-09-04",
+    "last_action_date": "2026-09-08",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-04",
         "action": "Lead added for Product Manager, Crypto Asset Management at MoonPay (London - Hybrid). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-08",
+        "action": "Generated tailored application kit & cover letter (MoonPay_Product_Manager_Crypto_Asset_Management.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3741,14 +3745,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4460483717",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-04",
-    "last_action_date": "2026-09-04",
+    "last_action_date": "2026-09-08",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-04",
         "action": "Lead added for Product Manager at Newfold Digital (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-08",
+        "action": "Generated tailored application kit & cover letter (Newfold_Digital_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3760,14 +3768,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4462822076",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-04",
-    "last_action_date": "2026-09-04",
+    "last_action_date": "2026-09-08",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-04",
         "action": "Lead added for Product Manager at Entain India (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-08",
+        "action": "Generated tailored application kit & cover letter (Entain_India_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3817,14 +3829,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-product-manager-data-apis-london-48581",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-05",
-    "last_action_date": "2026-09-05",
+    "last_action_date": "2026-09-08",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-05",
         "action": "Lead added for Senior Product Manager (Data APIs) at 9Fin (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-08",
+        "action": "Generated tailored application kit & cover letter (9Fin_Senior_Product_Manager_Data_APIs.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3836,14 +3852,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/guidepoint/product-manager-ai-product-engineering-london-227150",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-06",
-    "last_action_date": "2026-09-06",
+    "last_action_date": "2026-09-08",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-06",
         "action": "Lead added for Product Manager - AI Product Engineering at Guidepoint (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-08",
+        "action": "Generated tailored application kit & cover letter (Guidepoint_Product_Manager_-_AI_Product_Engineering.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4072,6 +4092,139 @@
       {
         "date": "2026-09-07",
         "action": "Lead added for Product Manager-II at Finarkein (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2645d856",
+    "company": "Laminar Projects",
+    "role": "Product Manager - 4 Day Week + Remote",
+    "location": "Poland,  Portugal (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/152744-product-manager-4-day-week-remote",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-08",
+    "last_action_date": "2026-09-08",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-08",
+        "action": "Lead added for Product Manager - 4 Day Week + Remote at Laminar Projects (Poland,  Portugal (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7cf7de67",
+    "company": "Dataiku",
+    "role": "Product Manager - Business Applications",
+    "location": "France (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/152716-product-manager-business-applications",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-08",
+    "last_action_date": "2026-09-08",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-08",
+        "action": "Lead added for Product Manager - Business Applications at Dataiku (France (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_cabfdd17",
+    "company": "Vrame Consult Gmbh",
+    "role": "Product Owner (all genders)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/vrame-consult-gmbh/product-owner-all-genders-berlin-317054",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-08",
+    "last_action_date": "2026-09-08",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-08",
+        "action": "Lead added for Product Owner (all genders) at Vrame Consult Gmbh (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_18f75b48",
+    "company": "remotewoman",
+    "role": "Product Manager",
+    "location": "Canada, France, Spain or the UK",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/remotewoman/product-manager-canada-france-spain-or-the-uk-230135",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-08",
+    "last_action_date": "2026-09-08",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-08",
+        "action": "Lead added for Product Manager at remotewoman (Canada, France, Spain or the UK). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b711e70e",
+    "company": "Deliveroo",
+    "role": "Senior Product Manager, Core People Technology",
+    "location": "London - The River Building HQ",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-core-people-technology-london-277821",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-08",
+    "last_action_date": "2026-09-08",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-08",
+        "action": "Lead added for Senior Product Manager, Core People Technology at Deliveroo (London - The River Building HQ). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e2c0cafc",
+    "company": "Seccl",
+    "role": "Group product manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/group-product-manager-london-335983",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-08",
+    "last_action_date": "2026-09-08",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-08",
+        "action": "Lead added for Group product manager at Seccl (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_bc84c894",
+    "company": "Mirakl - Labs",
+    "role": "Product Manager - Financial Services",
+    "location": "Bordeaux, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/product-manager-financial-services-bordeaux-56704",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-08",
+    "last_action_date": "2026-09-08",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-08",
+        "action": "Lead added for Product Manager - Financial Services at Mirakl - Labs (Bordeaux, France). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
