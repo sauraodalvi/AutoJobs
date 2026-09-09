@@ -1,0 +1,37 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Staff Product Manager - Physical AI/Robotics at Coreweaveu
+Apply Link: https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-physical-ai-robotics-london-203840
+Date Generated: 2026-09-09
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Roles:** Product Manager / APM / AI Product Manager
+   - **Target Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote (but the specific role is in London)
+   - **Company:** Coreweaveu
+   - **Role:** Staff Product Manager - Physical AI/Robotics
+   - **Structure:** 3 paragraphs
+   - **Paragraph 1:** High-energy intro, AI PM with 3+ years 0-to-1 experience, align with Coreweaveu's product vision
+   - **Paragraph 2:** Specific metrics & impact, ship 0-to-1 products, scaled MRR, built LLM workflows, cut turnaround 18-50%+, weave in "Product Manager"
+   - **Paragraph 3:** Crisp CTA, enthusiasm to discuss driving product growth
+   - **Keywords:** ATS-optimized, naturally incorporate "Product Manager" (and likely variations, but the prompt specifically says: Key ATS Keywords to naturally incorporate: Product Manager)
+   - ** Tone:** Professional, confident, concise, high ATS keyword density, zero fluff
+
+2.  **Deconstruct the Candidate's Profile & Target Role:**
+   - Saurao is an AI Product Manager & AI Engineer (Forward Deployed Engineer) at FlytBase
+   - 3+ years experience
+   - 0-to-1 products: Prediq (AI drone SaaS) at FlytBase, Smart Reports at CrelioHealth, AI prompt pipelines
+   - Built LLM-powered workflows, agentic systems, developer CLIs
+   - Metrics: $6K MRR, $2K MRR per lab, 58% reduction in patient registration, 18% sample turnaround, 50K+ live ATS jobs indexed (Hidden Jobs)
+   - Co-founded Elite PM platform with Microsoft PM
+   - Target role: Staff Product Manager - Physical AI/Robotics at Coreweaveu in London
+  
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

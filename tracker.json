@@ -3703,14 +3703,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/thrivecart/product-manager-payments-london-331375",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-04",
-    "last_action_date": "2026-09-04",
+    "last_action_date": "2026-09-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-04",
         "action": "Lead added for Product Manager - Payments at ThriveCart (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-09",
+        "action": "Generated tailored application kit & cover letter (ThriveCart_Product_Manager_-_Payments.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3791,14 +3795,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/stark/technical-product-manager-all-gender-berlin-340395",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-05",
-    "last_action_date": "2026-09-05",
+    "last_action_date": "2026-09-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-05",
         "action": "Lead added for Technical Product Manager (All gender) at Stark (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-09",
+        "action": "Generated tailored application kit & cover letter (Stark_Technical_Product_Manager_All_gender.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3810,14 +3818,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/apexx/head-of-product-farringdon-18233",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-05",
-    "last_action_date": "2026-09-05",
+    "last_action_date": "2026-09-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-05",
         "action": "Lead added for Head of Product at Apexx (London HQ). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-09",
+        "action": "Generated tailored application kit & cover letter (Apexx_Head_of_Product.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3875,14 +3887,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-physical-ai-robotics-london-203840",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-06",
-    "last_action_date": "2026-09-06",
+    "last_action_date": "2026-09-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-06",
         "action": "Lead added for Staff Product Manager - Physical AI/Robotics at Coreweaveu (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-09",
+        "action": "Generated tailored application kit & cover letter (Coreweaveu_Staff_Product_Manager_-_Physical_AI_Robotics.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3894,14 +3910,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-applied-physical-ai-london-308855",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-06",
-    "last_action_date": "2026-09-06",
+    "last_action_date": "2026-09-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-06",
         "action": "Lead added for Staff Product Manager, Applied Physical AI at Coreweaveu (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-09",
+        "action": "Generated tailored application kit & cover letter (Coreweaveu_Staff_Product_Manager_Applied_Physical_AI.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4225,6 +4245,101 @@
       {
         "date": "2026-09-08",
         "action": "Lead added for Product Manager - Financial Services at Mirakl - Labs (Bordeaux, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7ac7d8cd",
+    "company": "Chili Piper",
+    "role": "Product Manager, Orchestrator",
+    "location": "Anywhere (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/152808-product-manager-orchestrator",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-09",
+    "last_action_date": "2026-09-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-09",
+        "action": "Lead added for Product Manager, Orchestrator at Chili Piper (Anywhere (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_86ba01c0",
+    "company": "Archimed",
+    "role": "AI Product Owner (Lyon, France)",
+    "location": "Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/archimed/ai-product-owner-lyon-france-berlin-102570",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-09",
+    "last_action_date": "2026-09-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-09",
+        "action": "Lead added for AI Product Owner (Lyon, France) at Archimed (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e68f57b6",
+    "company": "Nebius",
+    "role": "Senior Product Manager, Vertical Search",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-product-manager-vertical-search-london-364049",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-09",
+    "last_action_date": "2026-09-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-09",
+        "action": "Lead added for Senior Product Manager, Vertical Search at Nebius (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_474f6fa7",
+    "company": "Nebius",
+    "role": "Senior Product Manager, Search Infrastructure",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-product-manager-search-infrastructure-london-155111",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-09",
+    "last_action_date": "2026-09-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-09",
+        "action": "Lead added for Senior Product Manager, Search Infrastructure at Nebius (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9c3c8385",
+    "company": "Druva",
+    "role": "Senior Product Manager",
+    "location": "Pune Division, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4464341430",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-09",
+    "last_action_date": "2026-09-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-09",
+        "action": "Lead added for Senior Product Manager at Druva (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
