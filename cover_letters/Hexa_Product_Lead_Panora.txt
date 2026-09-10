@@ -1,0 +1,28 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Lead @Panora at Hexa
+Apply Link: https://www.arbeitnow.fr/jobs/companies/hexa/product-lead-at-panora-paris-469260
+Date Generated: 2026-09-10
+============================================================
+
+Subject: Product Lead @Panora | Saurao Dalvi
+
+Dear Hexa Hiring Team,
+
+I am writing to express my strong interest in the Product Lead position for Panora at Hexa. As an AI Product Manager with over three years of experience specializing in the intersection of autonomy and intelligence, I have built my career on the ability to transform complex technical capabilities into scalable, market-ready products. Having navigated the intricacies of drone autonomy at FlytBase and healthcare SaaS at CrelioHealth, I am eager to bring my expertise in building high-impact, AI-native solutions to Hexa’s visionary product ecosystem in Paris.
+
+My background is defined by a proven track record of **0-to-1 Product Management**, where I have successfully moved products from initial concept to significant market traction. At FlytBase, I owned the end-to-end roadmap for Prediq, an AI drone SaaS that scaled to ~$6K MRR. At CrelioHealth, I spearheaded the Smart Reports feature, driving **SaaS MRR growth** of ~$2,000 per lab and optimizing operational efficiency by cutting patient registration time by 58%. I specialize in designing sophisticated **AI workflows**, including custom LLM prompt pipelines and agentic systems that deliver measurable user value. My approach is rooted in **cross-functional leadership**, having consistently bridged the gap between engineering, design, and customer success to deliver seamless, automated enterprise solutions.
+
+Hexa is at the forefront of innovation, and I am confident that my ability to build 0-to-1 products and scale AI-driven workflows will directly contribute to Panora’s expansion. I am eager to discuss how my technical foundation as an engineer and my strategic mindset as a product leader can drive immediate impact for your team. Thank you for your time and consideration.
+
+Best regards,
+
+Saurao Dalvi
+[Portfolio](https://sauraodalvi.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/saurao-dalvi/)
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

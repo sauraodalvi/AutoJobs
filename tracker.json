@@ -3933,14 +3933,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/hexa/product-lead-at-panora-paris-469260",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-06",
-    "last_action_date": "2026-09-06",
+    "last_action_date": "2026-09-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-06",
         "action": "Lead added for Product Lead @Panora at Hexa (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-10",
+        "action": "Generated tailored application kit & cover letter (Hexa_Product_Lead_Panora.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3952,14 +3956,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/product-owner-product-manager-senior-h-f-paris-465918",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-06",
-    "last_action_date": "2026-09-06",
+    "last_action_date": "2026-09-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-06",
         "action": "Lead added for Product Owner / Product Manager Senior (H/F) at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-10",
+        "action": "Generated tailored application kit & cover letter (Thiga_Product_Owner_Product_Manager_Senior_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3971,14 +3979,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/product-owner-product-manager-h-f-paris-131762",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-06",
-    "last_action_date": "2026-09-06",
+    "last_action_date": "2026-09-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-06",
         "action": "Lead added for Product Owner / Product Manager (H/F) at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-10",
+        "action": "Generated tailored application kit & cover letter (Thiga_Product_Owner_Product_Manager_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -3990,14 +4002,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/product-ops-ia-product-manager-ops-h-f-paris-162031",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-06",
-    "last_action_date": "2026-09-06",
+    "last_action_date": "2026-09-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-06",
         "action": "Lead added for Product Ops IA / Product Manager Ops - (H/F) at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-10",
+        "action": "Generated tailored application kit & cover letter (Thiga_Product_Ops_IA_Product_Manager_Ops_-_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4085,14 +4101,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/proton/senior-product-manager-geneva-switzerland-paris-215658",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-07",
-    "last_action_date": "2026-09-07",
+    "last_action_date": "2026-09-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-07",
         "action": "Lead added for Senior Product Manager at Proton (Geneva, Switzerland, Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-10",
+        "action": "Generated tailored application kit & cover letter (Proton_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4340,6 +4360,234 @@
       {
         "date": "2026-09-09",
         "action": "Lead added for Senior Product Manager at Druva (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_563517e9",
+    "company": "Veriff",
+    "role": "Lead Product Manager, Customer Portal",
+    "location": "Estonia,  Spain (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/152914-lead-product-manager-customer-portal",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-10",
+    "last_action_date": "2026-09-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-10",
+        "action": "Lead added for Lead Product Manager, Customer Portal at Veriff (Estonia,  Spain (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_28782de0",
+    "company": "Constructor",
+    "role": "Staff Product Manager: Product Discovery Engine",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/constructor/staff-product-manager-product-discovery-engine-munich-74636",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-10",
+    "last_action_date": "2026-09-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-10",
+        "action": "Lead added for Staff Product Manager: Product Discovery Engine at Constructor (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a1a0208b",
+    "company": "Vivira Health Lab",
+    "role": "Senior Product Manager Digital Health (m/f/d)",
+    "location": "Berlin Hybrid",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/vivira-health-lab/senior-product-manager-digital-health-berlin-hybrid-33975",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-10",
+    "last_action_date": "2026-09-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-10",
+        "action": "Lead added for Senior Product Manager Digital Health (m/f/d) at Vivira Health Lab (Berlin Hybrid). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_64aa87ac",
+    "company": "Lightspeedhq",
+    "role": "Product Manager III, Seller Experience",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/product-manager-iii-seller-experience-berlin-367795",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-10",
+    "last_action_date": "2026-09-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-10",
+        "action": "Lead added for Product Manager III, Seller Experience at Lightspeedhq (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4dbc7d7f",
+    "company": "Tavily",
+    "role": "Senior Product Manager, Vertical Search",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tavily/senior-product-manager-vertical-search-london-96229",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-10",
+    "last_action_date": "2026-09-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-10",
+        "action": "Lead added for Senior Product Manager, Vertical Search at Tavily (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_fd05c7e8",
+    "company": "Tavily",
+    "role": "Senior Product Manager, Search Infrastructure",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tavily/senior-product-manager-search-infrastructure-london-329496",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-10",
+    "last_action_date": "2026-09-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-10",
+        "action": "Lead added for Senior Product Manager, Search Infrastructure at Tavily (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3149c2b0",
+    "company": "Kota",
+    "role": "Product Lead",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kota/product-lead-london-486642",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-10",
+    "last_action_date": "2026-09-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-10",
+        "action": "Lead added for Product Lead at Kota (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_13eb832a",
+    "company": "Kraken",
+    "role": "Senior Product Manager - Charging & Tax",
+    "location": "London, UK",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-product-manager-charging-tax-london-255854",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-10",
+    "last_action_date": "2026-09-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-10",
+        "action": "Lead added for Senior Product Manager - Charging & Tax at Kraken (London, UK). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_af906f9f",
+    "company": "Radiant",
+    "role": "Senior Product Manager - Storage & Networking",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-product-manager-storage-networking-london-10758",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-10",
+    "last_action_date": "2026-09-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-10",
+        "action": "Lead added for Senior Product Manager - Storage & Networking at Radiant (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ecd57063",
+    "company": "Radiant",
+    "role": "Senior/Principal Product Manager - Operations",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-principal-product-manager-operations-london-219614",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-10",
+    "last_action_date": "2026-09-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-10",
+        "action": "Lead added for Senior/Principal Product Manager - Operations at Radiant (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c4800b58",
+    "company": "Aircall",
+    "role": "Product Manager Intern",
+    "location": "Paris Office",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/aircall/product-manager-intern-paris-office-335821",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-10",
+    "last_action_date": "2026-09-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-10",
+        "action": "Lead added for Product Manager Intern at Aircall (Paris Office). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ef9fc091",
+    "company": "Blablacar",
+    "role": "Product Manager - Discover",
+    "location": "Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/blablacar/product-manager-discover-paris-france-157544",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-10",
+    "last_action_date": "2026-09-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-10",
+        "action": "Lead added for Product Manager - Discover at Blablacar (Paris, France). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
