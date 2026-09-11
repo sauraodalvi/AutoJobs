@@ -2,35 +2,6 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager at Valiance Solutions
 Apply Link: https://www.linkedin.com/jobs/view/4454516367
-Date Generated: 2026-09-10
+Date Generated: 2026-09-11
 ============================================================
 
-[Your Name]
-[Your Phone Number] | [Your Email]
-[Your LinkedIn Profile] | [Your Portfolio URL]
-
-[Date]
-
-Hiring Manager
-Valiance Solutions
-Remote
-
-**RE: Product Manager Application – Saurao Dalvi**
-
-Dear Hiring Manager,
-
-I am writing to express my strong interest in the Product Manager position at Valiance Solutions. As an AI Product Manager and Forward Deployed Engineer with over three years of experience, I specialize in the 0-to-1 phase of product development—transforming complex technical capabilities into scalable, market-ready solutions. With a proven track record of building AI-native products and agentic systems, I am confident in my ability to align with Valiance Solutions' product vision and drive immediate impact through a blend of technical rigor and strategic product leadership.
-
-My career is defined by delivering measurable business outcomes through rigorous product ownership. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq (AI drone SaaS), successfully scaling it to ~$6K MRR. During my tenure at CrelioHealth, I led the roadmap for Smart Reports, which increased lab revenue by ~$2,000 MRR per facility, while simultaneously deploying custom AI prompt pipelines that slashed patient registration time by 58% and sample turnaround by 18%. Across my experience at Sprinto and my own ventures, I have consistently operated as a high-impact Product Manager, building everything from developer CLIs and LLM-powered workflows to indexing 50K+ live ATS jobs for Hidden Jobs.
-
-I am eager to bring this expertise in AI automation and rapid product scaling to Valiance Solutions. I am particularly drawn to your commitment to innovation and am confident that my ability to bridge the gap between engineering and customer value will accelerate your product growth. I look forward to the opportunity to discuss how my background as a technical Product Manager can contribute to the continued success of your team.
-
-Best regards,
-
-Saurao Dalvi
-
-============================================================
-CANDIDATE CONTACT SUMMARY:
-Name: Saurao Dalvi
-Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

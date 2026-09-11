@@ -4025,14 +4025,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/lead-product-manager-coach-produit-h-f-paris-461691",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-06",
-    "last_action_date": "2026-09-06",
+    "last_action_date": "2026-09-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-06",
         "action": "Lead added for Lead Product Manager & Coach Produit H/F at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-11",
+        "action": "Generated tailored application kit & cover letter (Thiga_Lead_Product_Manager_Coach_Produit_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4044,14 +4048,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/head-of-product-transformation-consultante-en-organisation-produit-h-f-paris-495288",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-06",
-    "last_action_date": "2026-09-06",
+    "last_action_date": "2026-09-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-06",
         "action": "Lead added for Head of Product Transformation / Consultant·e en Organisation Produit H/F at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-11",
+        "action": "Generated tailored application kit & cover letter (Thiga_Head_of_Product_Transformation_Consultant_e_en_Organisation_Produit_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4063,14 +4071,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/data-product-manager-h-f-paris-106595",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-06",
-    "last_action_date": "2026-09-06",
+    "last_action_date": "2026-09-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-06",
         "action": "Lead added for Data Product Manager H/F at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-11",
+        "action": "Generated tailored application kit & cover letter (Thiga_Data_Product_Manager_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4082,14 +4094,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/ucmagency/technical-product-manager-berlin-217600",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-07",
-    "last_action_date": "2026-09-07",
+    "last_action_date": "2026-09-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-07",
         "action": "Lead added for Technical Product Manager (m/w/d) at ucm.agency (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-11",
+        "action": "Generated tailored application kit & cover letter (ucm_agency_Technical_Product_Manager_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4124,14 +4140,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4463602105",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-07",
-    "last_action_date": "2026-09-07",
+    "last_action_date": "2026-09-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-07",
         "action": "Lead added for Product Manager-II at Finarkein (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-11",
+        "action": "Generated tailored application kit & cover letter (Finarkein_Product_Manager-II.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4588,6 +4608,177 @@
       {
         "date": "2026-09-10",
         "action": "Lead added for Product Manager - Discover at Blablacar (Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_47f20179",
+    "company": "1KOMMA5°",
+    "role": "(Senior) Product Manager Smart Metering & Steering (m/f/d)",
+    "location": "Germany (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/145652-senior-product-manager-smart-metering-steering-m-f-d",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-11",
+    "last_action_date": "2026-09-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-11",
+        "action": "Lead added for (Senior) Product Manager Smart Metering & Steering (m/f/d) at 1KOMMA5° (Germany (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_caf509a6",
+    "company": "Trainline",
+    "role": "Head of Product - B2B",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/head-of-product-b2b-london-45838",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-11",
+    "last_action_date": "2026-09-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-11",
+        "action": "Lead added for Head of Product - B2B at Trainline (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_69ef8fed",
+    "company": "Kpler",
+    "role": "Senior Product Manager, Fisheries / IUUF",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-product-manager-fisheries-iuuf-london-450004",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-11",
+    "last_action_date": "2026-09-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-11",
+        "action": "Lead added for Senior Product Manager, Fisheries / IUUF at Kpler (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f81b8d5b",
+    "company": "Kpler",
+    "role": "Senior Product Manager - Marine Insurance",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-product-manager-marine-insurance-london-177533",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-11",
+    "last_action_date": "2026-09-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-11",
+        "action": "Lead added for Senior Product Manager - Marine Insurance at Kpler (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ebb70103",
+    "company": "Doctolib",
+    "role": "Lead Product Manager - Patient Data Collection (x/f/m)",
+    "location": "Paris, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/doctolib/lead-product-manager-patient-data-collection-paris-paris-435852",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-11",
+    "last_action_date": "2026-09-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-11",
+        "action": "Lead added for Lead Product Manager - Patient Data Collection (x/f/m) at Doctolib (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6faeac8e",
+    "company": "Safeguard Global",
+    "role": "Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4465324367",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-11",
+    "last_action_date": "2026-09-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-11",
+        "action": "Lead added for Product Manager at Safeguard Global (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6d4e0e6b",
+    "company": "Procter & Gamble",
+    "role": "Digital Product Manager - Band 2",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4453416438",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-11",
+    "last_action_date": "2026-09-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-11",
+        "action": "Lead added for Digital Product Manager - Band 2 at Procter & Gamble (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3bfd97d4",
+    "company": "Purplle.com",
+    "role": "Product Manager - Brand Platform",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4452270710",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-11",
+    "last_action_date": "2026-09-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-11",
+        "action": "Lead added for Product Manager - Brand Platform at Purplle.com (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0cb76bd2",
+    "company": "Better",
+    "role": "Founding Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4463060209",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-11",
+    "last_action_date": "2026-09-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-11",
+        "action": "Lead added for Founding Product Manager at Better (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
