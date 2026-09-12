@@ -4258,14 +4258,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/group-product-manager-london-335983",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-08",
-    "last_action_date": "2026-09-08",
+    "last_action_date": "2026-09-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-08",
         "action": "Lead added for Group product manager at Seccl (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-12",
+        "action": "Generated tailored application kit & cover letter (Seccl_Group_product_manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4315,14 +4319,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/archimed/ai-product-owner-lyon-france-berlin-102570",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-09",
-    "last_action_date": "2026-09-09",
+    "last_action_date": "2026-09-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-09",
         "action": "Lead added for AI Product Owner (Lyon, France) at Archimed (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-12",
+        "action": "Generated tailored application kit & cover letter (Archimed_AI_Product_Owner_Lyon_France.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4334,14 +4342,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-product-manager-vertical-search-london-364049",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-09",
-    "last_action_date": "2026-09-09",
+    "last_action_date": "2026-09-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-09",
         "action": "Lead added for Senior Product Manager, Vertical Search at Nebius (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-12",
+        "action": "Generated tailored application kit & cover letter (Nebius_Senior_Product_Manager_Vertical_Search.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4353,14 +4365,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-product-manager-search-infrastructure-london-155111",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-09",
-    "last_action_date": "2026-09-09",
+    "last_action_date": "2026-09-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-09",
         "action": "Lead added for Senior Product Manager, Search Infrastructure at Nebius (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-12",
+        "action": "Generated tailored application kit & cover letter (Nebius_Senior_Product_Manager_Search_Infrastructure.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4372,14 +4388,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4464341430",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-09",
-    "last_action_date": "2026-09-09",
+    "last_action_date": "2026-09-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-09",
         "action": "Lead added for Senior Product Manager at Druva (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-12",
+        "action": "Generated tailored application kit & cover letter (Druva_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4779,6 +4799,139 @@
       {
         "date": "2026-09-11",
         "action": "Lead added for Founding Product Manager at Better (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0853e71b",
+    "company": "affinidi",
+    "role": "Senior Product Manager, Technical (m/f/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/affinidi/senior-product-manager-technical-berlin-245061",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-12",
+    "last_action_date": "2026-09-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-12",
+        "action": "Lead added for Senior Product Manager, Technical (m/f/d) at affinidi (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5404af13",
+    "company": "Awin",
+    "role": "Product Manager, Publisher Payments (f/m/d)",
+    "location": "Berlin, Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/awin/product-manager-publisher-payments-berlin-berlin-252401",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-12",
+    "last_action_date": "2026-09-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-12",
+        "action": "Lead added for Product Manager, Publisher Payments (f/m/d) at Awin (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_457358ad",
+    "company": "Kranus Health Gmbh",
+    "role": "(Senior) Product Manager",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/kranus-health-gmbh/senior-product-manager-berlin-193606",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-12",
+    "last_action_date": "2026-09-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-12",
+        "action": "Lead added for (Senior) Product Manager at Kranus Health Gmbh (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8c606fcb",
+    "company": "Yepoda",
+    "role": "Senior Product Owner - Data & Analytics (m/f/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/yepoda/senior-product-owner-data-analytics-berlin-349254",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-12",
+    "last_action_date": "2026-09-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-12",
+        "action": "Lead added for Senior Product Owner - Data & Analytics (m/f/d) at Yepoda (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_12261250",
+    "company": "Localstack",
+    "role": "Head of Product",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/localstack/head-of-product-london-91501",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-12",
+    "last_action_date": "2026-09-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-12",
+        "action": "Lead added for Head of Product at Localstack (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1135893f",
+    "company": "Wolters Kluwer",
+    "role": "Lead Technical Product Manager - (IIT/IIM Preferred) - Product Management",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4428032508",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-12",
+    "last_action_date": "2026-09-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-12",
+        "action": "Lead added for Lead Technical Product Manager - (IIT/IIM Preferred) - Product Management at Wolters Kluwer (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8e5b0a53",
+    "company": "Prime Video & Amazon MGM Studios",
+    "role": "Principal Product Manager - Tech, Prime Video Commerce & International Product",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4455796338",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-12",
+    "last_action_date": "2026-09-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-12",
+        "action": "Lead added for Principal Product Manager - Tech, Prime Video Commerce & International Product at Prime Video & Amazon MGM Studios (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
