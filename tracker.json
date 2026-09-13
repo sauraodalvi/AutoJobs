@@ -4163,14 +4163,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/152744-product-manager-4-day-week-remote",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-08",
-    "last_action_date": "2026-09-08",
+    "last_action_date": "2026-09-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-08",
         "action": "Lead added for Product Manager - 4 Day Week + Remote at Laminar Projects (Poland,  Portugal (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-13",
+        "action": "Generated tailored application kit & cover letter (Laminar_Projects_Product_Manager_-_4_Day_Week_Remote.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4182,14 +4186,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/152716-product-manager-business-applications",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-08",
-    "last_action_date": "2026-09-08",
+    "last_action_date": "2026-09-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-08",
         "action": "Lead added for Product Manager - Business Applications at Dataiku (France (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-13",
+        "action": "Generated tailored application kit & cover letter (Dataiku_Product_Manager_-_Business_Applications.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4201,14 +4209,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/vrame-consult-gmbh/product-owner-all-genders-berlin-317054",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-08",
-    "last_action_date": "2026-09-08",
+    "last_action_date": "2026-09-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-08",
         "action": "Lead added for Product Owner (all genders) at Vrame Consult Gmbh (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-13",
+        "action": "Generated tailored application kit & cover letter (Vrame_Consult_Gmbh_Product_Owner_all_genders.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4220,14 +4232,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/remotewoman/product-manager-canada-france-spain-or-the-uk-230135",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-08",
-    "last_action_date": "2026-09-08",
+    "last_action_date": "2026-09-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-08",
         "action": "Lead added for Product Manager at remotewoman (Canada, France, Spain or the UK). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-13",
+        "action": "Generated tailored application kit & cover letter (remotewoman_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4239,14 +4255,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-core-people-technology-london-277821",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-08",
-    "last_action_date": "2026-09-08",
+    "last_action_date": "2026-09-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-08",
         "action": "Lead added for Senior Product Manager, Core People Technology at Deliveroo (London - The River Building HQ). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-13",
+        "action": "Generated tailored application kit & cover letter (Deliveroo_Senior_Product_Manager_Core_People_Technology.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4932,6 +4952,158 @@
       {
         "date": "2026-09-12",
         "action": "Lead added for Principal Product Manager - Tech, Prime Video Commerce & International Product at Prime Video & Amazon MGM Studios (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_56e458a1",
+    "company": "Glassdollar",
+    "role": "Associate Product Owner",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/glassdollar/associate-product-owner-berlin-381022",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-13",
+    "last_action_date": "2026-09-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-13",
+        "action": "Lead added for Associate Product Owner at Glassdollar (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_aff669fa",
+    "company": "Tandem",
+    "role": "Product Manager (parental leave cover)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/tandem/product-manager-parental-leave-cover-berlin-57421",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-13",
+    "last_action_date": "2026-09-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-13",
+        "action": "Lead added for Product Manager (parental leave cover) at Tandem (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5b615f24",
+    "company": "EverAI",
+    "role": "Senior Product Manager (Full Remote - Europe)",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/everai/senior-product-manager-full-remote-europe-germany-35518",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-13",
+    "last_action_date": "2026-09-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-13",
+        "action": "Lead added for Senior Product Manager (Full Remote - Europe) at EverAI (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_90f9f9d3",
+    "company": "caronsale",
+    "role": "Senior Product Manager (m/w/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/caronsale/senior-product-manager-berlin-28101",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-13",
+    "last_action_date": "2026-09-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-13",
+        "action": "Lead added for Senior Product Manager (m/w/d) at caronsale (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5122bd8a",
+    "company": "caronsale",
+    "role": "Product Manager (m/w/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/caronsale/product-manager-berlin-273353",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-13",
+    "last_action_date": "2026-09-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-13",
+        "action": "Lead added for Product Manager (m/w/d) at caronsale (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_62b84242",
+    "company": "Fyxer",
+    "role": "Growth Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/growth-product-manager-london-168924",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-13",
+    "last_action_date": "2026-09-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-13",
+        "action": "Lead added for Growth Product Manager at Fyxer (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_38516cd0",
+    "company": "sonyinteractiveentertainmentglobal",
+    "role": "Senior Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-product-manager-london-110370",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-13",
+    "last_action_date": "2026-09-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-13",
+        "action": "Lead added for Senior Product Manager at sonyinteractiveentertainmentglobal (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_83f69967",
+    "company": "Angi",
+    "role": "Senior Product Manager, Data Infrastructure",
+    "location": "Hybrid - France - Aix-en-Provence",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/angi/senior-product-manager-data-infrastructure-aix-en-provence-265619",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-13",
+    "last_action_date": "2026-09-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-13",
+        "action": "Lead added for Senior Product Manager, Data Infrastructure at Angi (Hybrid - France - Aix-en-Provence). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
