@@ -4301,14 +4301,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/product-manager-financial-services-bordeaux-56704",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-08",
-    "last_action_date": "2026-09-08",
+    "last_action_date": "2026-09-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-08",
         "action": "Lead added for Product Manager - Financial Services at Mirakl - Labs (Bordeaux, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-14",
+        "action": "Generated tailored application kit & cover letter (Mirakl_-_Labs_Product_Manager_-_Financial_Services.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4320,14 +4324,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/152808-product-manager-orchestrator",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-09",
-    "last_action_date": "2026-09-09",
+    "last_action_date": "2026-09-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-09",
         "action": "Lead added for Product Manager, Orchestrator at Chili Piper (Anywhere (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-14",
+        "action": "Generated tailored application kit & cover letter (Chili_Piper_Product_Manager_Orchestrator.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4431,14 +4439,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/152914-lead-product-manager-customer-portal",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-10",
-    "last_action_date": "2026-09-10",
+    "last_action_date": "2026-09-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-10",
         "action": "Lead added for Lead Product Manager, Customer Portal at Veriff (Estonia,  Spain (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-14",
+        "action": "Generated tailored application kit & cover letter (Veriff_Lead_Product_Manager_Customer_Portal.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4469,14 +4481,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/vivira-health-lab/senior-product-manager-digital-health-berlin-hybrid-33975",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-10",
-    "last_action_date": "2026-09-10",
+    "last_action_date": "2026-09-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-10",
         "action": "Lead added for Senior Product Manager Digital Health (m/f/d) at Vivira Health Lab (Berlin Hybrid). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-14",
+        "action": "Generated tailored application kit & cover letter (Vivira_Health_Lab_Senior_Product_Manager_Digital_Health_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4526,14 +4542,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tavily/senior-product-manager-search-infrastructure-london-329496",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-10",
-    "last_action_date": "2026-09-10",
+    "last_action_date": "2026-09-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-10",
         "action": "Lead added for Senior Product Manager, Search Infrastructure at Tavily (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-14",
+        "action": "Generated tailored application kit & cover letter (Tavily_Senior_Product_Manager_Search_Infrastructure.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5104,6 +5124,101 @@
       {
         "date": "2026-09-13",
         "action": "Lead added for Senior Product Manager, Data Infrastructure at Angi (Hybrid - France - Aix-en-Provence). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_60926d1d",
+    "company": "CoCrafter (YC W24)",
+    "role": "Founding Product Manager (Y Combinator Startup)",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/cocrafter-yc-w24/founding-product-manager-y-combinator-startup-munich-415415",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-14",
+    "last_action_date": "2026-09-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-14",
+        "action": "Lead added for Founding Product Manager (Y Combinator Startup) at CoCrafter (YC W24) (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_07c02096",
+    "company": "Charlesundcharlottegmbh",
+    "role": "Head of Production (m/f/x)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/charlesundcharlottegmbh/head-of-production-berlin-213174",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-14",
+    "last_action_date": "2026-09-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-14",
+        "action": "Lead added for Head of Production (m/f/x) at Charlesundcharlottegmbh (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_70e570e8",
+    "company": "Ocwen Financial Corporation",
+    "role": "Digital Product Manager, Digital Products & Design",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-14",
+    "last_action_date": "2026-09-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-14",
+        "action": "Lead added for Digital Product Manager, Digital Products & Design at Ocwen Financial Corporation (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_673cb9fb",
+    "company": "InPost",
+    "role": "Lead Product Manager - Marketplace Merchant Experience (m/f/d)",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-14",
+    "last_action_date": "2026-09-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-14",
+        "action": "Lead added for Lead Product Manager - Marketplace Merchant Experience (m/f/d) at InPost (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0caba251",
+    "company": "Servify",
+    "role": "Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4440678998",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-14",
+    "last_action_date": "2026-09-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-14",
+        "action": "Lead added for Product Manager at Servify (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

@@ -1,0 +1,34 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Lead Product Manager, Customer Portal at Veriff
+Apply Link: https://jobicy.com/jobs/152914-lead-product-manager-customer-portal
+Date Generated: 2026-09-14
+============================================================
+
+[Your Name]
+[Your Phone Number] | [Your Email]
+[Your LinkedIn Profile] | [Your Portfolio Link]
+
+[Date]
+
+Hiring Manager, Product
+Veriff
+[Office Address - Estonia/Spain]
+
+**RE: Lead Product Manager, Customer Portal**
+
+Dear Veriff Hiring Team,
+
+I am writing to express my strong interest in the Lead Product Manager position for the Customer Portal. As an AI Product Manager and Forward Deployed Engineer with over three years of experience building 0-to-1 products, I specialize in bridging the gap between complex technical infrastructure and seamless user experiences. Veriff’s commitment to identity verification and frictionless onboarding aligns perfectly with my track record of shipping AI-native automation and scalable SaaS tools. I am confident that my blend of product leadership and engineering rigor will allow me to elevate the Customer Portal into a high-conversion, self-service engine that drives retention and operational efficiency.
+
+Throughout my career, I have operated as a Product Manager obsessed with measurable impact and velocity. At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS, scaling it from concept to ~$6K MRR. During my tenure at CrelioHealth, I led the development of Smart Reports, which increased lab revenue by ~$2,000 MRR per facility, and engineered AI prompt pipelines that slashed patient registration time by 58% and sample turnaround by 18%. From building developer CLIs to launching agentic LLM workflows and indexing 50K+ jobs for Hidden Jobs, I have consistently delivered products that reduce friction for the end-user while maximizing enterprise value.
+
+I am eager to bring this "builder" mindset to Veriff to optimize the Customer Portal and streamline the identity verification journey. I am impressed by Veriff’s scale and the critical nature of your trust-and-safety infrastructure, and I am ready to apply my experience in AI-driven automation to drive growth and product excellence. I look forward to the possibility of discussing how my background in 0-to-1 product delivery can contribute to Veriff’s continued success.
+
+Best regards
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
