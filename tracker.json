@@ -4462,14 +4462,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/constructor/staff-product-manager-product-discovery-engine-munich-74636",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-10",
-    "last_action_date": "2026-09-10",
+    "last_action_date": "2026-09-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-10",
         "action": "Lead added for Staff Product Manager: Product Discovery Engine at Constructor (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-15",
+        "action": "Generated tailored application kit & cover letter (Constructor_Staff_Product_Manager_Product_Discovery_Engine.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4504,14 +4508,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/product-manager-iii-seller-experience-berlin-367795",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-10",
-    "last_action_date": "2026-09-10",
+    "last_action_date": "2026-09-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-10",
         "action": "Lead added for Product Manager III, Seller Experience at Lightspeedhq (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-15",
+        "action": "Generated tailored application kit & cover letter (Lightspeedhq_Product_Manager_III_Seller_Experience.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4523,14 +4531,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tavily/senior-product-manager-vertical-search-london-96229",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-10",
-    "last_action_date": "2026-09-10",
+    "last_action_date": "2026-09-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-10",
         "action": "Lead added for Senior Product Manager, Vertical Search at Tavily (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-15",
+        "action": "Generated tailored application kit & cover letter (Tavily_Senior_Product_Manager_Vertical_Search.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4565,14 +4577,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kota/product-lead-london-486642",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-10",
-    "last_action_date": "2026-09-10",
+    "last_action_date": "2026-09-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-10",
         "action": "Lead added for Product Lead at Kota (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-15",
+        "action": "Generated tailored application kit & cover letter (Kota_Product_Lead.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4603,14 +4619,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-product-manager-storage-networking-london-10758",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-10",
-    "last_action_date": "2026-09-10",
+    "last_action_date": "2026-09-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-10",
         "action": "Lead added for Senior Product Manager - Storage & Networking at Radiant (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-15",
+        "action": "Generated tailored application kit & cover letter (Radiant_Senior_Product_Manager_-_Storage_Networking.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5219,6 +5239,139 @@
       {
         "date": "2026-09-14",
         "action": "Lead added for Product Manager at Servify (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_bea1b223",
+    "company": "Real Digital",
+    "role": "Senior Product Manager (all genders) | B2C",
+    "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-product-manager-all-genders-b2c-348479",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-15",
+    "last_action_date": "2026-09-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-15",
+        "action": "Lead added for Senior Product Manager (all genders) | B2C at Real Digital (Remote oder Köln / Darmstadt / Düsseldorf / Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_969c60b6",
+    "company": "Nebius",
+    "role": "Senior Technical Product Manager - Token Factory",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-technical-product-manager-token-factory-123931",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-15",
+    "last_action_date": "2026-09-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-15",
+        "action": "Lead added for Senior Technical Product Manager - Token Factory at Nebius (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0beb161f",
+    "company": "Nebius",
+    "role": "Product Manager - Security",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/product-manager-security-london-83003",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-15",
+    "last_action_date": "2026-09-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-15",
+        "action": "Lead added for Product Manager - Security at Nebius (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_aa268903",
+    "company": "capco",
+    "role": "Senior Product Manager - Product & Experience",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-product-manager-product-experience-367846",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-15",
+    "last_action_date": "2026-09-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-15",
+        "action": "Lead added for Senior Product Manager - Product & Experience at capco (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0942c5f2",
+    "company": "Qonto",
+    "role": "Staff Product Manager [Machine Learning expertise]",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/qonto/staff-product-manager-machine-learning-expertise-paris-278660",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-15",
+    "last_action_date": "2026-09-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-15",
+        "action": "Lead added for Staff Product Manager [Machine Learning expertise] at Qonto (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6c46189a",
+    "company": "Qonto",
+    "role": "Senior Product Manager - Due Diligence",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/qonto/senior-product-manager-due-diligence-paris-476493",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-15",
+    "last_action_date": "2026-09-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-15",
+        "action": "Lead added for Senior Product Manager - Due Diligence at Qonto (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_dd88e507",
+    "company": "wex",
+    "role": "Lead Product Manager/Mgr 5",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-15",
+    "last_action_date": "2026-09-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-15",
+        "action": "Lead added for Lead Product Manager/Mgr 5 at wex (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
