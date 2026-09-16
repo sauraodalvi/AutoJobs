@@ -1,0 +1,39 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager - Discover at Blablacar
+Apply Link: https://www.arbeitnow.fr/jobs/companies/blablacar/product-manager-discover-paris-france-157544
+Date Generated: 2026-09-16
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Roles:** Product Manager / APM / AI Product Manager
+   - **Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote
+   - **Company:** Blablacar
+   - **Role:** Product Manager - Discover
+   - **Structure:** 3 paragraphs
+   - **Paragraph 1:** High-energy intro, AI PM with 3+ years 0-to-1, align with Blablacar's vision
+   - **Paragraph 2:** Specific metrics & impact, ship 0-to-1 products, scaled MRR, built LLM workflows, cut turnaround 18-50%+, weave in "Product Manager"
+   - **Paragraph 3:** Crisp CTA, enthusiasm to discuss driving product growth
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff
+   - **Key ATS Keywords:** Product Manager (must naturally incorporate)
+
+2.  **Research/Understand Blablacar & "Discover" Role:**
+   - Blablacar is a European long-distance carpooling/ride-sharing platform.
+   - "Discover" likely refers to feature helping users find rides, matches, or relevant content/experiences within the app.
+   - Need to align Saurao's AI/0-to-1 product experience with Blablacar's mission of connecting people, improving discovery, maybe using AI for better matching, search, or personalization.
+   - Blablacar is headquartered in Paris, France - matches location requirement.
+
+3.  **Extract Key Metrics & Themes from Candidate Profile:**
+   - AI Product Manager & AI Engineer (Forward Deployed Engineer) at FlytBase
+   - 3+ years hands-on experience shaping product roadmaps, leading cross-functional teams, delivering customer-facing AI/automation solutions
+   - Drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), enterprise security SaaS (Sprinto)
+   - 0-to-1 builder of AI
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

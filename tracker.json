@@ -4600,14 +4600,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-product-manager-charging-tax-london-255854",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-10",
-    "last_action_date": "2026-09-10",
+    "last_action_date": "2026-09-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-10",
         "action": "Lead added for Senior Product Manager - Charging & Tax at Kraken (London, UK). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-16",
+        "action": "Generated tailored application kit & cover letter (Kraken_Senior_Product_Manager_-_Charging_Tax.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4661,14 +4665,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/aircall/product-manager-intern-paris-office-335821",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-10",
-    "last_action_date": "2026-09-10",
+    "last_action_date": "2026-09-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-10",
         "action": "Lead added for Product Manager Intern at Aircall (Paris Office). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-16",
+        "action": "Generated tailored application kit & cover letter (Aircall_Product_Manager_Intern.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4680,14 +4688,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/blablacar/product-manager-discover-paris-france-157544",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-10",
-    "last_action_date": "2026-09-10",
+    "last_action_date": "2026-09-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-10",
         "action": "Lead added for Product Manager - Discover at Blablacar (Paris, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-16",
+        "action": "Generated tailored application kit & cover letter (Blablacar_Product_Manager_-_Discover.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4699,14 +4711,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/145652-senior-product-manager-smart-metering-steering-m-f-d",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-11",
-    "last_action_date": "2026-09-11",
+    "last_action_date": "2026-09-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-11",
         "action": "Lead added for (Senior) Product Manager Smart Metering & Steering (m/f/d) at 1KOMMA5° (Germany (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-16",
+        "action": "Generated tailored application kit & cover letter (1KOMMA5_Senior_Product_Manager_Smart_Metering_Steering_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4756,14 +4772,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-product-manager-marine-insurance-london-177533",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-11",
-    "last_action_date": "2026-09-11",
+    "last_action_date": "2026-09-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-11",
         "action": "Lead added for Senior Product Manager - Marine Insurance at Kpler (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-16",
+        "action": "Generated tailored application kit & cover letter (Kpler_Senior_Product_Manager_-_Marine_Insurance.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5372,6 +5392,120 @@
       {
         "date": "2026-09-15",
         "action": "Lead added for Lead Product Manager/Mgr 5 at wex (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_171fcb8f",
+    "company": "Checkout.com",
+    "role": "Product Manager, Alternative Payment Methods",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/product-manager-alternative-payment-methods-london-364479",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-16",
+    "last_action_date": "2026-09-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-16",
+        "action": "Lead added for Product Manager, Alternative Payment Methods at Checkout.com (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1e6ca2fc",
+    "company": "Kraken",
+    "role": "Sr Product Manager - LTV and Retention",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/sr-product-manager-ltv-and-retention-london-243923",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-16",
+    "last_action_date": "2026-09-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-16",
+        "action": "Lead added for Sr Product Manager - LTV and Retention at Kraken (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d4057d05",
+    "company": "FloQast",
+    "role": "Senior Product Manager, SAP",
+    "location": "London, England",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/floqast/senior-product-manager-sap-london-england-351943",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-16",
+    "last_action_date": "2026-09-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-16",
+        "action": "Lead added for Senior Product Manager, SAP at FloQast (London, England). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4f38c52a",
+    "company": "Hirehire",
+    "role": "Product Manager | Intch",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-product-manager-intch-287630",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-16",
+    "last_action_date": "2026-09-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-16",
+        "action": "Lead added for Product Manager | Intch at Hirehire (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a7f1f42f",
+    "company": "Engagedmd",
+    "role": "Group Product Manager",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/engagedmd/remote-group-product-manager-182045",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-16",
+    "last_action_date": "2026-09-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-16",
+        "action": "Lead added for Group Product Manager at Engagedmd (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a15d0ca6",
+    "company": "Teamified",
+    "role": "Product Manager",
+    "location": "Pune Division, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4467930233",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-16",
+    "last_action_date": "2026-09-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-16",
+        "action": "Lead added for Product Manager at Teamified (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
