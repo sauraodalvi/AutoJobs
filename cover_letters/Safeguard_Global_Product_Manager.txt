@@ -1,0 +1,35 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager at Safeguard Global
+Apply Link: https://www.linkedin.com/jobs/view/4465324367
+Date Generated: 2026-09-17
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Roles:** Product Manager / APM / AI Product Manager
+   - **Target Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote
+   - **Summary:** AI Product Manager & AI Engineer (Forward Deployed Engineer) at FlytBase, 3+ years, 0-to-1 builder, AI/automation, drone autonomy, healthcare SaaS, enterprise security SaaS.
+   - **Portfolio/LinkedIn:** Provided
+   - **Key Highlights:** Listed bullet points
+   - **Task:** Write a 3-paragraph cover letter for Safeguard Global, Role: Product Manager, Location: Remote
+   - **ATS Keywords:** Must naturally incorporate "Product Manager"
+   - **Structure:**
+     - Paragraph 1: High-energy intro, AI Product Manager with 3+ years 0-to-1 experience aligning with Safeguard Global's product vision.
+     - Paragraph 2: Specific metrics & impact (shipped 0-to-1 products, scaled MRR, built LLM workflows, cut turnaround 18-50%+), weave in "Product Manager"
+     - Paragraph 3: Crisp CTA, enthusiasm to discuss driving product growth for Safeguard Global
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff
+
+2.  **Deconstruct the Target Company/Role:**
+   - Company: Safeguard Global
+   - Role: Product Manager
+   - Location: Remote
+   - I need to research/understand what Safeguard Global does. Quick mental check: Safeguard Global is a leading provider of employment compliance, payroll, and contractor management solutions for global teams. They help companies hire, pay, and comply with regulations in 180+ countries. Their product is likely around global employment, payroll, compliance, SaaS platform. A Product Manager at Safeguard Global would need to understand B2B SaaS
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

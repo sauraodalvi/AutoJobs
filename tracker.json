@@ -4646,14 +4646,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-principal-product-manager-operations-london-219614",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-10",
-    "last_action_date": "2026-09-10",
+    "last_action_date": "2026-09-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-10",
         "action": "Lead added for Senior/Principal Product Manager - Operations at Radiant (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-17",
+        "action": "Generated tailored application kit & cover letter (Radiant_Senior_Principal_Product_Manager_-_Operations.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4734,14 +4738,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/head-of-product-b2b-london-45838",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-11",
-    "last_action_date": "2026-09-11",
+    "last_action_date": "2026-09-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-11",
         "action": "Lead added for Head of Product - B2B at Trainline (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-17",
+        "action": "Generated tailored application kit & cover letter (Trainline_Head_of_Product_-_B2B.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4753,14 +4761,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-product-manager-fisheries-iuuf-london-450004",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-11",
-    "last_action_date": "2026-09-11",
+    "last_action_date": "2026-09-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-11",
         "action": "Lead added for Senior Product Manager, Fisheries / IUUF at Kpler (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-17",
+        "action": "Generated tailored application kit & cover letter (Kpler_Senior_Product_Manager_Fisheries_IUUF.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4795,14 +4807,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/doctolib/lead-product-manager-patient-data-collection-paris-paris-435852",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-11",
-    "last_action_date": "2026-09-11",
+    "last_action_date": "2026-09-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-11",
         "action": "Lead added for Lead Product Manager - Patient Data Collection (x/f/m) at Doctolib (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-17",
+        "action": "Generated tailored application kit & cover letter (Doctolib_Lead_Product_Manager_-_Patient_Data_Collection_x_f_m.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4814,14 +4830,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4465324367",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-11",
-    "last_action_date": "2026-09-11",
+    "last_action_date": "2026-09-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-11",
         "action": "Lead added for Product Manager at Safeguard Global (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-17",
+        "action": "Generated tailored application kit & cover letter (Safeguard_Global_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5506,6 +5526,139 @@
       {
         "date": "2026-09-16",
         "action": "Lead added for Product Manager at Teamified (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e055bcd0",
+    "company": "Constructor",
+    "role": "Staff Product Manager: Agentic Discovery",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/constructor/staff-product-manager-agentic-discovery-munich-360944",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-17",
+    "last_action_date": "2026-09-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-17",
+        "action": "Lead added for Staff Product Manager: Agentic Discovery at Constructor (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e6162da6",
+    "company": "Contabo",
+    "role": "Senior Cloud Product Manager (all genders)",
+    "location": "Remote (Germany)",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-cloud-product-manager-all-genders-471060",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-17",
+    "last_action_date": "2026-09-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-17",
+        "action": "Lead added for Senior Cloud Product Manager (all genders) at Contabo (Remote (Germany)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0a4972c6",
+    "company": "LiveEO GmbH",
+    "role": "Senior Product Manager (ISR) Defence & Intelligence (f/m/x)",
+    "location": "LiveEO GmbH Berlin Office (Hybrid)",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-product-manager-isr-defence-intelligence-liveeo-gmbh-berlin-office-hybrid-272327",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-17",
+    "last_action_date": "2026-09-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-17",
+        "action": "Lead added for Senior Product Manager (ISR) Defence & Intelligence (f/m/x) at LiveEO GmbH (LiveEO GmbH Berlin Office (Hybrid)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_cba9a932",
+    "company": "Wave",
+    "role": "Technical Product Manager - DevEx",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wave/technical-product-manager-devex-united-kingdom-131352",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-17",
+    "last_action_date": "2026-09-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-17",
+        "action": "Lead added for Technical Product Manager - DevEx at Wave (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_33e39a5b",
+    "company": "diligentcorporation",
+    "role": "Senior Product Manager (IT/Cyber Risk)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/senior-product-manager-it-cyber-risk-london-44130",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-17",
+    "last_action_date": "2026-09-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-17",
+        "action": "Lead added for Senior Product Manager (IT/Cyber Risk) at diligentcorporation (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d4ff1121",
+    "company": "diligentcorporation",
+    "role": "Senior Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/senior-product-manager-london-321605",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-17",
+    "last_action_date": "2026-09-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-17",
+        "action": "Lead added for Senior Product Manager at diligentcorporation (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_cfacc5fb",
+    "company": "DomainTools",
+    "role": "Principal Product Manager",
+    "location": "Remote",
+    "contact_name": "Recruiting Team",
+    "contact_email": "",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-17",
+    "last_action_date": "2026-09-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-17",
+        "action": "Lead added for Principal Product Manager at DomainTools (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
