@@ -1,0 +1,39 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager - Brand Platform at Purplle.com
+Apply Link: https://www.linkedin.com/jobs/view/4452270710
+Date Generated: 2026-09-18
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Roles:** Product Manager / APM / AI Product Manager
+   - **Target Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote
+   - **Company:** Purplle.com
+   - **Role:** Product Manager - Brand Platform
+   - **Location:** Remote
+   - **Key ATS Keywords:** Product Manager (must naturally incorporate)
+   - **Structure:** 3 paragraphs
+     - Paragraph 1: High-energy intro, AI PM with 3+ years 0-to-1 experience, align with Purplle.com's vision
+     - Paragraph 2: Specific metrics & impact, ship 0-to-1 products, scaled MRR, built LLM workflows, cut turnaround 18-50%+, weave in "Product Manager"
+     - Paragraph 3: Crisp CTA, enthusiasm to discuss driving product growth for Purplle.com
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff
+
+2.  **Deconstruct the Candidate's Profile & Target Role:**
+   - **Current:** AI Product Manager & AI Engineer (Forward Deployed Engineer) at FlytBase
+   - **Experience:** 3+ years, 0-to-1 roadmaps, cross-functional teams, AI/automation solutions
+   - **Industries:** Drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), enterprise security SaaS (Sprinto)
+   - **Key Achievements:** 
+     - Prediq (AI drone SaaS) → $6K MRR
+     - Smart Reports at CrelioHealth → +$2K MRR per lab
+     - Cut patient registration by ~58%, sample turnaround by 18% via AI prompt pipelines
+     - Built internal dev CLIs, Zapier/Make automations, LLM-powered workflows, agentic systems
+     - Launched AI products: Hidden Jobs (50K
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

@@ -1,0 +1,23 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager, Technical (m/f/d) at affinidi
+Apply Link: https://www.arbeitnow.com/jobs/companies/affinidi/senior-product-manager-technical-berlin-245061
+Date Generated: 2026-09-18
+============================================================
+
+Dear Hiring Manager,
+
+As an AI Product Manager with 3+ years of hands-on experience shipping 0-to-1 AI-native products, I'm excited to apply for the Senior Product Manager, Technical role at affinidi. My background spans building agentic systems, LLM-powered workflows, and AI automation solutions across drone autonomy, healthcare SaaS, and enterprise security—aligning perfectly with affinidi's mission to unlock human potential through ethical data intelligence. With a proven track record of owning full product lifecycles from concept to scale, I bring the technical depth and strategic vision needed to drive affinidi's product evolution.
+
+Throughout my career as a Product Manager, I've delivered measurable impact: at FlytBase, I owned the 0-to-1 roadmap and launch of Prediq (AI drone SaaS), achieving $6K MRR while reducing operational latency through real-time autonomy APIs. At CrelioHealth, I drove Smart Reports' roadmap, increasing lab revenue by $2K MRR per lab and cutting patient registration time by 58% using custom AI prompt pipelines. My work extends to building internal developer CLIs, automating cross-app workflows with Python/Zapier, and launching AI products like Hidden Jobs (50K+ live ATS jobs indexed). These experiences have honed my ability to translate complex technical capabilities into market-winning products.
+
+I'm eager to bring this Product Manager expertise to affinidi and collaborate on scaling your ethical data platform's impact. I'd welcome the opportunity to discuss how my experience in AI product strategy and technical execution can accelerate affinidi's growth. Thank you for your consideration—I look forward to connecting soon.
+
+Best regards,
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

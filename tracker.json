@@ -4853,14 +4853,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4453416438",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-11",
-    "last_action_date": "2026-09-11",
+    "last_action_date": "2026-09-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-11",
         "action": "Lead added for Digital Product Manager - Band 2 at Procter & Gamble (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-18",
+        "action": "Generated tailored application kit & cover letter (Procter_Gamble_Digital_Product_Manager_-_Band_2.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4872,14 +4876,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4452270710",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-11",
-    "last_action_date": "2026-09-11",
+    "last_action_date": "2026-09-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-11",
         "action": "Lead added for Product Manager - Brand Platform at Purplle.com (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-18",
+        "action": "Generated tailored application kit & cover letter (Purplle_com_Product_Manager_-_Brand_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4891,14 +4899,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4463060209",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-11",
-    "last_action_date": "2026-09-11",
+    "last_action_date": "2026-09-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-11",
         "action": "Lead added for Founding Product Manager at Better (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-18",
+        "action": "Generated tailored application kit & cover letter (Better_Founding_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4910,14 +4922,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/affinidi/senior-product-manager-technical-berlin-245061",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-12",
-    "last_action_date": "2026-09-12",
+    "last_action_date": "2026-09-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-12",
         "action": "Lead added for Senior Product Manager, Technical (m/f/d) at affinidi (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-18",
+        "action": "Generated tailored application kit & cover letter (affinidi_Senior_Product_Manager_Technical_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -4929,14 +4945,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/awin/product-manager-publisher-payments-berlin-berlin-252401",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-12",
-    "last_action_date": "2026-09-12",
+    "last_action_date": "2026-09-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-12",
         "action": "Lead added for Product Manager, Publisher Payments (f/m/d) at Awin (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-18",
+        "action": "Generated tailored application kit & cover letter (Awin_Product_Manager_Publisher_Payments_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5659,6 +5679,139 @@
       {
         "date": "2026-09-17",
         "action": "Lead added for Principal Product Manager at DomainTools (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a02a9f23",
+    "company": "Nebius",
+    "role": "Senior Technical Product Manager, Token Factory",
+    "location": "Europe,  Netherlands,  UK (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-18",
+    "last_action_date": "2026-09-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-18",
+        "action": "Lead added for Senior Technical Product Manager, Token Factory at Nebius (Europe,  Netherlands,  UK (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_94e495e4",
+    "company": "Supabase",
+    "role": "Product Manager - Marketplace",
+    "location": "Anywhere (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/151041-product-manager-marketplace",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-18",
+    "last_action_date": "2026-09-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-18",
+        "action": "Lead added for Product Manager - Marketplace at Supabase (Anywhere (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3e78ca04",
+    "company": "autoscout24",
+    "role": "Team Lead Product Manager, Mobile Apps (m/f/d)",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/autoscout24/team-lead-product-manager-mobile-apps-138513",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-18",
+    "last_action_date": "2026-09-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-18",
+        "action": "Lead added for Team Lead Product Manager, Mobile Apps (m/f/d) at autoscout24 (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f0d0f4c4",
+    "company": "Userlane",
+    "role": "Senior Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/userlane/senior-product-manager-london-175588",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-18",
+    "last_action_date": "2026-09-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-18",
+        "action": "Lead added for Senior Product Manager at Userlane (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b1ba34e9",
+    "company": "Decagon",
+    "role": "Senior Agent Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/decagon/senior-agent-product-manager-london-341822",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-18",
+    "last_action_date": "2026-09-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-18",
+        "action": "Lead added for Senior Agent Product Manager at Decagon (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d391682a",
+    "company": "Numan",
+    "role": "Lead Technical Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/numan/lead-technical-product-manager-london-41709",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-18",
+    "last_action_date": "2026-09-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-18",
+        "action": "Lead added for Lead Technical Product Manager at Numan (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e91f00cb",
+    "company": "Backmarket",
+    "role": "Product Manager Apprentice, Checkout",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/backmarket/product-manager-apprentice-checkout-paris-84960",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-18",
+    "last_action_date": "2026-09-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-18",
+        "action": "Lead added for Product Manager Apprentice, Checkout at Backmarket (Paris). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

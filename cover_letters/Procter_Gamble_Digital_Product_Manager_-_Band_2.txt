@@ -1,0 +1,37 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Digital Product Manager - Band 2 at Procter & Gamble
+Apply Link: https://www.linkedin.com/jobs/view/4453416438
+Date Generated: 2026-09-18
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Roles:** Product Manager / APM / AI Product Manager
+   - **Target Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote
+   - **Summary:** AI Product Manager & AI Engineer (Forward Deployed Engineer) at FlytBase, 3+ years, 0-to-1 product roadmaps, cross-functional teams, AI/automation solutions across drone autonomy, healthcare SaaS, enterprise security SaaS. Proven 0-to-1 builder of AI-native products, developer CLIs, LLM-powered workflows, agentic systems.
+   - **Portfolio/LinkedIn:** Provided
+   - **Key Highlights:** Listed
+   - **Task:** Write a highly compelling, ATS-optimized 3-paragraph cover letter for:
+     - Company: Procter & Gamble
+     - Role: Digital Product Manager - Band 2
+     - Location: Remote
+   - **Key ATS Keywords to naturally incorporate:** Product Manager
+   - **Structure:**
+     - Paragraph 1: High-energy introduction positioning Saurao Dalvi as an AI Product Manager with 3+ years of 0-to-1 experience aligning with Procter & Gamble's product vision.
+     - Paragraph 2: Specific metrics & impact (shipped 0-to-1 products at FlytBase/CrelioHealth/Sprinto, scaled MRR, built LLM workflows, cut turnaround by 18-50%+), weaving in: Product Manager.
+     - Paragraph 3: Crisp call-to-action expressing enthusiasm to discuss driving product growth for Procter & Gamble.
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff.
+
+2.  **Deconstruct the Requirements:**
+   - 3 paragraphs only
+   - Must include "Product Manager" as a keyword (likely multiple times for ATS)
+   - Must highlight Saurao's specific experience: AI Product Manager, 0
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
