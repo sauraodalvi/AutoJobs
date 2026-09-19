@@ -1,0 +1,20 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Lead Technical Product Manager - (IIT/IIM Preferred) - Product Management at Wolters Kluwer
+Apply Link: https://www.linkedin.com/jobs/view/4428032508
+Date Generated: 2026-09-19
+============================================================
+
+**Subject: Lead Technical Product Manager - AI-Native Product Builder for Wolters Kluwer**
+
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Lead Technical Product Manager position at Wolters Kluwer, as advertised. As an AI Product Manager and Forward Deployed Engineer with 3+ years of experience driving 0-to-1 product lifecycles, I am drawn to Wolters Kluwer’s mission of delivering expert solutions that power the health, safety, and prosperity of global communities. My track record of building and launching AI-native SaaS products from the ground up—combined with a deep technical background in LLM workflows and automation—positions me to immediately drive value for your product portfolio in this remote capacity.
+
+In my current role as an AI Product Manager at FlytBase, I have consistently delivered measurable business impact by owning technical roadmaps and shipping scalable solutions. I own the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS that grew to ~$6K MRR, and previously owned the Smart Reports roadmap at CrelioHealth, increasing lab revenue by ~$2,000 MRR per lab. My ability to bridge technical execution and product strategy has led to a ~58% reduction in patient registration time and an 18% decrease in sample turnaround through custom AI prompt pipelines. Furthermore, as a Product Manager, I have built internal developer CLIs and automated complex cross-app processes using Python, Zapier, and Make, while also launching AI-driven products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2. This hands-on engineering background allows me to collaborate effectively with IIT/IIM-level engineering teams and
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

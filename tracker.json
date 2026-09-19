@@ -4987,14 +4987,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/yepoda/senior-product-owner-data-analytics-berlin-349254",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-12",
-    "last_action_date": "2026-09-12",
+    "last_action_date": "2026-09-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-12",
         "action": "Lead added for Senior Product Owner - Data & Analytics (m/f/d) at Yepoda (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-19",
+        "action": "Generated tailored application kit & cover letter (Yepoda_Senior_Product_Owner_-_Data_Analytics_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5006,14 +5010,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/localstack/head-of-product-london-91501",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-12",
-    "last_action_date": "2026-09-12",
+    "last_action_date": "2026-09-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-12",
         "action": "Lead added for Head of Product at Localstack (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-19",
+        "action": "Generated tailored application kit & cover letter (Localstack_Head_of_Product.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5025,14 +5033,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4428032508",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-12",
-    "last_action_date": "2026-09-12",
+    "last_action_date": "2026-09-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-12",
         "action": "Lead added for Lead Technical Product Manager - (IIT/IIM Preferred) - Product Management at Wolters Kluwer (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-19",
+        "action": "Generated tailored application kit & cover letter (Wolters_Kluwer_Lead_Technical_Product_Manager_-_IIT_IIM_Preferred_-_Product_Management.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5082,14 +5094,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/tandem/product-manager-parental-leave-cover-berlin-57421",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-13",
-    "last_action_date": "2026-09-13",
+    "last_action_date": "2026-09-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-13",
         "action": "Lead added for Product Manager (parental leave cover) at Tandem (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-19",
+        "action": "Generated tailored application kit & cover letter (Tandem_Product_Manager_parental_leave_cover.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5101,14 +5117,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/everai/senior-product-manager-full-remote-europe-germany-35518",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-13",
-    "last_action_date": "2026-09-13",
+    "last_action_date": "2026-09-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-13",
         "action": "Lead added for Senior Product Manager (Full Remote - Europe) at EverAI (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-19",
+        "action": "Generated tailored application kit & cover letter (EverAI_Senior_Product_Manager_Full_Remote_-_Europe.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5812,6 +5832,44 @@
       {
         "date": "2026-09-18",
         "action": "Lead added for Product Manager Apprentice, Checkout at Backmarket (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e5b18386",
+    "company": "jetbrains",
+    "role": "Senior Product Manager (VCS Ecosystem)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/senior-product-manager-vcs-ecosystem-london-344677",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-19",
+    "last_action_date": "2026-09-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-19",
+        "action": "Lead added for Senior Product Manager (VCS Ecosystem) at jetbrains (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_cf9323fc",
+    "company": "jetbrains",
+    "role": "Entrepreneur in Residence/Product Lead (Project Thinkrail)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/entrepreneur-in-residence-product-lead-project-thinkrail-london-263241",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-19",
+    "last_action_date": "2026-09-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-19",
+        "action": "Lead added for Entrepreneur in Residence/Product Lead (Project Thinkrail) at jetbrains (London). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

@@ -2,6 +2,21 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager at Valiance Solutions
 Apply Link: https://www.linkedin.com/jobs/view/4454516367
-Date Generated: 2026-09-18
+Date Generated: 2026-09-19
 ============================================================
 
+ Subject: Saurao Dalvi - AI Product Manager for Valiance Solutions (Remote)
+
+Dear Hiring Team,
+
+I am Saurao Dalvi, an AI Product Manager with 3+ years of experience building and shipping 0-to-1 AI-native products, and I am thrilled to apply for the Product Manager role at Valiance Solutions. Your focus on leveraging cutting-edge AI and data engineering to deliver tangible business impact resonates deeply with my background as a Forward Deployed Engineer and Product Manager who thrives at the intersection of AI, strategy, and customer success. I am eager to bring my proven track record of translating complex technical capabilities into high-value product roadmaps to your remote team, driving growth and innovation for your clients.
+
+As a Product Manager, I have consistently delivered measurable outcomes across drone autonomy and healthcare SaaS. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS that scaled to ~$6K MRR, while also building internal developer CLIs to automate complex workflows. At CrelioHealth, I owned the Smart Reports roadmap, increasing lab revenue by ~$2,000 MRR per lab, and cut patient registration time by 58% and sample turnaround by 18% using custom LLM prompt pipelines. My experience building agentic systems and AI-powered products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2 has equipped me with the exact skill set to drive Valiance’s product vision, ensuring we deliver robust, scalable, and user-centric AI solutions that solve real-world problems.
+
+I am highly enthusiastic about the
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

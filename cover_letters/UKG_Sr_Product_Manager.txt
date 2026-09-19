@@ -2,18 +2,32 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-09-16
+Date Generated: 2026-09-19
 ============================================================
 
-Saurao Dalvi  
-AI Product Manager & AI Engineer  
-https://sauraodalvi.netlify.app/ | https://www.linkedin.com/in/saurao-dalvi/  
+[Your Name]
+[Your Phone Number] | [Your Email]
+[Your LinkedIn Profile] | [Your Portfolio Link]
 
-Dear Hiring Team,
+[Date]
 
-I am an AI‑focused Product Manager with 3+ years of end‑to‑end experience launching 0‑to‑1 AI/automation solutions that have generated measurable revenue and efficiency gains at FlytBase, CrelioHealth, and Sprinto. My track record of shaping product roadmaps, leading cross‑functional teams, and delivering LLM‑powered workflows aligns directly with UKG’s commitment to innovative, customer‑centric workforce technology.
+Hiring Manager, Product Team
+UKG
+Remote
 
-In my most recent role as AI Product Manager at FlytBase, I owned the roadmap and launch of **Prediq**,
+**RE: Senior Product Manager Application**
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Senior Product Manager position at UKG. As an AI Product Manager and Engineer with over three years of experience building 0-to-1 products, I specialize in the intersection of agentic AI systems and scalable enterprise SaaS. Having led cross-functional teams to deliver high-impact automation solutions across drone autonomy, healthcare, and security sectors, I am confident in my ability to align with UKG’s vision of leveraging intelligent technology to enhance the employee and manager experience on a global scale.
+
+Throughout my career, I have operated as a Product Manager who bridges the gap between complex engineering and commercial viability. At FlytBase, I owned the end-to-end roadmap and launch of Prediq (an AI drone SaaS), successfully scaling it to ~$6K MRR. My tenure at CrelioHealth further demonstrated my ability to drive revenue, where I led the "Smart Reports" initiative, increasing lab revenue by ~$2,000 MRR per facility. Beyond revenue, I have a proven track record of operational efficiency; by architecting custom AI prompt pipelines, I reduced patient registration time by 58% and sample turnaround by 18%. From building developer CLIs to launching LLM-powered workflows and indexing 50K+ jobs for AI-native products, I bring a technical rigor to product management that ensures rapid iteration and scalable growth.
+
+I am eager to bring this blend of AI expertise and product leadership to UKG to help drive the next generation of workforce management innovation. I am impressed by UKG's commitment to people-centric technology and would welcome the opportunity to discuss how my experience in scaling 0-to-1 AI products can contribute to your product growth and strategic goals. Thank you for your time and consideration.
+
+Sincerely,
+
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
