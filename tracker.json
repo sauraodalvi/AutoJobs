@@ -4968,14 +4968,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/kranus-health-gmbh/senior-product-manager-berlin-193606",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-12",
-    "last_action_date": "2026-09-12",
+    "last_action_date": "2026-09-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-12",
         "action": "Lead added for (Senior) Product Manager at Kranus Health Gmbh (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-20",
+        "action": "Generated tailored application kit & cover letter (Kranus_Health_Gmbh_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5056,14 +5060,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4455796338",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-12",
-    "last_action_date": "2026-09-12",
+    "last_action_date": "2026-09-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-12",
         "action": "Lead added for Principal Product Manager - Tech, Prime Video Commerce & International Product at Prime Video & Amazon MGM Studios (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-20",
+        "action": "Generated tailored application kit & cover letter (Prime_Video_Amazon_MGM_Studios_Principal_Product_Manager_-_Tech_Prime_Video_Commerce_International_Product.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5075,14 +5083,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/glassdollar/associate-product-owner-berlin-381022",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-13",
-    "last_action_date": "2026-09-13",
+    "last_action_date": "2026-09-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-13",
         "action": "Lead added for Associate Product Owner at Glassdollar (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-20",
+        "action": "Generated tailored application kit & cover letter (Glassdollar_Associate_Product_Owner.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5159,14 +5171,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/caronsale/product-manager-berlin-273353",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-13",
-    "last_action_date": "2026-09-13",
+    "last_action_date": "2026-09-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-13",
         "action": "Lead added for Product Manager (m/w/d) at caronsale (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-20",
+        "action": "Generated tailored application kit & cover letter (caronsale_Product_Manager_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5216,14 +5232,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/angi/senior-product-manager-data-infrastructure-aix-en-provence-265619",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-13",
-    "last_action_date": "2026-09-13",
+    "last_action_date": "2026-09-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-13",
         "action": "Lead added for Senior Product Manager, Data Infrastructure at Angi (Hybrid - France - Aix-en-Provence). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-20",
+        "action": "Generated tailored application kit & cover letter (Angi_Senior_Product_Manager_Data_Infrastructure.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5870,6 +5890,25 @@
       {
         "date": "2026-09-19",
         "action": "Lead added for Entrepreneur in Residence/Product Lead (Project Thinkrail) at jetbrains (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3a72f528",
+    "company": "mirakllabs",
+    "role": "Product Manager - Platform Management",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-platform-management-paris-176979",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-20",
+    "last_action_date": "2026-09-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-20",
+        "action": "Lead added for Product Manager - Platform Management at mirakllabs (Paris). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

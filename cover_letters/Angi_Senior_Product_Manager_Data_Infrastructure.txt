@@ -1,0 +1,37 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager, Data Infrastructure at Angi
+Apply Link: https://www.arbeitnow.fr/jobs/companies/angi/senior-product-manager-data-infrastructure-aix-en-provence-265619
+Date Generated: 2026-09-20
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Roles:** Product Manager / APM / AI Product Manager (but the specific role is Senior Product Manager, Data Infrastructure at Angi)
+   - **Target Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote (but the role is Hybrid - France - Aix-en-Provence, so location match is relevant but he's applying from/for France)
+   - **Company:** Angi
+   - **Role:** Senior Product Manager, Data Infrastructure
+   - **Structure:** 3 paragraphs
+     - Paragraph 1: High-energy intro, AI Product Manager with 3+ years 0-to-1 experience, align with Angi's product vision
+     - Paragraph 2: Specific metrics & impact, ship 0-to-1 products, scaled MRR, built LLM workflows, cut turnaround 18-50%+, weave in "Product Manager"
+     - Paragraph 3: Crisp CTA, enthusiasm to discuss driving product growth for Angi
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff
+   - **Key ATS Keywords to naturally incorporate:** Product Manager (and likely variations, but specifically "Product Manager" is called out)
+
+2.  **Deconstruct the Candidate's Profile & Target Role:**
+   - Saurao: AI Product Manager & AI Engineer (Forward Deployed Engineer) at FlytBase
+   - 3+ years experience
+   - Shaped product roadmaps, led cross-functional teams, delivered customer-facing AI/automation
+   - Industries: drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), enterprise security SaaS (Sprinto)
+   - 0-to-1 builder of AI-native products, developer CLIs, LLM-powered workflows, agentic systems
+   - Specific achievements:
+     - Prediq (AI drone SaaS) at FlytBase: 0-to-1 roadmap & launch, ~$6K MRR
+
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
