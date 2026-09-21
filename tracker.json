@@ -5152,14 +5152,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/caronsale/senior-product-manager-berlin-28101",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-13",
-    "last_action_date": "2026-09-13",
+    "last_action_date": "2026-09-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-13",
         "action": "Lead added for Senior Product Manager (m/w/d) at caronsale (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-21",
+        "action": "Generated tailored application kit & cover letter (caronsale_Senior_Product_Manager_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5194,14 +5198,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/growth-product-manager-london-168924",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-13",
-    "last_action_date": "2026-09-13",
+    "last_action_date": "2026-09-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-13",
         "action": "Lead added for Growth Product Manager at Fyxer (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-21",
+        "action": "Generated tailored application kit & cover letter (Fyxer_Growth_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5213,14 +5221,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-product-manager-london-110370",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-13",
-    "last_action_date": "2026-09-13",
+    "last_action_date": "2026-09-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-13",
         "action": "Lead added for Senior Product Manager at sonyinteractiveentertainmentglobal (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-21",
+        "action": "Generated tailored application kit & cover letter (sonyinteractiveentertainmentglobal_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5331,14 +5343,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4440678998",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-14",
-    "last_action_date": "2026-09-14",
+    "last_action_date": "2026-09-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-14",
         "action": "Lead added for Product Manager at Servify (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-21",
+        "action": "Generated tailored application kit & cover letter (Servify_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5350,14 +5366,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-product-manager-all-genders-b2c-348479",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-15",
-    "last_action_date": "2026-09-15",
+    "last_action_date": "2026-09-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-15",
         "action": "Lead added for Senior Product Manager (all genders) | B2C at Real Digital (Remote oder Köln / Darmstadt / Düsseldorf / Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-21",
+        "action": "Generated tailored application kit & cover letter (Real_Digital_Senior_Product_Manager_all_genders_B2C.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5909,6 +5929,158 @@
       {
         "date": "2026-09-20",
         "action": "Lead added for Product Manager - Platform Management at mirakllabs (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b6a7a62a",
+    "company": "Taxfix",
+    "role": "Technical Product Manager (d/f/m) - People Intelligence Apps",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/taxfix/technical-product-manager-people-intelligence-apps-berlin-313385",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-21",
+    "last_action_date": "2026-09-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-21",
+        "action": "Lead added for Technical Product Manager (d/f/m) - People Intelligence Apps at Taxfix (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_12df66fd",
+    "company": "bunch",
+    "role": "(Senior / Staff) Product Manager - Growth (f/m/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-staff-product-manager-growth-berlin-330512",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-21",
+    "last_action_date": "2026-09-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-21",
+        "action": "Lead added for (Senior / Staff) Product Manager - Growth (f/m/d) at bunch (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e1d4fe89",
+    "company": "Hawk",
+    "role": "Product Owner - Agentic",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/hawk/product-owner-agentic-munich-349369",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-21",
+    "last_action_date": "2026-09-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-21",
+        "action": "Lead added for Product Owner - Agentic at Hawk (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_41d8b1e9",
+    "company": "Moss",
+    "role": "Senior Product Manager (m/f/d)",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/moss/senior-product-manager-munich-185472",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-21",
+    "last_action_date": "2026-09-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-21",
+        "action": "Lead added for Senior Product Manager (m/f/d) at Moss (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7cac9fc4",
+    "company": "Deliveroo",
+    "role": "Staff Product Manager, People Product",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-manager-people-product-london-73958",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-21",
+    "last_action_date": "2026-09-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-21",
+        "action": "Lead added for Staff Product Manager, People Product at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1a79bd89",
+    "company": "Deliveroo",
+    "role": "Senior Product Manager, Retail",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-retail-london-55612",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-21",
+    "last_action_date": "2026-09-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-21",
+        "action": "Lead added for Senior Product Manager, Retail at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_84f43832",
+    "company": "Deliveroo",
+    "role": "Senior Product Manager, New Verticals",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-new-verticals-london-350727",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-21",
+    "last_action_date": "2026-09-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-21",
+        "action": "Lead added for Senior Product Manager, New Verticals at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7ff7fe5d",
+    "company": "Deliveroo",
+    "role": "Senior Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-london-167932",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-21",
+    "last_action_date": "2026-09-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-21",
+        "action": "Lead added for Senior Product Manager at Deliveroo (London). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
