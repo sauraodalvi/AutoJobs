@@ -2,10 +2,19 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-09-21
+Date Generated: 2026-09-22
 ============================================================
 
-User Safety: safe
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Senior Product Manager position at UKG. With over 3 years of hands-on experience as an AI Product Manager and AI Engineer at FlytBase, I have successfully owned 0-to-1 product roadmaps and launched AI-native solutions that deliver measurable business impact. My background spans building autonomous drone SaaS platforms, healthcare SaaS products, and enterprise security solutions, giving me a unique perspective on workforce technology that aligns perfectly with UKG's mission to create more meaningful work experiences. Throughout my career, I've consistently demonstrated the ability to bridge technical innovation with customer needs, a skill essential for driving product growth in the HR technology space.
+
+As a Product Manager, I have shipped multiple 0-to-1 products that generated significant revenue impact. At FlytBase, I owned the complete roadmap and launch of Prediq, an AI drone SaaS platform that achieved $6K MRR within its first year. Similarly, at CrelioHealth, I led the development of Smart Reports, increasing lab revenue by $2,000 MRR per lab while reducing patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. My experience extends to building internal developer CLIs, automating complex cross-app processes with Python and automation tools, and creating scalable LLM-powered workflows. I also co-founded Elite PM platform in partnership with a Microsoft Product Manager, further demonstrating my ability to identify market opportunities and execute product strategies. These accomplishments showcase my capability to drive product innovation while maintaining focus on business outcomes and customer satisfaction.
+
+I am excited about the opportunity to bring my proven track record as a Product Manager to UKG's Senior Product Manager role. I would welcome the chance to discuss how my experience in building AI-driven solutions and my passion for creating products that enhance workforce experiences can contribute to UKG's continued success. Thank you for your consideration, and I look forward to hearing from you soon.
+
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

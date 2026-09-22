@@ -5267,14 +5267,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/cocrafter-yc-w24/founding-product-manager-y-combinator-startup-munich-415415",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-14",
-    "last_action_date": "2026-09-14",
+    "last_action_date": "2026-09-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-14",
         "action": "Lead added for Founding Product Manager (Y Combinator Startup) at CoCrafter (YC W24) (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-22",
+        "action": "Generated tailored application kit & cover letter (CoCrafter_YC_W24_Founding_Product_Manager_Y_Combinator_Startup.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5286,14 +5290,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/charlesundcharlottegmbh/head-of-production-berlin-213174",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-14",
-    "last_action_date": "2026-09-14",
+    "last_action_date": "2026-09-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-14",
         "action": "Lead added for Head of Production (m/f/x) at Charlesundcharlottegmbh (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-22",
+        "action": "Generated tailored application kit & cover letter (Charlesundcharlottegmbh_Head_of_Production_m_f_x.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5408,14 +5416,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/product-manager-security-london-83003",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-15",
-    "last_action_date": "2026-09-15",
+    "last_action_date": "2026-09-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-15",
         "action": "Lead added for Product Manager - Security at Nebius (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-22",
+        "action": "Generated tailored application kit & cover letter (Nebius_Product_Manager_-_Security.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5427,14 +5439,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-product-manager-product-experience-367846",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-15",
-    "last_action_date": "2026-09-15",
+    "last_action_date": "2026-09-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-15",
         "action": "Lead added for Senior Product Manager - Product & Experience at capco (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-22",
+        "action": "Generated tailored application kit & cover letter (capco_Senior_Product_Manager_-_Product_Experience.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5503,14 +5519,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/product-manager-alternative-payment-methods-london-364479",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-16",
-    "last_action_date": "2026-09-16",
+    "last_action_date": "2026-09-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-16",
         "action": "Lead added for Product Manager, Alternative Payment Methods at Checkout.com (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-22",
+        "action": "Generated tailored application kit & cover letter (Checkout_com_Product_Manager_Alternative_Payment_Methods.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6081,6 +6101,63 @@
       {
         "date": "2026-09-21",
         "action": "Lead added for Senior Product Manager at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_724dfca5",
+    "company": "Alphasense",
+    "role": "Sr. Product Manager, M&A Transactions and Valuations",
+    "location": "London, Greater London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/sr-product-manager-ma-transactions-and-valuations-london-greater-london-465337",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-22",
+    "last_action_date": "2026-09-22",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-22",
+        "action": "Lead added for Sr. Product Manager, M&A Transactions and Valuations at Alphasense (London, Greater London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_cea3b8ea",
+    "company": "Decathlontechnology",
+    "role": "Data Product Manager - Core Data Product (f/m/d)",
+    "location": "Paris, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-product-manager-core-data-product-paris-paris-291860",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-22",
+    "last_action_date": "2026-09-22",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-22",
+        "action": "Lead added for Data Product Manager - Core Data Product (f/m/d) at Decathlontechnology (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3c07af4f",
+    "company": "Global Payments Inc.",
+    "role": "Product Manager (Digital Products, Payments) - Pune - 7+ years Exp",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4469878915",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-22",
+    "last_action_date": "2026-09-22",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-22",
+        "action": "Lead added for Product Manager (Digital Products, Payments) - Pune - 7+ years Exp at Global Payments Inc. (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
