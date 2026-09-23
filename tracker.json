@@ -5397,14 +5397,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-technical-product-manager-token-factory-123931",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-15",
-    "last_action_date": "2026-09-15",
+    "last_action_date": "2026-09-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-15",
         "action": "Lead added for Senior Technical Product Manager - Token Factory at Nebius (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-23",
+        "action": "Generated tailored application kit & cover letter (Nebius_Senior_Technical_Product_Manager_-_Token_Factory.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5462,14 +5466,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/qonto/staff-product-manager-machine-learning-expertise-paris-278660",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-15",
-    "last_action_date": "2026-09-15",
+    "last_action_date": "2026-09-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-15",
         "action": "Lead added for Staff Product Manager [Machine Learning expertise] at Qonto (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-23",
+        "action": "Generated tailored application kit & cover letter (Qonto_Staff_Product_Manager_Machine_Learning_expertise.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5481,14 +5489,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/qonto/senior-product-manager-due-diligence-paris-476493",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-15",
-    "last_action_date": "2026-09-15",
+    "last_action_date": "2026-09-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-15",
         "action": "Lead added for Senior Product Manager - Due Diligence at Qonto (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-23",
+        "action": "Generated tailored application kit & cover letter (Qonto_Senior_Product_Manager_-_Due_Diligence.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5542,14 +5554,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/sr-product-manager-ltv-and-retention-london-243923",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-16",
-    "last_action_date": "2026-09-16",
+    "last_action_date": "2026-09-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-16",
         "action": "Lead added for Sr Product Manager - LTV and Retention at Kraken (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-23",
+        "action": "Generated tailored application kit & cover letter (Kraken_Sr_Product_Manager_-_LTV_and_Retention.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5561,14 +5577,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/floqast/senior-product-manager-sap-london-england-351943",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-16",
-    "last_action_date": "2026-09-16",
+    "last_action_date": "2026-09-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-16",
         "action": "Lead added for Senior Product Manager, SAP at FloQast (London, England). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-23",
+        "action": "Generated tailored application kit & cover letter (FloQast_Senior_Product_Manager_SAP.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6158,6 +6178,63 @@
       {
         "date": "2026-09-22",
         "action": "Lead added for Product Manager (Digital Products, Payments) - Pune - 7+ years Exp at Global Payments Inc. (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ecb9c701",
+    "company": "RobCo",
+    "role": "Staff Product Manager - Robotics & Safety",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/robco/staff-product-manager-robotics-safety-munich-222867",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-23",
+    "last_action_date": "2026-09-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-23",
+        "action": "Lead added for Staff Product Manager - Robotics & Safety at RobCo (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d518619b",
+    "company": "Pelico",
+    "role": "Product Manager",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/pelico/product-manager-paris-103041",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-23",
+    "last_action_date": "2026-09-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-23",
+        "action": "Lead added for Product Manager at Pelico (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_86872b18",
+    "company": "Pelico",
+    "role": "Lead Product Manager",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/pelico/lead-product-manager-paris-475767",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-23",
+    "last_action_date": "2026-09-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-23",
+        "action": "Lead added for Lead Product Manager at Pelico (Paris). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
