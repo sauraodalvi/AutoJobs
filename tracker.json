@@ -5600,14 +5600,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-product-manager-intch-287630",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-16",
-    "last_action_date": "2026-09-16",
+    "last_action_date": "2026-09-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-16",
         "action": "Lead added for Product Manager | Intch at Hirehire (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-24",
+        "action": "Generated tailored application kit & cover letter (Hirehire_Product_Manager_Intch.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5619,14 +5623,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/engagedmd/remote-group-product-manager-182045",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-16",
-    "last_action_date": "2026-09-16",
+    "last_action_date": "2026-09-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-16",
         "action": "Lead added for Group Product Manager at Engagedmd (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-24",
+        "action": "Generated tailored application kit & cover letter (Engagedmd_Group_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5638,14 +5646,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4467930233",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-16",
-    "last_action_date": "2026-09-16",
+    "last_action_date": "2026-09-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-16",
         "action": "Lead added for Product Manager at Teamified (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-24",
+        "action": "Generated tailored application kit & cover letter (Teamified_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5657,14 +5669,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/constructor/staff-product-manager-agentic-discovery-munich-360944",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-17",
-    "last_action_date": "2026-09-17",
+    "last_action_date": "2026-09-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-17",
         "action": "Lead added for Staff Product Manager: Agentic Discovery at Constructor (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-24",
+        "action": "Generated tailored application kit & cover letter (Constructor_Staff_Product_Manager_Agentic_Discovery.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5676,14 +5692,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-cloud-product-manager-all-genders-471060",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-17",
-    "last_action_date": "2026-09-17",
+    "last_action_date": "2026-09-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-17",
         "action": "Lead added for Senior Cloud Product Manager (all genders) at Contabo (Remote (Germany)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-24",
+        "action": "Generated tailored application kit & cover letter (Contabo_Senior_Cloud_Product_Manager_all_genders.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6235,6 +6255,101 @@
       {
         "date": "2026-09-23",
         "action": "Lead added for Lead Product Manager at Pelico (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2728a19c",
+    "company": "Pandadoc",
+    "role": "Principal Product Manager, Document Domain",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/pandadoc/principal-product-manager-document-domain-444665",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-24",
+        "action": "Lead added for Principal Product Manager, Document Domain at Pandadoc (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_76fca0e8",
+    "company": "Reonic",
+    "role": "Growth Product Manager - Italy (AI x Greentech) (m/f/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/reonic/growth-product-manager-italy-ai-x-greentech-berlin-467649",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-24",
+        "action": "Lead added for Growth Product Manager - Italy (AI x Greentech) (m/f/d) at Reonic (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c8cf259c",
+    "company": "Reonic",
+    "role": "Growth Product Manager - UK (AI x Greentech) (m/f/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/reonic/growth-product-manager-uk-ai-x-greentech-berlin-12354",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-24",
+        "action": "Lead added for Growth Product Manager - UK (AI x Greentech) (m/f/d) at Reonic (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3126f80c",
+    "company": "Catonetworks",
+    "role": "Product Manager - Business Processes",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/product-manager-business-processes-london-191055",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-24",
+        "action": "Lead added for Product Manager - Business Processes at Catonetworks (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_52b7d1b1",
+    "company": "Bjak",
+    "role": "Technical Product Manager AI Stockbroking App",
+    "location": "Germany",
+    "contact_name": "Recruiting Team",
+    "contact_email": "",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-24",
+        "action": "Lead added for Technical Product Manager AI Stockbroking App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

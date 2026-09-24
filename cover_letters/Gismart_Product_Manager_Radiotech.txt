@@ -2,21 +2,6 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager (Radiotech) at Gismart
 Apply Link: https://www.arbeitnow.com/jobs/companies/gismart/remote-product-manager-radiotech-120708
-Date Generated: 2026-09-22
+Date Generated: 2026-09-24
 ============================================================
 
-Saurao Dalvi  
-Pune, Maharashtra | +91-XXXXXXXXXX | saurao.dalvi@email.com  
-Portfolio: https://sauraodalvi.netlify.app/ | LinkedIn: https://www.linkedin.com/in/saurao-dalvi/
-
-**Hiring Team, Gismart**
-
-As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am energized by Gismart’s mission to innovate at the intersection of radio technology and consumer applications. My background as a Forward Deployed Engineer at FlytBase—where I bridge deep technical architecture with commercial product strategy—aligns directly with the Radiotech mandate to ship complex, high-throughput systems that scale globally. I thrive in remote-first, high-autonomy environments where rapid iteration on AI-native workflows drives measurable user growth.
-
-At FlytBase, I owned the end-to-end roadmap and launch of **Prediq**, an AI drone SaaS product, scaling it to **~$6K MRR** from concept within 12 months. At CrelioHealth, I directed the **Product Manager** roadmap for Smart Reports, generating **~$2,000 MRR per lab** while engineering custom LLM prompt pipelines that **cut patient registration time by 58% and sample turnaround by 18%**. At Sprinto, I automated cross-functional compliance workflows using Python, Zapier, and Make, reducing manual audit prep by 40%. Beyond core roles, I have independently built and
-
-============================================================
-CANDIDATE CONTACT SUMMARY:
-Name: Saurao Dalvi
-Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

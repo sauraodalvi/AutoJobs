@@ -1,0 +1,33 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Group Product Manager at Engagedmd
+Apply Link: https://www.arbeitnow.fr/jobs/companies/engagedmd/remote-group-product-manager-182045
+Date Generated: 2026-09-24
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Role:** Group Product Manager (but the user says "Product Manager / Associate Product Manager (APM) / AI Product Manager" in the task, but specifically says "Role: Group Product Manager" at the end. I need to reconcile this. The task says "Role: Group Product Manager" but the keywords include "Product Manager". I'll treat it as a Product Manager role, possibly senior/lead, but keep it aligned with the "Product Manager" ATS keyword. The candidate has 3+ years experience, which could fit Group PM or senior PM.)
+   - **Target Location:** Remote
+   - **Company:** Engagedmd
+   - **Structure:** 3 paragraphs
+     - Paragraph 1: High-energy intro, AI Product Manager with 3+ years 0-to-1 experience, aligning with Engagedmd's product vision.
+     - Paragraph 2: Specific metrics & impact, ship 0-to-1 products, scaled MRR, built LLM workflows, cut turnaround by 18-50%+, weave in "Product Manager".
+     - Paragraph 3: Crisp CTA, enthusiasm to discuss driving product growth.
+   - **Keywords:** Must naturally incorporate "Product Manager" (ATS optimized). I should also consider other relevant keywords from the profile but the user specifically listed: "Product Manager". I'll make sure "Product Manager" appears naturally, maybe twice, but focus on the structure.
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff.
+
+2. **Deconstruct the Candidate's Profile:**
+   - Current: AI Product Manager & AI Engineer (Forward Deployed Engineer) at FlytBase
+   - 3+ years hands-on experience
+   - Shaped product roadmaps, led cross-functional teams, delivered AI/automation solutions
+   - Drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), enterprise security SaaS (Sprinto)
+   - 0-to-
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

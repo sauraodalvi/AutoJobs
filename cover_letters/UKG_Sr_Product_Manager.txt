@@ -2,18 +2,22 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-09-22
+Date Generated: 2026-09-24
 ============================================================
+
+**Saurao Dalvi**  
+Pune, India | +91 98765 43210 | saurao.dalvi@email.com  
+[Portfolio](https://sauraodalvi.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/saurao-dalvi/)  
 
 Dear Hiring Manager,
 
-I am writing to express my strong interest in the Senior Product Manager position at UKG. With over 3 years of hands-on experience as an AI Product Manager and AI Engineer at FlytBase, I have successfully owned 0-to-1 product roadmaps and launched AI-native solutions that deliver measurable business impact. My background spans building autonomous drone SaaS platforms, healthcare SaaS products, and enterprise security solutions, giving me a unique perspective on workforce technology that aligns perfectly with UKG's mission to create more meaningful work experiences. Throughout my career, I've consistently demonstrated the ability to bridge technical innovation with customer needs, a skill essential for driving product growth in the HR technology space.
+I’m an AI Product Manager with 3+ years of experience driving 0-to-1 product strategy and execution at the intersection of artificial intelligence and enterprise SaaS. As a Product Manager who has owned end-to-end roadmaps—from ideation to scalable launches—I bring a unique blend of technical depth and customer-centric vision that aligns closely with UKG’s mission to drive better outcomes for people and organizations.
 
-As a Product Manager, I have shipped multiple 0-to-1 products that generated significant revenue impact. At FlytBase, I owned the complete roadmap and launch of Prediq, an AI drone SaaS platform that achieved $6K MRR within its first year. Similarly, at CrelioHealth, I led the development of Smart Reports, increasing lab revenue by $2,000 MRR per lab while reducing patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. My experience extends to building internal developer CLIs, automating complex cross-app processes with Python and automation tools, and creating scalable LLM-powered workflows. I also co-founded Elite PM platform in partnership with a Microsoft Product Manager, further demonstrating my ability to identify market opportunities and execute product strategies. These accomplishments showcase my capability to drive product innovation while maintaining focus on business outcomes and customer satisfaction.
+At FlytBase, I led the 0-to-1 launch of Prediq, an AI-powered drone SaaS platform, scaling it to ~$6K MRR. At CrelioHealth, I shaped the roadmap for Smart Reports, boosting lab revenue by ~$2,000 MRR per lab while cutting patient registration time by ~58% through custom AI prompt pipelines. As a Forward Deployed Engineer at Sprinto, I built internal developer CLIs and automated cross-app workflows using Python, Zapier, and Make—improving operational efficiency by over 50%. As a Product Manager, I also co-founded Elite PM, a platform empowering product leaders globally, and launched AI products like Hidden Jobs, indexing 50K+ live ATS listings.
 
-I am excited about the opportunity to bring my proven track record as a Product Manager to UKG's Senior Product Manager role. I would welcome the chance to discuss how my experience in building AI-driven solutions and my passion for creating products that enhance workforce experiences can contribute to UKG's continued success. Thank you for your consideration, and I look forward to hearing from you soon.
+I’m excited about the opportunity to bring my experience as a Product Manager building intelligent, high-impact solutions to UKG’s Remote team. I’d welcome the chance to discuss how I can help drive product-led growth and innovation for your customers.
 
-Sincerely,
+Best regards,  
 Saurao Dalvi
 
 ============================================================

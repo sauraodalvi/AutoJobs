@@ -1,0 +1,18 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Cloud Product Manager (all genders) at Contabo
+Apply Link: https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-cloud-product-manager-all-genders-471060
+Date Generated: 2026-09-24
+============================================================
+
+I am Saurao Dalvi, an AI Product Manager with over three years of hands‑on experience delivering 0‑to‑1 cloud‑native AI solutions that directly support Contabo’s vision of scalable, autonomous services. As a forward‑deployed engineer turned Product Manager, I have built and launched AI‑driven products from concept through production, consistently aligning roadmap priorities with market‑driven growth and technical feasibility. My background in both AI engineering and product leadership equips me to accelerate Contabo’s cloud product strategy while operating effectively in a remote, cross‑functional environment.  
+
+In my most recent roles, I owned the end‑to‑end roadmap and launch of Prediq, an AI drone SaaS that grew to ≈ $6K MRR, and drove the Smart Reports roadmap at CrelioHealth, delivering an incremental ≈ $2,000 MRR per lab. By integrating large‑language‑model prompt pipelines, I cut patient registration time by 58 % and sample turnaround by 18 %, while developing internal developer CLIs and automating complex cross‑app workflows with Python, Zapier, and Make. At Sprinto, I shipped enterprise security SaaS features that increased annual recurring revenue, and I co‑founded the Elite PM platform with a Microsoft Product Manager, further demonstrating my ability to scale products and revenue as a Product Manager.  
+
+I am eager to discuss how my proven track record of shipping high‑impact AI and cloud products can drive Contabo’s next phase of growth. Let’s connect soon to explore how I can contribute as a Senior Cloud Product Manager in a remote capacity, leveraging my expertise to expand your product portfolio and accelerate revenue.
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

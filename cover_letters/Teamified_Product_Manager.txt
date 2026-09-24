@@ -1,0 +1,26 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager at Teamified
+Apply Link: https://www.linkedin.com/jobs/view/4467930233
+Date Generated: 2026-09-24
+============================================================
+
+**Saurao Dalvi**  
+Pune, Maharashtra | [sauraodalvi.netlify.app](https://sauraodalvi.netlify.app) | [LinkedIn](https://www.linkedin.com/in/saurao-dalvi) | saurao.dalvi@gmail.com  
+
+Dear Hiring Manager,
+
+As an AI Product Manager with over three years of experience building and scaling AI-native products from concept to market, I’m excited to apply for the Product Manager role at Teamified. My background spans drone autonomy SaaS, healthcare automation, and enterprise security—where I’ve consistently delivered customer-facing AI solutions that drive measurable business impact. I’m particularly drawn to Teamified’s mission of empowering remote teams through intelligent product experiences, which aligns closely with my passion for leveraging AI to solve real-world operational challenges.
+
+In my current role as AI Product Manager & Forward Deployed Engineer at FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI-powered drone SaaS platform that scaled to $6K MRR within its first year. At CrelioHealth, I led the roadmap for Smart Reports, increasing average lab revenue by $2,000 MRR per facility while cutting patient registration time by 58% and sample turnaround time by 18% through custom AI prompt pipelines. As a Product Manager at Sprinto, I streamlined cross-functional workflows using developer CLIs and automation tools (Zapier, Make, Python), reducing manual effort by over 50%. I’ve also co-founded Elite PM, a product management enablement platform, and shipped consumer AI products like Hidden Jobs, indexing over 50K live job listings—demonstrating my ability to lead end-to-end product strategy across diverse domains.
+
+I’m eager to bring my blend of technical depth, product intuition, and hands-on execution to Teamified as your next Product Manager. I’d welcome the opportunity to discuss how I can help shape and scale your product roadmap to drive growth and innovation. Thank you for your time—I look forward to connecting.
+
+Best regards,  
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

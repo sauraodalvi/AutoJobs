@@ -1,0 +1,24 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Staff Product Manager: Agentic Discovery at Constructor
+Apply Link: https://www.arbeitnow.com/jobs/companies/constructor/staff-product-manager-agentic-discovery-munich-360944
+Date Generated: 2026-09-24
+============================================================
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Staff Product Manager: Agentic Discovery role at Constructor. As an AI Product Manager with over 3 years of hands-on experience building and scaling AI-native products from the ground up—including drone autonomy platforms, healthcare SaaS, and enterprise security solutions—I have consistently demonstrated the ability to translate complex technical concepts into market-leading products. My background aligns perfectly with Constructor's mission to revolutionize intelligent discovery and commerce experiences through agentic systems.
+
+Throughout my career as a Product Manager, I have delivered measurable impact by owning full product lifecycles and driving cross-functional execution. At FlytBase, I led the 0-to-1 roadmap and launch of Prediq (AI drone SaaS), achieving $6K MRR within months, while at CrelioHealth I increased lab revenue by $2,000 MRR per location through Smart Reports—an AI-powered analytics suite. I also reduced patient registration time by 58% and improved sample turnaround by 18% using custom LLM prompt pipelines. Beyond customer-facing products, I built internal developer CLIs and automated cross-app workflows using Python, Zapier, and Make, scaling operational efficiency while shipping Hidden Jobs (50K+ live ATS jobs indexed) and co-founding Elite PM, a product management learning platform in partnership with Microsoft.
+
+I am excited about the opportunity to bring my proven track record as a Product Manager to Constructor and help shape the future of agentic discovery at scale. I would welcome the chance to discuss how my experience launching AI-driven products and optimizing end-to-end user journeys can contribute to Constructor’s continued growth and innovation. Thank you for considering my application—I look forward to speaking with you soon.
+
+Sincerely,  
+Saurao Dalvi  
+[Your Email Address] | [Your Phone Number]
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
