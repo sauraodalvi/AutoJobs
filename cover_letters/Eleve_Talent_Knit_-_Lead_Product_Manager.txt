@@ -2,17 +2,10 @@
 COVER LETTER & APPLICATION KIT
 Target: Knit - Lead Product Manager at Eleve Talent
 Apply Link: https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-lead-product-manager-115209
-Date Generated: 2026-09-24
+Date Generated: 2026-09-25
 ============================================================
 
-Saurao Dalvi  
-Pune, Maharashtra | +91-XXXXXXXXXX | saurao.dalvi@email.com | https://sauraodalvi.netlify.app/ | https://www.linkedin.com/in/saurao-dalvi/
-
-**Hiring Team, Eleve Talent**
-
-As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am applying for the Knit Lead **Product Manager** role to drive Eleve Talent’s product vision. My background as a Forward Deployed Engineer at FlytBase uniquely bridges deep technical architecture—building LLM-powered agentic systems, developer CLIs, and RAG pipelines—with commercial product ownership. I thrive in ambiguous, high-agency environments where I can define strategy, write specs, ship code, and own P&L outcomes for AI-native platforms.
-
-At FlytBase, I owned the full lifecycle of **Prediq**, an AI drone SaaS product, scaling it to ~$6K MRR by defining the roadmap, leading cross-functional engineering/design sprints, and closing enterprise pilots. At CrelioHealth, I launched **Smart Reports**, generating ~$2,000 MRR per lab while cutting patient registration time by 58% and sample turnaround by 18% via custom AI prompt pipelines and automated workflows (Zapier, Make, Python). At Sprinto, I drove compliance automation features for mid-market SaaS. Beyond core roles, I have independently shipped AI products—**Hidden Jobs** (50K+ live ATS jobs indexed) and **Stare V2**—and co-founded the Elite PM platform
+**
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

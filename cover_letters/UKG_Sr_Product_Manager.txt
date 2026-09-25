@@ -2,23 +2,10 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-09-24
+Date Generated: 2026-09-25
 ============================================================
 
-**Saurao Dalvi**  
-Pune, India | +91 98765 43210 | saurao.dalvi@email.com  
-[Portfolio](https://sauraodalvi.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/saurao-dalvi/)  
-
-Dear Hiring Manager,
-
-I’m an AI Product Manager with 3+ years of experience driving 0-to-1 product strategy and execution at the intersection of artificial intelligence and enterprise SaaS. As a Product Manager who has owned end-to-end roadmaps—from ideation to scalable launches—I bring a unique blend of technical depth and customer-centric vision that aligns closely with UKG’s mission to drive better outcomes for people and organizations.
-
-At FlytBase, I led the 0-to-1 launch of Prediq, an AI-powered drone SaaS platform, scaling it to ~$6K MRR. At CrelioHealth, I shaped the roadmap for Smart Reports, boosting lab revenue by ~$2,000 MRR per lab while cutting patient registration time by ~58% through custom AI prompt pipelines. As a Forward Deployed Engineer at Sprinto, I built internal developer CLIs and automated cross-app workflows using Python, Zapier, and Make—improving operational efficiency by over 50%. As a Product Manager, I also co-founded Elite PM, a platform empowering product leaders globally, and launched AI products like Hidden Jobs, indexing 50K+ live ATS listings.
-
-I’m excited about the opportunity to bring my experience as a Product Manager building intelligent, high-impact solutions to UKG’s Remote team. I’d welcome the chance to discuss how I can help drive product-led growth and innovation for your customers.
-
-Best regards,  
-Saurao Dalvi
+User Safety: safe
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

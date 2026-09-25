@@ -2,12 +2,14 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Owner at Objectway
 Apply Link: https://www.arbeitnow.co.uk/jobs/companies/objectway/product-owner-london-90614
-Date Generated: 2026-09-22
+Date Generated: 2026-09-25
 ============================================================
 
-**Subject: Application for Product Owner — London**
+Dear Hiring Manager,
 
-Dear Hiring Team at
+I am an AI Product Manager with 3+ years of proven 0‑To‑1 Product Management experience, having launched AI‑driven SaaS solutions from concept to revenue at FlytBase, CrelioHealth, and Sprinto. Objectway’s focus on innovative financial technology aligns perfectly with my track record of turning nascent ideas into market‑ready products, and I am eager to bring this expertise to your London‑based team.
+
+At FlytBase I owned the 0‑to‑1 roadmap and launch of Prediq, an AI drone SaaS that grew to ~$6 K MRR, demonstrating strong Saas Mrr Growth through iterative Ai Workflows that automated flight‑plan optimization. At CrelioHealth I spearheaded Smart Reports, boosting lab revenue by ~$2 K MRR per lab and cutting patient registration time by ~58% and sample turnaround by 18% via custom LLM‑powered pipelines. Across these roles I exercised
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

@@ -5734,14 +5734,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wave/technical-product-manager-devex-united-kingdom-131352",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-17",
-    "last_action_date": "2026-09-17",
+    "last_action_date": "2026-09-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-17",
         "action": "Lead added for Technical Product Manager - DevEx at Wave (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-25",
+        "action": "Generated tailored application kit & cover letter (Wave_Technical_Product_Manager_-_DevEx.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5791,14 +5795,18 @@
     "contact_name": "Recruiting Team",
     "contact_email": "",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-17",
-    "last_action_date": "2026-09-17",
+    "last_action_date": "2026-09-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-17",
         "action": "Lead added for Principal Product Manager at DomainTools (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-25",
+        "action": "Generated tailored application kit & cover letter (DomainTools_Principal_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5848,14 +5856,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/autoscout24/team-lead-product-manager-mobile-apps-138513",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-18",
-    "last_action_date": "2026-09-18",
+    "last_action_date": "2026-09-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-18",
         "action": "Lead added for Team Lead Product Manager, Mobile Apps (m/f/d) at autoscout24 (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-25",
+        "action": "Generated tailored application kit & cover letter (autoscout24_Team_Lead_Product_Manager_Mobile_Apps_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5886,14 +5898,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/decagon/senior-agent-product-manager-london-341822",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-18",
-    "last_action_date": "2026-09-18",
+    "last_action_date": "2026-09-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-18",
         "action": "Lead added for Senior Agent Product Manager at Decagon (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-25",
+        "action": "Generated tailored application kit & cover letter (Decagon_Senior_Agent_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5905,14 +5921,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/numan/lead-technical-product-manager-london-41709",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-18",
-    "last_action_date": "2026-09-18",
+    "last_action_date": "2026-09-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-18",
         "action": "Lead added for Lead Technical Product Manager at Numan (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-25",
+        "action": "Generated tailored application kit & cover letter (Numan_Lead_Technical_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6350,6 +6370,101 @@
       {
         "date": "2026-09-24",
         "action": "Lead added for Technical Product Manager AI Stockbroking App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_78dfba16",
+    "company": "Wolt - English",
+    "role": "Product Manager, Delivery Promise",
+    "location": "Berlin, Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/wolt-english/product-manager-delivery-promise-berlin-241244",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-25",
+    "last_action_date": "2026-09-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-25",
+        "action": "Lead added for Product Manager, Delivery Promise at Wolt - English (Berlin, Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_de0ee812",
+    "company": "Wpp",
+    "role": "Office Technology Product Owner",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/office-technology-product-owner-london-169252",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-25",
+    "last_action_date": "2026-09-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-25",
+        "action": "Lead added for Office Technology Product Owner at Wpp (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b74ab33d",
+    "company": "Wpp",
+    "role": "Desktop Product Owner",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/desktop-product-owner-london-486376",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-25",
+    "last_action_date": "2026-09-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-25",
+        "action": "Lead added for Desktop Product Owner at Wpp (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ce740b31",
+    "company": "capco",
+    "role": "Product Manager  H/F",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/capco/product-manager-h-f-240498",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-25",
+    "last_action_date": "2026-09-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-25",
+        "action": "Lead added for Product Manager  H/F at capco (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_797c70e5",
+    "company": "Ledger",
+    "role": "Senior Product Manager - Earn",
+    "location": "Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/ledger/senior-product-manager-earn-paris-321425",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-25",
+    "last_action_date": "2026-09-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-25",
+        "action": "Lead added for Senior Product Manager - Earn at Ledger (Paris, France). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

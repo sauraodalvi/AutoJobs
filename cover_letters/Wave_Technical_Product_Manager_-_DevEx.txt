@@ -1,0 +1,40 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Technical Product Manager - DevEx at Wave
+Apply Link: https://www.arbeitnow.co.uk/jobs/companies/wave/technical-product-manager-devex-united-kingdom-131352
+Date Generated: 2026-09-25
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Roles:** Product Manager / APM / AI Product Manager
+   - **Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote
+   - **Summary:** AI Product Manager & AI Engineer (Forward Deployed Engineer) at FlytBase, 3+ years, 0-to-1 builder, cross-functional leadership, AI/automation across drones, healthcare SaaS, enterprise security.
+   - **Portfolio/LinkedIn:** Provided
+   - **Key Highlights:** Listed bullet points
+   - **Task:** Write a 3-paragraph ATS-optimized cover letter for:
+     - Company: Wave
+     - Role: Technical Product Manager - DevEx
+     - Location: United Kingdom
+   - **Key ATS Keywords:** Product Manager (naturally incorporate)
+   - **Structure:**
+     - Paragraph 1: High-energy intro, Saurao as AI PM with 3+ years 0-to-1 exp aligning with Wave's product vision
+     - Paragraph 2: Specific metrics & impact, ship 0-to-1 products at FlytBase/CrelioHealth/Sprinto, scaled MRR, built LLM workflows, cut turnaround 18-50%+, weave in "Product Manager"
+     - Paragraph 3: Crisp CTA, enthusiasm to discuss driving product growth for Wave
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff
+
+2.  **Deconstruct the Requirements:**
+   - 3 paragraphs only
+   - Must include "Product Manager" as a keyword (ATS optimization)
+   - Must weave in specific metrics from the highlights
+   - Must align with Wave's role: Technical Product Manager - DevEx (Developer Experience)
+   - Must mention location preference/availability? Not explicitly required, but UK location is specified. I should either assume eligibility or keep it flexible.
+   - Must be ATS-optimized: keyword density, standard structure, no fancy
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

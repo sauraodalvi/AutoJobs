@@ -2,28 +2,14 @@
 COVER LETTER & APPLICATION KIT
 Target: Principal Product Manager (Strategic Account Interactions) - Security Solutions at Elastic
 Apply Link: https://www.arbeitnow.co.uk/jobs/companies/elastic/principal-product-manager-strategic-account-interactions-security-solutions-91900
-Date Generated: 2026-09-22
+Date Generated: 2026-09-25
 ============================================================
 
+**Saurao Dalvi**
 
+Elastic,
 
-Saurao Dalvi
-[Your Address] | [Your Phone Number] | [Your Email Address]
-[Your LinkedIn URL] | [Your Portfolio URL]
-
-[Date]
-
-Hiring Team
-Elastic
-[Company Address]
-
-Subject: Application for Principal Product Manager (Strategic Account Interactions) - Security Solutions
-
-Dear Hiring Team,
-
-As an AI Product Manager with over 3 years of experience spearheading 0-to-1 product strategies and launches, I am excited to apply for the Principal Product Manager role at Elastic. My career has been defined by building and scaling AI-native solutions in high-stakes environments, from drone autonomy to enterprise security, which aligns perfectly with Elastic's mission to empower organizations with transformative data solutions. I have a proven track record of owning product roadmaps, leading cross-functional teams, and delivering customer-centric features that drive significant business impact, and I am confident that my unique blend of technical depth and strategic product leadership is an exact match for driving Elastic's security solutions forward.
-
-My impact as a Product Manager is measured in tangible, quantifiable results. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS product that grew to ~$6
+As an AI Product Manager who has built two 0-to-1 platforms—Prediq ($6K+ MRR) and Hidden Jobs (50K+ live jobs)—I am excited to apply my strategic product leadership to your Security Solutions portfolio. My track record spans Drone.ai (FlytBase), CrelioHealth, and Sprinto, where I translated complex AI requirements into shipping products that directly improved customer revenue and operational efficiency. This experience aligns precisely with Elastic’s commitment to empowering security and data teams through
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
