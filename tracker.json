@@ -5715,14 +5715,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-product-manager-isr-defence-intelligence-liveeo-gmbh-berlin-office-hybrid-272327",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-17",
-    "last_action_date": "2026-09-17",
+    "last_action_date": "2026-09-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-17",
         "action": "Lead added for Senior Product Manager (ISR) Defence & Intelligence (f/m/x) at LiveEO GmbH (LiveEO GmbH Berlin Office (Hybrid)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-26",
+        "action": "Generated tailored application kit & cover letter (LiveEO_GmbH_Senior_Product_Manager_ISR_Defence_Intelligence_f_m_x.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5757,14 +5761,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/senior-product-manager-it-cyber-risk-london-44130",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-17",
-    "last_action_date": "2026-09-17",
+    "last_action_date": "2026-09-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-17",
         "action": "Lead added for Senior Product Manager (IT/Cyber Risk) at diligentcorporation (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-26",
+        "action": "Generated tailored application kit & cover letter (diligentcorporation_Senior_Product_Manager_IT_Cyber_Risk.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5776,14 +5784,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/senior-product-manager-london-321605",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-17",
-    "last_action_date": "2026-09-17",
+    "last_action_date": "2026-09-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-17",
         "action": "Lead added for Senior Product Manager at diligentcorporation (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-26",
+        "action": "Generated tailored application kit & cover letter (diligentcorporation_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5818,14 +5830,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-18",
-    "last_action_date": "2026-09-18",
+    "last_action_date": "2026-09-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-18",
         "action": "Lead added for Senior Technical Product Manager, Token Factory at Nebius (Europe,  Netherlands,  UK (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-26",
+        "action": "Generated tailored application kit & cover letter (Nebius_Senior_Technical_Product_Manager_Token_Factory.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5837,14 +5853,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/151041-product-manager-marketplace",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-18",
-    "last_action_date": "2026-09-18",
+    "last_action_date": "2026-09-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-18",
         "action": "Lead added for Product Manager - Marketplace at Supabase (Anywhere (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-26",
+        "action": "Generated tailored application kit & cover letter (Supabase_Product_Manager_-_Marketplace.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6465,6 +6485,158 @@
       {
         "date": "2026-09-25",
         "action": "Lead added for Senior Product Manager - Earn at Ledger (Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_cbf6fdd9",
+    "company": "1Global",
+    "role": "Senior AI Product Manager",
+    "location": "Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/1global/senior-ai-product-manager-berlin-189704",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-26",
+    "last_action_date": "2026-09-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-26",
+        "action": "Lead added for Senior AI Product Manager at 1Global (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4eb54862",
+    "company": "1Global",
+    "role": "Lead Product Manager",
+    "location": "Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/1global/lead-product-manager-berlin-467186",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-26",
+    "last_action_date": "2026-09-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-26",
+        "action": "Lead added for Lead Product Manager at 1Global (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4e60aff8",
+    "company": "iwoca",
+    "role": "Growth Product Manager - Customer Acquisition (German Speaking)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/growth-product-manager-customer-acquisition-german-speaking-london-28500",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-26",
+    "last_action_date": "2026-09-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-26",
+        "action": "Lead added for Growth Product Manager - Customer Acquisition (German Speaking) at iwoca (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_da67e299",
+    "company": "Checkout.com",
+    "role": "Group Product Manager, Acceptance Rates",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/group-product-manager-acceptance-rates-london-189669",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-26",
+    "last_action_date": "2026-09-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-26",
+        "action": "Lead added for Group Product Manager, Acceptance Rates at Checkout.com (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_bce21636",
+    "company": "Checkout.com",
+    "role": "Product Manager, Agentic Commerce",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/product-manager-agentic-commerce-london-217042",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-26",
+    "last_action_date": "2026-09-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-26",
+        "action": "Lead added for Product Manager, Agentic Commerce at Checkout.com (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_cea14917",
+    "company": "Kraken",
+    "role": "Senior Product Manager - Pro Onboarding",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-product-manager-pro-onboarding-london-348312",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-26",
+    "last_action_date": "2026-09-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-26",
+        "action": "Lead added for Senior Product Manager - Pro Onboarding at Kraken (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3a6b0d87",
+    "company": "Voodoo",
+    "role": "Senior Technical Product Manager - Advertising solutions",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/voodoo/senior-technical-product-manager-advertising-solutions-paris-420332",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-26",
+    "last_action_date": "2026-09-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-26",
+        "action": "Lead added for Senior Technical Product Manager - Advertising solutions at Voodoo (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_92ef33bd",
+    "company": "Decathlontechnology",
+    "role": "Product Manager (f/m/d) - Internship - Digital Supply Chain",
+    "location": "Paris, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/product-manager-internship-digital-supply-chain-paris-paris-445228",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-26",
+    "last_action_date": "2026-09-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-26",
+        "action": "Lead added for Product Manager (f/m/d) - Internship - Digital Supply Chain at Decathlontechnology (Paris, Paris). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
