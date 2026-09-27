@@ -1,0 +1,23 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager - Platform Management at mirakllabs
+Apply Link: https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-platform-management-paris-176979
+Date Generated: 2026-09-27
+============================================================
+
+Dear Hiring Manager,
+
+As an AI Product Manager with over 3 years of proven 0-to-1 experience building and scaling AI-native products, I am excited to apply for the Product Manager - Platform Management role at mirakllabs in Paris. My track record of owning end-to-end product roadmaps, leading cross-functional teams, and delivering customer-facing AI/automation solutions aligns perfectly with mirakllabs's vision of creating innovative platform experiences. With hands-on expertise in shaping product strategy from inception to launch, I am uniquely positioned to drive platform growth and enhance user engagement at mirakllabs.
+
+Throughout my career as a Product Manager, I have consistently delivered measurable impact across diverse domains. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq (AI drone SaaS), growing it to ~$6K MRR while developing LLM-powered workflows and agentic systems. At CrelioHealth, I increased lab revenue by ~$2,000 MRR per lab through Smart Reports, while cutting patient registration time by 58% and sample turnaround by 18% using custom AI prompt pipelines. My work extends to building internal developer CLIs and automating complex processes with Python, Zapier, and Make, demonstrating my ability to create scalable product solutions. Additionally, my co-founding of Elite PM platform and launches of Hidden Jobs (50K+ live ATS jobs) and Stare V2 showcase my entrepreneurial approach to product management.
+
+I am eager to bring my product leadership skills and AI expertise to mirakllabs and would welcome the opportunity to discuss how I can contribute to driving platform growth and innovation. I look forward to exploring how my experience aligns with mirakllabs's product vision and how I can make an immediate impact as a Product Manager on your team.
+
+Sincerely,
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

@@ -5899,14 +5899,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/userlane/senior-product-manager-london-175588",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-18",
-    "last_action_date": "2026-09-18",
+    "last_action_date": "2026-09-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-18",
         "action": "Lead added for Senior Product Manager at Userlane (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-27",
+        "action": "Generated tailored application kit & cover letter (Userlane_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5964,14 +5968,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/backmarket/product-manager-apprentice-checkout-paris-84960",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-18",
-    "last_action_date": "2026-09-18",
+    "last_action_date": "2026-09-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-18",
         "action": "Lead added for Product Manager Apprentice, Checkout at Backmarket (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-27",
+        "action": "Generated tailored application kit & cover letter (Backmarket_Product_Manager_Apprentice_Checkout.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -5983,14 +5991,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/senior-product-manager-vcs-ecosystem-london-344677",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-19",
-    "last_action_date": "2026-09-19",
+    "last_action_date": "2026-09-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-19",
         "action": "Lead added for Senior Product Manager (VCS Ecosystem) at jetbrains (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-27",
+        "action": "Generated tailored application kit & cover letter (jetbrains_Senior_Product_Manager_VCS_Ecosystem.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6021,14 +6033,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-platform-management-paris-176979",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-20",
-    "last_action_date": "2026-09-20",
+    "last_action_date": "2026-09-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-20",
         "action": "Lead added for Product Manager - Platform Management at mirakllabs (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-27",
+        "action": "Generated tailored application kit & cover letter (mirakllabs_Product_Manager_-_Platform_Management.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6059,14 +6075,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-staff-product-manager-growth-berlin-330512",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-21",
-    "last_action_date": "2026-09-21",
+    "last_action_date": "2026-09-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-21",
         "action": "Lead added for (Senior / Staff) Product Manager - Growth (f/m/d) at bunch (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-27",
+        "action": "Generated tailored application kit & cover letter (bunch_Senior_Staff_Product_Manager_-_Growth_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6637,6 +6657,272 @@
       {
         "date": "2026-09-26",
         "action": "Lead added for Product Manager (f/m/d) - Internship - Digital Supply Chain at Decathlontechnology (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7791422d",
+    "company": "Imfusion",
+    "role": "Technical Product Owner - C++ SDK & ImFusion Suite",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/imfusion/technical-product-owner-c-sdk-imfusion-suite-munich-32634",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Technical Product Owner - C++ SDK & ImFusion Suite at Imfusion (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_20a9d4e5",
+    "company": "Wolt - English",
+    "role": "Product Manager, Courier Delivery Experience",
+    "location": "Berlin, Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/wolt-english/product-manager-courier-delivery-experience-berlin-78346",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Product Manager, Courier Delivery Experience at Wolt - English (Berlin, Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4c9ea6c0",
+    "company": "idealo internet GmbH",
+    "role": "Senior Product Manager (m|w|d) Catalog Content",
+    "location": "Berlin, Berlin, Deutschland",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-product-manager-mwd-catalog-content-berlin-412032",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Senior Product Manager (m|w|d) Catalog Content at idealo internet GmbH (Berlin, Berlin, Deutschland). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_bd16ae77",
+    "company": "Xometryeurope",
+    "role": "Staff Product Manager, Pricing and Manufacturability",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/xometryeurope/staff-product-manager-pricing-and-manufacturability-munich-321085",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Staff Product Manager, Pricing and Manufacturability at Xometryeurope (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4852ca5b",
+    "company": "Distrokid",
+    "role": "Growth Product Manager",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/distrokid/growth-product-manager-96496",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Growth Product Manager at Distrokid (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_63e99231",
+    "company": "Wpp",
+    "role": "Product Manager, Performance AI",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/product-manager-performance-ai-496159",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Product Manager, Performance AI at Wpp (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_08f5ba26",
+    "company": "Scopely",
+    "role": "Senior Product Manager (Roadmap) - Star Trek Fleet Command",
+    "location": "GB - London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-product-manager-roadmap-star-trek-fleet-command-gb-london-169456",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Senior Product Manager (Roadmap) - Star Trek Fleet Command at Scopely (GB - London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7dcc01ea",
+    "company": "Scopely",
+    "role": "Senior Product Manager(Features) - Star Trek Fleet Command",
+    "location": "GB - London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-product-managerfeatures-star-trek-fleet-command-gb-london-408606",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Senior Product Manager(Features) - Star Trek Fleet Command at Scopely (GB - London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f19f891b",
+    "company": "Starrez",
+    "role": "Product Owner, College Pads",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/starrez/product-owner-college-pads-165041",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Product Owner, College Pads at Starrez (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_99b7bee7",
+    "company": "Verifone",
+    "role": "Senior Product Manager - Hardware",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/verifone/senior-product-manager-hardware-london-368409",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Senior Product Manager - Hardware at Verifone (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c1822744",
+    "company": "Legal 500",
+    "role": "AI Product Owner",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/ai-product-owner-london-463174",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for AI Product Owner at Legal 500 (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_cfff8921",
+    "company": "Genesis",
+    "role": "Technical Product Manager (FR)",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/genesis/technical-product-manager-fr-paris-480507",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Technical Product Manager (FR) at Genesis (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_95496219",
+    "company": "Homa Games",
+    "role": "Lead Product Manager - RPG",
+    "location": "Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/homa-games/remote-lead-product-manager-rpg-paris-453503",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Lead Product Manager - RPG at Homa Games (Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8d55fd56",
+    "company": "Productive Playhouse",
+    "role": "Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-27",
+    "last_action_date": "2026-09-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-27",
+        "action": "Lead added for Product Manager at Productive Playhouse (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
