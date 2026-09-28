@@ -1,0 +1,35 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager (m/f/d) at Moss
+Apply Link: https://www.arbeitnow.com/jobs/companies/moss/senior-product-manager-munich-185472
+Date Generated: 2026-09-28
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Roles:** Product Manager / APM / AI Product Manager
+   - **Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote
+   - **Summary:** AI Product Manager & AI Engineer (Forward Deployed Engineer) at FlytBase, 3+ years, 0-to-1 builder, AI/automation, drone autonomy, healthcare SaaS, enterprise security SaaS.
+   - **Portfolio/LinkedIn:** Provided
+   - **Key Highlights:** Listed bullet points
+   - **Task:** Write a 3-paragraph cover letter for Company: Moss, Role: Senior Product Manager (m/f/d), Location: Munich
+   - **ATS Keywords:** Must naturally incorporate "Product Manager" (and likely variations, but the prompt specifically says "Product Manager")
+   - **Structure:**
+     - Paragraph 1: High-energy intro, AI PM with 3+ years 0-to-1 experience aligning with Moss's product vision.
+     - Paragraph 2: Specific metrics & impact, ship 0-to-1 products, scaled MRR, built LLM workflows, cut turnaround by 18-50%+, weave in "Product Manager".
+     - Paragraph 3: Crisp CTA, enthusiasm to discuss driving product growth for Moss.
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff.
+
+2.  **Deconstruct the Target Company/Role:**
+   - Company: Moss
+   - Role: Senior Product Manager (m/f/d)
+   - Location: Munich
+   - I need to research/generalize about Moss. Moss is a fintech company (digital banking). They likely focus on payment solutions, business accounts, expense management, etc. A Senior Product Manager role would value experience in 0-to-1 product building, scaling, cross-functional leadership, and possibly AI/automation integration. I'll align Saurao's experience with Moss's likely needs: building AI-native products, scaling
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

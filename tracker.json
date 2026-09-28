@@ -6014,14 +6014,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/entrepreneur-in-residence-product-lead-project-thinkrail-london-263241",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-19",
-    "last_action_date": "2026-09-19",
+    "last_action_date": "2026-09-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-19",
         "action": "Lead added for Entrepreneur in Residence/Product Lead (Project Thinkrail) at jetbrains (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-28",
+        "action": "Generated tailored application kit & cover letter (jetbrains_Entrepreneur_in_Residence_Product_Lead_Project_Thinkrail.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6056,14 +6060,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/taxfix/technical-product-manager-people-intelligence-apps-berlin-313385",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-21",
-    "last_action_date": "2026-09-21",
+    "last_action_date": "2026-09-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-21",
         "action": "Lead added for Technical Product Manager (d/f/m) - People Intelligence Apps at Taxfix (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-28",
+        "action": "Generated tailored application kit & cover letter (Taxfix_Technical_Product_Manager_d_f_m_-_People_Intelligence_Apps.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6098,14 +6106,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/hawk/product-owner-agentic-munich-349369",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-21",
-    "last_action_date": "2026-09-21",
+    "last_action_date": "2026-09-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-21",
         "action": "Lead added for Product Owner - Agentic at Hawk (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-28",
+        "action": "Generated tailored application kit & cover letter (Hawk_Product_Owner_-_Agentic.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6117,14 +6129,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/moss/senior-product-manager-munich-185472",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-21",
-    "last_action_date": "2026-09-21",
+    "last_action_date": "2026-09-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-21",
         "action": "Lead added for Senior Product Manager (m/f/d) at Moss (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-28",
+        "action": "Generated tailored application kit & cover letter (Moss_Senior_Product_Manager_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6136,14 +6152,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-manager-people-product-london-73958",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-21",
-    "last_action_date": "2026-09-21",
+    "last_action_date": "2026-09-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-21",
         "action": "Lead added for Staff Product Manager, People Product at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-28",
+        "action": "Generated tailored application kit & cover letter (Deliveroo_Staff_Product_Manager_People_Product.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6923,6 +6943,158 @@
       {
         "date": "2026-09-27",
         "action": "Lead added for Product Manager at Productive Playhouse (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3f6b767e",
+    "company": "Wrike",
+    "role": "Group Product Manager [Klaxoon]",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/wrike/group-product-manager-klaxoon-418195",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-28",
+    "last_action_date": "2026-09-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-28",
+        "action": "Lead added for Group Product Manager [Klaxoon] at Wrike (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_49ed3b67",
+    "company": "Awin",
+    "role": "Head of Product, AI Enablement (f/m/d)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/awin/head-of-product-ai-enablement-london-229300",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-28",
+    "last_action_date": "2026-09-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-28",
+        "action": "Lead added for Head of Product, AI Enablement (f/m/d) at Awin (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2af01799",
+    "company": "hellofresh",
+    "role": "Product Manager (12 month FTC)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/product-manager-12-month-ftc-london-369950",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-28",
+    "last_action_date": "2026-09-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-28",
+        "action": "Lead added for Product Manager (12 month FTC) at hellofresh (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3de4cfa9",
+    "company": "SumUp",
+    "role": "Senior Product Manager - Consumer Lifecycle",
+    "location": "London, England, United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-manager-consumer-lifecycle-london-77219",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-28",
+    "last_action_date": "2026-09-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-28",
+        "action": "Lead added for Senior Product Manager - Consumer Lifecycle at SumUp (London, England, United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_73359b20",
+    "company": "Super",
+    "role": "Senior Product Manager - Sports Trading",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/super/senior-product-manager-sports-trading-435499",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-28",
+    "last_action_date": "2026-09-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-28",
+        "action": "Lead added for Senior Product Manager - Sports Trading at Super (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8fc3ad99",
+    "company": "Super",
+    "role": "Head of Product Design - Manager role",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/super/head-of-product-design-manager-role-407146",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-28",
+    "last_action_date": "2026-09-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-28",
+        "action": "Lead added for Head of Product Design - Manager role at Super (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_82002b6f",
+    "company": "Ddome",
+    "role": "Senior Product Manager",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/ddome/senior-product-manager-479191",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-28",
+    "last_action_date": "2026-09-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-28",
+        "action": "Lead added for Senior Product Manager at Ddome (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_27fd052b",
+    "company": "ionq",
+    "role": "Product Manager",
+    "location": "Geneva",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/ionq/product-manager-geneva-372402",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-28",
+    "last_action_date": "2026-09-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-28",
+        "action": "Lead added for Product Manager at ionq (Geneva). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
