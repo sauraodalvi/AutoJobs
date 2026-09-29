@@ -6175,14 +6175,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-retail-london-55612",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-21",
-    "last_action_date": "2026-09-21",
+    "last_action_date": "2026-09-29",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-21",
         "action": "Lead added for Senior Product Manager, Retail at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-29",
+        "action": "Generated tailored application kit & cover letter (Deliveroo_Senior_Product_Manager_Retail.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6194,14 +6198,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-new-verticals-london-350727",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-21",
-    "last_action_date": "2026-09-21",
+    "last_action_date": "2026-09-29",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-21",
         "action": "Lead added for Senior Product Manager, New Verticals at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-29",
+        "action": "Generated tailored application kit & cover letter (Deliveroo_Senior_Product_Manager_New_Verticals.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6232,14 +6240,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/sr-product-manager-ma-transactions-and-valuations-london-greater-london-465337",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-22",
-    "last_action_date": "2026-09-22",
+    "last_action_date": "2026-09-29",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-22",
         "action": "Lead added for Sr. Product Manager, M&A Transactions and Valuations at Alphasense (London, Greater London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-29",
+        "action": "Generated tailored application kit & cover letter (Alphasense_Sr_Product_Manager_M_A_Transactions_and_Valuations.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6270,14 +6282,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4469878915",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-22",
-    "last_action_date": "2026-09-22",
+    "last_action_date": "2026-09-29",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-22",
         "action": "Lead added for Product Manager (Digital Products, Payments) - Pune - 7+ years Exp at Global Payments Inc. (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-29",
+        "action": "Generated tailored application kit & cover letter (Global_Payments_Inc_Product_Manager_Digital_Products_Payments_-_Pune_-_7_years_Exp.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6289,14 +6305,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/robco/staff-product-manager-robotics-safety-munich-222867",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-23",
-    "last_action_date": "2026-09-23",
+    "last_action_date": "2026-09-29",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-23",
         "action": "Lead added for Staff Product Manager - Robotics & Safety at RobCo (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-29",
+        "action": "Generated tailored application kit & cover letter (RobCo_Staff_Product_Manager_-_Robotics_Safety.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7095,6 +7115,196 @@
       {
         "date": "2026-09-28",
         "action": "Lead added for Product Manager at ionq (Geneva). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0ef282be",
+    "company": "Maze",
+    "role": "Product Lead, Panel & Recruitment (Remote, EU/UK)",
+    "location": "Europe,  UK (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/154154-product-lead-panel-recruitment-remote-eu-uk",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-29",
+    "last_action_date": "2026-09-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-29",
+        "action": "Lead added for Product Lead, Panel & Recruitment (Remote, EU/UK) at Maze (Europe,  UK (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d7110904",
+    "company": "Exclaimer",
+    "role": "Senior Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/exclaimer/senior-product-manager-london-40046",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-29",
+    "last_action_date": "2026-09-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-29",
+        "action": "Lead added for Senior Product Manager at Exclaimer (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_96ac54b1",
+    "company": "Thiga",
+    "role": "Head of Product (H/F)",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/head-of-product-h-f-paris-221874",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-29",
+    "last_action_date": "2026-09-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-29",
+        "action": "Lead added for Head of Product (H/F) at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_977bea04",
+    "company": "Photoroom",
+    "role": "Senior Product Manager, Core Product",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-product-manager-core-product-paris-392131",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-29",
+    "last_action_date": "2026-09-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-29",
+        "action": "Lead added for Senior Product Manager, Core Product at Photoroom (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_dd1a3f9d",
+    "company": "Photoroom",
+    "role": "Staff Product Manager, Agentic & AI Platform",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/photoroom/staff-product-manager-agentic-ai-platform-paris-266066",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-29",
+    "last_action_date": "2026-09-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-29",
+        "action": "Lead added for Staff Product Manager, Agentic & AI Platform at Photoroom (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d50ec068",
+    "company": "Photoroom",
+    "role": "Senior Product Manager, SMB e-commerce Growth",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-product-manager-smb-e-commerce-growth-paris-116123",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-29",
+    "last_action_date": "2026-09-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-29",
+        "action": "Lead added for Senior Product Manager, SMB e-commerce Growth at Photoroom (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_183a3f45",
+    "company": "Decathlontechnology",
+    "role": "Data Product Manager - Finance FP&A (f/m/d)",
+    "location": "Lille - Jardin des Plantes, Nord; Paris, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-product-manager-finance-fpa-lille-jardin-des-plantes-nord-paris-paris-188997",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-29",
+    "last_action_date": "2026-09-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-29",
+        "action": "Lead added for Data Product Manager - Finance FP&A (f/m/d) at Decathlontechnology (Lille - Jardin des Plantes, Nord; Paris, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_12684d4e",
+    "company": "Sprinto",
+    "role": "Product Manager - Remote",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4471094313",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-29",
+    "last_action_date": "2026-09-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-29",
+        "action": "Lead added for Product Manager - Remote at Sprinto (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_831a14c9",
+    "company": "BoltPe",
+    "role": "Product Manager",
+    "location": "Pune Division, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4471296813",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-29",
+    "last_action_date": "2026-09-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-29",
+        "action": "Lead added for Product Manager at BoltPe (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5138350e",
+    "company": "Sibros",
+    "role": "Product Manager (Core Platform and Infrastructure)",
+    "location": "Pune Division, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4429967609",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-29",
+    "last_action_date": "2026-09-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-29",
+        "action": "Lead added for Product Manager (Core Platform and Infrastructure) at Sibros (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
