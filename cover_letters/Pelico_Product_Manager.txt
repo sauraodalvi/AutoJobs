@@ -1,0 +1,34 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager at Pelico
+Apply Link: https://www.arbeitnow.fr/jobs/companies/pelico/product-manager-paris-103041
+Date Generated: 2026-09-30
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Roles:** Product Manager / APM / AI Product Manager
+   - **Target Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote (but role is Paris-based)
+   - **Company:** Pelico
+   - **Role:** Product Manager
+   - **Structure:** 3 paragraphs
+     - Paragraph 1: High-energy intro, AI PM with 3+ years 0-to-1 experience, align with Pelico's vision
+     - Paragraph 2: Specific metrics & impact, ship 0-to-1 products, scaled MRR, LLM workflows, cut turnaround 18-50%+, weave in "Product Manager"
+     - Paragraph 3: Crisp CTA, enthusiasm to discuss driving product growth for Pelico
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff
+   - **Key ATS Keywords:** Product Manager (must naturally incorporate)
+
+2.  **Research/Understand Pelico:**
+   - I need to know what Pelico does. I'll quickly recall or infer: Pelico is a scale-up in operations/AI for industrial/asset management, likely supply chain, maintenance, or operational efficiency. They use AI to predict failures, optimize maintenance, etc. Actually, Pelico is known for "AI-powered operations platform for maintenance and asset management" or similar. Let me verify mentally: Pelico builds AI solutions for predictive maintenance, operational efficiency, often in industrial contexts. Their website/brand: Pelico.com - they focus on "operational resilience" or "AI for maintenance". I'll craft the letter to align with general PM vision + AI/operational efficiency, which fits Pelico's space.
+
+   - Key Pelico angles: AI for operations, predictive maintenance, optimizing workflows, reducing downtime, SaaS, scale-up phase. I'll tie Saurao's experience in AI products, LLM workflows, 0-to-1 roadmaps to Pelico's mission.
+
+
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

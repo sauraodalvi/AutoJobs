@@ -2,19 +2,19 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager - Technical at Rithum
 Apply Link: https://jobicy.com/jobs/152306-product-manager-technical
-Date Generated: 2026-09-02
+Date Generated: 2026-09-30
 ============================================================
 
 **Saurao Dalvi**  
-sauraodalvi@gmail.com | https://www.linkedin.com/in/saurao-dalvi/ | https://sauraodalvi.netlify.app/  
+sauraodalvi@gmail.com | +44 7435 882109 | London, UK (Remote) | [Portfolio](https://sauraodalvi.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/saurao-dalvi/)  
 
-Dear Hiring Manager,
+Dear Hiring Manager,  
 
-As an AI Product Manager with 3+ years of experience building and scaling AI-native products from 0-to-1, I’m excited to apply for the Product Manager – Technical role at Rithum. My background in shaping product roadmaps, leading cross-functional teams, and delivering customer-facing AI solutions across drone autonomy, healthcare SaaS, and enterprise security aligns closely with Rithum’s mission to power smarter commerce. As a Forward Deployed Engineer and Product Manager at FlytBase, I’ve consistently translated complex technical capabilities into impactful, market-ready products.
+I’m an AI Product Manager with 3+ years of hands-on experience building and scaling AI-native products from concept to revenue. With a background as both a Product Manager and Forward Deployed Engineer, I’ve led end-to-end product development across drone autonomy, healthcare SaaS, and enterprise security—aligning technical innovation with clear business outcomes. My track record of owning 0-to-1 roadmaps and launching customer-facing AI solutions positions me to contribute immediately to Rithum’s mission of empowering smarter commerce.  
 
-Throughout my career, I’ve owned end-to-end product lifecycles that drive measurable business impact. At FlytBase, I led the 0-to-1 roadmap and launch of Prediq (AI drone SaaS), growing it to ~$6K MRR. At CrelioHealth, I managed the Smart Reports product line, increasing lab revenue by ~$2,000 MRR per lab while reducing patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. I’ve also built internal developer CLIs and automated cross-app workflows using Python, Zapier, and Make—skills I honed while launching AI products like Hidden Jobs (50K+ indexed ATS jobs) and Stare V2. As a Product Manager, I thrive at the intersection of technical execution and strategic vision.
+As a Product Manager at FlytBase, I owned the full lifecycle of *Prediq*—an AI drone SaaS platform—growing it to ~$6K MRR while managing cross-functional engineering and design teams. At CrelioHealth, I drove the roadmap for *Smart Reports*, increasing lab revenue by ~$2K MRR per facility and cutting patient registration time by 58% through custom LLM-powered workflows. Across Sprinto and side ventures like *Hidden Jobs* (indexing 50K+ ATS listings), I’ve consistently delivered measurable impact—reducing sample turnaround times by 18%, automating internal processes via developer CLIs and Python integrations, and shipping reliable AI features under tight timelines.  
 
-I’m eager to bring my experience in AI-driven product innovation and technical leadership to Rithum as your next Product Manager. I’d welcome the opportunity to discuss how I can help drive product growth and deliver exceptional value to your customers.
+I’m excited about the opportunity to bring this blend of technical depth and product leadership to Rithum as your next Product Manager. I’d welcome the chance to discuss how I can help drive product growth, enhance platform capabilities, and deliver value to your merchants. Let’s connect.  
 
 Best regards,  
 Saurao Dalvi

@@ -2,14 +2,19 @@
 COVER LETTER & APPLICATION KIT
 Target: Staff AI Product Manager at intercom
 Apply Link: https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-ai-product-manager-london-329323
-Date Generated: 2026-09-06
+Date Generated: 2026-09-30
 ============================================================
 
-I am a Product Manager and Ai Product Manager with over three years of end‑to‑end experience delivering 0‑to‑1 AI‑driven solutions that accelerate product vision and market adoption. At FlytBase, I defined and launched the Prediq roadmap, taking a nascent drone‑autonomy SaaS from concept to $6K MRR within months, while simultaneously leading cross‑functional teams to ship LLM‑powered workflows and agentic systems that unlocked new customer value. My blend of deep technical insight and product strategy directly mirrors Intercom’s mission to build intuitive, AI‑enhanced communication tools for a global user base.  
+Dear Hiring Manager,
 
-In my recent roles, I have consistently translated AI research into revenue‑generating products: I owned the Smart Reports roadmap at CrelioHealth, driving a $2K MRR uplift per laboratory and cutting patient registration time by 58% through custom AI prompt pipelines; at Sprinto, I engineered internal CLIs and Zapier/Make automations that reduced sample turnaround by 18% and streamlined complex cross‑app processes. I also built and launched Hidden Jobs, indexing 50K+ live ATS listings, and co‑founded the Elite PM platform with a Microsoft Product Manager, demonstrating my ability to scale AI products from prototype to high‑growth. These results showcase my proven track record as a Product Manager who delivers measurable impact through AI innovation.  
+I am writing to express my strong interest in the Staff AI Product Manager position at Intercom in London. With over 3 years of hands-on experience as an AI Product Manager and AI Engineer, I have successfully launched multiple AI-native products from concept to market, achieving significant traction and revenue growth. My background aligns closely with Intercom's vision of transforming customer communication through intelligent automation, having previously owned the 0-to-1 roadmap for Prediq (AI drone SaaS) at FlytBase where I grew the product to $6K MRR, and led the development of Smart Reports at CrelioHealth which increased lab revenue by $2,000 MRR per lab.
 
-I am eager to bring this high‑energy, metric‑focused mindset to Intercom’s London team and discuss how I can drive product growth and AI excellence for your customers. Let’s connect soon to explore how my experience as an Ai Product Manager can accelerate Intercom’s vision and expand its market footprint.
+Throughout my career, I have demonstrated exceptional ability to drive product outcomes as a Product Manager, consistently delivering measurable impact through AI innovation. At FlytBase, I built and launched Hidden Jobs (indexing 50K+ live ATS jobs) and Stare V2, while at CrelioHealth I reduced patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. My experience spans across healthcare SaaS, enterprise security, and drone autonomy, where I developed LLM-powered workflows, agentic systems, and internal developer CLIs that automated complex cross-app processes. As an Ai Product Manager, I have collaborated with cross-functional teams to ship customer-facing AI/automation solutions that generate real business value.
+
+I am excited about the opportunity to bring my proven track record of scaling AI products to Intercom and contribute to advancing your customer communication platform. I would welcome the chance to discuss how my experience launching AI products that drive measurable growth can support Intercom's strategic objectives. Thank you for your consideration, and I look forward to hearing from you soon.
+
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

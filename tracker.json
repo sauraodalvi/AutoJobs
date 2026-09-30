@@ -6221,14 +6221,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-london-167932",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-21",
-    "last_action_date": "2026-09-21",
+    "last_action_date": "2026-09-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-21",
         "action": "Lead added for Senior Product Manager at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-30",
+        "action": "Generated tailored application kit & cover letter (Deliveroo_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6263,14 +6267,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-product-manager-core-data-product-paris-paris-291860",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-22",
-    "last_action_date": "2026-09-22",
+    "last_action_date": "2026-09-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-22",
         "action": "Lead added for Data Product Manager - Core Data Product (f/m/d) at Decathlontechnology (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-30",
+        "action": "Generated tailored application kit & cover letter (Decathlontechnology_Data_Product_Manager_-_Core_Data_Product_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6328,14 +6336,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/pelico/product-manager-paris-103041",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-23",
-    "last_action_date": "2026-09-23",
+    "last_action_date": "2026-09-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-23",
         "action": "Lead added for Product Manager at Pelico (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-30",
+        "action": "Generated tailored application kit & cover letter (Pelico_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6347,14 +6359,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/pelico/lead-product-manager-paris-475767",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-23",
-    "last_action_date": "2026-09-23",
+    "last_action_date": "2026-09-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-23",
         "action": "Lead added for Lead Product Manager at Pelico (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-30",
+        "action": "Generated tailored application kit & cover letter (Pelico_Lead_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6385,14 +6401,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/reonic/growth-product-manager-italy-ai-x-greentech-berlin-467649",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-24",
-    "last_action_date": "2026-09-24",
+    "last_action_date": "2026-09-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-24",
         "action": "Lead added for Growth Product Manager - Italy (AI x Greentech) (m/f/d) at Reonic (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-09-30",
+        "action": "Generated tailored application kit & cover letter (Reonic_Growth_Product_Manager_-_Italy_AI_x_Greentech_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7305,6 +7325,101 @@
       {
         "date": "2026-09-29",
         "action": "Lead added for Product Manager (Core Platform and Infrastructure) at Sibros (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_78d0b467",
+    "company": "Synthesia",
+    "role": "Product Manager, New Product Bet (Principal-level)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/product-manager-new-product-bet-principal-level-london-454783",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-30",
+    "last_action_date": "2026-09-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-30",
+        "action": "Lead added for Product Manager, New Product Bet (Principal-level) at Synthesia (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_17b4a1b1",
+    "company": "Deliveroo",
+    "role": "Product Manager, Ads",
+    "location": "London, England, United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/product-manager-ads-london-451258",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-30",
+    "last_action_date": "2026-09-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-30",
+        "action": "Lead added for Product Manager, Ads at Deliveroo (London, England, United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1b8961e0",
+    "company": "idnow",
+    "role": "(Senior) Product Manager, Trust Platform- Digital Identies (f/m/d) - 1 year fixed contract",
+    "location": "Paris, Paris; Rennes, Ille-et-Vilaine",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/idnow/senior-product-manager-trust-platform-digital-identies-1-year-fixed-contract-paris-paris-rennes-ille-et-vilaine-169392",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-30",
+    "last_action_date": "2026-09-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-30",
+        "action": "Lead added for (Senior) Product Manager, Trust Platform- Digital Identies (f/m/d) - 1 year fixed contract at idnow (Paris, Paris; Rennes, Ille-et-Vilaine). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_adc65b52",
+    "company": "The Sleep Company",
+    "role": "Senior Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4473704863",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-30",
+    "last_action_date": "2026-09-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-30",
+        "action": "Lead added for Senior Product Manager at The Sleep Company (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a570e5e8",
+    "company": "Qualcomm",
+    "role": "Senior Android SW Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4471919083",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-09-30",
+    "last_action_date": "2026-09-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-09-30",
+        "action": "Lead added for Senior Android SW Product Manager at Qualcomm (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

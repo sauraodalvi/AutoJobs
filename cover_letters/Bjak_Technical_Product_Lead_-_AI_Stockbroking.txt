@@ -2,10 +2,30 @@
 COVER LETTER & APPLICATION KIT
 Target: Technical Product Lead - AI Stockbroking at Bjak
 Apply Link: https://www.arbeitnow.com/jobs/companies/bjak/technical-product-lead-ai-stockbroking-germany-446243
-Date Generated: 2026-09-02
+Date Generated: 2026-09-30
 ============================================================
 
-User Safety: safe
+We need to write a 3-paragraph cover letter tailored to Bjak, role Technical Product Lead - AI Stockbroking, location Germany. Must include keywords: "0-To-1 Product Management", "Ai Workflows", "Saas Mrr Growth", "Cross-Functional Leadership". Must be ATS optimized, professional, confident, concise, high keyword density, zero fluff. Provide three paragraphs.
+
+We need to incorporate the candidate's experience: AI Product Manager & AI Engineer at FlytBase, with 3+ years experience, 0-to-1 roadmap & launch of Prediq (AI drone SaaS) ~$6K MRR, Smart Reports at CrelioHealth increased lab revenue ~$2K MRR per lab, cut patient registration time ~58% and sample turnaround by 18% using custom AI prompt pipelines, built internal developer CLIs, automated cross-app processes with Zapier, Make, Python. Built AI products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2. Co-founded Elite PM platform.
+
+We need to tie to Bjak: AI Stockbroking technical product lead. Emphasize AI workflows, SaaS MRR growth, cross-functional leadership.
+
+Paragraph 1: high-energy intro, position as AI Product Manager with 3+ years 0-to-1 experience aligning with Bjak's product vision (AI stockbroking). Mention interest in Bjak.
+
+Paragraph 2: specific metrics & impact, weave in keywords.
+
+Paragraph 3: call to action.
+
+Make sure each paragraph is concise, maybe 3-4 sentences.
+
+Include keywords exactly as given: "0-To-1 Product Management", "Ai Workflows", "Saas Mrr Growth", "Cross-Functional Leadership". Use proper case? The keywords are given with capitalization: "0-To-1 Product Management", "Ai Workflows", "Saas Mrr Growth", "Cross-Functional Leadership". Use them exactly.
+
+Make sure no fluff.
+
+Let's draft.
+
+Paragraph 1: "Dear Hiring Team at Bjak, I am excited to apply for the Technical Product
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

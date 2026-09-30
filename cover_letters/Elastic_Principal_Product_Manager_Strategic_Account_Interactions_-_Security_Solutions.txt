@@ -2,14 +2,14 @@
 COVER LETTER & APPLICATION KIT
 Target: Principal Product Manager (Strategic Account Interactions) - Security Solutions at Elastic
 Apply Link: https://www.arbeitnow.co.uk/jobs/companies/elastic/principal-product-manager-strategic-account-interactions-security-solutions-91900
-Date Generated: 2026-09-25
+Date Generated: 2026-09-30
 ============================================================
 
-**Saurao Dalvi**
+I am Saurao Dalvi, an AI Product Manager with over three years of hands‑on experience delivering 0‑to‑1 AI and automation products that drive strategic growth. My background in building AI‑native solutions for drone autonomy, healthcare SaaS, and enterprise security aligns directly with Elastic’s mission to secure the cloud through intelligent product innovation.  
 
-Elastic,
+At FlytBase I owned the roadmap and launch of Prediq, an AI drone SaaS that reached ~$6K MRR within six months, demonstrating my ability as a Product Manager to create market‑ready solutions from scratch. At CrelioHealth I defined the Smart Reports roadmap, generating an incremental $2,000 MRR per lab and improving lab revenue, while also cutting patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. I have also built internal developer CLIs, automated cross‑app workflows with Python, Zapier and Make, and launched hidden‑jobs indexing that now powers over 50,000 live ATS jobs, consistently delivering measurable product impact as a Product Manager.  
 
-As an AI Product Manager who has built two 0-to-1 platforms—Prediq ($6K+ MRR) and Hidden Jobs (50K+ live jobs)—I am excited to apply my strategic product leadership to your Security Solutions portfolio. My track record spans Drone.ai (FlytBase), CrelioHealth, and Sprinto, where I translated complex AI requirements into shipping products that directly improved customer revenue and operational efficiency. This experience aligns precisely with Elastic’s commitment to empowering security and data teams through
+I am eager to bring this blend of AI expertise, strategic account insight, and proven growth metrics to Elastic’s Principal Product Manager – Strategic Account Interactions role. Let’s discuss how I can accelerate Elastic’s security product portfolio and drive sustained revenue expansion. Thank you for your consideration.
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
