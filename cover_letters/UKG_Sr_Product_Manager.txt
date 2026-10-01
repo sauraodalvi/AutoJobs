@@ -2,10 +2,22 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-09-30
+Date Generated: 2026-10-01
 ============================================================
 
-User Safety: safe
+**Saurao Dalvi**  
+Pune, India | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi  
+
+Dear Hiring Manager,
+
+As an AI Product Manager with 3+ years of experience building and scaling 0-to-1 AI-native products, I’m excited to apply for the Senior Product Manager role at UKG. My track record spans drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), and enterprise security (Sprinto), where I’ve consistently delivered customer-facing solutions that drive measurable business impact. I’m particularly drawn to UKG’s mission of improving work experiences through intelligent technology — an alignment that mirrors my passion for leveraging AI to solve complex operational challenges at scale.
+
+In my current role as AI Product Manager & Forward Deployed Engineer at FlytBase, I owned the full lifecycle of Prediq, an AI drone SaaS platform, scaling it to ~$6K MRR from concept to launch. At CrelioHealth, I led the roadmap for Smart Reports, increasing lab revenue by ~$2,000 MRR per lab, while also cutting patient registration time by ~58% and sample turnaround by 18% using custom AI prompt pipelines. As a Product Manager across these ventures, I’ve built internal developer CLIs, automated cross-app workflows via Zapier and Make, and launched AI products like Hidden Jobs (indexing 50K+ live ATS positions) and Stare V2. These experiences have honed my ability to lead cross-functional teams, define product strategy, and execute with speed and precision in fast-moving environments.
+
+I’m eager to bring this blend of technical depth, product intuition, and execution rigor to UKG as your next Senior Product Manager. Let’s connect to explore how I can help drive innovation and growth in your product portfolio.
+
+Best regards,  
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

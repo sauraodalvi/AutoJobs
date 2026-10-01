@@ -1,0 +1,38 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager - Business Processes at Catonetworks
+Apply Link: https://www.arbeitnow.co.uk/jobs/companies/catonetworks/product-manager-business-processes-london-191055
+Date Generated: 2026-10-01
+============================================================
+
+Here's a thinking process:
+
+1.  **Analyze the Request:**
+   - **Candidate:** Saurao Dalvi
+   - **Target Roles:** Product Manager / APM / AI Product Manager
+   - **Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote
+   - **Summary:** AI Product Manager & AI Engineer at FlytBase, 3+ years, 0-to-1 builder, AI/automation, drone autonomy, healthcare SaaS, enterprise security, LLM workflows, developer CLIs.
+   - **Portfolio/LinkedIn:** Provided
+   - **Task:** Write a 3-paragraph ATS-optimized cover letter for Company: Catonetworks, Role: Product Manager - Business Processes, Location: London
+   - **Key ATS Keywords:** Product Manager (and variations, but specifically "Product Manager" is called out)
+   - **Structure:**
+     - Paragraph 1: High-energy intro positioning as AI PM with 3+ years 0-to-1 experience aligning with Catonetworks's product vision.
+     - Paragraph 2: Specific metrics & impact (shipped 0-to-1 products, scaled MRR, built LLM workflows, cut turnaround 18-50%+), weaving in "Product Manager"
+     - Paragraph 3: Crisp CTA expressing enthusiasm to discuss driving product growth
+   - **Tone:** Professional, confident, concise, high ATS keyword density, zero fluff
+
+2.  **Deconstruct the Target Company/Role:**
+   - Company: Catonetworks
+   - Role: Product Manager - Business Processes
+   - Location: London
+   - I need to tailor the content to fit "Business Processes" while leveraging the candidate's AI/automation/product background. Catonetworks likely deals with networking, cloud, or enterprise software. The role is "Product Manager - Business Processes," so emphasizing process automation, efficiency, and AI-driven optimization will align well.
+
+3.  **Identify Key Themes & Keywords from Candidate's Profile:**
+   - AI Product Manager
+   - 3+
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

@@ -6382,14 +6382,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/pandadoc/principal-product-manager-document-domain-444665",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-24",
-    "last_action_date": "2026-09-24",
+    "last_action_date": "2026-10-01",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-24",
         "action": "Lead added for Principal Product Manager, Document Domain at Pandadoc (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-01",
+        "action": "Generated tailored application kit & cover letter (Pandadoc_Principal_Product_Manager_Document_Domain.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6443,14 +6447,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/product-manager-business-processes-london-191055",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-24",
-    "last_action_date": "2026-09-24",
+    "last_action_date": "2026-10-01",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-24",
         "action": "Lead added for Product Manager - Business Processes at Catonetworks (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-01",
+        "action": "Generated tailored application kit & cover letter (Catonetworks_Product_Manager_-_Business_Processes.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6481,14 +6489,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/wolt-english/product-manager-delivery-promise-berlin-241244",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-25",
-    "last_action_date": "2026-09-25",
+    "last_action_date": "2026-10-01",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-25",
         "action": "Lead added for Product Manager, Delivery Promise at Wolt - English (Berlin, Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-01",
+        "action": "Generated tailored application kit & cover letter (Wolt_-_English_Product_Manager_Delivery_Promise.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6538,14 +6550,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/capco/product-manager-h-f-240498",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-25",
-    "last_action_date": "2026-09-25",
+    "last_action_date": "2026-10-01",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-25",
         "action": "Lead added for Product Manager  H/F at capco (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-01",
+        "action": "Generated tailored application kit & cover letter (capco_Product_Manager_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6557,14 +6573,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/ledger/senior-product-manager-earn-paris-321425",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-25",
-    "last_action_date": "2026-09-25",
+    "last_action_date": "2026-10-01",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-25",
         "action": "Lead added for Senior Product Manager - Earn at Ledger (Paris, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-01",
+        "action": "Generated tailored application kit & cover letter (Ledger_Senior_Product_Manager_-_Earn.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7420,6 +7440,139 @@
       {
         "date": "2026-09-30",
         "action": "Lead added for Senior Android SW Product Manager at Qualcomm (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a2eb7a77",
+    "company": "Docplanner",
+    "role": "Senior Clinical Product Lead | 100% Remote within Europe",
+    "location": "Europe (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/154341-senior-clinical-product-lead-100-remote-within-europe",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-01",
+    "last_action_date": "2026-10-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-01",
+        "action": "Lead added for Senior Clinical Product Lead | 100% Remote within Europe at Docplanner (Europe (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b67619cc",
+    "company": "XALT Business Consulting GmbH",
+    "role": "Product Manager / Business Analyst (m/w/d) - Enterprise Banking",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/xalt-business-consulting-gmbh/product-manager-business-analyst-enterprise-banking-munich-451298",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-01",
+    "last_action_date": "2026-10-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-01",
+        "action": "Lead added for Product Manager / Business Analyst (m/w/d) - Enterprise Banking at XALT Business Consulting GmbH (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e4dd6188",
+    "company": "Scopely",
+    "role": "Senior Product Manager, CRM - MONOPOLY GO!",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-product-manager-crm-monopoly-go-32460",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-01",
+    "last_action_date": "2026-10-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-01",
+        "action": "Lead added for Senior Product Manager, CRM - MONOPOLY GO! at Scopely (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3c55e574",
+    "company": "Globalwebindex",
+    "role": "Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/product-manager-london-4482",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-01",
+    "last_action_date": "2026-10-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-01",
+        "action": "Lead added for Product Manager at Globalwebindex (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e3957571",
+    "company": "Verifone",
+    "role": "Product Manager - Hardware",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/verifone/product-manager-hardware-london-301435",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-01",
+    "last_action_date": "2026-10-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-01",
+        "action": "Lead added for Product Manager - Hardware at Verifone (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f142989f",
+    "company": "Encord",
+    "role": "Product Lead",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/encord/product-lead-london-308919",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-01",
+    "last_action_date": "2026-10-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-01",
+        "action": "Lead added for Product Lead at Encord (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a76cbffe",
+    "company": "Decathlontechnology",
+    "role": "Staff Product Manager - Decathlon App [Permanent - CDI] (f/m/d)",
+    "location": "Paris, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/staff-product-manager-decathlon-app-permanent-cdi-paris-paris-56755",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-01",
+    "last_action_date": "2026-10-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-01",
+        "action": "Lead added for Staff Product Manager - Decathlon App [Permanent - CDI] (f/m/d) at Decathlontechnology (Paris, Paris). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
