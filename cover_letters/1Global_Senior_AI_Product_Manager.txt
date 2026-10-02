@@ -1,0 +1,34 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior AI Product Manager at 1Global
+Apply Link: https://www.arbeitnow.com/jobs/companies/1global/senior-ai-product-manager-berlin-189704
+Date Generated: 2026-10-02
+============================================================
+
+**Saurao Dalvi**
+[Phone Number] | [Email Address]
+[LinkedIn Profile] | [Portfolio URL]
+
+**Hiring Manager**
+1Global
+Berlin, Germany
+
+**RE: Senior AI Product Manager Application**
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Senior AI Product Manager position at 1Global. As an AI Product Manager and Forward Deployed Engineer with over three years of experience building 0-to-1 AI-native products, I specialize in bridging the gap between complex engineering and scalable commercial value. Having successfully launched autonomous drone SaaS and healthcare automation tools, I possess the technical depth and product intuition required to accelerate 1Global’s AI roadmap and deliver high-impact, intelligent solutions for your global client base.
+
+My track record as a Product Manager is defined by delivering measurable revenue growth and operational efficiency. At FlytBase, I owned the end-to-end roadmap and launch of Prediq (AI drone SaaS), scaling it to ~$6K MRR from the ground up. During my tenure at CrelioHealth, I leveraged my expertise as an AI Product Manager to build custom LLM prompt pipelines that reduced patient registration time by 58% and sample turnaround by 18%, while increasing per-lab revenue by ~$2,000 MRR through the "Smart Reports" feature. From developing internal developer CLIs to architecting agentic workflows and indexing 50K+ jobs for AI-driven platforms, I excel at transforming ambiguous technical capabilities into polished, customer-facing products.
+
+I am eager to bring this blend of technical execution and strategic product leadership to 1Global in Berlin. I am confident that my experience in scaling AI products from inception to monetization will allow me to drive immediate growth and innovation within your product organization. I look forward to the opportunity to discuss how my background aligns with 1Global’s vision for the future of AI.
+
+Sincerely,
+
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

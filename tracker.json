@@ -6428,14 +6428,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/reonic/growth-product-manager-uk-ai-x-greentech-berlin-12354",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-24",
-    "last_action_date": "2026-09-24",
+    "last_action_date": "2026-10-02",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-24",
         "action": "Lead added for Growth Product Manager - UK (AI x Greentech) (m/f/d) at Reonic (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-02",
+        "action": "Generated tailored application kit & cover letter (Reonic_Growth_Product_Manager_-_UK_AI_x_Greentech_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6470,14 +6474,18 @@
     "contact_name": "Recruiting Team",
     "contact_email": "",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-24",
-    "last_action_date": "2026-09-24",
+    "last_action_date": "2026-10-02",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-24",
         "action": "Lead added for Technical Product Manager AI Stockbroking App at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-02",
+        "action": "Generated tailored application kit & cover letter (Bjak_Technical_Product_Manager_AI_Stockbroking_App.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6512,14 +6520,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/office-technology-product-owner-london-169252",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-25",
-    "last_action_date": "2026-09-25",
+    "last_action_date": "2026-10-02",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-25",
         "action": "Lead added for Office Technology Product Owner at Wpp (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-02",
+        "action": "Generated tailored application kit & cover letter (Wpp_Office_Technology_Product_Owner.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6531,14 +6543,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/desktop-product-owner-london-486376",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-25",
-    "last_action_date": "2026-09-25",
+    "last_action_date": "2026-10-02",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-25",
         "action": "Lead added for Desktop Product Owner at Wpp (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-02",
+        "action": "Generated tailored application kit & cover letter (Wpp_Desktop_Product_Owner.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6596,14 +6612,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/1global/senior-ai-product-manager-berlin-189704",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-26",
-    "last_action_date": "2026-09-26",
+    "last_action_date": "2026-10-02",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-26",
         "action": "Lead added for Senior AI Product Manager at 1Global (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-02",
+        "action": "Generated tailored application kit & cover letter (1Global_Senior_AI_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7573,6 +7593,158 @@
       {
         "date": "2026-10-01",
         "action": "Lead added for Staff Product Manager - Decathlon App [Permanent - CDI] (f/m/d) at Decathlontechnology (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_951d0753",
+    "company": "NeuroNation",
+    "role": "Scientific Product Manager (m/fd)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/neuronation/scientific-product-manager-m-fd-berlin-291730",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-02",
+    "last_action_date": "2026-10-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-02",
+        "action": "Lead added for Scientific Product Manager (m/fd) at NeuroNation (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f352cde4",
+    "company": "NeuroNation",
+    "role": "Junior Product Manager (m,f,d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/neuronation/junior-product-manager-mfd-berlin-176442",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-02",
+    "last_action_date": "2026-10-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-02",
+        "action": "Lead added for Junior Product Manager (m,f,d) at NeuroNation (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_00a50d0e",
+    "company": "ecosio",
+    "role": "Workflow Product Owner (f/m/d)",
+    "location": "Germany, Austria, Spain, Italy, Hungary, Portugal, Croatia, Poland",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/workflow-product-owner-germany-austria-spain-italy-hungary-portugal-croatia-poland-173215",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-02",
+    "last_action_date": "2026-10-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-02",
+        "action": "Lead added for Workflow Product Owner (f/m/d) at ecosio (Germany, Austria, Spain, Italy, Hungary, Portugal, Croatia, Poland). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9779fe26",
+    "company": "loveholidays",
+    "role": "Lead Product Manager - Bookings",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/loveholidays/lead-product-manager-bookings-london-191646",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-02",
+    "last_action_date": "2026-10-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-02",
+        "action": "Lead added for Lead Product Manager - Bookings at loveholidays (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_204466ef",
+    "company": "loveholidays",
+    "role": "Lead Product Manager - Trading",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/loveholidays/lead-product-manager-trading-london-479946",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-02",
+    "last_action_date": "2026-10-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-02",
+        "action": "Lead added for Lead Product Manager - Trading at loveholidays (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0cbbad05",
+    "company": "Avenir Collective",
+    "role": "Head of Product",
+    "location": "London, Greater London, United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/avenir-collective/head-of-product-london-402384",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-02",
+    "last_action_date": "2026-10-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-02",
+        "action": "Lead added for Head of Product at Avenir Collective (London, Greater London, United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_804ac530",
+    "company": "Yubo",
+    "role": "Senior Product Manager - Paris",
+    "location": "Paris - Full Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/yubo/senior-product-manager-paris-478825",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-02",
+    "last_action_date": "2026-10-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-02",
+        "action": "Lead added for Senior Product Manager - Paris at Yubo (Paris - Full Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5f7e02b9",
+    "company": "Humana",
+    "role": "Lead Product Manager, MyHumana Medication Management Experience",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-02",
+    "last_action_date": "2026-10-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-02",
+        "action": "Lead added for Lead Product Manager, MyHumana Medication Management Experience at Humana (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
