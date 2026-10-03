@@ -6635,14 +6635,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/1global/lead-product-manager-berlin-467186",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-26",
-    "last_action_date": "2026-09-26",
+    "last_action_date": "2026-10-03",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-26",
         "action": "Lead added for Lead Product Manager at 1Global (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-03",
+        "action": "Generated tailored application kit & cover letter (1Global_Lead_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6654,14 +6658,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/growth-product-manager-customer-acquisition-german-speaking-london-28500",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-26",
-    "last_action_date": "2026-09-26",
+    "last_action_date": "2026-10-03",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-26",
         "action": "Lead added for Growth Product Manager - Customer Acquisition (German Speaking) at iwoca (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-03",
+        "action": "Generated tailored application kit & cover letter (iwoca_Growth_Product_Manager_-_Customer_Acquisition_German_Speaking.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6768,14 +6776,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/imfusion/technical-product-owner-c-sdk-imfusion-suite-munich-32634",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-03",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for Technical Product Owner - C++ SDK & ImFusion Suite at Imfusion (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-03",
+        "action": "Generated tailored application kit & cover letter (Imfusion_Technical_Product_Owner_-_C_SDK_ImFusion_Suite.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6787,14 +6799,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/wolt-english/product-manager-courier-delivery-experience-berlin-78346",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-03",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for Product Manager, Courier Delivery Experience at Wolt - English (Berlin, Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-03",
+        "action": "Generated tailored application kit & cover letter (Wolt_-_English_Product_Manager_Courier_Delivery_Experience.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6806,14 +6822,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-product-manager-mwd-catalog-content-berlin-412032",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-03",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for Senior Product Manager (m|w|d) Catalog Content at idealo internet GmbH (Berlin, Berlin, Deutschland). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-03",
+        "action": "Generated tailored application kit & cover letter (idealo_internet_GmbH_Senior_Product_Manager_m_w_d_Catalog_Content.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7745,6 +7765,310 @@
       {
         "date": "2026-10-02",
         "action": "Lead added for Lead Product Manager, MyHumana Medication Management Experience at Humana (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5ba74c72",
+    "company": "Proglove",
+    "role": "Product Manager - Android Integration & Ecosystem",
+    "location": "Munich Office",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/proglove/product-manager-android-integration-ecosystem-munich-office-6532",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Product Manager - Android Integration & Ecosystem at Proglove (Munich Office). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_95775ec4",
+    "company": "Exolaunch",
+    "role": "Product Manager - EXOtube",
+    "location": "Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/exolaunch/product-manager-exotube-berlin-germany-328690",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Product Manager - EXOtube at Exolaunch (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9360758b",
+    "company": "thinkcellsoftware",
+    "role": "Principal Product Manager (AI Product) (f/m/d)",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/thinkcellsoftware/principal-product-manager-ai-product-6969",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Principal Product Manager (AI Product) (f/m/d) at thinkcellsoftware (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2e4130bd",
+    "company": "Project Q",
+    "role": "Senior Product Manager - Hardware & Edge AI (d/f/m)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/project-q/senior-product-manager-hardware-edge-ai-berlin-224280",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Senior Product Manager - Hardware & Edge AI (d/f/m) at Project Q (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_474ac820",
+    "company": "Real Digital",
+    "role": "Senior Product Manager (all genders) | B2B",
+    "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-product-manager-all-genders-b2b-383663",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Senior Product Manager (all genders) | B2B at Real Digital (Remote oder Köln / Darmstadt / Düsseldorf / Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a9beaa50",
+    "company": "jetbrains",
+    "role": "Senior Product Manager (Business Applications Development)",
+    "location": "Berlin; Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-product-manager-business-applications-development-berlin-munich-305759",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Senior Product Manager (Business Applications Development) at jetbrains (Berlin; Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_66630157",
+    "company": "MoonPay",
+    "role": "Product Manager, Identity (Mid)",
+    "location": "London - Hybrid",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/product-manager-identity-mid-london-hybrid-480589",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Product Manager, Identity (Mid) at MoonPay (London - Hybrid). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_681394d4",
+    "company": "Kaluza",
+    "role": "Product Manager - Energy Billing (Fluent French & English)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/product-manager-energy-billing-fluent-french-english-london-210553",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Product Manager - Energy Billing (Fluent French & English) at Kaluza (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_39820577",
+    "company": "Kaluza",
+    "role": "Head of Product (Flex)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/head-of-product-flex-london-208787",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Head of Product (Flex) at Kaluza (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0e360e55",
+    "company": "Qonto",
+    "role": "Senior Product Manager - Client Communication",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/qonto/senior-product-manager-client-communication-paris-264337",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Senior Product Manager - Client Communication at Qonto (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d13edeb2",
+    "company": "Blablacar",
+    "role": "Senior Product Manager - Carpool Experience",
+    "location": "Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/blablacar/senior-product-manager-carpool-experience-paris-france-14229",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Senior Product Manager - Carpool Experience at Blablacar (Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b83a6b38",
+    "company": "Mirakl - Labs",
+    "role": "Product Manager Intern - Connect",
+    "location": "Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/product-manager-intern-connect-paris-489436",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Product Manager Intern - Connect at Mirakl - Labs (Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7fe956f3",
+    "company": "Mirakl - Labs",
+    "role": "Product Manager Intern - Platform",
+    "location": "Paris, Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/product-manager-intern-platform-paris-244586",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Product Manager Intern - Platform at Mirakl - Labs (Paris, Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6e408878",
+    "company": "OPENLANE",
+    "role": "Group Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Group Product Manager at OPENLANE (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_692b4cf5",
+    "company": "XP Power",
+    "role": "Low Voltage High Power Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Low Voltage High Power Product Manager at XP Power (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5c3dd6dd",
+    "company": "Humana",
+    "role": "Lead Technical Product Manager - Digital Pharmacy",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-03",
+    "last_action_date": "2026-10-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-03",
+        "action": "Lead added for Lead Technical Product Manager - Digital Pharmacy at Humana (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

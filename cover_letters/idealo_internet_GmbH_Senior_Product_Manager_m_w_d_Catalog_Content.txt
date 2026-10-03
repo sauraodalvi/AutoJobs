@@ -1,0 +1,23 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager (m|w|d) Catalog Content at idealo internet GmbH
+Apply Link: https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-product-manager-mwd-catalog-content-berlin-412032
+Date Generated: 2026-10-03
+============================================================
+
+Dear Hiring Team,  
+
+I am an AI Product Manager with over three years of hands‑on experience building 0‑to‑1 products that align with idealo internet GmbH’s mission to create seamless, data‑driven shopping experiences. My background spans drone autonomy, healthcare SaaS, and enterprise security, where I have consistently translated market needs into scalable roadmaps and customer‑facing features. This blend of AI expertise and product‑led growth directly supports idealo’s vision for a smarter catalog ecosystem.  
+
+In my most recent role as Forward‑Deployed Engineer and Product Manager at FlytBase, I owned the end‑to‑end roadmap for Prediq, an AI‑drone SaaS that reached ~$6 K MRR within six months. At CrelioHealth, I led the Smart Reports initiative, delivering a $2 K MRR uplift per laboratory while integrating LLM‑powered prompt pipelines that cut patient registration time by 58 % and sample turnaround by 18 %. I also engineered internal developer CLIs and automated cross‑app workflows using Python, Zapier, and Make, reducing manual effort by more than 30 % and accelerating feature delivery. These results demonstrate my ability to ship high‑impact AI products, scale revenue, and optimize operational efficiency—key responsibilities for a Senior Product Manager.  
+
+I am excited about the opportunity to bring my proven track record of driving product growth and innovation to idealo internet GmbH in Berlin. I look forward to discussing how my experience as a Product Manager can help expand your catalog content strategy and deliver measurable results for your team.  
+
+Sincerely,  
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
