@@ -6681,14 +6681,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/group-product-manager-acceptance-rates-london-189669",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-26",
-    "last_action_date": "2026-09-26",
+    "last_action_date": "2026-10-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-26",
         "action": "Lead added for Group Product Manager, Acceptance Rates at Checkout.com (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-04",
+        "action": "Generated tailored application kit & cover letter (Checkout_com_Group_Product_Manager_Acceptance_Rates.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6700,14 +6704,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/product-manager-agentic-commerce-london-217042",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-26",
-    "last_action_date": "2026-09-26",
+    "last_action_date": "2026-10-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-26",
         "action": "Lead added for Product Manager, Agentic Commerce at Checkout.com (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-04",
+        "action": "Generated tailored application kit & cover letter (Checkout_com_Product_Manager_Agentic_Commerce.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6719,14 +6727,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-product-manager-pro-onboarding-london-348312",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-26",
-    "last_action_date": "2026-09-26",
+    "last_action_date": "2026-10-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-26",
         "action": "Lead added for Senior Product Manager - Pro Onboarding at Kraken (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-04",
+        "action": "Generated tailored application kit & cover letter (Kraken_Senior_Product_Manager_-_Pro_Onboarding.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6738,14 +6750,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/voodoo/senior-technical-product-manager-advertising-solutions-paris-420332",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-26",
-    "last_action_date": "2026-09-26",
+    "last_action_date": "2026-10-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-26",
         "action": "Lead added for Senior Technical Product Manager - Advertising solutions at Voodoo (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-04",
+        "action": "Generated tailored application kit & cover letter (Voodoo_Senior_Technical_Product_Manager_-_Advertising_solutions.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6757,14 +6773,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/product-manager-internship-digital-supply-chain-paris-paris-445228",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-26",
-    "last_action_date": "2026-09-26",
+    "last_action_date": "2026-10-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-26",
         "action": "Lead added for Product Manager (f/m/d) - Internship - Digital Supply Chain at Decathlontechnology (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-04",
+        "action": "Generated tailored application kit & cover letter (Decathlontechnology_Product_Manager_f_m_d_-_Internship_-_Digital_Supply_Chain.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8069,6 +8089,120 @@
       {
         "date": "2026-10-03",
         "action": "Lead added for Lead Technical Product Manager - Digital Pharmacy at Humana (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b9992913",
+    "company": "FINN",
+    "role": "Senior Product Manager (m/f/x) Growth / E-Commerce",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/finn/senior-product-manager-growth-e-commerce-munich-88048",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-04",
+    "last_action_date": "2026-10-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-04",
+        "action": "Lead added for Senior Product Manager (m/f/x) Growth / E-Commerce at FINN (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0a9c0c82",
+    "company": "bunch",
+    "role": "Senior Product Manager | Capital Management (f/m/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-product-manager-capital-management-berlin-265061",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-04",
+    "last_action_date": "2026-10-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-04",
+        "action": "Lead added for Senior Product Manager | Capital Management (f/m/d) at bunch (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d9767a95",
+    "company": "tide",
+    "role": "Senior Product Manager, Ongoing Monitoring",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tide/senior-product-manager-ongoing-monitoring-425632",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-04",
+    "last_action_date": "2026-10-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-04",
+        "action": "Lead added for Senior Product Manager, Ongoing Monitoring at tide (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_88cb75c9",
+    "company": "Deliveroo",
+    "role": "Product Manager, Finance Engineering",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/product-manager-finance-engineering-london-198670",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-04",
+    "last_action_date": "2026-10-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-04",
+        "action": "Lead added for Product Manager, Finance Engineering at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1781fb72",
+    "company": "mirakllabs",
+    "role": "Product Manager Intern - Platform",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-intern-platform-paris-68428",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-04",
+    "last_action_date": "2026-10-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-04",
+        "action": "Lead added for Product Manager Intern - Platform at mirakllabs (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_20dc82e3",
+    "company": "mirakllabs",
+    "role": "Product Manager Intern - Connect",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-intern-connect-paris-21050",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-04",
+    "last_action_date": "2026-10-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-04",
+        "action": "Lead added for Product Manager Intern - Connect at mirakllabs (Paris). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
