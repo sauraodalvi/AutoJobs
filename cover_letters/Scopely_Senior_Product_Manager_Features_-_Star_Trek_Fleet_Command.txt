@@ -1,0 +1,21 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager(Features) - Star Trek Fleet Command at Scopely
+Apply Link: https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-product-managerfeatures-star-trek-fleet-command-gb-london-408606
+Date Generated: 2026-10-05
+============================================================
+
+Saurao Dalvi  
+https://sauraodalvi.netlify.app/ | https://www.linkedin.com/in/saurao-dalvi/  
+
+Hiring Team, Scopely  
+
+As an AI Product Manager with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am energized by Scopely’s mission to define the future of play through live operations and deep feature innovation. My background building agentic LLM systems, developer-facing CLIs, and AI-native SaaS products aligns directly with the Senior Product Manager (Features) mandate to drive engagement and monetization within *Star Trek Fleet Command*. I thrive in high-velocity environments where technical depth meets live-service strategy, and I am ready to own feature lifecycles that scale the game’s economy and community in the London market and globally.
+
+At FlytBase, I owned the 0-to-1 roadmap and launch of **Prediq (AI Drone SaaS)**, scaling it to **~$6K MRR** by defining pricing, packaging, and go-to-market motions for a net-new revenue line. At CrelioHealth, I spearheaded **Smart Reports**, an AI feature increasing lab revenue by **~$2,000 MRR per lab** while cutting patient registration time by **58%** and sample turnaround by **18%** via custom prompt pipelines and RAG architectures. At Sprinto, I automated complex cross-app compliance workflows using Python, Zapier, and Make, reducing manual audit prep by **50%+**. Across these roles, I have consistently shipped high-imp
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

@@ -2,19 +2,16 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-10-02
+Date Generated: 2026-10-05
 ============================================================
 
-Saurao Dalvi  
-AI Product Manager & Engineer  
-https://sauraodalvi.netlify.app | https://www.linkedin.com/in/saurao-dalvi/  
+Dear Hiring Team,  
 
-Dear Hiring Team at UKG,  
+I am a results‑driven Product Manager with over three years of 0‑to‑1 AI product experience, having launched and scaled AI‑native solutions that directly support enterprise productivity and workforce optimization—core pillars of UKG’s vision. My background spans drone autonomy, healthcare SaaS, and enterprise security, giving me a deep understanding of how intelligent automation can transform complex operational workflows. I thrive in remote, cross‑functional environments and am eager to bring my proven ability to align product strategy with market demand to UKG’s innovative roadmap.  
 
-I am an AI‑focused Product Manager with 3+ years of end‑to‑end 0‑to‑1 experience launching AI‑driven SaaS products that generate measurable revenue and operational efficiency. My background—building Prediq (AI drone SaaS) to ~$6K MRR at FlytBase, shaping Smart Reports at CrelioHealth to add ~$2K MRR per lab, and delivering LLM‑powered workflows at Sprinto—aligns directly with UKG’s vision of leveraging intelligent automation to transform workforce management. I am eager to bring this Product Manager expertise to UKG’s remote team and help accelerate your next‑generation product portfolio.  
+In my most recent role as Forward‑Deployed Engineer and Product Manager at FlytBase, I owned the end‑to‑end roadmap for Prediq, an AI drone SaaS that grew to $6K MRR within six months, and for Hidden Jobs, which indexed 50K+ live ATS positions. At CrelioHealth, I led the Smart Reports initiative, boosting lab revenue by $2K MRR per lab while cutting patient registration time by 58% and sample turnaround by 18% through custom LLM‑powered prompt pipelines. I also engineered developer CLIs and automated cross‑app workflows using Python, Zapier, and Make, delivering measurable efficiency gains and accelerating time‑to‑market for multiple SaaS products. These experiences demonstrate my capacity to ship high‑impact AI products, scale revenue, and drive operational excellence as a Product Manager.  
 
-In my recent roles I have consistently shipped high‑impact solutions:  
-- **Prediq (FlytBase)** – owned the full product roadmap, launched
+I am excited about the opportunity to contribute my expertise in AI‑driven product development and growth hacking to UKG’s remote team. Let’s connect to discuss how my track record of launching scalable, customer‑focused solutions can accelerate UKG’s product growth and reinforce its market leadership. Thank you for your consideration.
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

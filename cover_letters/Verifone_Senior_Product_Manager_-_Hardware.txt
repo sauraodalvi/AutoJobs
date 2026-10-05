@@ -1,0 +1,26 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager - Hardware at Verifone
+Apply Link: https://www.arbeitnow.co.uk/jobs/companies/verifone/senior-product-manager-hardware-london-368409
+Date Generated: 2026-10-05
+============================================================
+
+**Saurao Dalvi**  
+London, UK | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi  
+
+Dear Hiring Manager,
+
+As an AI Product Manager with 3+ years of 0-to-1 experience building and scaling AI-native and hardware-integrated products, I’m excited to apply for the Senior Product Manager – Hardware role at Verifone. My background spans leading product strategy for autonomous drone systems at FlytBase, healthcare SaaS at CrelioHealth, and enterprise security at Sprinto—where I consistently translated complex technical capabilities into market-ready solutions. With a strong foundation in both product management and AI engineering, I bring a unique lens to driving innovation in intelligent, customer-centric hardware ecosystems.
+
+Throughout my career, I’ve owned end-to-end product roadmaps and delivered measurable business impact. At FlytBase, I spearheaded the 0-to-1 launch of *Prediq*, an AI drone SaaS platform, scaling it to ~$6K MRR. At CrelioHealth, I led the roadmap for *Smart Reports*, boosting lab revenue by ~$2,000 MRR per lab, while also cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. As an AI Product Manager, I’ve built internal developer CLIs, automated cross-app workflows using Python, Zapier, and Make, and launched consumer AI products like *Hidden Jobs* (50K+ indexed ATS listings). In each role, I acted as the central Product Manager, aligning engineering, design, and go-to-market teams to ship fast and iterate smarter.
+
+I’m particularly drawn to Verifone’s mission to power seamless commerce experiences through cutting-edge payment hardware and software. I’d welcome the opportunity to discuss how my experience as a Product Manager—spanning AI, automation, and hardware-integrated systems—can contribute to advancing Verifone’s product vision. Let’s connect and explore how we can shape the future of commerce together.
+
+Best regards,  
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

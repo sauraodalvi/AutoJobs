@@ -6884,14 +6884,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/distrokid/growth-product-manager-96496",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-05",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for Growth Product Manager at Distrokid (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-05",
+        "action": "Generated tailored application kit & cover letter (Distrokid_Growth_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6941,14 +6945,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-product-managerfeatures-star-trek-fleet-command-gb-london-408606",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-05",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for Senior Product Manager(Features) - Star Trek Fleet Command at Scopely (GB - London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-05",
+        "action": "Generated tailored application kit & cover letter (Scopely_Senior_Product_Manager_Features_-_Star_Trek_Fleet_Command.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6960,14 +6968,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/starrez/product-owner-college-pads-165041",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-05",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for Product Owner, College Pads at Starrez (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-05",
+        "action": "Generated tailored application kit & cover letter (Starrez_Product_Owner_College_Pads.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6979,14 +6991,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/verifone/senior-product-manager-hardware-london-368409",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-05",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for Senior Product Manager - Hardware at Verifone (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-05",
+        "action": "Generated tailored application kit & cover letter (Verifone_Senior_Product_Manager_-_Hardware.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6998,14 +7014,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/ai-product-owner-london-463174",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-05",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for AI Product Owner at Legal 500 (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-05",
+        "action": "Generated tailored application kit & cover letter (Legal_500_AI_Product_Owner.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8203,6 +8223,120 @@
       {
         "date": "2026-10-04",
         "action": "Lead added for Product Manager Intern - Connect at mirakllabs (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4dab737e",
+    "company": "Udacity",
+    "role": "External Contractor - Mentor role for Data Product Manager track",
+    "location": "Anywhere (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/154527-external-contractor-mentor-role-for-data-product-manager-track",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-05",
+    "last_action_date": "2026-10-05",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-05",
+        "action": "Lead added for External Contractor - Mentor role for Data Product Manager track at Udacity (Anywhere (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_12ff99c7",
+    "company": "Assecor GmbH",
+    "role": "Product Owner (m|w|d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/assecor-gmbh/product-owner-mwd-berlin-74945",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-05",
+    "last_action_date": "2026-10-05",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-05",
+        "action": "Lead added for Product Owner (m|w|d) at Assecor GmbH (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_54bd43a2",
+    "company": "Getquin",
+    "role": "Senior Product Manager, Wealth & AI (f/m/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/getquin/senior-product-manager-wealth-ai-berlin-251131",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-05",
+    "last_action_date": "2026-10-05",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-05",
+        "action": "Lead added for Senior Product Manager, Wealth & AI (f/m/d) at Getquin (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_abcb816a",
+    "company": "Lendable",
+    "role": "Associate Product Manager (US Cards)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/associate-product-manager-us-cards-london-70852",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-05",
+    "last_action_date": "2026-10-05",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-05",
+        "action": "Lead added for Associate Product Manager (US Cards) at Lendable (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b0feb8aa",
+    "company": "Lendable",
+    "role": "Product Manager (US Cards)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/product-manager-us-cards-london-423163",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-05",
+    "last_action_date": "2026-10-05",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-05",
+        "action": "Lead added for Product Manager (US Cards) at Lendable (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_36a1d07f",
+    "company": "Withings",
+    "role": "Product Manager, Healthcare (H/F)",
+    "location": "Issy-les-Moulineaux, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/withings/product-manager-healthcare-h-f-issy-les-moulineaux-335042",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-05",
+    "last_action_date": "2026-10-05",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-05",
+        "action": "Lead added for Product Manager, Healthcare (H/F) at Withings (Issy-les-Moulineaux, France). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
