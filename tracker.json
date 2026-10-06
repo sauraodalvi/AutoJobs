@@ -6865,14 +6865,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/xometryeurope/staff-product-manager-pricing-and-manufacturability-munich-321085",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for Staff Product Manager, Pricing and Manufacturability at Xometryeurope (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-06",
+        "action": "Generated tailored application kit & cover letter (Xometryeurope_Staff_Product_Manager_Pricing_and_Manufacturability.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6907,14 +6911,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/product-manager-performance-ai-496159",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for Product Manager, Performance AI at Wpp (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-06",
+        "action": "Generated tailored application kit & cover letter (Wpp_Product_Manager_Performance_AI.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -6926,14 +6934,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-product-manager-roadmap-star-trek-fleet-command-gb-london-169456",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for Senior Product Manager (Roadmap) - Star Trek Fleet Command at Scopely (GB - London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-06",
+        "action": "Generated tailored application kit & cover letter (Scopely_Senior_Product_Manager_Roadmap_-_Star_Trek_Fleet_Command.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7056,14 +7068,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/homa-games/remote-lead-product-manager-rpg-paris-453503",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for Lead Product Manager - RPG at Homa Games (Paris, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-06",
+        "action": "Generated tailored application kit & cover letter (Homa_Games_Lead_Product_Manager_-_RPG.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7094,14 +7110,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/wrike/group-product-manager-klaxoon-418195",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-28",
-    "last_action_date": "2026-09-28",
+    "last_action_date": "2026-10-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-28",
         "action": "Lead added for Group Product Manager [Klaxoon] at Wrike (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-06",
+        "action": "Generated tailored application kit & cover letter (Wrike_Group_Product_Manager_Klaxoon.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8337,6 +8357,82 @@
       {
         "date": "2026-10-05",
         "action": "Lead added for Product Manager, Healthcare (H/F) at Withings (Issy-les-Moulineaux, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ffe9a5ae",
+    "company": "Nucs AI",
+    "role": "Senior Product Manager",
+    "location": "Remote job",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-product-manager-berlin-310476",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-06",
+    "last_action_date": "2026-10-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-06",
+        "action": "Lead added for Senior Product Manager at Nucs AI (Remote job). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f38ed85a",
+    "company": "Kraken",
+    "role": "Senior Product Manager - Payments Platform",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-product-manager-payments-platform-london-304512",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-06",
+    "last_action_date": "2026-10-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-06",
+        "action": "Lead added for Senior Product Manager - Payments Platform at Kraken (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4271f00c",
+    "company": "Tether Operations Limited",
+    "role": "Senior Technical Product Manager - Keet (100% Remote)",
+    "location": "Remote job",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-technical-product-manager-keet-100-remote-united-kindom-492479",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-06",
+    "last_action_date": "2026-10-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-06",
+        "action": "Lead added for Senior Technical Product Manager - Keet (100% Remote) at Tether Operations Limited (Remote job). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c686e89c",
+    "company": "Addepar",
+    "role": "Sr. Product Manager - Trading",
+    "location": "Pune District, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4475852136",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-06",
+    "last_action_date": "2026-10-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-06",
+        "action": "Lead added for Sr. Product Manager - Trading at Addepar (Pune District, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
