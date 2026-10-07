@@ -7049,14 +7049,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/genesis/technical-product-manager-fr-paris-480507",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-27",
-    "last_action_date": "2026-09-27",
+    "last_action_date": "2026-10-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-27",
         "action": "Lead added for Technical Product Manager (FR) at Genesis (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-07",
+        "action": "Generated tailored application kit & cover letter (Genesis_Technical_Product_Manager_FR.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7171,14 +7175,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-manager-consumer-lifecycle-london-77219",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-28",
-    "last_action_date": "2026-09-28",
+    "last_action_date": "2026-10-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-28",
         "action": "Lead added for Senior Product Manager - Consumer Lifecycle at SumUp (London, England, United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-07",
+        "action": "Generated tailored application kit & cover letter (SumUp_Senior_Product_Manager_-_Consumer_Lifecycle.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7209,14 +7217,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/super/head-of-product-design-manager-role-407146",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-28",
-    "last_action_date": "2026-09-28",
+    "last_action_date": "2026-10-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-28",
         "action": "Lead added for Head of Product Design - Manager role at Super (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-07",
+        "action": "Generated tailored application kit & cover letter (Super_Head_of_Product_Design_-_Manager_role.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7228,14 +7240,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/ddome/senior-product-manager-479191",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-28",
-    "last_action_date": "2026-09-28",
+    "last_action_date": "2026-10-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-28",
         "action": "Lead added for Senior Product Manager at Ddome (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-07",
+        "action": "Generated tailored application kit & cover letter (Ddome_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7247,14 +7263,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.ch/jobs/companies/ionq/product-manager-geneva-372402",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-28",
-    "last_action_date": "2026-09-28",
+    "last_action_date": "2026-10-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-28",
         "action": "Lead added for Product Manager at ionq (Geneva). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-07",
+        "action": "Generated tailored application kit & cover letter (ionq_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8433,6 +8453,234 @@
       {
         "date": "2026-10-06",
         "action": "Lead added for Sr. Product Manager - Trading at Addepar (Pune District, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0d0c4130",
+    "company": "gropyus",
+    "role": "Head of Product Cost Optimization (m/w/d)",
+    "location": "Berlin, Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/gropyus/head-of-product-cost-optimization-berlin-berlin-102353",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-07",
+    "last_action_date": "2026-10-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-07",
+        "action": "Lead added for Head of Product Cost Optimization (m/w/d) at gropyus (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c7c403ed",
+    "company": "gropyus",
+    "role": "Head of Product Cost Optimization (all genders)",
+    "location": "Berlin, Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/gropyus/head-of-product-cost-optimization-all-genders-berlin-berlin-334435",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-07",
+    "last_action_date": "2026-10-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-07",
+        "action": "Lead added for Head of Product Cost Optimization (all genders) at gropyus (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b1811712",
+    "company": "Tether Operations Limited",
+    "role": "AI Technical Product Manager (QVAC) (100% remote)",
+    "location": "Remote job",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-technical-product-manager-qvac-100-remote-london-442071",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-07",
+    "last_action_date": "2026-10-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-07",
+        "action": "Lead added for AI Technical Product Manager (QVAC) (100% remote) at Tether Operations Limited (Remote job). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4d97e82c",
+    "company": "Tether Operations Limited",
+    "role": "Product Manager On-Ramp & Swap (100% remote)",
+    "location": "Remote job",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/product-manager-on-ramp-swap-100-remote-united-kindom-325337",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-07",
+    "last_action_date": "2026-10-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-07",
+        "action": "Lead added for Product Manager On-Ramp & Swap (100% remote) at Tether Operations Limited (Remote job). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_05c06aa3",
+    "company": "Binance",
+    "role": "Senior Product Manager",
+    "location": "United Kingdom, London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/binance/senior-product-manager-united-kingdom-london-203606",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-07",
+    "last_action_date": "2026-10-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-07",
+        "action": "Lead added for Senior Product Manager at Binance (United Kingdom, London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_36655659",
+    "company": "Checkatrade",
+    "role": "Senior Product Manager",
+    "location": "Moorgate London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/checkatrade/senior-product-manager-moorgate-446050",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-07",
+    "last_action_date": "2026-10-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-07",
+        "action": "Lead added for Senior Product Manager at Checkatrade (Moorgate London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d5594f5e",
+    "company": "Lemrock",
+    "role": "Founding Product Manager",
+    "location": "Paris (hybrid)",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/lemrock/founding-product-manager-paris-103492",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-07",
+    "last_action_date": "2026-10-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-07",
+        "action": "Lead added for Founding Product Manager at Lemrock (Paris (hybrid)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_92dca995",
+    "company": "Hubvisory",
+    "role": "Senior Product Manager - F/H",
+    "location": "Lille, Hauts-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/senior-product-manager-f-h-lille-434434",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-07",
+    "last_action_date": "2026-10-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-07",
+        "action": "Lead added for Senior Product Manager - F/H at Hubvisory (Lille, Hauts-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5fa49dd3",
+    "company": "Ekimetrics",
+    "role": "Product Owner (H/F/N)",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/product-owner-paris-343996",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-07",
+    "last_action_date": "2026-10-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-07",
+        "action": "Lead added for Product Owner (H/F/N) at Ekimetrics (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_62a2f211",
+    "company": "98Cd1A00 2706 4Aa8 Ab72 38A7B8C9C20C",
+    "role": "Staff Product Manager",
+    "location": "Switzerland - Zurich Office",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/staff-product-manager-zurich-132141",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-07",
+    "last_action_date": "2026-10-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-07",
+        "action": "Lead added for Staff Product Manager at 98Cd1A00 2706 4Aa8 Ab72 38A7B8C9C20C (Switzerland - Zurich Office). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_60ce3904",
+    "company": "Snyk",
+    "role": "Staff Product Manager",
+    "location": "Switzerland - Zurich Office",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/snyk/staff-product-manager-zurich-178566",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-07",
+    "last_action_date": "2026-10-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-07",
+        "action": "Lead added for Staff Product Manager at Snyk (Switzerland - Zurich Office). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1ad5dee4",
+    "company": "Wrike",
+    "role": "Group Product Manager  (Core)",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-07",
+    "last_action_date": "2026-10-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-07",
+        "action": "Lead added for Group Product Manager  (Core) at Wrike (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
