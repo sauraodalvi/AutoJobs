@@ -7137,14 +7137,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/awin/head-of-product-ai-enablement-london-229300",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-28",
-    "last_action_date": "2026-09-28",
+    "last_action_date": "2026-10-08",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-28",
         "action": "Lead added for Head of Product, AI Enablement (f/m/d) at Awin (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-08",
+        "action": "Generated tailored application kit & cover letter (Awin_Head_of_Product_AI_Enablement_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7156,14 +7160,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/product-manager-12-month-ftc-london-369950",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-28",
-    "last_action_date": "2026-09-28",
+    "last_action_date": "2026-10-08",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-28",
         "action": "Lead added for Product Manager (12 month FTC) at hellofresh (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-08",
+        "action": "Generated tailored application kit & cover letter (hellofresh_Product_Manager_12_month_FTC.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7198,14 +7206,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/super/senior-product-manager-sports-trading-435499",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-28",
-    "last_action_date": "2026-09-28",
+    "last_action_date": "2026-10-08",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-28",
         "action": "Lead added for Senior Product Manager - Sports Trading at Super (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-08",
+        "action": "Generated tailored application kit & cover letter (Super_Senior_Product_Manager_-_Sports_Trading.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7286,14 +7298,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/154154-product-lead-panel-recruitment-remote-eu-uk",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-29",
-    "last_action_date": "2026-09-29",
+    "last_action_date": "2026-10-08",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-29",
         "action": "Lead added for Product Lead, Panel & Recruitment (Remote, EU/UK) at Maze (Europe,  UK (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-08",
+        "action": "Generated tailored application kit & cover letter (Maze_Product_Lead_Panel_Recruitment_Remote_EU_UK.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7305,14 +7321,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/exclaimer/senior-product-manager-london-40046",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-29",
-    "last_action_date": "2026-09-29",
+    "last_action_date": "2026-10-08",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-29",
         "action": "Lead added for Senior Product Manager at Exclaimer (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-08",
+        "action": "Generated tailored application kit & cover letter (Exclaimer_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8681,6 +8701,63 @@
       {
         "date": "2026-10-07",
         "action": "Lead added for Group Product Manager  (Core) at Wrike (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b2fc0cea",
+    "company": "Synthesia",
+    "role": "Product Manager, Growth (Staff/Principal-level)",
+    "location": "Europe",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/product-manager-growth-staff-principal-level-london-300747",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-08",
+    "last_action_date": "2026-10-08",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-08",
+        "action": "Lead added for Product Manager, Growth (Staff/Principal-level) at Synthesia (Europe). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_00d2d8b6",
+    "company": "Elevenlabs",
+    "role": "Self-Serve Product Manager - ElevenCreative",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-self-serve-product-manager-elevencreative-277813",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-08",
+    "last_action_date": "2026-10-08",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-08",
+        "action": "Lead added for Self-Serve Product Manager - ElevenCreative at Elevenlabs (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_72151cd1",
+    "company": "Elevenlabs",
+    "role": "Enterprise Product Manager - ElevenCreative",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-424794",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-08",
+    "last_action_date": "2026-10-08",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-08",
+        "action": "Lead added for Enterprise Product Manager - ElevenCreative at Elevenlabs (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

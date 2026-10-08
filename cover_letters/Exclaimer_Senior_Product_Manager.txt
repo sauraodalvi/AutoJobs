@@ -1,0 +1,26 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager at Exclaimer
+Apply Link: https://www.arbeitnow.co.uk/jobs/companies/exclaimer/senior-product-manager-london-40046
+Date Generated: 2026-10-08
+============================================================
+
+**Saurao Dalvi**  
+London, UK | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi  
+
+Dear Hiring Manager,
+
+As an AI Product Manager with 3+ years of 0-to-1 experience building and scaling intelligent products, I’m excited to apply for the Senior Product Manager role at Exclaimer. My background spans shaping product roadmaps for AI-native SaaS platforms in drone autonomy, healthcare, and enterprise security—aligning closely with Exclaimer’s mission to empower businesses through smarter communication tools. Having led cross-functional teams to launch customer-facing AI solutions, I bring a proven ability to translate complex technology into clear product strategy and measurable business outcomes.
+
+In my current role as AI Product Manager & Forward Deployed Engineer at FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS platform that grew to ~$6K MRR. At CrelioHealth, I drove the roadmap for Smart Reports, increasing lab revenue by ~$2,000 MRR per lab while cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. I’ve also built internal developer CLIs, automated cross-app workflows using Python, Zapier, and Make, and launched AI products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2. As a Product Manager, I specialize in bridging technical innovation with user needs to deliver scalable, high-impact solutions—skills I’m eager to bring to Exclaimer’s growth strategy.
+
+I’m particularly drawn to Exclaimer’s focus on intelligent email signature and compliance solutions, and I’m confident my experience driving product-led growth in B2B SaaS environments can help accelerate your roadmap. I’d welcome the opportunity to discuss how I can contribute to Exclaimer’s continued success as your next Senior Product Manager.
+
+Best regards,  
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
