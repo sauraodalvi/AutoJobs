@@ -1,0 +1,36 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager - Remote at Sprinto
+Apply Link: https://www.linkedin.com/jobs/view/4471094313
+Date Generated: 2026-10-09
+============================================================
+
+The user wants a cover letter for Saurao Dalvi applying to Sprinto for a Product Manager - Remote role.
+Key constraints:
+- 3 paragraphs only.
+- ATS-optimized.
+- Specific keywords: "Product Manager" (must be woven in naturally).
+- Tone: Professional, confident, concise, high keyword density, zero fluff.
+- Paragraph 1: High-energy intro, AI PM, 3+ years 0-to-1, align with Sprinto vision.
+- Paragraph 2: Specific metrics (FlytBase, CrelioHealth, Sprinto), MRR, LLM workflows, turnaround cuts, keyword "Product Manager".
+- Paragraph 3: Call to action, enthusiasm for Sprinto growth.
+
+Candidate background check:
+- Currently/Recently at Sprinto (Enterprise Security SaaS) as AI Product Manager / Forward Deployed Engineer.
+- Previously FlytBase (Drone Autonomy) - built Prediq ($6K MRR).
+- Previously CrelioHealth (Healthcare SaaS) - Smart Reports ($2K MRR/lab), 58% reg time cut, 18% turnaround cut.
+- Side projects: Hidden Jobs, Stare V2, Elite PM.
+- Portfolio/LinkedIn provided.
+
+Strategy:
+- Since he is *at* Sprinto (or just left), the letter needs to frame this as "I know the product, the team, the pain points, and I'm ready to own the roadmap officially/permanently" or "I'm bringing my deep Sprinto domain knowledge + external 0-to-1 AI expertise to the core PM role."
+- The prompt says "Target Roles: Product Manager / APM / AI Product Manager" and "Key Highlights: ... enterprise security SaaS (Sprinto)".
+- The application is *to* Sprinto. I must assume he is applying internally or re-applying for a core PM role, or perhaps he was a contractor/FDE moving to core PM. I will write it as a strong internal/insider candidate pivoting to core Product Manager ownership.
+
+Drafting - Paragraph 1: Hook + Title
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

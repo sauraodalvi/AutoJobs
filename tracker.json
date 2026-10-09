@@ -7344,14 +7344,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/head-of-product-h-f-paris-221874",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-29",
-    "last_action_date": "2026-09-29",
+    "last_action_date": "2026-10-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-29",
         "action": "Lead added for Head of Product (H/F) at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-09",
+        "action": "Generated tailored application kit & cover letter (Thiga_Head_of_Product_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7363,14 +7367,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-product-manager-core-product-paris-392131",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-29",
-    "last_action_date": "2026-09-29",
+    "last_action_date": "2026-10-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-29",
         "action": "Lead added for Senior Product Manager, Core Product at Photoroom (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-09",
+        "action": "Generated tailored application kit & cover letter (Photoroom_Senior_Product_Manager_Core_Product.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7382,14 +7390,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/photoroom/staff-product-manager-agentic-ai-platform-paris-266066",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-29",
-    "last_action_date": "2026-09-29",
+    "last_action_date": "2026-10-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-29",
         "action": "Lead added for Staff Product Manager, Agentic & AI Platform at Photoroom (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-09",
+        "action": "Generated tailored application kit & cover letter (Photoroom_Staff_Product_Manager_Agentic_AI_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7420,14 +7432,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-product-manager-finance-fpa-lille-jardin-des-plantes-nord-paris-paris-188997",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-29",
-    "last_action_date": "2026-09-29",
+    "last_action_date": "2026-10-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-29",
         "action": "Lead added for Data Product Manager - Finance FP&A (f/m/d) at Decathlontechnology (Lille - Jardin des Plantes, Nord; Paris, Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-09",
+        "action": "Generated tailored application kit & cover letter (Decathlontechnology_Data_Product_Manager_-_Finance_FP_A_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7439,14 +7455,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4471094313",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-29",
-    "last_action_date": "2026-09-29",
+    "last_action_date": "2026-10-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-29",
         "action": "Lead added for Product Manager - Remote at Sprinto (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-09",
+        "action": "Generated tailored application kit & cover letter (Sprinto_Product_Manager_-_Remote.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8758,6 +8778,44 @@
       {
         "date": "2026-10-08",
         "action": "Lead added for Enterprise Product Manager - ElevenCreative at Elevenlabs (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_61b802ac",
+    "company": "Superchat",
+    "role": "Technical Product Owner | Integrations (m/f/d)",
+    "location": "Berlin, Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/superchat/technical-product-owner-integrations-berlin-berlin-473381",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-09",
+    "last_action_date": "2026-10-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-09",
+        "action": "Lead added for Technical Product Owner | Integrations (m/f/d) at Superchat (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_fe179571",
+    "company": "DeepJudge",
+    "role": "Agentic Product Manager",
+    "location": "Zurich HQ",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/deepjudge/agentic-product-manager-zurich-172987",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-09",
+    "last_action_date": "2026-10-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-09",
+        "action": "Lead added for Agentic Product Manager at DeepJudge (Zurich HQ). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
