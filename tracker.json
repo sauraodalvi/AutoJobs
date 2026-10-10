@@ -7413,14 +7413,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-product-manager-smb-e-commerce-growth-paris-116123",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-29",
-    "last_action_date": "2026-09-29",
+    "last_action_date": "2026-10-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-29",
         "action": "Lead added for Senior Product Manager, SMB e-commerce Growth at Photoroom (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-10",
+        "action": "Generated tailored application kit & cover letter (Photoroom_Senior_Product_Manager_SMB_e-commerce_Growth.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7478,14 +7482,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4471296813",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-29",
-    "last_action_date": "2026-09-29",
+    "last_action_date": "2026-10-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-29",
         "action": "Lead added for Product Manager at BoltPe (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-10",
+        "action": "Generated tailored application kit & cover letter (BoltPe_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7497,14 +7505,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4429967609",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-29",
-    "last_action_date": "2026-09-29",
+    "last_action_date": "2026-10-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-29",
         "action": "Lead added for Product Manager (Core Platform and Infrastructure) at Sibros (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-10",
+        "action": "Generated tailored application kit & cover letter (Sibros_Product_Manager_Core_Platform_and_Infrastructure.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7516,14 +7528,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/product-manager-new-product-bet-principal-level-london-454783",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-30",
-    "last_action_date": "2026-09-30",
+    "last_action_date": "2026-10-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-30",
         "action": "Lead added for Product Manager, New Product Bet (Principal-level) at Synthesia (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-10",
+        "action": "Generated tailored application kit & cover letter (Synthesia_Product_Manager_New_Product_Bet_Principal-level.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7535,14 +7551,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/product-manager-ads-london-451258",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-30",
-    "last_action_date": "2026-09-30",
+    "last_action_date": "2026-10-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-30",
         "action": "Lead added for Product Manager, Ads at Deliveroo (London, England, United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-10",
+        "action": "Generated tailored application kit & cover letter (Deliveroo_Product_Manager_Ads.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8816,6 +8836,196 @@
       {
         "date": "2026-10-09",
         "action": "Lead added for Agentic Product Manager at DeepJudge (Zurich HQ). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6f359464",
+    "company": "JustPlay GmbH",
+    "role": "Senior Product Manager - Meta (all genders)",
+    "location": "Berlin (Hybrid)",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/senior-product-manager-meta-all-genders-berlin-272623",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-10",
+    "last_action_date": "2026-10-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-10",
+        "action": "Lead added for Senior Product Manager - Meta (all genders) at JustPlay GmbH (Berlin (Hybrid)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ab330480",
+    "company": "Mamahealth",
+    "role": "Product Manager (m/f/d) - For Relentlessly Ambitious People",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/mamahealth/product-manager-for-relentlessly-ambitious-people-berlin-160518",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-10",
+    "last_action_date": "2026-10-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-10",
+        "action": "Lead added for Product Manager (m/f/d) - For Relentlessly Ambitious People at Mamahealth (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_65a596b2",
+    "company": "Bridgemaker GmbH",
+    "role": "Product Manager Grower Experience (m/w/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bridgemaker-gmbh/product-manager-grower-experience-berlin-255327",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-10",
+    "last_action_date": "2026-10-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-10",
+        "action": "Lead added for Product Manager Grower Experience (m/w/d) at Bridgemaker GmbH (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e280a4cc",
+    "company": "Dr. Ansay Ltd.",
+    "role": "Head of Product (m/w/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/dr-ansay-ltd/head-of-product-berlin-391926",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-10",
+    "last_action_date": "2026-10-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-10",
+        "action": "Lead added for Head of Product (m/w/d) at Dr. Ansay Ltd. (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e02bccb9",
+    "company": "Checkout.com",
+    "role": "Group Product Manager, Fraud",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/group-product-manager-fraud-london-407785",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-10",
+    "last_action_date": "2026-10-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-10",
+        "action": "Lead added for Group Product Manager, Fraud at Checkout.com (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_05e58b8b",
+    "company": "Qonto",
+    "role": "Senior Product Manager - Public APIs",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/qonto/senior-product-manager-public-apis-paris-171863",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-10",
+    "last_action_date": "2026-10-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-10",
+        "action": "Lead added for Senior Product Manager - Public APIs at Qonto (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d923198f",
+    "company": "Decathlontechnology",
+    "role": "Product Manager - Ecommerce Categories (f/m/d)",
+    "location": "Paris, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/product-manager-ecommerce-categories-paris-paris-471403",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-10",
+    "last_action_date": "2026-10-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-10",
+        "action": "Lead added for Product Manager - Ecommerce Categories (f/m/d) at Decathlontechnology (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_42ee7b99",
+    "company": "Voodoo",
+    "role": "Senior Data Product Manager - Growth",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/voodoo/senior-data-product-manager-growth-paris-280196",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-10",
+    "last_action_date": "2026-10-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-10",
+        "action": "Lead added for Senior Data Product Manager - Growth at Voodoo (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_882bbea7",
+    "company": "Vivid",
+    "role": "Senior Product Manager",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/vivid/remote-senior-product-manager-146998",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-10",
+    "last_action_date": "2026-10-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-10",
+        "action": "Lead added for Senior Product Manager at Vivid (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_084a4ac0",
+    "company": "Rapinno Tech",
+    "role": "Lead Technical Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-10",
+    "last_action_date": "2026-10-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-10",
+        "action": "Lead added for Lead Technical Product Manager at Rapinno Tech (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
