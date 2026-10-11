@@ -2,6 +2,20 @@
 COVER LETTER & APPLICATION KIT
 Target: Knit - Lead Product Manager at Eleve Talent
 Apply Link: https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-lead-product-manager-115209
-Date Generated: 2026-10-10
+Date Generated: 2026-10-11
 ============================================================
 
+Saurao Dalvi  
+Pune, Maharashtra | +91-XXXXXXXXXX | saurao.dalvi@email.com | https://sauraodalvi.netlify.app/ | https://www.linkedin.com/in/saurao-dalvi/
+
+**Hiring Team, Eleve Talent**
+
+As an **AI Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am writing to express strong interest in the **Knit - Lead Product Manager** role at Eleve Talent. My background aligns directly with your need for a **Product Manager** who thrives in ambiguity, ships AI-native products from concept to revenue, and bridges deep technical architecture with user-centric product strategy. Having built and scaled LLM-powered workflows, agentic systems, and developer-facing tooling in high-velocity remote environments, I am prepared to drive immediate impact on Knit’s product vision.
+
+In my current role as **AI Product Manager & Forward Deployed Engineer at FlytBase**, I owned the complete lifecycle of **Prediq**, a 0-to-1 AI drone SaaS platform, scaling it to **~$6K MRR** by defining the roadmap, leading cross-functional engineering/design sprints, and managing direct enterprise deployments. Previously, as a **Product Manager at CrelioHealth**, I launched **Smart Reports**, generating **~$2,000 MRR per lab**, while architecting custom AI prompt pipelines that **cut patient registration time by 58% and sample turnaround by 18%**. At Sprinto, I drove compliance automation features for a **Product Manager**-critical security platform, and independently shipped **Hidden Jobs** (indexing
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

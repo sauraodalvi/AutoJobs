@@ -2,6 +2,17 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager (Radiotech) at Gismart
 Apply Link: https://www.arbeitnow.com/jobs/companies/gismart/remote-product-manager-radiotech-120708
-Date Generated: 2026-10-01
+Date Generated: 2026-10-11
 ============================================================
 
+I am a Product Manager with over three years of hands‑on experience building AI‑first products from zero to market, directly aligning with Gismart’s vision for innovative radiotech solutions. My background spans drone autonomy, healthcare SaaS, and enterprise security, where I have consistently shaped product roadmaps, defined go‑to‑market strategies, and led cross‑functional teams to launch 0‑to‑1 offerings that generate measurable revenue. Based in a remote‑first environment, I thrive in distributed collaborations and am ready to contribute immediately to Gismart’s product growth.
+
+In my most recent role as Product Manager at FlytBase, I owned the end‑to‑end roadmap for Prediq, an AI drone SaaS that grew to ~$6K MRR within its first year, and engineered LLM‑powered workflows that cut patient registration time by 58% and sample turnaround by 18% at CrelioHealth. At Sprinto, I increased lab revenue by $2K MRR per lab through Smart Reports, while also building internal developer CLIs and automating complex cross‑app processes with Python, Zapier, and Make. These initiatives delivered clear ROI, expanded market reach, and demonstrated my ability to scale products and drive sustainable MRR growth.
+
+I am excited about the opportunity to bring my proven track record of launching high‑impact AI products and optimizing product metrics to Gismart’s Radiotech platform. Let’s discuss how my experience as a Product Manager can accelerate your roadmap, enhance customer value, and deliver measurable growth for your remote team.
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

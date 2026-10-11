@@ -7612,14 +7612,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4471919083",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-30",
-    "last_action_date": "2026-09-30",
+    "last_action_date": "2026-10-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-30",
         "action": "Lead added for Senior Android SW Product Manager at Qualcomm (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-11",
+        "action": "Generated tailored application kit & cover letter (Qualcomm_Senior_Android_SW_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7631,14 +7635,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/154341-senior-clinical-product-lead-100-remote-within-europe",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-01",
-    "last_action_date": "2026-10-01",
+    "last_action_date": "2026-10-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-01",
         "action": "Lead added for Senior Clinical Product Lead | 100% Remote within Europe at Docplanner (Europe (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-11",
+        "action": "Generated tailored application kit & cover letter (Docplanner_Senior_Clinical_Product_Lead_100_Remote_within_Europe.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7650,14 +7658,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/xalt-business-consulting-gmbh/product-manager-business-analyst-enterprise-banking-munich-451298",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-01",
-    "last_action_date": "2026-10-01",
+    "last_action_date": "2026-10-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-01",
         "action": "Lead added for Product Manager / Business Analyst (m/w/d) - Enterprise Banking at XALT Business Consulting GmbH (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-11",
+        "action": "Generated tailored application kit & cover letter (XALT_Business_Consulting_GmbH_Product_Manager_Business_Analyst_m_w_d_-_Enterprise_Banking.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7669,14 +7681,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-product-manager-crm-monopoly-go-32460",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-01",
-    "last_action_date": "2026-10-01",
+    "last_action_date": "2026-10-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-01",
         "action": "Lead added for Senior Product Manager, CRM - MONOPOLY GO! at Scopely (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-11",
+        "action": "Generated tailored application kit & cover letter (Scopely_Senior_Product_Manager_CRM_-_MONOPOLY_GO.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7688,14 +7704,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/product-manager-london-4482",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-01",
-    "last_action_date": "2026-10-01",
+    "last_action_date": "2026-10-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-01",
         "action": "Lead added for Product Manager at Globalwebindex (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-11",
+        "action": "Generated tailored application kit & cover letter (Globalwebindex_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9026,6 +9046,101 @@
       {
         "date": "2026-10-10",
         "action": "Lead added for Lead Technical Product Manager at Rapinno Tech (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_85353803",
+    "company": "N8N",
+    "role": "Senior Product Manager (Licensing & Billing)",
+    "location": "Berlin Office",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-product-manager-licensing-billing-berlin-412194",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-11",
+    "last_action_date": "2026-10-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-11",
+        "action": "Lead added for Senior Product Manager (Licensing & Billing) at N8N (Berlin Office). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d19958ef",
+    "company": "Rematiq Gmbh",
+    "role": "Product Lead",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/rematiq-gmbh/product-lead-berlin-92071",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-11",
+    "last_action_date": "2026-10-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-11",
+        "action": "Lead added for Product Lead at Rematiq Gmbh (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3fb73ab6",
+    "company": "Apexx",
+    "role": "Senior Product Manager - Self-Service & Onboarding",
+    "location": "London HQ",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/apexx/senior-product-manager-self-service-onboarding-farringdon-10867",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-11",
+    "last_action_date": "2026-10-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-11",
+        "action": "Lead added for Senior Product Manager - Self-Service & Onboarding at Apexx (London HQ). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ceb3d7bd",
+    "company": "Naturida",
+    "role": "Freelance Product Manager (m/w/d)",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/naturida/remote-freelance-product-manager-3910",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-11",
+    "last_action_date": "2026-10-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-11",
+        "action": "Lead added for Freelance Product Manager (m/w/d) at Naturida (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_28cf0aac",
+    "company": "Junior Data Scientist - Downstream Demand Forecast - Value Chain ...",
+    "role": "Product Manager - Ecommerce Categories (f/m/d)",
+    "location": "Paris, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/product-manager-ecommerce-categories-paris-paris-74966",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-11",
+    "last_action_date": "2026-10-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-11",
+        "action": "Lead added for Product Manager - Ecommerce Categories (f/m/d) at Junior Data Scientist - Downstream Demand Forecast - Value Chain ... (Paris, Paris). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

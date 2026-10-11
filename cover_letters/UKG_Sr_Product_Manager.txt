@@ -2,17 +2,13 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-10-10
+Date Generated: 2026-10-11
 ============================================================
 
-Saurao Dalvi  
-Pune, Maharashtra | +91-XXXXXXXXXX | saurao.dalvi@email.com | linkedin.com/in/saurao-dalvi | sauraodalvi.netlify.app  
+**Saurao Dalvi**  
+Product Manager | AI & Automation Leader | 3+ Years 0‑to‑1 Experience  
 
-**Hiring Team, UKG**  
-
-As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am energized by UKG’s mission to inspire every organization to become a great place to work through HCM innovation. My background building agentic LLM workflows, developer-facing CLIs, and AI-native SaaS products—from concept to revenue—aligns directly with your need for a **Product Manager** who can navigate ambiguity, own complex technical roadmaps, and deliver measurable business outcomes for a global workforce platform.
-
-At FlytBase, I owned the end-to-end lifecycle of **Prediq**, an AI drone SaaS platform, scaling it to ~$6K MRR by defining pricing, GTM strategy, and cross-functional delivery across engineering, sales, and support. At CrelioHealth, I led the **Product Manager** roadmap for Smart Reports, driving ~$2,000 MRR per lab and architecting custom AI prompt pipelines that slashed patient registration time by 58% and sample turnaround by 18%. At Sprinto, I automated complex compliance workflows using Python, Zapier, and Make, while independently launching Hidden Jobs (indexing 50K+ live ATS roles) and Stare V2—demonstrating consistent ability to ship high-impact AI products that reduce
+I am an AI‑focused Product Manager with over three years of proven success building products from concept to revenue‑generating launch. At FlytBase I owned the 0‑to‑1 roadmap for Prediq, an AI‑native drone SaaS that grew to ≈ $6K MRR, and I have consistently aligned cross‑functional teams with market needs to deliver high‑impact solutions. My experience in shaping product roadmaps, leading developer‑centric teams,
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
