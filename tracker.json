@@ -7574,14 +7574,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/idnow/senior-product-manager-trust-platform-digital-identies-1-year-fixed-contract-paris-paris-rennes-ille-et-vilaine-169392",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-30",
-    "last_action_date": "2026-09-30",
+    "last_action_date": "2026-10-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-30",
         "action": "Lead added for (Senior) Product Manager, Trust Platform- Digital Identies (f/m/d) - 1 year fixed contract at idnow (Paris, Paris; Rennes, Ille-et-Vilaine). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-12",
+        "action": "Generated tailored application kit & cover letter (idnow_Senior_Product_Manager_Trust_Platform-_Digital_Identies_f_m_d_-_1_year_fixed_contract.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7593,14 +7597,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4473704863",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-09-30",
-    "last_action_date": "2026-09-30",
+    "last_action_date": "2026-10-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-09-30",
         "action": "Lead added for Senior Product Manager at The Sleep Company (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-12",
+        "action": "Generated tailored application kit & cover letter (The_Sleep_Company_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7727,14 +7735,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/verifone/product-manager-hardware-london-301435",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-01",
-    "last_action_date": "2026-10-01",
+    "last_action_date": "2026-10-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-01",
         "action": "Lead added for Product Manager - Hardware at Verifone (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-12",
+        "action": "Generated tailored application kit & cover letter (Verifone_Product_Manager_-_Hardware.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7746,14 +7758,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/encord/product-lead-london-308919",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-01",
-    "last_action_date": "2026-10-01",
+    "last_action_date": "2026-10-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-01",
         "action": "Lead added for Product Lead at Encord (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-12",
+        "action": "Generated tailored application kit & cover letter (Encord_Product_Lead.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7765,14 +7781,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/staff-product-manager-decathlon-app-permanent-cdi-paris-paris-56755",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-01",
-    "last_action_date": "2026-10-01",
+    "last_action_date": "2026-10-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-01",
         "action": "Lead added for Staff Product Manager - Decathlon App [Permanent - CDI] (f/m/d) at Decathlontechnology (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-12",
+        "action": "Generated tailored application kit & cover letter (Decathlontechnology_Staff_Product_Manager_-_Decathlon_App_Permanent_-_CDI_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9141,6 +9161,82 @@
       {
         "date": "2026-10-11",
         "action": "Lead added for Product Manager - Ecommerce Categories (f/m/d) at Junior Data Scientist - Downstream Demand Forecast - Value Chain ... (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4fd55c2c",
+    "company": "Smartsheet",
+    "role": "Senior Product Manager II, Developer ecosystem MCP (Remote from UK)",
+    "location": "UK (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/155065-senior-product-manager-ii-developer-ecosystem-mcp-remote-from-uk",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-12",
+    "last_action_date": "2026-10-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-12",
+        "action": "Lead added for Senior Product Manager II, Developer ecosystem MCP (Remote from UK) at Smartsheet (UK (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9f181737",
+    "company": "Eunetworks",
+    "role": "Product Manager Ultra Low Latency Networks",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/eunetworks/product-manager-ultra-low-latency-networks-london-387300",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-12",
+    "last_action_date": "2026-10-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-12",
+        "action": "Lead added for Product Manager Ultra Low Latency Networks at Eunetworks (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1e204c2e",
+    "company": "Calmlife",
+    "role": "Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/calmlife/product-manager-london-378693",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-12",
+    "last_action_date": "2026-10-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-12",
+        "action": "Lead added for Product Manager at Calmlife (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6ae3268c",
+    "company": "Talos Trading",
+    "role": "Senior Product Manager, Trading Connectivity",
+    "location": "London, Cyprus",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/senior-product-manager-trading-connectivity-london-cyprus-304370",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-12",
+    "last_action_date": "2026-10-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-12",
+        "action": "Lead added for Senior Product Manager, Trading Connectivity at Talos Trading (London, Cyprus). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

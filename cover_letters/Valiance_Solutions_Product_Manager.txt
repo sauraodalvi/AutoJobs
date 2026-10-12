@@ -2,22 +2,6 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager at Valiance Solutions
 Apply Link: https://www.linkedin.com/jobs/view/4454516367
-Date Generated: 2026-10-11
+Date Generated: 2026-10-12
 ============================================================
 
-Saurao Dalvi  
-sauraodalvi.netlify.app | LinkedIn: saurao-dalvi  
-
-Hiring Team, Valiance Solutions  
-
-As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am writing to drive product growth for Valiance Solutions. My background sits at the intersection of deep technical implementation—building LLM-powered workflows, agentic systems, and developer CLIs—and commercial ownership, having defined roadmaps that translate complex AI capabilities into recurring revenue streams. I thrive in remote-first, high-autonomy environments where rapid iteration and technical depth dictate product velocity.
-
-At FlytBase, I owned the full lifecycle of **Prediq**, an AI drone SaaS platform, scaling it to ~$6K MRR by shipping computer vision pipelines and automation workflows from concept to paying customers. At CrelioHealth, I led the **Product Manager** roadmap for Smart Reports, generating ~$2,000 MRR per lab while cutting patient registration time by 58% and sample turnaround by 18% via custom AI prompt engineering. At Sprinto, I automated cross-functional security compliance workflows using Python, Zapier, and Make, reducing manual audit overhead by 40%. Across every role, I have functioned as a forward-deployed engineer-PM hybrid—writing specs, coding prototypes, and negotiating enterprise contracts to de-risk delivery.
-
-I am eager to bring this builder mindset to Valiance Solutions and discuss how my experience shipping revenue-generating
-
-============================================================
-CANDIDATE CONTACT SUMMARY:
-Name: Saurao Dalvi
-Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
