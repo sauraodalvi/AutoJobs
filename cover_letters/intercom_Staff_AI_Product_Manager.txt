@@ -2,22 +2,6 @@
 COVER LETTER & APPLICATION KIT
 Target: Staff AI Product Manager at intercom
 Apply Link: https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-ai-product-manager-london-329323
-Date Generated: 2026-09-30
+Date Generated: 2026-10-13
 ============================================================
 
-Dear Hiring Manager,
-
-I am writing to express my strong interest in the Staff AI Product Manager position at Intercom in London. With over 3 years of hands-on experience as an AI Product Manager and AI Engineer, I have successfully launched multiple AI-native products from concept to market, achieving significant traction and revenue growth. My background aligns closely with Intercom's vision of transforming customer communication through intelligent automation, having previously owned the 0-to-1 roadmap for Prediq (AI drone SaaS) at FlytBase where I grew the product to $6K MRR, and led the development of Smart Reports at CrelioHealth which increased lab revenue by $2,000 MRR per lab.
-
-Throughout my career, I have demonstrated exceptional ability to drive product outcomes as a Product Manager, consistently delivering measurable impact through AI innovation. At FlytBase, I built and launched Hidden Jobs (indexing 50K+ live ATS jobs) and Stare V2, while at CrelioHealth I reduced patient registration time by 58% and sample turnaround by 18% through custom AI prompt pipelines. My experience spans across healthcare SaaS, enterprise security, and drone autonomy, where I developed LLM-powered workflows, agentic systems, and internal developer CLIs that automated complex cross-app processes. As an Ai Product Manager, I have collaborated with cross-functional teams to ship customer-facing AI/automation solutions that generate real business value.
-
-I am excited about the opportunity to bring my proven track record of scaling AI products to Intercom and contribute to advancing your customer communication platform. I would welcome the chance to discuss how my experience launching AI products that drive measurable growth can support Intercom's strategic objectives. Thank you for your consideration, and I look forward to hearing from you soon.
-
-Sincerely,
-Saurao Dalvi
-
-============================================================
-CANDIDATE CONTACT SUMMARY:
-Name: Saurao Dalvi
-Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

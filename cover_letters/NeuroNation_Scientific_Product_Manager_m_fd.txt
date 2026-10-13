@@ -1,0 +1,36 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Scientific Product Manager (m/fd) at NeuroNation
+Apply Link: https://www.arbeitnow.com/jobs/companies/neuronation/scientific-product-manager-m-fd-berlin-291730
+Date Generated: 2026-10-13
+============================================================
+
+[Your Name]
+[Your Phone Number] | [Your Email]
+[Your LinkedIn Profile] | [Your Portfolio Link]
+
+[Date]
+
+Hiring Manager, Product Team
+NeuroNation
+Berlin, Germany (Remote/Hybrid)
+
+**RE: Scientific Product Manager (m/fd) Application**
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Scientific Product Manager position at NeuroNation. As an AI Product Manager and Engineer with over three years of experience building 0-to-1 products, I specialize in bridging the gap between complex technical capabilities and user-centric scientific value. Having scaled AI-native solutions across drone autonomy and healthcare SaaS, I am eager to apply my expertise in agentic systems and LLM-powered workflows to enhance NeuroNation’s cognitive training ecosystem and drive evidence-based product growth.
+
+Throughout my career, I have consistently delivered high-impact results by operating as a technical Product Manager who can both define the roadmap and execute the build. At FlytBase, I owned the 0-to-1 launch of Prediq (AI drone SaaS), scaling it to ~$6K MRR. In the healthcare space at CrelioHealth, I led the roadmap for Smart Reports, which increased lab revenue by ~$2,000 MRR per facility. By architecting custom AI prompt pipelines, I successfully reduced patient registration time by 58% and sample turnaround by 18%. My experience across Sprinto and my own AI ventures—such as Hidden Jobs—demonstrates my ability to translate sophisticated data into scalable, consumer-facing products.
+
+I am impressed by NeuroNation’s commitment to scientific rigor in brain training and am confident that my background in deploying AI-driven automation and data-centric products will be a significant asset to your team. I am eager to discuss how my experience as a Product Manager can help NeuroNation optimize its scientific offerings and accelerate user outcomes. Thank you for your time and consideration.
+
+Sincerely,
+
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

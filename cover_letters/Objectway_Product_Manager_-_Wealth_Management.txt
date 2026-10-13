@@ -2,10 +2,18 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager - Wealth Management at Objectway
 Apply Link: https://www.arbeitnow.co.uk/jobs/companies/objectway/product-manager-wealth-management-london-215372
-Date Generated: 2026-09-30
+Date Generated: 2026-10-13
 ============================================================
 
-User Safety: safe
+Saurao Dalvi  
+Pune, Maharashtra | +91-XXXXXXXXXX | saurao.dalvi@email.com | linkedin.com/in/saurao-dalvi | sauraodalvi.netlify.app  
+
+**Hiring Team, Objectway**  
+**Re: Product Manager - Wealth Management (London)**
+
+As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am applying to drive the next generation of wealth management solutions at Objectway. My background building LLM-native products, agentic workflows, and developer-facing platforms aligns directly with your mission to modernize financial infrastructure through AI and automation. Having launched **Prediq**—an AI drone SaaS product scaling to $6K MRR—and architected **Hidden Jobs** (indexing 50K+ live ATS roles), I bring a proven ability to translate complex technical capabilities into compliant, revenue-generating products for regulated markets.
+
+In my current role as AI **Product Manager** & Forward Deployed Engineer at FlytBase, I own the full lifecycle of AI/automation roadmaps, collaborating with engineering, sales, and enterprise customers to ship high-stakes autonomy features. Previously at CrelioHealth, I owned the **Product Manager** roadmap for Smart Reports, increasing lab revenue by ~$2,000 MRR per client and cutting sample turnaround by 18% via custom LLM prompt pipelines; at Sprinto, I reduced audit evidence collection by 40% through automated evidence mapping. I combine deep technical fluency (Python, LLMs, RAG, CLI tooling) with commercial rigor
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

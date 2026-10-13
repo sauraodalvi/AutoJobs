@@ -7804,14 +7804,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/neuronation/scientific-product-manager-m-fd-berlin-291730",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-02",
-    "last_action_date": "2026-10-02",
+    "last_action_date": "2026-10-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-02",
         "action": "Lead added for Scientific Product Manager (m/fd) at NeuroNation (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-13",
+        "action": "Generated tailored application kit & cover letter (NeuroNation_Scientific_Product_Manager_m_fd.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7842,14 +7846,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/workflow-product-owner-germany-austria-spain-italy-hungary-portugal-croatia-poland-173215",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-02",
-    "last_action_date": "2026-10-02",
+    "last_action_date": "2026-10-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-02",
         "action": "Lead added for Workflow Product Owner (f/m/d) at ecosio (Germany, Austria, Spain, Italy, Hungary, Portugal, Croatia, Poland). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-13",
+        "action": "Generated tailored application kit & cover letter (ecosio_Workflow_Product_Owner_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7899,14 +7907,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/avenir-collective/head-of-product-london-402384",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-02",
-    "last_action_date": "2026-10-02",
+    "last_action_date": "2026-10-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-02",
         "action": "Lead added for Head of Product at Avenir Collective (London, Greater London, United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-13",
+        "action": "Generated tailored application kit & cover letter (Avenir_Collective_Head_of_Product.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7918,14 +7930,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/yubo/senior-product-manager-paris-478825",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-02",
-    "last_action_date": "2026-10-02",
+    "last_action_date": "2026-10-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-02",
         "action": "Lead added for Senior Product Manager - Paris at Yubo (Paris - Full Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-13",
+        "action": "Generated tailored application kit & cover letter (Yubo_Senior_Product_Manager_-_Paris.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7994,14 +8010,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/thinkcellsoftware/principal-product-manager-ai-product-6969",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Principal Product Manager (AI Product) (f/m/d) at thinkcellsoftware (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-13",
+        "action": "Generated tailored application kit & cover letter (thinkcellsoftware_Principal_Product_Manager_AI_Product_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9237,6 +9257,158 @@
       {
         "date": "2026-10-12",
         "action": "Lead added for Senior Product Manager, Trading Connectivity at Talos Trading (London, Cyprus). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_cca8d8a1",
+    "company": "cbs Corporate Business Solutions GmbH",
+    "role": "Product Manager SAP & Finance Prozessberatung (m/w/d)",
+    "location": "Heidelberg, Baden-Württemberg, Deutschland",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/product-manager-sap-finance-prozessberatung-heidelberg-310324",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-13",
+    "last_action_date": "2026-10-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-13",
+        "action": "Lead added for Product Manager SAP & Finance Prozessberatung (m/w/d) at cbs Corporate Business Solutions GmbH (Heidelberg, Baden-Württemberg, Deutschland). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b28246ba",
+    "company": "cbs Corporate Business Solutions GmbH",
+    "role": "Product Manager SAP Transformation Consulting (m/w/d)",
+    "location": "Heidelberg, Baden-Württemberg, Deutschland",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/product-manager-sap-transformation-consulting-heidelberg-332106",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-13",
+    "last_action_date": "2026-10-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-13",
+        "action": "Lead added for Product Manager SAP Transformation Consulting (m/w/d) at cbs Corporate Business Solutions GmbH (Heidelberg, Baden-Württemberg, Deutschland). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_84e57069",
+    "company": "Piabo",
+    "role": "Head of Product & Technology (AI) (m/w/d)",
+    "location": "Berlin (B)",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/piabo/head-of-product-technology-ai-berlin-b-235855",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-13",
+    "last_action_date": "2026-10-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-13",
+        "action": "Lead added for Head of Product & Technology (AI) (m/w/d) at Piabo (Berlin (B)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_343b025f",
+    "company": "Junior Data Scientist - Downstream Demand Forecast - Value Chain ...",
+    "role": "Staff Product Manager - E-Commerce Web Upper Funnel [CDI] (f/m/d)",
+    "location": "Paris, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/staff-product-manager-e-commerce-web-upper-funnel-cdi-paris-paris-207102",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-13",
+    "last_action_date": "2026-10-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-13",
+        "action": "Lead added for Staff Product Manager - E-Commerce Web Upper Funnel [CDI] (f/m/d) at Junior Data Scientist - Downstream Demand Forecast - Value Chain ... (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_50418ccf",
+    "company": "unframe",
+    "role": "Product Manager (English/French)",
+    "location": "Paris, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/unframe/product-manager-english-french-paris-paris-329036",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-13",
+    "last_action_date": "2026-10-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-13",
+        "action": "Lead added for Product Manager (English/French) at unframe (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e7bfc622",
+    "company": "Maze",
+    "role": "Senior Product Manager, Panel (Remote, EU/UK)",
+    "location": "Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/maze/senior-product-manager-panel-remote-eu-uk-netherlands-212014",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-13",
+    "last_action_date": "2026-10-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-13",
+        "action": "Lead added for Senior Product Manager, Panel (Remote, EU/UK) at Maze (Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6f12c53a",
+    "company": "Clickhouse",
+    "role": "Sr. Product Manager - ClickStack",
+    "location": "The Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/clickhouse/sr-product-manager-clickstack-the-netherlands-461742",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-13",
+    "last_action_date": "2026-10-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-13",
+        "action": "Lead added for Sr. Product Manager - ClickStack at Clickhouse (The Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3671f0d1",
+    "company": "Clickhouse",
+    "role": "Principal Product Manager, Security",
+    "location": "The Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/clickhouse/principal-product-manager-security-the-netherlands-269227",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-13",
+    "last_action_date": "2026-10-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-13",
+        "action": "Lead added for Principal Product Manager, Security at Clickhouse (The Netherlands). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
