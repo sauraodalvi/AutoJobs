@@ -7827,14 +7827,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/neuronation/junior-product-manager-mfd-berlin-176442",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-02",
-    "last_action_date": "2026-10-02",
+    "last_action_date": "2026-10-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-02",
         "action": "Lead added for Junior Product Manager (m,f,d) at NeuroNation (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-14",
+        "action": "Generated tailored application kit & cover letter (NeuroNation_Junior_Product_Manager_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7869,14 +7873,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/loveholidays/lead-product-manager-bookings-london-191646",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-02",
-    "last_action_date": "2026-10-02",
+    "last_action_date": "2026-10-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-02",
         "action": "Lead added for Lead Product Manager - Bookings at loveholidays (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-14",
+        "action": "Generated tailored application kit & cover letter (loveholidays_Lead_Product_Manager_-_Bookings.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7888,14 +7896,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/loveholidays/lead-product-manager-trading-london-479946",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-02",
-    "last_action_date": "2026-10-02",
+    "last_action_date": "2026-10-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-02",
         "action": "Lead added for Lead Product Manager - Trading at loveholidays (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-14",
+        "action": "Generated tailored application kit & cover letter (loveholidays_Lead_Product_Manager_-_Trading.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7972,14 +7984,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/proglove/product-manager-android-integration-ecosystem-munich-office-6532",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Product Manager - Android Integration & Ecosystem at Proglove (Munich Office). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-14",
+        "action": "Generated tailored application kit & cover letter (Proglove_Product_Manager_-_Android_Integration_Ecosystem.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -7991,14 +8007,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/exolaunch/product-manager-exotube-berlin-germany-328690",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Product Manager - EXOtube at Exolaunch (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-14",
+        "action": "Generated tailored application kit & cover letter (Exolaunch_Product_Manager_-_EXOtube.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9409,6 +9429,177 @@
       {
         "date": "2026-10-13",
         "action": "Lead added for Principal Product Manager, Security at Clickhouse (The Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3e06938d",
+    "company": "Veriff",
+    "role": "Senior Technical Product Manager (Biometric Authentication)",
+    "location": "Spain,  UK,  USA (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/153165-senior-technical-product-manager-biometric-authentication",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-14",
+    "last_action_date": "2026-10-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-14",
+        "action": "Lead added for Senior Technical Product Manager (Biometric Authentication) at Veriff (Spain,  UK,  USA (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a67912b9",
+    "company": "Gomotive",
+    "role": "Staff Product Manager",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/gomotive/staff-product-manager-235537",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-14",
+    "last_action_date": "2026-10-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-14",
+        "action": "Lead added for Staff Product Manager at Gomotive (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8a15b1f1",
+    "company": "Alphasense",
+    "role": "Copy of Product Manager, New Content Initiatives and Analysis",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/copy-of-product-manager-new-content-initiatives-and-analysis-199763",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-14",
+    "last_action_date": "2026-10-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-14",
+        "action": "Lead added for Copy of Product Manager, New Content Initiatives and Analysis at Alphasense (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5e5fbd92",
+    "company": "Exotec",
+    "role": "Product Owner (Microsoft, Koddex, outils collaboratifs)",
+    "location": "Lille, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/exotec/product-owner-microsoft-koddex-outils-collaboratifs-lille-324336",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-14",
+    "last_action_date": "2026-10-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-14",
+        "action": "Lead added for Product Owner (Microsoft, Koddex, outils collaboratifs) at Exotec (Lille, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a304ce09",
+    "company": "Teampicnic",
+    "role": "Product Manager - Supply Chain",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/product-manager-supply-chain-amsterdam-89352",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-14",
+    "last_action_date": "2026-10-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-14",
+        "action": "Lead added for Product Manager - Supply Chain at Teampicnic (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_69e0e2c5",
+    "company": "Teampicnic",
+    "role": "Product Manager - Consumer App",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/product-manager-consumer-app-amsterdam-450546",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-14",
+    "last_action_date": "2026-10-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-14",
+        "action": "Lead added for Product Manager - Consumer App at Teampicnic (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e71f4fad",
+    "company": "Teampicnic",
+    "role": "Graduate Product Manager - Supply Chain",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/graduate-product-manager-supply-chain-amsterdam-275700",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-14",
+    "last_action_date": "2026-10-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-14",
+        "action": "Lead added for Graduate Product Manager - Supply Chain at Teampicnic (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c945463a",
+    "company": "Teampicnic",
+    "role": "Graduate Product Manager - Picnic App",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/graduate-product-manager-picnic-app-amsterdam-32557",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-14",
+    "last_action_date": "2026-10-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-14",
+        "action": "Lead added for Graduate Product Manager - Picnic App at Teampicnic (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_dcac8f86",
+    "company": "Thyme Care",
+    "role": "Principal Product Manager Strategic Initiatives",
+    "location": "Remote",
+    "contact_name": "Recruiting Team",
+    "contact_email": "",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-14",
+    "last_action_date": "2026-10-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-14",
+        "action": "Lead added for Principal Product Manager Strategic Initiatives at Thyme Care (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

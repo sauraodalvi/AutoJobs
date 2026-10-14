@@ -2,22 +2,6 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-10-13
+Date Generated: 2026-10-14
 ============================================================
 
-Saurao Dalvi  
-https://sauraodalvi.netlify.app/ | https://www.linkedin.com/in/saurao-dalvi/  
-
-**Re: Senior Product Manager (Remote) – UKG**
-
-As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I have consistently transformed ambiguous technical frontiers into revenue-generating products—exactly the mandate driving UKG’s HCM innovation. My background as a Forward Deployed Engineer at FlytBase uniquely positions me to bridge deep technical architecture (LLM pipelines, agentic workflows, developer CLIs) with strategic roadmap ownership, ensuring UKG delivers AI-native workforce experiences that are both powerful and adoptable at enterprise scale.
-
-At FlytBase, I owned the end-to-end lifecycle of **Prediq**, an AI drone SaaS platform, scaling it to **$6K MRR** within months by defining pricing, GTM, and self-serve onboarding. At CrelioHealth, I spearheaded **Smart Reports**, an LLM-powered automation suite that drove **~$2,000 incremental MRR per lab** while cutting patient registration time by **58%** and sample turnaround by **18%** via custom prompt pipelines. At Sprinto, I automated cross-functional compliance workflows using Python, Zapier, and Make, reducing manual audit prep by 40%. Across every engagement, I have operated as a full-stack **Product Manager**—running discovery, writing PRDs, aligning engineering/design/sales, and shipping measurable business outcomes.
-
-I am eager to
-
-============================================================
-CANDIDATE CONTACT SUMMARY:
-Name: Saurao Dalvi
-Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
