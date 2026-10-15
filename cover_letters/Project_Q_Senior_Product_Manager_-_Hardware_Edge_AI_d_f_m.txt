@@ -1,0 +1,22 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager - Hardware & Edge AI (d/f/m) at Project Q
+Apply Link: https://www.arbeitnow.com/jobs/companies/project-q/senior-product-manager-hardware-edge-ai-berlin-224280
+Date Generated: 2026-10-15
+============================================================
+
+Saurao Dalvi  
+AI Product Manager & Engineer  
+https://sauraodalvi.netlify.app | https://www.linkedin.com/in/saurao-dalvi/  
+
+Dear Hiring Team at Project Q,
+
+I am an AI‑focused Product Manager with 3+ years of end‑to‑end 0‑to‑1 experience building AI‑driven hardware and edge solutions—from drone autonomy at FlytBase to healthcare SaaS at CrelioHealth and security platforms at Sprinto. My track record of shaping product roadmaps, rallying cross‑functional teams, and launching market‑ready AI products aligns directly with Project Q’s vision to advance hardware‑centric Edge AI offerings. I am eager to bring this blend of technical depth and product leadership to your Berlin‑based team.
+
+In my most recent role as Product Manager at FlytBase, I owned the 0‑to‑1 roadmap and launch of **Prediq**, an AI‑powered drone SaaS that grew to ~$6 K MRR within six months. At CrelioHealth, I drove the **Smart Reports** initiative, lifting lab revenue by ~$2 K MRR per lab and cutting patient registration time by ≈58 % and sample turnaround by ≈18 % through custom LLM prompt pipelines. I also built internal developer CLIs and automated workflows with Zapier, Make, and Python, reducing manual effort by >40 % across teams. These results
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

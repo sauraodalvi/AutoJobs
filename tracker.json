@@ -8053,14 +8053,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/project-q/senior-product-manager-hardware-edge-ai-berlin-224280",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Senior Product Manager - Hardware & Edge AI (d/f/m) at Project Q (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-15",
+        "action": "Generated tailored application kit & cover letter (Project_Q_Senior_Product_Manager_-_Hardware_Edge_AI_d_f_m.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8091,14 +8095,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-product-manager-business-applications-development-berlin-munich-305759",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Senior Product Manager (Business Applications Development) at jetbrains (Berlin; Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-15",
+        "action": "Generated tailored application kit & cover letter (jetbrains_Senior_Product_Manager_Business_Applications_Development.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8110,14 +8118,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/product-manager-identity-mid-london-hybrid-480589",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Product Manager, Identity (Mid) at MoonPay (London - Hybrid). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-15",
+        "action": "Generated tailored application kit & cover letter (MoonPay_Product_Manager_Identity_Mid.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8129,14 +8141,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/product-manager-energy-billing-fluent-french-english-london-210553",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Product Manager - Energy Billing (Fluent French & English) at Kaluza (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-15",
+        "action": "Generated tailored application kit & cover letter (Kaluza_Product_Manager_-_Energy_Billing_Fluent_French_English.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8148,14 +8164,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/head-of-product-flex-london-208787",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Head of Product (Flex) at Kaluza (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-15",
+        "action": "Generated tailored application kit & cover letter (Kaluza_Head_of_Product_Flex.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9600,6 +9620,139 @@
       {
         "date": "2026-10-14",
         "action": "Lead added for Principal Product Manager Strategic Initiatives at Thyme Care (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9140a59f",
+    "company": "Kaluza",
+    "role": "Product Manager (CCaaS) - French Speaking",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/product-manager-ccaas-french-speaking-london-216023",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-15",
+    "last_action_date": "2026-10-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-15",
+        "action": "Lead added for Product Manager (CCaaS) - French Speaking at Kaluza (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_247c7cab",
+    "company": "Multiverse",
+    "role": "People Product Lead",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/people-product-lead-london-26679",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-15",
+    "last_action_date": "2026-10-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-15",
+        "action": "Lead added for People Product Lead at Multiverse (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a72a9a61",
+    "company": "Senior Software Engineer (Typescript / Backend) - AI/ML",
+    "role": "Principal Product Manager, Partner Integrations",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/principal-product-manager-partner-integrations-united-kingdom-230492",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-15",
+    "last_action_date": "2026-10-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-15",
+        "action": "Lead added for Principal Product Manager, Partner Integrations at Senior Software Engineer (Typescript / Backend) - AI/ML (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d8eeeecb",
+    "company": "SwissPeak Partners GmbH",
+    "role": "ERP Product Owner",
+    "location": "Bern, Berne, Switzerland",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/erp-product-owner-bern-387065",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-15",
+    "last_action_date": "2026-10-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-15",
+        "action": "Lead added for ERP Product Owner at SwissPeak Partners GmbH (Bern, Berne, Switzerland). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_eb63512c",
+    "company": "SwissPeak Partners GmbH",
+    "role": "Head of Product Management & Transformation (Risk, Finance & Compliance)",
+    "location": "Bern, Berne, Switzerland",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/head-of-product-management-transformation-risk-finance-compliance-bern-245515",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-15",
+    "last_action_date": "2026-10-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-15",
+        "action": "Lead added for Head of Product Management & Transformation (Risk, Finance & Compliance) at SwissPeak Partners GmbH (Bern, Berne, Switzerland). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_30805eb1",
+    "company": "Bluerock TMS",
+    "role": "Product Manager",
+    "location": "'s-Hertogenbosch, Noord-Brabant, Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/bluerock-tms/product-manager-s-hertogenbosch-7799",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-15",
+    "last_action_date": "2026-10-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-15",
+        "action": "Lead added for Product Manager at Bluerock TMS ('s-Hertogenbosch, Noord-Brabant, Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d92f3a54",
+    "company": "Optics11",
+    "role": "Senior Product Manager Software",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/optics11/senior-product-manager-software-amsterdam-168851",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-15",
+    "last_action_date": "2026-10-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-15",
+        "action": "Lead added for Senior Product Manager Software at Optics11 (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
