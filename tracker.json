@@ -8076,14 +8076,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-product-manager-all-genders-b2b-383663",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Senior Product Manager (all genders) | B2B at Real Digital (Remote oder Köln / Darmstadt / Düsseldorf / Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-16",
+        "action": "Generated tailored application kit & cover letter (Real_Digital_Senior_Product_Manager_all_genders_B2B.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8187,14 +8191,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/qonto/senior-product-manager-client-communication-paris-264337",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Senior Product Manager - Client Communication at Qonto (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-16",
+        "action": "Generated tailored application kit & cover letter (Qonto_Senior_Product_Manager_-_Client_Communication.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8206,14 +8214,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/blablacar/senior-product-manager-carpool-experience-paris-france-14229",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Senior Product Manager - Carpool Experience at Blablacar (Paris, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-16",
+        "action": "Generated tailored application kit & cover letter (Blablacar_Senior_Product_Manager_-_Carpool_Experience.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8244,14 +8256,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/product-manager-intern-platform-paris-244586",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Product Manager Intern - Platform at Mirakl - Labs (Paris, Paris, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-16",
+        "action": "Generated tailored application kit & cover letter (Mirakl_-_Labs_Product_Manager_Intern_-_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8320,14 +8336,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/finn/senior-product-manager-growth-e-commerce-munich-88048",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-04",
-    "last_action_date": "2026-10-04",
+    "last_action_date": "2026-10-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-04",
         "action": "Lead added for Senior Product Manager (m/f/x) Growth / E-Commerce at FINN (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-16",
+        "action": "Generated tailored application kit & cover letter (FINN_Senior_Product_Manager_m_f_x_Growth_E-Commerce.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9753,6 +9773,158 @@
       {
         "date": "2026-10-15",
         "action": "Lead added for Senior Product Manager Software at Optics11 (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b0f0bc56",
+    "company": "EverAI",
+    "role": "Product Manager - Trust & Safety (Full Remote - Germany)",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/everai/product-manager-trust-safety-full-remote-germany-483423",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-16",
+    "last_action_date": "2026-10-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-16",
+        "action": "Lead added for Product Manager - Trust & Safety (Full Remote - Germany) at EverAI (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ed324330",
+    "company": "Unzer",
+    "role": "Senior Product Manager - POS Hardware (m/f/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/unzer/senior-product-manager-pos-hardware-berlin-342948",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-16",
+    "last_action_date": "2026-10-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-16",
+        "action": "Lead added for Senior Product Manager - POS Hardware (m/f/d) at Unzer (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_87425017",
+    "company": "IT&I",
+    "role": "Product Owner *in Softwareentwicklung (m/w/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/iti/product-owner-in-softwareentwicklung-berlin-37903",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-16",
+    "last_action_date": "2026-10-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-16",
+        "action": "Lead added for Product Owner *in Softwareentwicklung (m/w/d) at IT&I (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5f8fdceb",
+    "company": "Nmcareers",
+    "role": "Senior Product Manager - Unannounced Project",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nmcareers/senior-product-manager-unannounced-project-london-72996",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-16",
+    "last_action_date": "2026-10-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-16",
+        "action": "Lead added for Senior Product Manager - Unannounced Project at Nmcareers (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_02d6da32",
+    "company": "EverAI",
+    "role": "Product Manager - Trust & Safety (Full Remote - UK)",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/everai/product-manager-trust-safety-full-remote-uk-united-kingdom-288794",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-16",
+    "last_action_date": "2026-10-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-16",
+        "action": "Lead added for Product Manager - Trust & Safety (Full Remote - UK) at EverAI (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_06a4a04a",
+    "company": "EverAI",
+    "role": "Product Manager - Trust & Safety (Full Remote - France)",
+    "location": "France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/everai/product-manager-trust-safety-full-remote-france-244593",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-16",
+    "last_action_date": "2026-10-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-16",
+        "action": "Lead added for Product Manager - Trust & Safety (Full Remote - France) at EverAI (France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9b5896eb",
+    "company": "EverAI",
+    "role": "Product Manager - Trust & Safety (Full Remote - Netherlands)",
+    "location": "Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/everai/product-manager-trust-safety-full-remote-netherlands-94007",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-16",
+    "last_action_date": "2026-10-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-16",
+        "action": "Lead added for Product Manager - Trust & Safety (Full Remote - Netherlands) at EverAI (Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_eae1bf94",
+    "company": "Catawiki",
+    "role": "Senior Product Manager - Search & Ranking",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/catawiki/senior-product-manager-search-ranking-amsterdam-136281",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-16",
+    "last_action_date": "2026-10-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-16",
+        "action": "Lead added for Senior Product Manager - Search & Ranking at Catawiki (Amsterdam). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
