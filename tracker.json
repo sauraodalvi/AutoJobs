@@ -8237,14 +8237,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/product-manager-intern-connect-paris-489436",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-03",
-    "last_action_date": "2026-10-03",
+    "last_action_date": "2026-10-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-03",
         "action": "Lead added for Product Manager Intern - Connect at Mirakl - Labs (Paris, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-17",
+        "action": "Generated tailored application kit & cover letter (Mirakl_-_Labs_Product_Manager_Intern_-_Connect.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8359,14 +8363,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-product-manager-capital-management-berlin-265061",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-04",
-    "last_action_date": "2026-10-04",
+    "last_action_date": "2026-10-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-04",
         "action": "Lead added for Senior Product Manager | Capital Management (f/m/d) at bunch (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-17",
+        "action": "Generated tailored application kit & cover letter (bunch_Senior_Product_Manager_Capital_Management_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8378,14 +8386,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tide/senior-product-manager-ongoing-monitoring-425632",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-04",
-    "last_action_date": "2026-10-04",
+    "last_action_date": "2026-10-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-04",
         "action": "Lead added for Senior Product Manager, Ongoing Monitoring at tide (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-17",
+        "action": "Generated tailored application kit & cover letter (tide_Senior_Product_Manager_Ongoing_Monitoring.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8397,14 +8409,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/product-manager-finance-engineering-london-198670",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-04",
-    "last_action_date": "2026-10-04",
+    "last_action_date": "2026-10-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-04",
         "action": "Lead added for Product Manager, Finance Engineering at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-17",
+        "action": "Generated tailored application kit & cover letter (Deliveroo_Product_Manager_Finance_Engineering.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8416,14 +8432,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-intern-platform-paris-68428",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-04",
-    "last_action_date": "2026-10-04",
+    "last_action_date": "2026-10-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-04",
         "action": "Lead added for Product Manager Intern - Platform at mirakllabs (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-17",
+        "action": "Generated tailored application kit & cover letter (mirakllabs_Product_Manager_Intern_-_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9925,6 +9945,120 @@
       {
         "date": "2026-10-16",
         "action": "Lead added for Senior Product Manager - Search & Ranking at Catawiki (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_43b63fac",
+    "company": "Supabase",
+    "role": "Product Lead - Infrastructure",
+    "location": "Anywhere (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/153453-product-lead-infrastructure",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-17",
+    "last_action_date": "2026-10-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-17",
+        "action": "Lead added for Product Lead - Infrastructure at Supabase (Anywhere (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_eaa4f9ca",
+    "company": "Flix",
+    "role": "Senior Product Owner (m/f/d)",
+    "location": "Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/flix/senior-product-owner-berlin-457306",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-17",
+    "last_action_date": "2026-10-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-17",
+        "action": "Lead added for Senior Product Owner (m/f/d) at Flix (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1e37fc4d",
+    "company": "Hopkins Rechtsanwaltsgesellschaft mbH",
+    "role": "Legal Product Manager | Legal Engineer (Jurist/in) (x/w/m)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/hopkins-rechtsanwaltsgesellschaft-mbh/legal-product-manager-legal-engineer-jurist-in-berlin-124081",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-17",
+    "last_action_date": "2026-10-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-17",
+        "action": "Lead added for Legal Product Manager | Legal Engineer (Jurist/in) (x/w/m) at Hopkins Rechtsanwaltsgesellschaft mbH (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e42dcf9e",
+    "company": "Zyngacareers",
+    "role": "Senior Product Manager - Unannounced Project",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-product-manager-unannounced-project-london-345589",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-17",
+    "last_action_date": "2026-10-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-17",
+        "action": "Lead added for Senior Product Manager - Unannounced Project at Zyngacareers (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ea3e6288",
+    "company": "Vibe",
+    "role": "Senior Product Manager - Measurement & Reporting",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/vibe/senior-product-manager-measurement-reporting-paris-334847",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-17",
+    "last_action_date": "2026-10-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-17",
+        "action": "Lead added for Senior Product Manager - Measurement & Reporting at Vibe (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ab184912",
+    "company": "Prosus",
+    "role": "Group Product Manager",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/prosus/group-product-manager-amsterdam-138407",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-17",
+    "last_action_date": "2026-10-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-17",
+        "action": "Lead added for Group Product Manager at Prosus (Amsterdam). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
