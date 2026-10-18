@@ -8474,14 +8474,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/154527-external-contractor-mentor-role-for-data-product-manager-track",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-05",
-    "last_action_date": "2026-10-05",
+    "last_action_date": "2026-10-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-05",
         "action": "Lead added for External Contractor - Mentor role for Data Product Manager track at Udacity (Anywhere (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-18",
+        "action": "Generated tailored application kit & cover letter (Udacity_External_Contractor_-_Mentor_role_for_Data_Product_Manager_track.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8531,14 +8535,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/associate-product-manager-us-cards-london-70852",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-05",
-    "last_action_date": "2026-10-05",
+    "last_action_date": "2026-10-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-05",
         "action": "Lead added for Associate Product Manager (US Cards) at Lendable (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-18",
+        "action": "Generated tailored application kit & cover letter (Lendable_Associate_Product_Manager_US_Cards.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8569,14 +8577,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/withings/product-manager-healthcare-h-f-issy-les-moulineaux-335042",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-05",
-    "last_action_date": "2026-10-05",
+    "last_action_date": "2026-10-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-05",
         "action": "Lead added for Product Manager, Healthcare (H/F) at Withings (Issy-les-Moulineaux, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-18",
+        "action": "Generated tailored application kit & cover letter (Withings_Product_Manager_Healthcare_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8588,14 +8600,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-product-manager-berlin-310476",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-06",
-    "last_action_date": "2026-10-06",
+    "last_action_date": "2026-10-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-06",
         "action": "Lead added for Senior Product Manager at Nucs AI (Remote job). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-18",
+        "action": "Generated tailored application kit & cover letter (Nucs_AI_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8607,14 +8623,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-product-manager-payments-platform-london-304512",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-06",
-    "last_action_date": "2026-10-06",
+    "last_action_date": "2026-10-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-06",
         "action": "Lead added for Senior Product Manager - Payments Platform at Kraken (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-18",
+        "action": "Generated tailored application kit & cover letter (Kraken_Senior_Product_Manager_-_Payments_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10059,6 +10079,63 @@
       {
         "date": "2026-10-17",
         "action": "Lead added for Group Product Manager at Prosus (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e013593b",
+    "company": "Liqid Lig",
+    "role": "Senior Product Manager - Digital Clients: Growth & Expansion",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/senior-product-manager-digital-clients-growth-expansion-berlin-172691",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-18",
+    "last_action_date": "2026-10-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-18",
+        "action": "Lead added for Senior Product Manager - Digital Clients: Growth & Expansion at Liqid Lig (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_047b4b3a",
+    "company": "HyPlus Technology GmbH",
+    "role": "Senior Product Owner (m/w/d)",
+    "location": "Ratingen, Nordrhein-Westfalen, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-product-owner-ratingen-314055",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-18",
+    "last_action_date": "2026-10-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-18",
+        "action": "Lead added for Senior Product Owner (m/w/d) at HyPlus Technology GmbH (Ratingen, Nordrhein-Westfalen, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9db3c2b6",
+    "company": "Climeworks",
+    "role": "Filtration Module Product Owner (80-100%)",
+    "location": "Zurich, Zürich, Switzerland",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/climeworks/filtration-module-product-owner-80-100-zurich-440760",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-18",
+    "last_action_date": "2026-10-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-18",
+        "action": "Lead added for Filtration Module Product Owner (80-100%) at Climeworks (Zurich, Zürich, Switzerland). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

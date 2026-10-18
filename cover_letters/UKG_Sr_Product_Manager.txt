@@ -2,20 +2,24 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-10-17
+Date Generated: 2026-10-18
 ============================================================
 
+Subject: Senior Product Manager Application | Saurao Dalvi
 
+Dear [Hiring Manager Name/UKG Recruiting Team],
 
-Of course. Here is the highly compelling, ATS-optimized cover letter tailored for the Sr. Product Manager role at UKG.
+As an AI-native Product Manager with over three years of experience driving 0-to-1 product innovation, I have closely followed UKG’s commitment to creating life-changing, people-centric workforce solutions. My background as both an AI Product Manager and a Forward Deployed Engineer allows me to bridge the gap between complex technical architecture and intuitive user experience. I specialize in transforming emerging technologies—specifically LLM-powered workflows and agentic systems—into scalable, revenue-generating products. I am eager to bring this high-velocity, technical product leadership to UKG to help define the next generation of intelligent workforce management.
 
-***
+Throughout my career, I have consistently delivered measurable impact by aligning technical roadmaps with aggressive business outcomes. At FlytBase, I owned the 0-to-1 roadmap for Prediq, an AI-driven drone SaaS, successfully scaling it to ~$6K MRR. During my tenure at CrelioHealth, I served as a Product Manager for the Smart Reports initiative, which increased lab revenue by approximately $2,000 MRR per lab and utilized custom AI prompt pipelines to reduce patient registration time by 58%. Whether it is building developer CLIs to optimize internal workflows or launching enterprise-grade security SaaS at Sprinto, my approach as a Product Manager is rooted in data-driven decision-making and a relentless focus on reducing operational friction through automation.
 
-Dear Hiring Team,
+I am confident that my ability to ship complex, AI-integrated products will contribute significantly to UKG’s mission of empowering people and organizations. I welcome the opportunity to discuss how my experience in scaling SaaS platforms and implementing cutting-edge AI solutions can drive immediate value for your product organization. Thank you for your time and consideration.
 
-As an AI Product Manager with over three years of experience spearheading 0-to-1 initiatives, I am excited to apply for the Sr. Product Manager role at UKG. My career has been defined by a passion for building intelligent, customer-centric solutions that drive significant business growth, a mission that directly aligns with UKG's vision for shaping the future of workforce management. I have a proven track record of translating complex AI and automation technologies into intuitive products that solve critical business challenges, and I am confident that my hands-on experience in product strategy, execution, and scaling can deliver immediate value to your team.
+Best regards,
 
-In my previous roles, I have consistently operated as a Product Manager who bridges technical innovation with market needs. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS platform, scaling it to ~$6K MRR. At CrelioHealth, I led the product strategy for Smart Reports, an AI-powered solution that increased lab revenue by ~$2,000 MRR
+Saurao Dalvi
+[Portfolio: https://sauraodalvi.netlify.app/]
+[LinkedIn: https://www.linkedin.com/in/saurao-dalvi/]
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
