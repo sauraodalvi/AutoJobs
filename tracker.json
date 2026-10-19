@@ -8455,14 +8455,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-intern-connect-paris-21050",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-04",
-    "last_action_date": "2026-10-04",
+    "last_action_date": "2026-10-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-04",
         "action": "Lead added for Product Manager Intern - Connect at mirakllabs (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-19",
+        "action": "Generated tailored application kit & cover letter (mirakllabs_Product_Manager_Intern_-_Connect.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8497,14 +8501,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/assecor-gmbh/product-owner-mwd-berlin-74945",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-05",
-    "last_action_date": "2026-10-05",
+    "last_action_date": "2026-10-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-05",
         "action": "Lead added for Product Owner (m|w|d) at Assecor GmbH (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-19",
+        "action": "Generated tailored application kit & cover letter (Assecor_GmbH_Product_Owner_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8516,14 +8524,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/getquin/senior-product-manager-wealth-ai-berlin-251131",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-05",
-    "last_action_date": "2026-10-05",
+    "last_action_date": "2026-10-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-05",
         "action": "Lead added for Senior Product Manager, Wealth & AI (f/m/d) at Getquin (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-19",
+        "action": "Generated tailored application kit & cover letter (Getquin_Senior_Product_Manager_Wealth_AI_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8558,14 +8570,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/product-manager-us-cards-london-423163",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-05",
-    "last_action_date": "2026-10-05",
+    "last_action_date": "2026-10-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-05",
         "action": "Lead added for Product Manager (US Cards) at Lendable (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-19",
+        "action": "Generated tailored application kit & cover letter (Lendable_Product_Manager_US_Cards.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8646,14 +8662,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-technical-product-manager-keet-100-remote-united-kindom-492479",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-06",
-    "last_action_date": "2026-10-06",
+    "last_action_date": "2026-10-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-06",
         "action": "Lead added for Senior Technical Product Manager - Keet (100% Remote) at Tether Operations Limited (Remote job). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-19",
+        "action": "Generated tailored application kit & cover letter (Tether_Operations_Limited_Senior_Technical_Product_Manager_-_Keet_100_Remote.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10136,6 +10156,101 @@
       {
         "date": "2026-10-18",
         "action": "Lead added for Filtration Module Product Owner (80-100%) at Climeworks (Zurich, Zürich, Switzerland). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d4f84df1",
+    "company": "Buena",
+    "role": "Product Manager - Accounting (m/f/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/buena/product-manager-accounting-berlin-67752",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-19",
+    "last_action_date": "2026-10-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-19",
+        "action": "Lead added for Product Manager - Accounting (m/f/d) at Buena (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_aa4ff608",
+    "company": "Buena",
+    "role": "Product Manager (m/f/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/buena/product-manager-berlin-447895",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-19",
+    "last_action_date": "2026-10-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-19",
+        "action": "Lead added for Product Manager (m/f/d) at Buena (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_065e71fb",
+    "company": "VT Netzwelt GmbH",
+    "role": "(Junior) Product Manager & Venture Builder (m/w/d) - AI & Tech",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/vt-netzwelt-gmbh/junior-product-manager-venture-builder-ai-tech-berlin-497683",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-19",
+    "last_action_date": "2026-10-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-19",
+        "action": "Lead added for (Junior) Product Manager & Venture Builder (m/w/d) - AI & Tech at VT Netzwelt GmbH (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_98b13149",
+    "company": "Wink",
+    "role": "Growth Product Manager",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/wink/growth-product-manager-paris-438713",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-19",
+    "last_action_date": "2026-10-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-19",
+        "action": "Lead added for Growth Product Manager at Wink (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f12c701e",
+    "company": "bunq",
+    "role": "Head of Product",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/bunq/head-of-product-amsterdam-444996",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-19",
+    "last_action_date": "2026-10-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-19",
+        "action": "Lead added for Head of Product at bunq (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
