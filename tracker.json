@@ -8704,14 +8704,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/gropyus/head-of-product-cost-optimization-berlin-berlin-102353",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-07",
-    "last_action_date": "2026-10-07",
+    "last_action_date": "2026-10-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-07",
         "action": "Lead added for Head of Product Cost Optimization (m/w/d) at gropyus (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-20",
+        "action": "Generated tailored application kit & cover letter (gropyus_Head_of_Product_Cost_Optimization_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8723,14 +8727,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/gropyus/head-of-product-cost-optimization-all-genders-berlin-berlin-334435",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-07",
-    "last_action_date": "2026-10-07",
+    "last_action_date": "2026-10-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-07",
         "action": "Lead added for Head of Product Cost Optimization (all genders) at gropyus (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-20",
+        "action": "Generated tailored application kit & cover letter (gropyus_Head_of_Product_Cost_Optimization_all_genders.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8932,14 +8940,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/product-manager-growth-staff-principal-level-london-300747",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-08",
-    "last_action_date": "2026-10-08",
+    "last_action_date": "2026-10-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-08",
         "action": "Lead added for Product Manager, Growth (Staff/Principal-level) at Synthesia (Europe). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-20",
+        "action": "Generated tailored application kit & cover letter (Synthesia_Product_Manager_Growth_Staff_Principal-level.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8951,14 +8963,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-self-serve-product-manager-elevencreative-277813",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-08",
-    "last_action_date": "2026-10-08",
+    "last_action_date": "2026-10-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-08",
         "action": "Lead added for Self-Serve Product Manager - ElevenCreative at Elevenlabs (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-20",
+        "action": "Generated tailored application kit & cover letter (Elevenlabs_Self-Serve_Product_Manager_-_ElevenCreative.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8970,14 +8986,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-424794",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-08",
-    "last_action_date": "2026-10-08",
+    "last_action_date": "2026-10-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-08",
         "action": "Lead added for Enterprise Product Manager - ElevenCreative at Elevenlabs (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-20",
+        "action": "Generated tailored application kit & cover letter (Elevenlabs_Enterprise_Product_Manager_-_ElevenCreative.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10251,6 +10271,101 @@
       {
         "date": "2026-10-19",
         "action": "Lead added for Head of Product at bunq (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_afd9db51",
+    "company": "Actian",
+    "role": "Senior Product Manager, Smart Data Products [gn] Europe",
+    "location": "UK (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/153655-senior-product-manager-smart-data-products-gn-europe",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-20",
+    "last_action_date": "2026-10-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-20",
+        "action": "Lead added for Senior Product Manager, Smart Data Products [gn] Europe at Actian (UK (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_27dfd1f2",
+    "company": "Hopper",
+    "role": "Principal Product Manager- Conversational AI",
+    "location": "Spain (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/153654-principal-product-manager-conversational-ai",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-20",
+    "last_action_date": "2026-10-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-20",
+        "action": "Lead added for Principal Product Manager- Conversational AI at Hopper (Spain (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_61b5f08a",
+    "company": "Bjak",
+    "role": "Product Lead - AI Stockbroking",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-lead-ai-stockbroking-germany-53284",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-20",
+    "last_action_date": "2026-10-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-20",
+        "action": "Lead added for Product Lead - AI Stockbroking at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_10b5084c",
+    "company": "Hubvisory",
+    "role": "Product Manager H/F - Paris",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/product-manager-h-f-paris-344570",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-20",
+    "last_action_date": "2026-10-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-20",
+        "action": "Lead added for Product Manager H/F - Paris at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b924be50",
+    "company": "Hubvisory",
+    "role": "Product Manager IA - Paris",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/product-manager-ia-paris-387464",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-20",
+    "last_action_date": "2026-10-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-20",
+        "action": "Lead added for Product Manager IA - Paris at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
