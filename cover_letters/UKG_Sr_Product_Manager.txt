@@ -2,17 +2,29 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-10-20
+Date Generated: 2026-10-21
 ============================================================
 
-Saurao Dalvi  
-https://sauraodalvi.netlify.app/ | https://www.linkedin.com/in/saurao-dalvi/  
-
-**Re: Senior Product Manager Application – UKG (Remote)**
-
-As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am energized by UKG’s mission to champion people-centered technology that transforms the workplace experience. My background as a Forward Deployed Engineer and **Product Manager** at FlytBase—where I bridge deep technical architecture with commercial strategy—aligns directly with your need for a leader who can define, build, and scale AI-native workforce solutions from concept to revenue. I thrive in ambiguous, high-leverage environments where technical depth accelerates product velocity, a mindset I am eager to bring to UKG’s product organization.
-
-In my current role as **Product Manager** at FlytBase, I owned the full lifecycle of *Prediq*, an AI drone SaaS platform, driving it from ideation to ~$6K MRR by defining the roadmap, leading cross-functional engineering/design sprints, and launching LLM-powered agentic workflows for fleet automation. Previously at CrelioHealth, I spearheaded *Smart Reports*—an AI document understanding pipeline—that increased lab revenue by ~$2,000 MRR per account while cutting patient registration time by 58% and sample turnaround by 18%. At Sprinto, I shipped enterprise security compliance features and built internal developer CLIs using Python, Zapier, and Make to automate complex cross-app processes, reducing manual ops overhead by 40
+1.  **Analyze the Request:**
+    *   **Candidate:** Saurao Dalvi
+    *   **Target Roles:** Product Manager / Associate Product Manager / AI Product Manager
+    *   **Target Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote (UKG is remote, so this fits perfectly)
+    *   **Summary:** AI Product Manager & AI Engineer at FlytBase (3+ yrs, 0-to-1 builder of AI-native products, dev CLIs, LLM workflows, agentic systems). Portfolio: https://sauraodalvi.netlify.app/
+    *   **Key Highlights:**
+        *   Owned 0-to-1 roadmap & launch of Prediq (AI drone SaaS), ~$6K MRR at FlytBase.
+        *   Owned Smart Reports at CrelioHealth, increasing lab revenue by ~$2K MRR per lab.
+        *   Cut patient registration time by ~58% and sample turnaround by 18%.
+        *   Built internal dev CLIs and automated complex cross-app processes (Zapier, Make, Python).
+        *   Built/launched AI products: Hidden Jobs (50K+ jobs), Stare V2.
+        *   Co-founded Elite PM platform with a Microsoft PM.
+    *   **Task:** Write a highly compelling, ATS-optimized 3-paragraph cover letter.
+    *   **Company:** UKG
+    *   **Role:** Sr Product Manager
+    *   **Location:** Remote
+    *   **ATS Keywords to include:** "Product Manager" (must be naturally woven in, high density but natural).
+    *   **Structure:**
+        *   *Para 1:* High-energy intro positioning Saurao as an AI Product Manager with 3+ yrs of 0-to-1 experience aligning with UKG's product vision.
+        *   *Para 2:* Specific metrics & impact (shipped 0-to-1 at FlytBase/CrelioHealth/S
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

@@ -8685,14 +8685,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4475852136",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-06",
-    "last_action_date": "2026-10-06",
+    "last_action_date": "2026-10-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-06",
         "action": "Lead added for Sr. Product Manager - Trading at Addepar (Pune District, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-21",
+        "action": "Generated tailored application kit & cover letter (Addepar_Sr_Product_Manager_-_Trading.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8750,14 +8754,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-technical-product-manager-qvac-100-remote-london-442071",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-07",
-    "last_action_date": "2026-10-07",
+    "last_action_date": "2026-10-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-07",
         "action": "Lead added for AI Technical Product Manager (QVAC) (100% remote) at Tether Operations Limited (Remote job). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-21",
+        "action": "Generated tailored application kit & cover letter (Tether_Operations_Limited_AI_Technical_Product_Manager_QVAC_100_remote.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8769,14 +8777,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/product-manager-on-ramp-swap-100-remote-united-kindom-325337",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-07",
-    "last_action_date": "2026-10-07",
+    "last_action_date": "2026-10-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-07",
         "action": "Lead added for Product Manager On-Ramp & Swap (100% remote) at Tether Operations Limited (Remote job). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-21",
+        "action": "Generated tailored application kit & cover letter (Tether_Operations_Limited_Product_Manager_On-Ramp_Swap_100_remote.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8788,14 +8800,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/binance/senior-product-manager-united-kingdom-london-203606",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-07",
-    "last_action_date": "2026-10-07",
+    "last_action_date": "2026-10-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-07",
         "action": "Lead added for Senior Product Manager at Binance (United Kingdom, London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-21",
+        "action": "Generated tailored application kit & cover letter (Binance_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8807,14 +8823,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/checkatrade/senior-product-manager-moorgate-446050",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-07",
-    "last_action_date": "2026-10-07",
+    "last_action_date": "2026-10-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-07",
         "action": "Lead added for Senior Product Manager at Checkatrade (Moorgate London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-21",
+        "action": "Generated tailored application kit & cover letter (Checkatrade_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10366,6 +10386,139 @@
       {
         "date": "2026-10-20",
         "action": "Lead added for Product Manager IA - Paris at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ad03d79e",
+    "company": "Taktile",
+    "role": "Senior Product Manager - Platform",
+    "location": "Berlin Office",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-product-manager-platform-berlin-201115",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-21",
+    "last_action_date": "2026-10-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-21",
+        "action": "Lead added for Senior Product Manager - Platform at Taktile (Berlin Office). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9dd1e8a9",
+    "company": "Verve",
+    "role": "Senior Product Manager, Programmatic Exchange",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/verve/senior-product-manager-programmatic-exchange-london-394693",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-21",
+    "last_action_date": "2026-10-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-21",
+        "action": "Lead added for Senior Product Manager, Programmatic Exchange at Verve (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b3b5305c",
+    "company": "Verve",
+    "role": "Senior Product Manager, Data Insights & Analytics",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/verve/senior-product-manager-data-insights-analytics-london-12236",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-21",
+    "last_action_date": "2026-10-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-21",
+        "action": "Lead added for Senior Product Manager, Data Insights & Analytics at Verve (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0b55ebbc",
+    "company": "Trading212",
+    "role": "Graduate Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/trading212/graduate-product-manager-london-452916",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-21",
+    "last_action_date": "2026-10-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-21",
+        "action": "Lead added for Graduate Product Manager at Trading212 (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e7227fcd",
+    "company": "Junior Data Scientist - Downstream Demand Forecast - Value Chain ...",
+    "role": "Senior Product Manager - Membership (f/m/d)",
+    "location": "Lille, Upline, Nord; Paris, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/senior-product-manager-membership-lille-upline-nord-paris-paris-124301",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-21",
+    "last_action_date": "2026-10-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-21",
+        "action": "Lead added for Senior Product Manager - Membership (f/m/d) at Junior Data Scientist - Downstream Demand Forecast - Value Chain ... (Lille, Upline, Nord; Paris, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_20266045",
+    "company": "Voodoo",
+    "role": "Senior Product Manager - Real Time Bidding",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/voodoo/senior-product-manager-real-time-bidding-paris-99293",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-21",
+    "last_action_date": "2026-10-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-21",
+        "action": "Lead added for Senior Product Manager - Real Time Bidding at Voodoo (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7ad3d4e5",
+    "company": "jetbrains",
+    "role": "Senior Product Manager - JetBrains Air (Agentic Development in IDEs)",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/jetbrains/senior-product-manager-jetbrains-air-agentic-development-in-ides-amsterdam-247685",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-21",
+    "last_action_date": "2026-10-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-21",
+        "action": "Lead added for Senior Product Manager - JetBrains Air (Agentic Development in IDEs) at jetbrains (Amsterdam). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

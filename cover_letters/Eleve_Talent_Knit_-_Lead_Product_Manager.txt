@@ -2,35 +2,6 @@
 COVER LETTER & APPLICATION KIT
 Target: Knit - Lead Product Manager at Eleve Talent
 Apply Link: https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-lead-product-manager-115209
-Date Generated: 2026-10-20
+Date Generated: 2026-10-21
 ============================================================
 
-[Your Name]
-[Your Phone Number] | [Your Email]
-[Your Portfolio Link] | [Your LinkedIn Link]
-
-[Date]
-
-Hiring Manager
-Eleve Talent
-Remote
-
-**RE: Application for Lead Product Manager (Knit)**
-
-Dear Hiring Manager,
-
-I am writing to express my strong interest in the Lead Product Manager position for Knit at Eleve Talent. As an AI Product Manager and Engineer with over three years of experience specializing in 0-to-1 product development, I have a proven track record of bridging the gap between complex technical infrastructure and high-growth user experiences. Having built and scaled AI-native products across drone autonomy, healthcare SaaS, and enterprise security, I am eager to bring my expertise in agentic systems and LLM-powered workflows to drive the evolution of Knit.
-
-My career has been defined by delivering measurable commercial impact through disciplined product leadership. At FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS that scaled to ~$6K MRR. During my tenure as a Product Manager at CrelioHealth, I led the development of Smart Reports, which increased lab revenue by ~$2,000 MRR per facility, and engineered custom AI prompt pipelines that slashed patient registration time by 58% and sample turnaround by 18%. From building internal developer CLIs to indexing 50K+ live ATS jobs for my own AI products, I possess the rare hybrid ability to define a strategic vision while remaining deeply hands-on in the technical execution of AI-driven automation.
-
-I am impressed by Eleve Talent’s commitment to innovation and am confident that my experience scaling 0-to-1 products and optimizing complex operational workflows makes me an ideal fit for the Lead Product Manager role. I am eager to discuss how my background in AI engineering and product management can accelerate Knit’s growth and enhance its value proposition. Thank you for your time and consideration.
-
-Best regards,
-
-Saurao Dalvi
-
-============================================================
-CANDIDATE CONTACT SUMMARY:
-Name: Saurao Dalvi
-Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
