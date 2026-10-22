@@ -2,6 +2,35 @@
 COVER LETTER & APPLICATION KIT
 Target: Knit - Lead Product Manager at Eleve Talent
 Apply Link: https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-lead-product-manager-115209
-Date Generated: 2026-10-21
+Date Generated: 2026-10-22
 ============================================================
 
+[Your Name]
+[Your Phone Number] | [Your Email]
+[Your LinkedIn] | [Your Portfolio]
+
+[Date]
+
+Hiring Manager
+Eleve Talent
+Remote
+
+**RE: Lead Product Manager – Knit**
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Lead Product Manager position for Knit at Eleve Talent. As an AI Product Manager and Forward Deployed Engineer with over three years of experience building 0-to-1 products, I specialize in the intersection of agentic AI systems and scalable SaaS architecture. My track record of shipping AI-native workflows and managing complex product roadmaps aligns perfectly with Eleve Talent’s vision for Knit. I bring a unique hybrid skill set—combining high-level product strategy with the technical depth of an AI engineer—to accelerate product velocity and deliver immediate user value.
+
+Throughout my career, I have consistently translated ambiguous problems into revenue-generating features. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, scaling the AI drone SaaS to ~$6K MRR. During my tenure at CrelioHealth, I served as the Product Manager for Smart Reports, which increased lab revenue by ~$2,000 MRR per facility, while deploying custom AI prompt pipelines that slashed patient registration time by 58% and sample turnaround by 18%. From building developer CLIs to indexing 50K+ live jobs for AI-powered platforms, I have a proven ability to lead cross-functional teams and architect LLM-powered workflows that solve real-world enterprise pain points.
+
+I am eager to bring this experience in rapid prototyping and scaling to the Knit team at Eleve Talent. I am confident that my background in building agentic systems and driving MRR growth makes me an ideal fit to lead your product initiatives. I look forward to the opportunity to discuss how my technical expertise and product leadership can drive significant growth for your organization.
+
+Best regards,
+
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

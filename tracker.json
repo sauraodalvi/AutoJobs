@@ -8846,14 +8846,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/lemrock/founding-product-manager-paris-103492",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-07",
-    "last_action_date": "2026-10-07",
+    "last_action_date": "2026-10-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-07",
         "action": "Lead added for Founding Product Manager at Lemrock (Paris (hybrid)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-22",
+        "action": "Generated tailored application kit & cover letter (Lemrock_Founding_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8865,14 +8869,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/senior-product-manager-f-h-lille-434434",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-07",
-    "last_action_date": "2026-10-07",
+    "last_action_date": "2026-10-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-07",
         "action": "Lead added for Senior Product Manager - F/H at Hubvisory (Lille, Hauts-de-France, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-22",
+        "action": "Generated tailored application kit & cover letter (Hubvisory_Senior_Product_Manager_-_F_H.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8884,14 +8892,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/product-owner-paris-343996",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-07",
-    "last_action_date": "2026-10-07",
+    "last_action_date": "2026-10-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-07",
         "action": "Lead added for Product Owner (H/F/N) at Ekimetrics (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-22",
+        "action": "Generated tailored application kit & cover letter (Ekimetrics_Product_Owner_H_F_N.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8903,14 +8915,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.ch/jobs/companies/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/staff-product-manager-zurich-132141",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-07",
-    "last_action_date": "2026-10-07",
+    "last_action_date": "2026-10-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-07",
         "action": "Lead added for Staff Product Manager at 98Cd1A00 2706 4Aa8 Ab72 38A7B8C9C20C (Switzerland - Zurich Office). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-22",
+        "action": "Generated tailored application kit & cover letter (98Cd1A00_2706_4Aa8_Ab72_38A7B8C9C20C_Staff_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -8922,14 +8938,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.ch/jobs/companies/snyk/staff-product-manager-zurich-178566",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-07",
-    "last_action_date": "2026-10-07",
+    "last_action_date": "2026-10-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-07",
         "action": "Lead added for Staff Product Manager at Snyk (Switzerland - Zurich Office). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-22",
+        "action": "Generated tailored application kit & cover letter (Snyk_Staff_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10519,6 +10539,82 @@
       {
         "date": "2026-10-21",
         "action": "Lead added for Senior Product Manager - JetBrains Air (Agentic Development in IDEs) at jetbrains (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_428038e4",
+    "company": "Deliveroo",
+    "role": "Staff Product Manager, Generative AI Platform",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-manager-generative-ai-platform-london-60805",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-22",
+    "last_action_date": "2026-10-22",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-22",
+        "action": "Lead added for Staff Product Manager, Generative AI Platform at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b48a3f9a",
+    "company": "Infosys Consulting Europe",
+    "role": "Product Manager - Oracle HCM Consultant",
+    "location": "Amsterdam, Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/infosys-consulting-europe/product-manager-oracle-hcm-consultant-amsterdam-135478",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-22",
+    "last_action_date": "2026-10-22",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-22",
+        "action": "Lead added for Product Manager - Oracle HCM Consultant at Infosys Consulting Europe (Amsterdam, Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1461d978",
+    "company": "Cuspai",
+    "role": "Scientific Product Manager",
+    "location": "Amsterdam, NL",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/cuspai/scientific-product-manager-amsterdam-436063",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-22",
+    "last_action_date": "2026-10-22",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-22",
+        "action": "Lead added for Scientific Product Manager at Cuspai (Amsterdam, NL). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8dabff9b",
+    "company": "Cin7",
+    "role": "Product Manager, AI",
+    "location": "Pune Division, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4481296870",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-22",
+    "last_action_date": "2026-10-22",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-22",
+        "action": "Lead added for Product Manager, AI at Cin7 (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
