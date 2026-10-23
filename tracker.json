@@ -9068,14 +9068,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.ch/jobs/companies/deepjudge/agentic-product-manager-zurich-172987",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-09",
-    "last_action_date": "2026-10-09",
+    "last_action_date": "2026-10-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-09",
         "action": "Lead added for Agentic Product Manager at DeepJudge (Zurich HQ). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-23",
+        "action": "Generated tailored application kit & cover letter (DeepJudge_Agentic_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9087,14 +9091,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/senior-product-manager-meta-all-genders-berlin-272623",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-10",
-    "last_action_date": "2026-10-10",
+    "last_action_date": "2026-10-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-10",
         "action": "Lead added for Senior Product Manager - Meta (all genders) at JustPlay GmbH (Berlin (Hybrid)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-23",
+        "action": "Generated tailored application kit & cover letter (JustPlay_GmbH_Senior_Product_Manager_-_Meta_all_genders.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9125,14 +9133,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bridgemaker-gmbh/product-manager-grower-experience-berlin-255327",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-10",
-    "last_action_date": "2026-10-10",
+    "last_action_date": "2026-10-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-10",
         "action": "Lead added for Product Manager Grower Experience (m/w/d) at Bridgemaker GmbH (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-23",
+        "action": "Generated tailored application kit & cover letter (Bridgemaker_GmbH_Product_Manager_Grower_Experience_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9182,14 +9194,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/qonto/senior-product-manager-public-apis-paris-171863",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-10",
-    "last_action_date": "2026-10-10",
+    "last_action_date": "2026-10-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-10",
         "action": "Lead added for Senior Product Manager - Public APIs at Qonto (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-23",
+        "action": "Generated tailored application kit & cover letter (Qonto_Senior_Product_Manager_-_Public_APIs.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9201,14 +9217,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/product-manager-ecommerce-categories-paris-paris-471403",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-10",
-    "last_action_date": "2026-10-10",
+    "last_action_date": "2026-10-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-10",
         "action": "Lead added for Product Manager - Ecommerce Categories (f/m/d) at Decathlontechnology (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-23",
+        "action": "Generated tailored application kit & cover letter (Decathlontechnology_Product_Manager_-_Ecommerce_Categories_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10615,6 +10635,215 @@
       {
         "date": "2026-10-22",
         "action": "Lead added for Product Manager, AI at Cin7 (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_87e89a39",
+    "company": "AlphaSense",
+    "role": "Product Manager, New Content Initiatives and Analysis",
+    "location": "UK (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/156120-product-manager-new-content-initiatives-and-analysis",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-23",
+    "last_action_date": "2026-10-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-23",
+        "action": "Lead added for Product Manager, New Content Initiatives and Analysis at AlphaSense (UK (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_95f4994a",
+    "company": "Think Cell",
+    "role": "Principal Product Manager (AI Product) (f/m/d)",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/think-cell/principal-product-manager-ai-product-317639",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-23",
+    "last_action_date": "2026-10-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-23",
+        "action": "Lead added for Principal Product Manager (AI Product) (f/m/d) at Think Cell (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_15bc7979",
+    "company": "Deliveroo",
+    "role": "Product Manager, Homepage",
+    "location": "London, England, United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/product-manager-homepage-london-98629",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-23",
+    "last_action_date": "2026-10-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-23",
+        "action": "Lead added for Product Manager, Homepage at Deliveroo (London, England, United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_080a06a3",
+    "company": "Kaluza",
+    "role": "Product Manager - Products & Pricing",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/product-manager-products-pricing-london-104379",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-23",
+    "last_action_date": "2026-10-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-23",
+        "action": "Lead added for Product Manager - Products & Pricing at Kaluza (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4fec3b37",
+    "company": "Kaluza",
+    "role": "Product Manager - Agent Experience (Fluency in French & English required)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/product-manager-agent-experience-fluency-in-french-english-required-london-174817",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-23",
+    "last_action_date": "2026-10-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-23",
+        "action": "Lead added for Product Manager - Agent Experience (Fluency in French & English required) at Kaluza (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7b39fbd5",
+    "company": "Joblogic",
+    "role": "Product Manager - Field Service Management (SaaS)",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/joblogic/product-manager-field-service-management-saas-107671",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-23",
+    "last_action_date": "2026-10-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-23",
+        "action": "Lead added for Product Manager - Field Service Management (SaaS) at Joblogic (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e189c46b",
+    "company": "LOGEX",
+    "role": "Senior Product Owner Clinical Registries",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/logex/senior-product-owner-clinical-registries-amsterdam-21389",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-23",
+    "last_action_date": "2026-10-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-23",
+        "action": "Lead added for Senior Product Owner Clinical Registries at LOGEX (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_75e7fa69",
+    "company": "Creative Clicks B.V.",
+    "role": "AI Product Owner",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/creative-clicks-bv/ai-product-owner-amsterdam-378713",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-23",
+    "last_action_date": "2026-10-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-23",
+        "action": "Lead added for AI Product Owner at Creative Clicks B.V. (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4ec17607",
+    "company": "Veloretti BV",
+    "role": "Product Owner Core Systems",
+    "location": "Amsterdam, Noord-Holland, Nederland",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/veloretti-bv/product-owner-core-systems-amsterdam-116427",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-23",
+    "last_action_date": "2026-10-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-23",
+        "action": "Lead added for Product Owner Core Systems at Veloretti BV (Amsterdam, Noord-Holland, Nederland). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2f88161a",
+    "company": "airSlate",
+    "role": "Principal AI Product Manager",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-23",
+    "last_action_date": "2026-10-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-23",
+        "action": "Lead added for Principal AI Product Manager at airSlate (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f8fe4cb9",
+    "company": "H&R Block",
+    "role": "Group Product Manager, SMB Accounting",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-23",
+    "last_action_date": "2026-10-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-23",
+        "action": "Lead added for Group Product Manager, SMB Accounting at H&R Block (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
