@@ -2,22 +2,30 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-10-22
+Date Generated: 2026-10-24
 ============================================================
 
-
-
-Of course. Here is a highly compelling, ATS-optimized 3-paragraph cover letter tailored for the Sr Product Manager role at UKG.
-
-***
-
-**Subject: Application for Sr Product Manager Role - Saurao Dalvi**
-
-Dear UKG Hiring Team,
-
-As an accomplished AI Product Manager with over 3 years of experience driving 0-to-1 product strategy and execution, I am excited to apply my expertise to the Sr Product Manager position at UKG. My career has been defined by a passion for building intelligent, customer-centric solutions that solve complex business challenges, a philosophy I understand is central to UKG's market-leading product vision. Having followed UKG's trajectory, I am particularly drawn to the opportunity to leverage my background in AI and automation to enhance the future of work for your global user base.
-
-In my recent roles as a Product Manager at FlytBase and CrelioHealth, I have consistently delivered measurable business impact by owning product roadmaps from concept to launch. At FlytBase, I led the 0-to-1 development of Prediq,
+1.  **Analyze the Request:**
+    *   **Candidate:** Saurao Dalvi
+    *   **Target Roles:** Product Manager / APM / AI Product Manager
+    *   **Target Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote (UKG is remote-friendly)
+    *   **Current Role:** AI Product Manager & AI Engineer at FlytBase
+    *   **Key Highlights to Include:**
+        *   0-to-1 roadmap & launch of Prediq (AI drone SaaS), ~$6K MRR at FlytBase.
+        *   Smart Reports at CrelioHealth, increasing lab revenue by ~$2K MRR per lab.
+        *   Cut patient registration time by ~58% and sample turnaround by 18% using custom AI prompt pipelines.
+        *   Built internal developer CLIs and automated complex cross-app processes with Zapier, Make, Python.
+        *   Built/launched AI products like Hidden Jobs (50K+ live ATS jobs indexed) and Stare V2.
+        *   Co-founded Elite PM platform with a Microsoft PM.
+    *   **Target Company:** UKG
+    *   **Target Role:** Sr Product Manager
+    *   **Location:** Remote
+    *   **ATS Keywords to Include:** "Product Manager" (must be naturally woven in, high density).
+    *   **Structure:** 3 paragraphs.
+        *   *Paragraph 1:* High-energy intro positioning Saurao as an AI Product Manager with 3+ years of 0-to-1 experience aligning with UKG's product vision.
+        *   *Paragraph 2:* Specific metrics & impact (shipped 0-to-1 products, scaled MRR, built LLM workflows, cut turnaround by 18-58%+), weaving in "Product Manager".
+        *   *Paragraph 3:* Crisp CTA expressing enthusiasm to discuss driving product growth for UKG.
+    *   **Tone:** Professional, confident, concise, high ATS
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

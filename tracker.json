@@ -9049,14 +9049,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/superchat/technical-product-owner-integrations-berlin-berlin-473381",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-09",
-    "last_action_date": "2026-10-09",
+    "last_action_date": "2026-10-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-09",
         "action": "Lead added for Technical Product Owner | Integrations (m/f/d) at Superchat (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-24",
+        "action": "Generated tailored application kit & cover letter (Superchat_Technical_Product_Owner_Integrations_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9114,14 +9118,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/mamahealth/product-manager-for-relentlessly-ambitious-people-berlin-160518",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-10",
-    "last_action_date": "2026-10-10",
+    "last_action_date": "2026-10-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-10",
         "action": "Lead added for Product Manager (m/f/d) - For Relentlessly Ambitious People at Mamahealth (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-24",
+        "action": "Generated tailored application kit & cover letter (Mamahealth_Product_Manager_m_f_d_-_For_Relentlessly_Ambitious_People.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9156,14 +9164,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/dr-ansay-ltd/head-of-product-berlin-391926",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-10",
-    "last_action_date": "2026-10-10",
+    "last_action_date": "2026-10-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-10",
         "action": "Lead added for Head of Product (m/w/d) at Dr. Ansay Ltd. (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-24",
+        "action": "Generated tailored application kit & cover letter (Dr_Ansay_Ltd_Head_of_Product_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9175,14 +9187,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/group-product-manager-fraud-london-407785",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-10",
-    "last_action_date": "2026-10-10",
+    "last_action_date": "2026-10-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-10",
         "action": "Lead added for Group Product Manager, Fraud at Checkout.com (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-24",
+        "action": "Generated tailored application kit & cover letter (Checkout_com_Group_Product_Manager_Fraud.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9240,14 +9256,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/voodoo/senior-data-product-manager-growth-paris-280196",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-10",
-    "last_action_date": "2026-10-10",
+    "last_action_date": "2026-10-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-10",
         "action": "Lead added for Senior Data Product Manager - Growth at Voodoo (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-24",
+        "action": "Generated tailored application kit & cover letter (Voodoo_Senior_Data_Product_Manager_-_Growth.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10844,6 +10864,120 @@
       {
         "date": "2026-10-23",
         "action": "Lead added for Group Product Manager, SMB Accounting at H&R Block (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e0c3ee68",
+    "company": "Taxfix",
+    "role": "Senior MarTech Product Manager (d/f/m)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/taxfix/senior-martech-product-manager-berlin-30131",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-24",
+    "last_action_date": "2026-10-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-24",
+        "action": "Lead added for Senior MarTech Product Manager (d/f/m) at Taxfix (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_acd5dda6",
+    "company": "Nelly Solutions",
+    "role": "Staff Product Manager - Platform",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/nelly-solutions/staff-product-manager-platform-berlin-190170",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-24",
+    "last_action_date": "2026-10-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-24",
+        "action": "Lead added for Staff Product Manager - Platform at Nelly Solutions (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_51d171a6",
+    "company": "PYSAE",
+    "role": "Product Manager - Product Design (H/F)",
+    "location": "Rennes, Bretagne, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/pysae/product-manager-product-design-h-f-rennes-23820",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-24",
+    "last_action_date": "2026-10-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-24",
+        "action": "Lead added for Product Manager - Product Design (H/F) at PYSAE (Rennes, Bretagne, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5a71646c",
+    "company": "PYSAE",
+    "role": "Product Manager - Expertise Métier Transport (H/F)",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/pysae/product-manager-expertise-metier-transport-h-f-paris-390418",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-24",
+    "last_action_date": "2026-10-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-24",
+        "action": "Lead added for Product Manager - Expertise Métier Transport (H/F) at PYSAE (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5a20171e",
+    "company": "Mollie",
+    "role": "Senior Product Manager - Business Banking",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/mollie/senior-product-manager-business-banking-amsterdam-28424",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-24",
+    "last_action_date": "2026-10-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-24",
+        "action": "Lead added for Senior Product Manager - Business Banking at Mollie (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1c7a06ca",
+    "company": "CenturyLink",
+    "role": "Sr Lead Product Manager Product Insights + Enablement (Remote, US)",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-24",
+    "last_action_date": "2026-10-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-24",
+        "action": "Lead added for Sr Lead Product Manager Product Insights + Enablement (Remote, US) at CenturyLink (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
