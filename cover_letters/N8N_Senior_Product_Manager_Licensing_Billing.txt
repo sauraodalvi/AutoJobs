@@ -1,0 +1,26 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager (Licensing & Billing) at N8N
+Apply Link: https://www.arbeitnow.com/jobs/companies/n8n/senior-product-manager-licensing-billing-berlin-412194
+Date Generated: 2026-10-25
+============================================================
+
+**Saurao Dalvi**  
+Pune, India | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi  
+
+Dear Hiring Team,
+
+As an AI Product Manager with 3+ years of experience building and scaling 0-to-1 products in AI/automation, I’m excited to bring my expertise in product-led growth and developer-centric platforms to N8N as your Senior Product Manager for Licensing & Billing. My background spans shaping product roadmaps, launching customer-facing AI solutions, and driving adoption across drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), and enterprise security SaaS (Sprinto)—all aligned with N8N’s mission to democratize workflow automation.
+
+In my current role at FlytBase, I own the end-to-end product strategy for Prediq, an AI drone SaaS platform, scaling it from concept to ~$6K MRR. At CrelioHealth, I led the roadmap for Smart Reports, increasing lab revenue by ~$2,000 MRR per lab while cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. As a Product Manager, I’ve also built internal developer CLIs, automated cross-app workflows using Python, Zapier, and Make, and co-founded Elite PM—a platform for product professionals—in partnership with a Microsoft PM. My work has consistently focused on turning complex technical capabilities into intuitive, high-impact products.
+
+I’m particularly drawn to N8N’s open-source DNA and its focus on empowering developers and businesses alike. I’d love to discuss how my experience in licensing models, billing systems, and scaling product operations can help accelerate N8N’s growth. Let’s connect.
+
+Best regards,  
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

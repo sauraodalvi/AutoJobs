@@ -1,0 +1,26 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager II, Developer ecosystem MCP (Remote from UK) at Smartsheet
+Apply Link: https://jobicy.com/jobs/155065-senior-product-manager-ii-developer-ecosystem-mcp-remote-from-uk
+Date Generated: 2026-10-25
+============================================================
+
+**Saurao Dalvi**  
+sauraodalvi@gmail.com | +44 7700 000000 | https://sauraodalvi.netlify.app/ | https://www.linkedin.com/in/saurao-dalvi/  
+
+Dear Hiring Manager,
+
+As an AI Product Manager with 3+ years of hands-on experience building and scaling 0-to-1 AI-native products, I’m excited to apply for the Senior Product Manager II role on Smartsheet’s Developer Ecosystem team. My background spans shaping product roadmaps, launching customer-facing AI/automation solutions, and leading cross-functional teams across drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), and enterprise security SaaS (Sprinto). I’m drawn to Smartsheet’s commitment to empowering builders through powerful platforms — a mission I’ve lived by while designing developer CLIs, LLM-powered workflows, and agentic systems that unlock real productivity gains.
+
+In my current role as AI Product Manager at FlytBase, I own the 0-to-1 roadmap and go-to-market strategy for Prediq — an AI-driven drone SaaS platform that grew to ~$6K MRR within its first year. At CrelioHealth, I led the roadmap for Smart Reports, a feature set that increased lab revenue by ~$2,000 MRR per lab while cutting patient registration time by ~58% and sample turnaround by 18% using custom AI prompt pipelines. I also co-founded Elite PM, a platform built in partnership with a Microsoft Product Manager, and shipped AI products like Hidden Jobs, indexing over 50K live ATS jobs. Across these roles, I've consistently operated as both a strategic Product Manager and a hands-on builder, leveraging tools like Python, Zapier, and Make to automate complex cross-app processes and deliver measurable impact.
+
+I’m energized by the opportunity to bring this blend of technical depth and product leadership to Smartsheet’s Developer Ecosystem team. I’d welcome the chance to discuss how my experience launching and scaling AI-powered developer tools can contribute to driving product growth and innovation at Smartsheet.
+
+Best regards,  
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

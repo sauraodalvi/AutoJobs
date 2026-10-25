@@ -9317,14 +9317,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-product-manager-licensing-billing-berlin-412194",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-11",
-    "last_action_date": "2026-10-11",
+    "last_action_date": "2026-10-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-11",
         "action": "Lead added for Senior Product Manager (Licensing & Billing) at N8N (Berlin Office). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-25",
+        "action": "Generated tailored application kit & cover letter (N8N_Senior_Product_Manager_Licensing_Billing.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9355,14 +9359,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/apexx/senior-product-manager-self-service-onboarding-farringdon-10867",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-11",
-    "last_action_date": "2026-10-11",
+    "last_action_date": "2026-10-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-11",
         "action": "Lead added for Senior Product Manager - Self-Service & Onboarding at Apexx (London HQ). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-25",
+        "action": "Generated tailored application kit & cover letter (Apexx_Senior_Product_Manager_-_Self-Service_Onboarding.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9374,14 +9382,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/naturida/remote-freelance-product-manager-3910",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-11",
-    "last_action_date": "2026-10-11",
+    "last_action_date": "2026-10-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-11",
         "action": "Lead added for Freelance Product Manager (m/w/d) at Naturida (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-25",
+        "action": "Generated tailored application kit & cover letter (Naturida_Freelance_Product_Manager_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9412,14 +9424,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/155065-senior-product-manager-ii-developer-ecosystem-mcp-remote-from-uk",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-12",
-    "last_action_date": "2026-10-12",
+    "last_action_date": "2026-10-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-12",
         "action": "Lead added for Senior Product Manager II, Developer ecosystem MCP (Remote from UK) at Smartsheet (UK (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-25",
+        "action": "Generated tailored application kit & cover letter (Smartsheet_Senior_Product_Manager_II_Developer_ecosystem_MCP_Remote_from_UK.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9450,14 +9466,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/calmlife/product-manager-london-378693",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-12",
-    "last_action_date": "2026-10-12",
+    "last_action_date": "2026-10-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-12",
         "action": "Lead added for Product Manager at Calmlife (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-25",
+        "action": "Generated tailored application kit & cover letter (Calmlife_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10978,6 +10998,253 @@
       {
         "date": "2026-10-24",
         "action": "Lead added for Sr Lead Product Manager Product Insights + Enablement (Remote, US) at CenturyLink (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e474ff1b",
+    "company": "Vivenu",
+    "role": "Senior Technical Product Manager (d/f/m)",
+    "location": "Frankfurt",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/vivenu/senior-technical-product-manager-frankfurt-159790",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Senior Technical Product Manager (d/f/m) at Vivenu (Frankfurt). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f05d4046",
+    "company": "Trafineo",
+    "role": "Product Owner/Business Analyst (m/f/d)",
+    "location": "Bochum, Nordrhein-Westfalen, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/trafineo/product-owner-business-analyst-bochum-84748",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Product Owner/Business Analyst (m/f/d) at Trafineo (Bochum, Nordrhein-Westfalen, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_35c508ae",
+    "company": "Kpler",
+    "role": "Senior Product Manager, Cruise Liners & Port Operations",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-product-manager-cruise-liners-port-operations-london-267789",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Senior Product Manager, Cruise Liners & Port Operations at Kpler (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b95db5fc",
+    "company": "Kpler",
+    "role": "Senior Product Manager - Containers & Automotive Intelligence",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-product-manager-containers-automotive-intelligence-london-430057",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Senior Product Manager - Containers & Automotive Intelligence at Kpler (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c804331e",
+    "company": "Spotify",
+    "role": "Senior Product Manager - Spotify Connect",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-product-manager-spotify-connect-london-360623",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Senior Product Manager - Spotify Connect at Spotify (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_640715b6",
+    "company": "Spotify",
+    "role": "Senior Product Manager - Audiobooks Format Foundations",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-product-manager-audiobooks-format-foundations-london-308871",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Senior Product Manager - Audiobooks Format Foundations at Spotify (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_42e9eb75",
+    "company": "Spotify",
+    "role": "Product Manager - Data Platform",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/product-manager-data-platform-london-261080",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Product Manager - Data Platform at Spotify (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1445bfcb",
+    "company": "Spotify",
+    "role": "Product Manager - Customer Service Platform",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/product-manager-customer-service-platform-london-424626",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Product Manager - Customer Service Platform at Spotify (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8bd8fdfc",
+    "company": "Spotify",
+    "role": "Principal Product Manager - TV & Desktop",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/principal-product-manager-tv-desktop-london-337041",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Principal Product Manager - TV & Desktop at Spotify (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7ebdebed",
+    "company": "Spotify",
+    "role": "Principal Product Manager - Core Experience Platform",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/principal-product-manager-core-experience-platform-london-431366",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Principal Product Manager - Core Experience Platform at Spotify (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_93b2d013",
+    "company": "Spotify",
+    "role": "Principal Product Manager - Content Platform",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/principal-product-manager-content-platform-london-361667",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Principal Product Manager - Content Platform at Spotify (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f162c548",
+    "company": "JACQUEMUS",
+    "role": "Cdi - Head Of Production Photos E-Commerce (H/F)",
+    "location": "Paris HQ, Île de France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-head-of-production-photos-e-commerce-h-f-paris-hq-ile-de-france-427536",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Cdi - Head Of Production Photos E-Commerce (H/F) at JACQUEMUS (Paris HQ, Île de France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_63432c21",
+    "company": "bunq",
+    "role": "Product Owner - Credit",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/bunq/product-owner-credit-amsterdam-385876",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-25",
+    "last_action_date": "2026-10-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "action": "Lead added for Product Owner - Credit at bunq (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
