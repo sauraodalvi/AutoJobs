@@ -9279,14 +9279,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/vivid/remote-senior-product-manager-146998",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-10",
-    "last_action_date": "2026-10-10",
+    "last_action_date": "2026-10-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-10",
         "action": "Lead added for Senior Product Manager at Vivid (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-26",
+        "action": "Generated tailored application kit & cover letter (Vivid_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9340,14 +9344,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/rematiq-gmbh/product-lead-berlin-92071",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-11",
-    "last_action_date": "2026-10-11",
+    "last_action_date": "2026-10-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-11",
         "action": "Lead added for Product Lead at Rematiq Gmbh (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-26",
+        "action": "Generated tailored application kit & cover letter (Rematiq_Gmbh_Product_Lead.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9405,14 +9413,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/product-manager-ecommerce-categories-paris-paris-74966",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-11",
-    "last_action_date": "2026-10-11",
+    "last_action_date": "2026-10-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-11",
         "action": "Lead added for Product Manager - Ecommerce Categories (f/m/d) at Junior Data Scientist - Downstream Demand Forecast - Value Chain ... (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-26",
+        "action": "Generated tailored application kit & cover letter (Junior_Data_Scientist_-_Downstream_Demand_Forecast_-_Value_Chain_Product_Manager_-_Ecommerce_Categories_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9447,14 +9459,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/eunetworks/product-manager-ultra-low-latency-networks-london-387300",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-12",
-    "last_action_date": "2026-10-12",
+    "last_action_date": "2026-10-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-12",
         "action": "Lead added for Product Manager Ultra Low Latency Networks at Eunetworks (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-26",
+        "action": "Generated tailored application kit & cover letter (Eunetworks_Product_Manager_Ultra_Low_Latency_Networks.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9489,14 +9505,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/senior-product-manager-trading-connectivity-london-cyprus-304370",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-12",
-    "last_action_date": "2026-10-12",
+    "last_action_date": "2026-10-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-12",
         "action": "Lead added for Senior Product Manager, Trading Connectivity at Talos Trading (London, Cyprus). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-26",
+        "action": "Generated tailored application kit & cover letter (Talos_Trading_Senior_Product_Manager_Trading_Connectivity.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11245,6 +11265,101 @@
       {
         "date": "2026-10-25",
         "action": "Lead added for Product Owner - Credit at bunq (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_de331d96",
+    "company": "hellofresh",
+    "role": "Senior Product Manager II, Consumer (all genders)",
+    "location": "Berlin, Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-product-manager-ii-consumer-all-genders-berlin-berlin-142695",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-26",
+    "last_action_date": "2026-10-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-26",
+        "action": "Lead added for Senior Product Manager II, Consumer (all genders) at hellofresh (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8c01e3e0",
+    "company": "Lio",
+    "role": "Product Manager",
+    "location": "Munich Office",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/lio/product-manager-munich-397336",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-26",
+    "last_action_date": "2026-10-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-26",
+        "action": "Lead added for Product Manager at Lio (Munich Office). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_901625e3",
+    "company": "MoonPay",
+    "role": "Product Manager, Crypto Asset Management (Mid)",
+    "location": "London - Hybrid",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/product-manager-crypto-asset-management-mid-london-hybrid-459040",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-26",
+    "last_action_date": "2026-10-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-26",
+        "action": "Lead added for Product Manager, Crypto Asset Management (Mid) at MoonPay (London - Hybrid). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a5cd6155",
+    "company": "360Learning",
+    "role": "Product Manager",
+    "location": "Paris, Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-product-manager-140298",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-26",
+    "last_action_date": "2026-10-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-26",
+        "action": "Lead added for Product Manager at 360Learning (Paris, Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_94555497",
+    "company": "Deliverect",
+    "role": "Senior Product Manager",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/deliverect/senior-product-manager-paris-6632",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-26",
+    "last_action_date": "2026-10-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-26",
+        "action": "Lead added for Senior Product Manager at Deliverect (Paris). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
