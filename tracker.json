@@ -9528,14 +9528,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/product-manager-sap-finance-prozessberatung-heidelberg-310324",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-13",
-    "last_action_date": "2026-10-13",
+    "last_action_date": "2026-10-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-13",
         "action": "Lead added for Product Manager SAP & Finance Prozessberatung (m/w/d) at cbs Corporate Business Solutions GmbH (Heidelberg, Baden-Württemberg, Deutschland). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-27",
+        "action": "Generated tailored application kit & cover letter (cbs_Corporate_Business_Solutions_GmbH_Product_Manager_SAP_Finance_Prozessberatung_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9547,14 +9551,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/product-manager-sap-transformation-consulting-heidelberg-332106",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-13",
-    "last_action_date": "2026-10-13",
+    "last_action_date": "2026-10-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-13",
         "action": "Lead added for Product Manager SAP Transformation Consulting (m/w/d) at cbs Corporate Business Solutions GmbH (Heidelberg, Baden-Württemberg, Deutschland). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-27",
+        "action": "Generated tailored application kit & cover letter (cbs_Corporate_Business_Solutions_GmbH_Product_Manager_SAP_Transformation_Consulting_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9566,14 +9574,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/piabo/head-of-product-technology-ai-berlin-b-235855",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-13",
-    "last_action_date": "2026-10-13",
+    "last_action_date": "2026-10-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-13",
         "action": "Lead added for Head of Product & Technology (AI) (m/w/d) at Piabo (Berlin (B)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-27",
+        "action": "Generated tailored application kit & cover letter (Piabo_Head_of_Product_Technology_AI_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9604,14 +9616,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/unframe/product-manager-english-french-paris-paris-329036",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-13",
-    "last_action_date": "2026-10-13",
+    "last_action_date": "2026-10-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-13",
         "action": "Lead added for Product Manager (English/French) at unframe (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-27",
+        "action": "Generated tailored application kit & cover letter (unframe_Product_Manager_English_French.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9623,14 +9639,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/maze/senior-product-manager-panel-remote-eu-uk-netherlands-212014",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-13",
-    "last_action_date": "2026-10-13",
+    "last_action_date": "2026-10-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-13",
         "action": "Lead added for Senior Product Manager, Panel (Remote, EU/UK) at Maze (Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-27",
+        "action": "Generated tailored application kit & cover letter (Maze_Senior_Product_Manager_Panel_Remote_EU_UK.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11360,6 +11380,101 @@
       {
         "date": "2026-10-26",
         "action": "Lead added for Senior Product Manager at Deliverect (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e7af3d35",
+    "company": "Prior Labs",
+    "role": "Technical Product Manager, Integrations",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/prior-labs/technical-product-manager-integrations-berlin-5388",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-27",
+    "last_action_date": "2026-10-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-27",
+        "action": "Lead added for Technical Product Manager, Integrations at Prior Labs (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8a88e27e",
+    "company": "Swarmaero",
+    "role": "Technical Product Manager",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-technical-product-manager-132288",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-27",
+    "last_action_date": "2026-10-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-27",
+        "action": "Lead added for Technical Product Manager at Swarmaero (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_193bfcd3",
+    "company": "Datadog",
+    "role": "Senior Product Manager - Application Performance Monitoring",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-product-manager-application-performance-monitoring-paris-213723",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-27",
+    "last_action_date": "2026-10-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-27",
+        "action": "Lead added for Senior Product Manager - Application Performance Monitoring at Datadog (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f5386b2d",
+    "company": "Suitsupply",
+    "role": "Junior Product Manager - IT Fulfillment",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/suitsupply/junior-product-manager-it-fulfillment-amsterdam-209861",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-27",
+    "last_action_date": "2026-10-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-27",
+        "action": "Lead added for Junior Product Manager - IT Fulfillment at Suitsupply (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_14647465",
+    "company": "Mollie",
+    "role": "Head of Product - Cards",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/mollie/head-of-product-cards-amsterdam-477101",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-27",
+    "last_action_date": "2026-10-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-27",
+        "action": "Lead added for Head of Product - Cards at Mollie (Amsterdam). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
