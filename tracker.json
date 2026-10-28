@@ -9597,14 +9597,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/staff-product-manager-e-commerce-web-upper-funnel-cdi-paris-paris-207102",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-13",
-    "last_action_date": "2026-10-13",
+    "last_action_date": "2026-10-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-13",
         "action": "Lead added for Staff Product Manager - E-Commerce Web Upper Funnel [CDI] (f/m/d) at Junior Data Scientist - Downstream Demand Forecast - Value Chain ... (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-28",
+        "action": "Generated tailored application kit & cover letter (Junior_Data_Scientist_-_Downstream_Demand_Forecast_-_Value_Chain_Staff_Product_Manager_-_E-Commerce_Web_Upper_Funnel_CDI_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9662,14 +9666,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/clickhouse/sr-product-manager-clickstack-the-netherlands-461742",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-13",
-    "last_action_date": "2026-10-13",
+    "last_action_date": "2026-10-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-13",
         "action": "Lead added for Sr. Product Manager - ClickStack at Clickhouse (The Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-28",
+        "action": "Generated tailored application kit & cover letter (Clickhouse_Sr_Product_Manager_-_ClickStack.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9700,14 +9708,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/153165-senior-technical-product-manager-biometric-authentication",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-14",
-    "last_action_date": "2026-10-14",
+    "last_action_date": "2026-10-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-14",
         "action": "Lead added for Senior Technical Product Manager (Biometric Authentication) at Veriff (Spain,  UK,  USA (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-28",
+        "action": "Generated tailored application kit & cover letter (Veriff_Senior_Technical_Product_Manager_Biometric_Authentication.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9719,14 +9731,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/gomotive/staff-product-manager-235537",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-14",
-    "last_action_date": "2026-10-14",
+    "last_action_date": "2026-10-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-14",
         "action": "Lead added for Staff Product Manager at Gomotive (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-28",
+        "action": "Generated tailored application kit & cover letter (Gomotive_Staff_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9795,14 +9811,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/product-manager-consumer-app-amsterdam-450546",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-14",
-    "last_action_date": "2026-10-14",
+    "last_action_date": "2026-10-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-14",
         "action": "Lead added for Product Manager - Consumer App at Teampicnic (Amsterdam). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-28",
+        "action": "Generated tailored application kit & cover letter (Teampicnic_Product_Manager_-_Consumer_App.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11475,6 +11495,120 @@
       {
         "date": "2026-10-27",
         "action": "Lead added for Head of Product - Cards at Mollie (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6ca36c99",
+    "company": "Skdse",
+    "role": "Product Manager - Edge Systems (All Genders)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/skdse/product-manager-edge-systems-all-genders-berlin-105923",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-28",
+    "last_action_date": "2026-10-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-28",
+        "action": "Lead added for Product Manager - Edge Systems (All Genders) at Skdse (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c40148a8",
+    "company": "rebuy",
+    "role": "Product Manager - Operations Systems (m/f/x)",
+    "location": "Rudow, Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/rebuy/product-manager-operations-systems-rudow-294796",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-28",
+    "last_action_date": "2026-10-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-28",
+        "action": "Lead added for Product Manager - Operations Systems (m/f/x) at rebuy (Rudow, Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b8d1b43d",
+    "company": "Brevo",
+    "role": "Senior Product Manager",
+    "location": "Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-product-manager-paris-france-121851",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-28",
+    "last_action_date": "2026-10-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-28",
+        "action": "Lead added for Senior Product Manager at Brevo (Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_795d439b",
+    "company": "Caseware",
+    "role": "Product Owner Cloud",
+    "location": "Apeldoorn, Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/caseware/product-owner-cloud-apeldoorn-netherlands-437848",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-28",
+    "last_action_date": "2026-10-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-28",
+        "action": "Lead added for Product Owner Cloud at Caseware (Apeldoorn, Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_90e8f6ec",
+    "company": "Polarsteps",
+    "role": "Social & Follower - Product Manager",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/polarsteps/social-follower-product-manager-amsterdam-327917",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-28",
+    "last_action_date": "2026-10-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-28",
+        "action": "Lead added for Social & Follower - Product Manager at Polarsteps (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a3371427",
+    "company": "Attendi",
+    "role": "Senior Product Owner",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/attendi/senior-product-owner-amsterdam-93161",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-28",
+    "last_action_date": "2026-10-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-28",
+        "action": "Lead added for Senior Product Owner at Attendi (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

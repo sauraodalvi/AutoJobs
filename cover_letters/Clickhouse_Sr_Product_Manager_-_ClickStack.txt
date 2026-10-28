@@ -1,0 +1,18 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Sr. Product Manager - ClickStack at Clickhouse
+Apply Link: https://www.arbeitnow.nl/jobs/companies/clickhouse/sr-product-manager-clickstack-the-netherlands-461742
+Date Generated: 2026-10-28
+============================================================
+
+I am an AI Product Manager with over three years of end‑to‑end, 0‑to‑1 product ownership, having defined and launched AI‑driven roadmaps for high‑growth SaaS platforms. My experience building scalable, customer‑facing solutions at FlytBase, CrelioHealth, and Sprinto directly aligns with Clickhouse’s mission to empower developers with powerful, low‑latency data stacks, and I am eager to bring that same product‑led momentum to the Sr. Product Manager – ClickStack role in The Netherlands.  
+
+In my most recent positions I served as the Product Manager responsible for the full lifecycle of multiple 0‑to‑1 initiatives: I owned the roadmap and launch of Prediq, an AI drone SaaS that grew to ~$6K MRR, and drove the Smart Reports product at CrelioHealth to generate an additional $2,000 MRR per lab. By engineering LLM‑powered prompt pipelines, I cut patient registration time by 58% and sample turnaround by 18%, while also delivering internal developer CLIs and automating cross‑app workflows with Python, Zapier, and Make. These results demonstrate my ability to translate vision into measurable product growth, scale MRR, and ship high‑impact AI features on tight timelines.  
+
+I am excited about the opportunity to discuss how my proven track record of launching AI‑native products and driving revenue can help Clickhouse accelerate ClickStack’s market adoption. Please let me know a convenient time for a conversation so we can explore how I can contribute to the next phase of Clickhouse’s product success.
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
