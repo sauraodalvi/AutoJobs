@@ -9689,14 +9689,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/clickhouse/principal-product-manager-security-the-netherlands-269227",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-13",
-    "last_action_date": "2026-10-13",
+    "last_action_date": "2026-10-29",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-13",
         "action": "Lead added for Principal Product Manager, Security at Clickhouse (The Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-29",
+        "action": "Generated tailored application kit & cover letter (Clickhouse_Principal_Product_Manager_Security.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9754,14 +9758,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/copy-of-product-manager-new-content-initiatives-and-analysis-199763",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-14",
-    "last_action_date": "2026-10-14",
+    "last_action_date": "2026-10-29",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-14",
         "action": "Lead added for Copy of Product Manager, New Content Initiatives and Analysis at Alphasense (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-29",
+        "action": "Generated tailored application kit & cover letter (Alphasense_Copy_of_Product_Manager_New_Content_Initiatives_and_Analysis.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9773,14 +9781,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/exotec/product-owner-microsoft-koddex-outils-collaboratifs-lille-324336",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-14",
-    "last_action_date": "2026-10-14",
+    "last_action_date": "2026-10-29",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-14",
         "action": "Lead added for Product Owner (Microsoft, Koddex, outils collaboratifs) at Exotec (Lille, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-29",
+        "action": "Generated tailored application kit & cover letter (Exotec_Product_Owner_Microsoft_Koddex_outils_collaboratifs.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9792,14 +9804,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/product-manager-supply-chain-amsterdam-89352",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-14",
-    "last_action_date": "2026-10-14",
+    "last_action_date": "2026-10-29",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-14",
         "action": "Lead added for Product Manager - Supply Chain at Teampicnic (Amsterdam). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-29",
+        "action": "Generated tailored application kit & cover letter (Teampicnic_Product_Manager_-_Supply_Chain.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9853,14 +9869,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/graduate-product-manager-picnic-app-amsterdam-32557",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-14",
-    "last_action_date": "2026-10-14",
+    "last_action_date": "2026-10-29",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-14",
         "action": "Lead added for Graduate Product Manager - Picnic App at Teampicnic (Amsterdam). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-29",
+        "action": "Generated tailored application kit & cover letter (Teampicnic_Graduate_Product_Manager_-_Picnic_App.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11609,6 +11629,44 @@
       {
         "date": "2026-10-28",
         "action": "Lead added for Senior Product Owner at Attendi (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e99080b2",
+    "company": "Alma31",
+    "role": "Senior Product Manager - Checkout Experience",
+    "location": "Paris, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/alma31/senior-product-manager-checkout-experience-paris-paris-116617",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-29",
+    "last_action_date": "2026-10-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-29",
+        "action": "Lead added for Senior Product Manager - Checkout Experience at Alma31 (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a71c467d",
+    "company": "Aquablu B.V",
+    "role": "Product Manager Digital Platforms",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/aquablu-bv/product-manager-digital-platforms-amsterdam-464669",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-29",
+    "last_action_date": "2026-10-29",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-29",
+        "action": "Lead added for Product Manager Digital Platforms at Aquablu B.V (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

@@ -2,22 +2,20 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager (Radiotech) at Gismart
 Apply Link: https://www.arbeitnow.com/jobs/companies/gismart/remote-product-manager-radiotech-120708
-Date Generated: 2026-10-27
+Date Generated: 2026-10-29
 ============================================================
 
-**Saurao Dalvi**  
-Pune, India | sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi  
 
-Dear Hiring Manager,
 
-I am an AI Product Manager with 3+ years of experience building and scaling AI-native products from 0-to-1. As a forward-deployed engineer and product leader at companies like FlytBase, CrelioHealth, and Sprinto, I’ve shaped roadmaps, launched customer-facing SaaS platforms, and delivered measurable business impact through intelligent automation. My background aligns closely with Gismart’s mission to build innovative digital products, and I’m excited about the opportunity to contribute as a Product Manager on your Radiotech team.
+Of course. Here is a highly compelling, ATS-optimized 3-paragraph cover letter tailored for the Product Manager role at Gismart.
 
-Throughout my career, I have owned end-to-end product strategy and execution—shipping products that drive revenue and operational efficiency. At FlytBase, I built and launched *Prediq*, an AI drone SaaS platform that scaled to ~$6K MRR, and at CrelioHealth, I led the roadmap for *Smart Reports*, increasing lab revenue by ~$2,000 MRR per lab while cutting patient registration time by ~58% and sample turnaround by 18% using custom AI prompt pipelines. I’ve also developed internal developer CLIs, automated cross-app workflows using Zapier, Make, and Python, and launched AI products like *Hidden Jobs* (50K+ live ATS jobs indexed) and *Stare V2*. As a Product Manager, I thrive at the intersection of data, user needs, and emerging technology to ship impactful outcomes.
+***
 
-I’m eager to bring my expertise in AI-driven product development and cross-functional leadership to Gismart as your next Product Manager. Let’s connect to discuss how I can help accelerate product growth and innovation within your Radiotech division.
+Dear Hiring Team,
 
-Best regards,  
-Saurao Dalvi
+I am writing with immense excitement to apply for the Product Manager (Radiotech) position at Gismart. As an AI Product Manager with 3+ years of hands-on, 0-to-1 experience, I have a proven track record of conceptualizing, building, and scaling AI-native products from inception to market success. My journey has been defined by shaping product roadmaps and leading cross-functional teams to deliver customer-centric solutions in highly technical domains, including drone autonomy and healthcare SaaS. I am deeply impressed by Gismart's innovative product vision and am eager to leverage my expertise in AI and product strategy to drive impactful growth for your Radiotech team.
+
+My impact as a Product Manager is defined by tangible business outcomes. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS platform that successfully grew to ~$6K MRR. In my previous role, I spearheaded the development of Smart Reports, a feature that directly increased lab revenue by ~$2,000 MRR per lab. My strength lies in building L
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

@@ -1,0 +1,23 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Graduate Product Manager - Picnic App at Teampicnic
+Apply Link: https://www.arbeitnow.nl/jobs/companies/teampicnic/graduate-product-manager-picnic-app-amsterdam-32557
+Date Generated: 2026-10-29
+============================================================
+
+Dear Hiring Manager,
+
+As an AI Product Manager with over 3 years of proven 0-to-1 experience building and launching AI-native products, I am excited to apply for the Graduate Product Manager role at Teampicnic for the Picnic App. My background spans shaping product roadmaps, leading cross-functional teams, and delivering customer-facing AI/automation solutions across diverse sectors including drone autonomy, healthcare SaaS, and enterprise security. With a strong track record of owning end-to-end product development from concept to market, I am passionate about leveraging product management expertise to drive user-centric innovation that aligns with Teampicnic's mission to make sustainable living accessible and rewarding.
+
+Throughout my career as a Product Manager, I have consistently delivered measurable impact: at FlytBase, I owned the 0-to-1 roadmap and launch of Prediq (AI drone SaaS), growing it to ~$6K MRR; at CrelioHealth, I drove Smart Reports, increasing lab revenue by ~$2,000 MRR per lab while cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. Additionally, I built Hidden Jobs (indexing 50K+ live ATS jobs) and Stare V2, demonstrating my ability to rapidly prototype and scale products using LLM-powered workflows, CLIs, and agentic systems. These experiences have equipped me with a data-driven, user-focused approach essential for evolving the Picnic App into a market-leading platform.
+
+I am eager to bring my Product Manager skills and AI-driven mindset to Teampicnic and collaborate with your team to enhance the Picnic App experience for millions of users across Europe. I would welcome the opportunity to discuss how my background in scaling AI products and driving revenue growth can contribute to Teampicnic's next phase of innovation. Thank you for considering my application—I look forward to the possibility of contributing to your exciting journey.
+
+Best regards,
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
