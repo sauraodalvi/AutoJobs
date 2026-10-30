@@ -2,17 +2,6 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager at Valiance Solutions
 Apply Link: https://www.linkedin.com/jobs/view/4454516367
-Date Generated: 2026-10-29
+Date Generated: 2026-10-30
 ============================================================
 
-I am a Product Manager with 3+ years of AI‑driven product experience, having built and launched 0‑to‑1 solutions that power autonomous drones, healthcare SaaS, and enterprise security platforms. My background spans full‑stack engineering, LLM‑powered workflow design, and rapid go‑to‑market execution, directly aligning with Valiance Solutions’s vision for innovative, customer‑centric product growth. Based in a remote‑first environment, I thrive in distributed, cross‑functional teams and am eager to bring that agility to your remote Product Manager role.  
-
-In my most recent positions I owned end‑to‑end roadmaps and delivered measurable impact: at FlytBase I defined and shipped Prediq, an AI drone SaaS that grew to ~$6K MRR; at CrelioHealth I led the Smart Reports roadmap, boosting lab revenue by ~$2K MRR per lab and cutting patient registration time by 58% while reducing sample turnaround by 18% through custom AI prompt pipelines. I also engineered internal developer CLIs and automated cross‑app processes with Python, Zapier, and Make, and launched multiple AI products—including Hidden Jobs (50K+ indexed ATS jobs) and Stare V2—demonstrating a consistent record of scaling MRR and operational efficiency as a Product Manager.  
-
-I am excited about the opportunity to apply my proven track record of driving product growth and AI innovation to Valiance Solutions. Let’s discuss how my experience in roadmap ownership, data‑driven prioritization, and rapid 0‑to‑1 delivery can accelerate your product vision. I look forward to the conversation.
-
-============================================================
-CANDIDATE CONTACT SUMMARY:
-Name: Saurao Dalvi
-Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

@@ -9850,14 +9850,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/graduate-product-manager-supply-chain-amsterdam-275700",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-14",
-    "last_action_date": "2026-10-14",
+    "last_action_date": "2026-10-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-14",
         "action": "Lead added for Graduate Product Manager - Supply Chain at Teampicnic (Amsterdam). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-30",
+        "action": "Generated tailored application kit & cover letter (Teampicnic_Graduate_Product_Manager_-_Supply_Chain.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9892,14 +9896,18 @@
     "contact_name": "Recruiting Team",
     "contact_email": "",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-14",
-    "last_action_date": "2026-10-14",
+    "last_action_date": "2026-10-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-14",
         "action": "Lead added for Principal Product Manager Strategic Initiatives at Thyme Care (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-30",
+        "action": "Generated tailored application kit & cover letter (Thyme_Care_Principal_Product_Manager_Strategic_Initiatives.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9930,14 +9938,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/people-product-lead-london-26679",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-15",
-    "last_action_date": "2026-10-15",
+    "last_action_date": "2026-10-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-15",
         "action": "Lead added for People Product Lead at Multiverse (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-30",
+        "action": "Generated tailored application kit & cover letter (Multiverse_People_Product_Lead.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9949,14 +9961,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/principal-product-manager-partner-integrations-united-kingdom-230492",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-15",
-    "last_action_date": "2026-10-15",
+    "last_action_date": "2026-10-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-15",
         "action": "Lead added for Principal Product Manager, Partner Integrations at Senior Software Engineer (Typescript / Backend) - AI/ML (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-30",
+        "action": "Generated tailored application kit & cover letter (Senior_Software_Engineer_Typescript_Backend_-_AI_ML_Principal_Product_Manager_Partner_Integrations.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10006,14 +10022,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/bluerock-tms/product-manager-s-hertogenbosch-7799",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-15",
-    "last_action_date": "2026-10-15",
+    "last_action_date": "2026-10-30",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-15",
         "action": "Lead added for Product Manager at Bluerock TMS ('s-Hertogenbosch, Noord-Brabant, Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-30",
+        "action": "Generated tailored application kit & cover letter (Bluerock_TMS_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11667,6 +11687,177 @@
       {
         "date": "2026-10-29",
         "action": "Lead added for Product Manager Digital Platforms at Aquablu B.V (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b659d456",
+    "company": "Statista",
+    "role": "Senior Platform Product Manager (m/f/d)",
+    "location": "Hamburg or Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/statista/senior-platform-product-manager-hamburg-or-berlin-143122",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-30",
+    "last_action_date": "2026-10-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-30",
+        "action": "Lead added for Senior Platform Product Manager (m/f/d) at Statista (Hamburg or Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_08e49186",
+    "company": "Roompricegenie",
+    "role": "Remote Sr. Product Manager - Revenue Management - 1 year contract (m/f/d)",
+    "location": "Remote Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-revenue-management-1-year-contract-237883",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-30",
+    "last_action_date": "2026-10-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-30",
+        "action": "Lead added for Remote Sr. Product Manager - Revenue Management - 1 year contract (m/f/d) at Roompricegenie (Remote Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4c44873c",
+    "company": "Shopfully",
+    "role": "Senior Product Manager",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/shopfully/senior-product-manager-berlin-241845",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-30",
+    "last_action_date": "2026-10-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-30",
+        "action": "Lead added for Senior Product Manager at Shopfully (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_270ec60c",
+    "company": "dkbcodefactory",
+    "role": "Product Owner - Shop (x/f/m)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/product-owner-shop-berlin-141792",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-30",
+    "last_action_date": "2026-10-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-30",
+        "action": "Lead added for Product Owner - Shop (x/f/m) at dkbcodefactory (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_395c57a2",
+    "company": "dkbcodefactory",
+    "role": "Product Owner - Pricing & Billing Engine (x/f/m)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/product-owner-pricing-billing-engine-berlin-45362",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-30",
+    "last_action_date": "2026-10-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-30",
+        "action": "Lead added for Product Owner - Pricing & Billing Engine (x/f/m) at dkbcodefactory (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e221839b",
+    "company": "Carwow",
+    "role": "Senior Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-product-manager-london-300865",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-30",
+    "last_action_date": "2026-10-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-30",
+        "action": "Lead added for Senior Product Manager at Carwow (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4488661f",
+    "company": "Hubvisory",
+    "role": "Consultant Product Manager F/H",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/consultant-product-manager-f-h-paris-290323",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-30",
+    "last_action_date": "2026-10-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-30",
+        "action": "Lead added for Consultant Product Manager F/H at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_05ee9908",
+    "company": "Hubvisory",
+    "role": "Consultant Product Manager IA & Data F/H",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/consultant-product-manager-ia-data-f-h-paris-254986",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-30",
+    "last_action_date": "2026-10-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-30",
+        "action": "Lead added for Consultant Product Manager IA & Data F/H at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a2b3b8d5",
+    "company": "Plugin Record",
+    "role": "Product Manager",
+    "location": "Pune City, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4483044021",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-30",
+    "last_action_date": "2026-10-30",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-30",
+        "action": "Lead added for Product Manager at Plugin Record (Pune City, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

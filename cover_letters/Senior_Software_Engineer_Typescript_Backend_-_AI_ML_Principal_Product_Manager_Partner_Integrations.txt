@@ -1,0 +1,24 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Principal Product Manager, Partner Integrations at Senior Software Engineer (Typescript / Backend) - AI/ML
+Apply Link: https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/principal-product-manager-partner-integrations-united-kingdom-230492
+Date Generated: 2026-10-30
+============================================================
+
+1.  **Analyze the Request:**
+    *   **Candidate:** Saurao Dalvi
+    *   **Target Roles (implicit in prompt, but focus is on the specific role requested):** Product Manager / AI Product Manager
+    *   **Target Locations:** Pune, EU, Japan, Singapore, Indonesia, Remote (UK is included)
+    *   **Summary/Background:** AI Product Manager & AI Engineer (Forward Deployed Engineer) at FlytBase. 3+ years experience. FlytBase (drone autonomy, ~$6K MRR), CrelioHealth (healthcare SaaS, Smart Reports, ~$2K MRR/lab, 58% registration time cut, 18% sample turnaround cut), Sprinto (enterprise security SaaS). Built developer CLIs, LLM workflows, agentic systems. Built Hidden Jobs, Stare V2. Co-founded Elite PM platform.
+    *   **Specific Role Requested:** Senior Software Engineer (Typescript / Backend) - AI/ML | Principal Product Manager, Partner Integrations | United Kingdom. *Wait, this is a weird hybrid role ("Senior Software Engineer" AND "Principal Product Manager"). I need to bridge the gap between his PM background and the technical requirements (Typescript/Backend/AI/ML) of the target company.*
+    *   **ATS Keywords to incorporate naturally:** "Product Manager" (must appear at least a few times, as per standard ATS rules, though usually 1-2 times is enough, I'll aim for natural integration).
+    *   **Structure:**
+        *   Paragraph 1: High-energy intro positioning him as an AI Product Manager with 0-to-1 experience aligning with the Senior Software Engineer (Typescript / Backend) - AI/ML product vision.
+        *   Paragraph 2: Specific metrics & impact (FlytBase/CrelioHealth/Sprinto, MRR scaling, LLM workflows, turnaround cuts). Weave in "Product Manager".
+        *   Paragraph 3: Crisp CTA expressing enthusiasm to drive product growth for Senior Software Engineer (
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
