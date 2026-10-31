@@ -9919,14 +9919,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/product-manager-ccaas-french-speaking-london-216023",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-15",
-    "last_action_date": "2026-10-15",
+    "last_action_date": "2026-10-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-15",
         "action": "Lead added for Product Manager (CCaaS) - French Speaking at Kaluza (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-31",
+        "action": "Generated tailored application kit & cover letter (Kaluza_Product_Manager_CCaaS_-_French_Speaking.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -9984,14 +9988,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/erp-product-owner-bern-387065",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-15",
-    "last_action_date": "2026-10-15",
+    "last_action_date": "2026-10-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-15",
         "action": "Lead added for ERP Product Owner at SwissPeak Partners GmbH (Bern, Berne, Switzerland). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-31",
+        "action": "Generated tailored application kit & cover letter (SwissPeak_Partners_GmbH_ERP_Product_Owner.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10003,14 +10011,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/head-of-product-management-transformation-risk-finance-compliance-bern-245515",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-15",
-    "last_action_date": "2026-10-15",
+    "last_action_date": "2026-10-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-15",
         "action": "Lead added for Head of Product Management & Transformation (Risk, Finance & Compliance) at SwissPeak Partners GmbH (Bern, Berne, Switzerland). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-31",
+        "action": "Generated tailored application kit & cover letter (SwissPeak_Partners_GmbH_Head_of_Product_Management_Transformation_Risk_Finance_Compliance.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10083,14 +10095,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/unzer/senior-product-manager-pos-hardware-berlin-342948",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-16",
-    "last_action_date": "2026-10-16",
+    "last_action_date": "2026-10-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-16",
         "action": "Lead added for Senior Product Manager - POS Hardware (m/f/d) at Unzer (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-31",
+        "action": "Generated tailored application kit & cover letter (Unzer_Senior_Product_Manager_-_POS_Hardware_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10159,14 +10175,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/everai/product-manager-trust-safety-full-remote-france-244593",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-16",
-    "last_action_date": "2026-10-16",
+    "last_action_date": "2026-10-31",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-16",
         "action": "Lead added for Product Manager - Trust & Safety (Full Remote - France) at EverAI (France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-10-31",
+        "action": "Generated tailored application kit & cover letter (EverAI_Product_Manager_-_Trust_Safety_Full_Remote_-_France.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11858,6 +11878,139 @@
       {
         "date": "2026-10-30",
         "action": "Lead added for Product Manager at Plugin Record (Pune City, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_80db642f",
+    "company": "Omegga",
+    "role": "Product Owner Hardware (m/f/d)",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/omegga/product-owner-hardware-munich-313199",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-31",
+    "last_action_date": "2026-10-31",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-31",
+        "action": "Lead added for Product Owner Hardware (m/f/d) at Omegga (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_082d1004",
+    "company": "JustPlay GmbH",
+    "role": "Senior Product Manager - Ad Traffic Quality (all genders)",
+    "location": "Berlin (Hybrid)",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/senior-product-manager-ad-traffic-quality-all-genders-berlin-59636",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-31",
+    "last_action_date": "2026-10-31",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-31",
+        "action": "Lead added for Senior Product Manager - Ad Traffic Quality (all genders) at JustPlay GmbH (Berlin (Hybrid)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1b0cc263",
+    "company": "Insider One",
+    "role": "Product Manager - B2B SaaS (Martech) - Europe",
+    "location": "Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/insider-one/product-manager-b2b-saas-martech-europe-berlin-germany-273832",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-31",
+    "last_action_date": "2026-10-31",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-31",
+        "action": "Lead added for Product Manager - B2B SaaS (Martech) - Europe at Insider One (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a4bb71b4",
+    "company": "Cosuno",
+    "role": "Senior Product Manager",
+    "location": "Berlin/Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-product-manager-berlin-143961",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-31",
+    "last_action_date": "2026-10-31",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-31",
+        "action": "Lead added for Senior Product Manager at Cosuno (Berlin/Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6c6ef001",
+    "company": "trawa",
+    "role": "Head of Product",
+    "location": "Berlin HQ",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/trawa/head-of-product-berlin-66186",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-31",
+    "last_action_date": "2026-10-31",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-31",
+        "action": "Lead added for Head of Product at trawa (Berlin HQ). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8bd5c94b",
+    "company": "Lyrebird Health",
+    "role": "Enterprise Product Manager",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/lyrebird-health/enterprise-product-manager-united-kingdom-464615",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-31",
+    "last_action_date": "2026-10-31",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-31",
+        "action": "Lead added for Enterprise Product Manager at Lyrebird Health (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_19c7e9bd",
+    "company": "Spotify",
+    "role": "Senior Product Manager - Subscriptions (Premium Desirability)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-product-manager-subscriptions-premium-desirability-london-189985",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-10-31",
+    "last_action_date": "2026-10-31",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-10-31",
+        "action": "Lead added for Senior Product Manager - Subscriptions (Premium Desirability) at Spotify (London). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

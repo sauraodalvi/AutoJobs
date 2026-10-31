@@ -1,0 +1,23 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Manager - Trust & Safety (Full Remote - France) at EverAI
+Apply Link: https://www.arbeitnow.fr/jobs/companies/everai/product-manager-trust-safety-full-remote-france-244593
+Date Generated: 2026-10-31
+============================================================
+
+**Saurao Dalvi**  
+sauraodalvi@gmail.com | +33 XXX XXX XXX | [LinkedIn](https://www.linkedin.com/in/saurao-dalvi/) | [Portfolio](https://sauraodalvi.netlify.app/)  
+
+---
+
+As an AI Product Manager with 3+ years of 0-to-1 experience building and scaling AI-native products, I’m excited to apply for the Product Manager – Trust & Safety role at EverAI. My background spans shaping product roadmaps, launching customer-facing AI solutions, and leading cross-functional teams across drone autonomy (FlytBase), healthcare SaaS (CrelioHealth), and enterprise security SaaS (Sprinto)—all aligned with EverAI’s mission to deliver trustworthy, safe, and scalable AI systems.
+
+In my current role as AI Product Manager & Forward Deployed Engineer at FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS platform that grew to ~$6K MRR. At CrelioHealth, I led the roadmap for Smart Reports, driving ~$2,000 MRR growth per lab and cutting patient registration time by ~58% and sample turnaround by 18% through custom AI prompt pipelines. I’ve also built internal developer CLIs, automated cross-app workflows with Python/Zapier/Make, and launched AI products like Hidden Jobs (indexing 50K+ live ATS jobs) and Stare V2—demonstrating my ability to ship fast, measure impact, and scale responsibly as a hands-on Product Manager.
+
+I’m energized by the opportunity to help EverAI lead in Trust & Safety for the AI era. I’d welcome the chance to discuss how my product leadership and AI engineering background can contribute to building safer, more reliable AI products. Let’s connect.
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
