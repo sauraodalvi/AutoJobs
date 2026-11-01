@@ -10057,14 +10057,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/optics11/senior-product-manager-software-amsterdam-168851",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-15",
-    "last_action_date": "2026-10-15",
+    "last_action_date": "2026-11-01",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-15",
         "action": "Lead added for Senior Product Manager Software at Optics11 (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-01",
+        "action": "Generated tailored application kit & cover letter (Optics11_Senior_Product_Manager_Software.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10076,14 +10080,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/everai/product-manager-trust-safety-full-remote-germany-483423",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-16",
-    "last_action_date": "2026-10-16",
+    "last_action_date": "2026-11-01",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-16",
         "action": "Lead added for Product Manager - Trust & Safety (Full Remote - Germany) at EverAI (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-01",
+        "action": "Generated tailored application kit & cover letter (EverAI_Product_Manager_-_Trust_Safety_Full_Remote_-_Germany.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10118,14 +10126,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/iti/product-owner-in-softwareentwicklung-berlin-37903",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-16",
-    "last_action_date": "2026-10-16",
+    "last_action_date": "2026-11-01",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-16",
         "action": "Lead added for Product Owner *in Softwareentwicklung (m/w/d) at IT&I (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-01",
+        "action": "Generated tailored application kit & cover letter (IT_I_Product_Owner_in_Softwareentwicklung_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10137,14 +10149,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nmcareers/senior-product-manager-unannounced-project-london-72996",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-16",
-    "last_action_date": "2026-10-16",
+    "last_action_date": "2026-11-01",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-16",
         "action": "Lead added for Senior Product Manager - Unannounced Project at Nmcareers (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-01",
+        "action": "Generated tailored application kit & cover letter (Nmcareers_Senior_Product_Manager_-_Unannounced_Project.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10156,14 +10172,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/everai/product-manager-trust-safety-full-remote-uk-united-kingdom-288794",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-16",
-    "last_action_date": "2026-10-16",
+    "last_action_date": "2026-11-01",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-16",
         "action": "Lead added for Product Manager - Trust & Safety (Full Remote - UK) at EverAI (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-01",
+        "action": "Generated tailored application kit & cover letter (EverAI_Product_Manager_-_Trust_Safety_Full_Remote_-_UK.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12011,6 +12031,63 @@
       {
         "date": "2026-10-31",
         "action": "Lead added for Senior Product Manager - Subscriptions (Premium Desirability) at Spotify (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a0b8ab33",
+    "company": "CesiumAstro",
+    "role": "Product Manager",
+    "location": "Munich, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/cesiumastro/product-manager-munich-germany-84400",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-01",
+    "last_action_date": "2026-11-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-01",
+        "action": "Lead added for Product Manager at CesiumAstro (Munich, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_70026ecc",
+    "company": "Superchat",
+    "role": "Associate Product Manager (m/f/d)",
+    "location": "Berlin, Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/superchat/associate-product-manager-berlin-berlin-32005",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-01",
+    "last_action_date": "2026-11-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-01",
+        "action": "Lead added for Associate Product Manager (m/f/d) at Superchat (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d8e4f386",
+    "company": "Bowatt",
+    "role": "Founding Product Manager (German-speaking)",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-manager-german-speaking-munich-285512",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-01",
+    "last_action_date": "2026-11-01",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-01",
+        "action": "Lead added for Founding Product Manager (German-speaking) at Bowatt (Munich). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
