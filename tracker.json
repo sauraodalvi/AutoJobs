@@ -10218,14 +10218,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/everai/product-manager-trust-safety-full-remote-netherlands-94007",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-16",
-    "last_action_date": "2026-10-16",
+    "last_action_date": "2026-11-02",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-16",
         "action": "Lead added for Product Manager - Trust & Safety (Full Remote - Netherlands) at EverAI (Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-02",
+        "action": "Generated tailored application kit & cover letter (EverAI_Product_Manager_-_Trust_Safety_Full_Remote_-_Netherlands.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10275,14 +10279,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/flix/senior-product-owner-berlin-457306",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-17",
-    "last_action_date": "2026-10-17",
+    "last_action_date": "2026-11-02",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-17",
         "action": "Lead added for Senior Product Owner (m/f/d) at Flix (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-02",
+        "action": "Generated tailored application kit & cover letter (Flix_Senior_Product_Owner_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10294,14 +10302,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/hopkins-rechtsanwaltsgesellschaft-mbh/legal-product-manager-legal-engineer-jurist-in-berlin-124081",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-17",
-    "last_action_date": "2026-10-17",
+    "last_action_date": "2026-11-02",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-17",
         "action": "Lead added for Legal Product Manager | Legal Engineer (Jurist/in) (x/w/m) at Hopkins Rechtsanwaltsgesellschaft mbH (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-02",
+        "action": "Generated tailored application kit & cover letter (Hopkins_Rechtsanwaltsgesellschaft_mbH_Legal_Product_Manager_Legal_Engineer_Jurist_in_x_w_m.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10370,14 +10382,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/senior-product-manager-digital-clients-growth-expansion-berlin-172691",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-18",
-    "last_action_date": "2026-10-18",
+    "last_action_date": "2026-11-02",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-18",
         "action": "Lead added for Senior Product Manager - Digital Clients: Growth & Expansion at Liqid Lig (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-02",
+        "action": "Generated tailored application kit & cover letter (Liqid_Lig_Senior_Product_Manager_-_Digital_Clients_Growth_Expansion.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10389,14 +10405,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-product-owner-ratingen-314055",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-18",
-    "last_action_date": "2026-10-18",
+    "last_action_date": "2026-11-02",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-18",
         "action": "Lead added for Senior Product Owner (m/w/d) at HyPlus Technology GmbH (Ratingen, Nordrhein-Westfalen, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-02",
+        "action": "Generated tailored application kit & cover letter (HyPlus_Technology_GmbH_Senior_Product_Owner_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12088,6 +12108,120 @@
       {
         "date": "2026-11-01",
         "action": "Lead added for Founding Product Manager (German-speaking) at Bowatt (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f95413b3",
+    "company": "Binance",
+    "role": "Compliance Product Manager",
+    "location": "Singapore (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/158427-compliance-product-manager",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-02",
+    "last_action_date": "2026-11-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-02",
+        "action": "Lead added for Compliance Product Manager at Binance (Singapore (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_69df583c",
+    "company": "CONROO GmbH",
+    "role": "Business Product Owner | Full Time (m/w/d)",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/conroo-gmbh/business-product-owner-full-time-munich-485603",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-02",
+    "last_action_date": "2026-11-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-02",
+        "action": "Lead added for Business Product Owner | Full Time (m/w/d) at CONROO GmbH (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_593c12ab",
+    "company": "Orbital",
+    "role": "Staff Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/orbital/staff-product-manager-london-205479",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-02",
+    "last_action_date": "2026-11-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-02",
+        "action": "Lead added for Staff Product Manager at Orbital (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5a00572d",
+    "company": "tem",
+    "role": "Senior Product Manager - Trading",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tem/senior-product-manager-trading-united-kingdom-493890",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-02",
+    "last_action_date": "2026-11-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-02",
+        "action": "Lead added for Senior Product Manager - Trading at tem (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_63b2912f",
+    "company": "Thiga",
+    "role": "AI Product Builder - AI Product Manager - H/F",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/ai-product-builder-ai-product-manager-h-f-paris-281626",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-02",
+    "last_action_date": "2026-11-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-02",
+        "action": "Lead added for AI Product Builder - AI Product Manager - H/F at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_bcc871b5",
+    "company": "Tomtom",
+    "role": "Product Manager - Traffic (Flow, Jams, Speed Profiles & Moderation)",
+    "location": "Amsterdam, The Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/tomtom/product-manager-traffic-flow-jams-speed-profiles-moderation-amsterdam-the-netherlands-216437",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-02",
+    "last_action_date": "2026-11-02",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-02",
+        "action": "Lead added for Product Manager - Traffic (Flow, Jams, Speed Profiles & Moderation) at Tomtom (Amsterdam, The Netherlands). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
