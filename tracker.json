@@ -10241,14 +10241,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/catawiki/senior-product-manager-search-ranking-amsterdam-136281",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-16",
-    "last_action_date": "2026-10-16",
+    "last_action_date": "2026-11-03",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-16",
         "action": "Lead added for Senior Product Manager - Search & Ranking at Catawiki (Amsterdam). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-03",
+        "action": "Generated tailored application kit & cover letter (Catawiki_Senior_Product_Manager_-_Search_Ranking.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10260,14 +10264,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/153453-product-lead-infrastructure",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-17",
-    "last_action_date": "2026-10-17",
+    "last_action_date": "2026-11-03",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-17",
         "action": "Lead added for Product Lead - Infrastructure at Supabase (Anywhere (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-03",
+        "action": "Generated tailored application kit & cover letter (Supabase_Product_Lead_-_Infrastructure.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10325,14 +10333,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-product-manager-unannounced-project-london-345589",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-17",
-    "last_action_date": "2026-10-17",
+    "last_action_date": "2026-11-03",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-17",
         "action": "Lead added for Senior Product Manager - Unannounced Project at Zyngacareers (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-03",
+        "action": "Generated tailored application kit & cover letter (Zyngacareers_Senior_Product_Manager_-_Unannounced_Project.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10344,14 +10356,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/vibe/senior-product-manager-measurement-reporting-paris-334847",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-17",
-    "last_action_date": "2026-10-17",
+    "last_action_date": "2026-11-03",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-17",
         "action": "Lead added for Senior Product Manager - Measurement & Reporting at Vibe (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-03",
+        "action": "Generated tailored application kit & cover letter (Vibe_Senior_Product_Manager_-_Measurement_Reporting.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10363,14 +10379,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/prosus/group-product-manager-amsterdam-138407",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-17",
-    "last_action_date": "2026-10-17",
+    "last_action_date": "2026-11-03",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-17",
         "action": "Lead added for Group Product Manager at Prosus (Amsterdam). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-03",
+        "action": "Generated tailored application kit & cover letter (Prosus_Group_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12222,6 +12242,215 @@
       {
         "date": "2026-11-02",
         "action": "Lead added for Product Manager - Traffic (Flow, Jams, Speed Profiles & Moderation) at Tomtom (Amsterdam, The Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_97bbd80c",
+    "company": "Apaleo",
+    "role": "Senior Product Manager (f/m/d)",
+    "location": "Munich, Bavaria, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-product-manager-munich-481114",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-03",
+    "last_action_date": "2026-11-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-03",
+        "action": "Lead added for Senior Product Manager (f/m/d) at Apaleo (Munich, Bavaria, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c0afa8b3",
+    "company": "Plos",
+    "role": "Senior Product Manager - 12 Month FTC",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/plos/senior-product-manager-12-month-ftc-15501",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-03",
+    "last_action_date": "2026-11-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-03",
+        "action": "Lead added for Senior Product Manager - 12 Month FTC at Plos (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3ca66653",
+    "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+    "role": "Product Manager - Consumer Apps - 12mth FTC",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/product-manager-consumer-apps-12mth-ftc-london-151117",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-03",
+    "last_action_date": "2026-11-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-03",
+        "action": "Lead added for Product Manager - Consumer Apps - 12mth FTC at Legal Counsel - 12 month FTC at Rightmove Greenhouse (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_37354ec4",
+    "company": "TrustFlight",
+    "role": "Learning Design & Training Product Manager",
+    "location": "Bracknell, Bracknell Forest, United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/trustflight/learning-design-training-product-manager-bracknell-355210",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-03",
+    "last_action_date": "2026-11-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-03",
+        "action": "Lead added for Learning Design & Training Product Manager at TrustFlight (Bracknell, Bracknell Forest, United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_bff4cd0b",
+    "company": "Joko",
+    "role": "Lead Product Manager - AI Platform",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/joko/lead-product-manager-ai-platform-paris-17335",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-03",
+    "last_action_date": "2026-11-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-03",
+        "action": "Lead added for Lead Product Manager - AI Platform at Joko (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_587d2ce1",
+    "company": "Joko",
+    "role": "Lead Product Manager - Business Lines",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/joko/lead-product-manager-business-lines-paris-221406",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-03",
+    "last_action_date": "2026-11-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-03",
+        "action": "Lead added for Lead Product Manager - Business Lines at Joko (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0e755003",
+    "company": "Joko",
+    "role": "Product Manager - AI Platform",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/joko/product-manager-ai-platform-paris-47000",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-03",
+    "last_action_date": "2026-11-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-03",
+        "action": "Lead added for Product Manager - AI Platform at Joko (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c94593ab",
+    "company": "Joko",
+    "role": "Product Manager - Juno",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/joko/product-manager-juno-paris-265324",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-03",
+    "last_action_date": "2026-11-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-03",
+        "action": "Lead added for Product Manager - Juno at Joko (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d04b4b9c",
+    "company": "Joko",
+    "role": "Product Manager - Core UX",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/joko/product-manager-core-ux-paris-214533",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-03",
+    "last_action_date": "2026-11-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-03",
+        "action": "Lead added for Product Manager - Core UX at Joko (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_85527804",
+    "company": "Storiogroup",
+    "role": "Senior Product Manager (Product Catalogue)",
+    "location": "Amsterdam, NL",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/storiogroup/senior-product-manager-product-catalogue-amsterdam-nl-359761",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-03",
+    "last_action_date": "2026-11-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-03",
+        "action": "Lead added for Senior Product Manager (Product Catalogue) at Storiogroup (Amsterdam, NL). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e4afd4ce",
+    "company": "JPMorganChase",
+    "role": "Product Manager - Travel",
+    "location": "Pune Division, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4486840777",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-03",
+    "last_action_date": "2026-11-03",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-03",
+        "action": "Lead added for Product Manager - Travel at JPMorganChase (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
