@@ -10448,14 +10448,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.ch/jobs/companies/climeworks/filtration-module-product-owner-80-100-zurich-440760",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-18",
-    "last_action_date": "2026-10-18",
+    "last_action_date": "2026-11-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-18",
         "action": "Lead added for Filtration Module Product Owner (80-100%) at Climeworks (Zurich, Zürich, Switzerland). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-04",
+        "action": "Generated tailored application kit & cover letter (Climeworks_Filtration_Module_Product_Owner_80-100.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10467,14 +10471,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/buena/product-manager-accounting-berlin-67752",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-19",
-    "last_action_date": "2026-10-19",
+    "last_action_date": "2026-11-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-19",
         "action": "Lead added for Product Manager - Accounting (m/f/d) at Buena (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-04",
+        "action": "Generated tailored application kit & cover letter (Buena_Product_Manager_-_Accounting_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10486,14 +10494,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/buena/product-manager-berlin-447895",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-19",
-    "last_action_date": "2026-10-19",
+    "last_action_date": "2026-11-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-19",
         "action": "Lead added for Product Manager (m/f/d) at Buena (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-04",
+        "action": "Generated tailored application kit & cover letter (Buena_Product_Manager_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10524,14 +10536,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/wink/growth-product-manager-paris-438713",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-19",
-    "last_action_date": "2026-10-19",
+    "last_action_date": "2026-11-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-19",
         "action": "Lead added for Growth Product Manager at Wink (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-04",
+        "action": "Generated tailored application kit & cover letter (Wink_Growth_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10543,14 +10559,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/bunq/head-of-product-amsterdam-444996",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-19",
-    "last_action_date": "2026-10-19",
+    "last_action_date": "2026-11-04",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-19",
         "action": "Lead added for Head of Product at bunq (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-04",
+        "action": "Generated tailored application kit & cover letter (bunq_Head_of_Product.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12451,6 +12471,120 @@
       {
         "date": "2026-11-03",
         "action": "Lead added for Product Manager - Travel at JPMorganChase (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_063c5878",
+    "company": "Awin",
+    "role": "Associate Product Manager (f/m/d)",
+    "location": "Berlin, Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/awin/associate-product-manager-berlin-berlin-271884",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-04",
+    "last_action_date": "2026-11-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-04",
+        "action": "Lead added for Associate Product Manager (f/m/d) at Awin (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ea9b0805",
+    "company": "constructortech",
+    "role": "Senior Technical Product Manager (Platform)",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-technical-product-manager-platform-111631",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-04",
+    "last_action_date": "2026-11-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-04",
+        "action": "Lead added for Senior Technical Product Manager (Platform) at constructortech (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_65b04198",
+    "company": "constructortech",
+    "role": "Senior Product Manager (EdTech & AI)",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-product-manager-edtech-ai-232898",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-04",
+    "last_action_date": "2026-11-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-04",
+        "action": "Lead added for Senior Product Manager (EdTech & AI) at constructortech (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f82127b2",
+    "company": "Nebius",
+    "role": "Senior Technical Product Manager - Inference Platform",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-technical-product-manager-inference-platform-159498",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-04",
+    "last_action_date": "2026-11-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-04",
+        "action": "Lead added for Senior Technical Product Manager - Inference Platform at Nebius (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2237354f",
+    "company": "Signal Processing Engineer (RF Processing & Analytics)",
+    "role": "Product Manager",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/product-manager-paris-110736",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-04",
+    "last_action_date": "2026-11-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-04",
+        "action": "Lead added for Product Manager at Signal Processing Engineer (RF Processing & Analytics) (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2660cbcb",
+    "company": "Hubvisory",
+    "role": "Product Manager Supply Chain & Transport - F/H",
+    "location": "Lille, Hauts-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/product-manager-supply-chain-transport-f-h-lille-188650",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-04",
+    "last_action_date": "2026-11-04",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-04",
+        "action": "Lead added for Product Manager Supply Chain & Transport - F/H at Hubvisory (Lille, Hauts-de-France, France). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

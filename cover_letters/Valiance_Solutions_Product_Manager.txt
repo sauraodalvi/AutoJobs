@@ -2,6 +2,22 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager at Valiance Solutions
 Apply Link: https://www.linkedin.com/jobs/view/4454516367
-Date Generated: 2026-11-03
+Date Generated: 2026-11-04
 ============================================================
 
+Saurao Dalvi  
+sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi  
+
+**Hiring Team, Valiance Solutions**  
+
+As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I align directly with Valiance Solutions’s vision for building intelligent, scalable products. At FlytBase, I function as a Forward Deployed Engineer and **Product Manager**, owning the full lifecycle of AI-native solutions—from technical discovery and LLM prompt architecture to roadmap prioritization and GTM strategy. My ability to translate complex AI/ML capabilities into revenue-generating features positions me to deliver immediate impact on your roadmap.  
+
+In my current role, I owned the 0-to-1 launch of **Prediq**, an AI drone SaaS platform, scaling it to **~$6K MRR** by defining the product strategy, managing cross-functional engineering sprints, and shipping LLM-powered workflows. Previously at CrelioHealth, I led the **Product Manager** roadmap for Smart Reports, driving **~$2,000 MRR per lab** and cutting patient registration time by **58%** and sample turnaround by **18%** through custom AI prompt pipelines. At Sprinto, I automated compliance evidence collection across 100+ integrations using Python, Zapier, and Make, reducing manual audit effort by 40%. I consistently ship developer-facing CLIs, agentic systems, and internal tooling that accelerate velocity and unlock new revenue streams.  
+
+I am eager to bring this blend of technical depth and commercial ownership to Valiance Solutions as a
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

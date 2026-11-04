@@ -1,0 +1,36 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Growth Product Manager at Wink
+Apply Link: https://www.arbeitnow.fr/jobs/companies/wink/growth-product-manager-paris-438713
+Date Generated: 2026-11-04
+============================================================
+
+[Your Name]
+[Your Phone Number] | [Your Email]
+[Your LinkedIn Profile] | [Your Portfolio Link]
+
+[Date]
+
+Hiring Manager, Product Team
+Wink
+Paris, France (Remote/Hybrid)
+
+**RE: Growth Product Manager Application**
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Growth Product Manager position at Wink. As an AI Product Manager and Engineer with over three years of experience specializing in 0-to-1 product development, I have built a career at the intersection of rapid scaling and technical innovation. Having successfully launched AI-native products and agentic systems across drone autonomy, healthcare, and enterprise security, I am eager to bring my expertise in driving user acquisition and product-led growth to Wink’s ambitious vision in Paris.
+
+My track record is defined by delivering measurable commercial impact through disciplined product ownership. At FlytBase, I owned the end-to-end roadmap and launch of Prediq, scaling the AI drone SaaS to ~$6K MRR. During my tenure as a Product Manager at CrelioHealth, I spearheaded the "Smart Reports" feature, which increased lab revenue by ~$2,000 MRR per facility, while simultaneously leveraging custom AI prompt pipelines to slash patient registration time by 58% and sample turnaround by 18%. From building developer CLIs to indexing 50K+ live jobs for my own AI ventures, I possess the rare blend of technical depth (LLM workflows, Python) and growth mindset required to optimize conversion funnels and scale a product's footprint.
+
+Wink is at a pivotal stage of growth, and I am confident that my experience in building high-velocity, AI-driven products will allow me to contribute immediately to your growth metrics. I am eager to discuss how my background in 0-to-1 execution and automation can help Wink dominate its market. Thank you for your time and consideration.
+
+Best regards,
+
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
