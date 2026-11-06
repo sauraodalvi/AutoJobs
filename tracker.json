@@ -10586,14 +10586,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/153655-senior-product-manager-smart-data-products-gn-europe",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-20",
-    "last_action_date": "2026-10-20",
+    "last_action_date": "2026-11-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-20",
         "action": "Lead added for Senior Product Manager, Smart Data Products [gn] Europe at Actian (UK (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-06",
+        "action": "Generated tailored application kit & cover letter (Actian_Senior_Product_Manager_Smart_Data_Products_gn_Europe.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10605,14 +10609,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/153654-principal-product-manager-conversational-ai",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-20",
-    "last_action_date": "2026-10-20",
+    "last_action_date": "2026-11-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-20",
         "action": "Lead added for Principal Product Manager- Conversational AI at Hopper (Spain (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-06",
+        "action": "Generated tailored application kit & cover letter (Hopper_Principal_Product_Manager-_Conversational_AI.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10624,14 +10632,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bjak/product-lead-ai-stockbroking-germany-53284",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-20",
-    "last_action_date": "2026-10-20",
+    "last_action_date": "2026-11-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-20",
         "action": "Lead added for Product Lead - AI Stockbroking at Bjak (Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-06",
+        "action": "Generated tailored application kit & cover letter (Bjak_Product_Lead_-_AI_Stockbroking.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10666,14 +10678,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/product-manager-ia-paris-387464",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-20",
-    "last_action_date": "2026-10-20",
+    "last_action_date": "2026-11-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-20",
         "action": "Lead added for Product Manager IA - Paris at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-06",
+        "action": "Generated tailored application kit & cover letter (Hubvisory_Product_Manager_IA_-_Paris.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10708,14 +10724,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/verve/senior-product-manager-programmatic-exchange-london-394693",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-21",
-    "last_action_date": "2026-10-21",
+    "last_action_date": "2026-11-06",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-21",
         "action": "Lead added for Senior Product Manager, Programmatic Exchange at Verve (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-06",
+        "action": "Generated tailored application kit & cover letter (Verve_Senior_Product_Manager_Programmatic_Exchange.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12624,6 +12644,177 @@
       {
         "date": "2026-11-05",
         "action": "Lead added for Head of Product - SAP (m/f/d) at Qorelo (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_71baf28c",
+    "company": "orcristtechnologies",
+    "role": "Technical Product Manager (Data Integrations)",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/orcristtechnologies/technical-product-manager-data-integrations-370715",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-06",
+    "last_action_date": "2026-11-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-06",
+        "action": "Lead added for Technical Product Manager (Data Integrations) at orcristtechnologies (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b07d9e1a",
+    "company": "Almedia",
+    "role": "Product Lead - Adtech",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/almedia/product-lead-adtech-berlin-141161",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-06",
+    "last_action_date": "2026-11-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-06",
+        "action": "Lead added for Product Lead - Adtech at Almedia (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ec43c456",
+    "company": "Lemon Markets",
+    "role": "Product Manager - Investing (f/m/x)",
+    "location": "Germany  (Hybrid)",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/product-manager-investing-berlin-486201",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-06",
+    "last_action_date": "2026-11-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-06",
+        "action": "Lead added for Product Manager - Investing (f/m/x) at Lemon Markets (Germany  (Hybrid)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9086d660",
+    "company": "Faculty",
+    "role": "Lead Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/lead-product-manager-london-466732",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-06",
+    "last_action_date": "2026-11-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-06",
+        "action": "Lead added for Lead Product Manager at Faculty (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c6aa780f",
+    "company": "V7Labs.com",
+    "role": "Senior / Staff Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/v7labscom/senior-staff-product-manager-london-307308",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-06",
+    "last_action_date": "2026-11-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-06",
+        "action": "Lead added for Senior / Staff Product Manager at V7Labs.com (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f23e5cf8",
+    "company": "TransPerfect",
+    "role": "Product Manager - London",
+    "location": "London, Greater London, United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/product-manager-london-335038",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-06",
+    "last_action_date": "2026-11-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-06",
+        "action": "Lead added for Product Manager - London at TransPerfect (London, Greater London, United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_50c031c2",
+    "company": "Deliveroo",
+    "role": "Senior Product Manager, Trust & Safety, Integrity and Fraud",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-trust-safety-integrity-and-fraud-london-185594",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-06",
+    "last_action_date": "2026-11-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-06",
+        "action": "Lead added for Senior Product Manager, Trust & Safety, Integrity and Fraud at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3524a134",
+    "company": "Agence du Numérique en Santé",
+    "role": "Product Owner Annuaires H/F",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/agence-du-numerique-en-sante/product-owner-annuaires-h-f-paris-324019",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-06",
+    "last_action_date": "2026-11-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-06",
+        "action": "Lead added for Product Owner Annuaires H/F at Agence du Numérique en Santé (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a616bf00",
+    "company": "Amazon",
+    "role": "Sr. Product Manager - Tech, Alexa AI Developer Tech",
+    "location": "Pune/Pimpri-Chinchwad Area",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4487519600",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-06",
+    "last_action_date": "2026-11-06",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-06",
+        "action": "Lead added for Sr. Product Manager - Tech, Alexa AI Developer Tech at Amazon (Pune/Pimpri-Chinchwad Area). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

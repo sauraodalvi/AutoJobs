@@ -2,35 +2,6 @@
 COVER LETTER & APPLICATION KIT
 Target: Knit - Lead Product Manager at Eleve Talent
 Apply Link: https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-lead-product-manager-115209
-Date Generated: 2026-10-29
+Date Generated: 2026-11-06
 ============================================================
 
-[Your Name]
-[Your Phone Number] | [Your Email]
-[Your Portfolio Link] | [Your LinkedIn Link]
-
-[Date]
-
-Hiring Manager
-Eleve Talent
-Remote
-
-**RE: Lead Product Manager – Knit**
-
-Dear Hiring Manager,
-
-I am writing to express my strong interest in the Lead Product Manager position for Knit at Eleve Talent. As an AI Product Manager and Engineer with over three years of experience building 0-to-1 products, I specialize in bridging the gap between complex technical architecture and high-growth business outcomes. Having scaled AI-native solutions across drone autonomy, healthcare SaaS, and enterprise security, I bring a proven track record of shipping agentic systems and LLM-powered workflows that align perfectly with the innovative vision driving Knit.
-
-My career is defined by delivering measurable ROI through rigorous product ownership. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq (AI drone SaaS), scaling it to ~$6K MRR. During my tenure as a Product Manager at CrelioHealth, I led the development of Smart Reports, which increased lab revenue by ~$2,000 MRR per facility, while deploying custom AI prompt pipelines that slashed patient registration time by 58% and sample turnaround by 18%. From building developer CLIs to indexing 50K+ ATS jobs for Hidden Jobs, I possess the rare blend of technical depth as an AI Engineer and the strategic mindset of a Product Manager required to lead a high-impact product like Knit.
-
-I am eager to bring my experience in automating complex cross-app processes and scaling AI products to Eleve Talent. I am confident that my ability to lead cross-functional teams and execute lean, data-driven roadmaps will accelerate Knit’s growth and market penetration. I look forward to the opportunity to discuss how my background in AI-native product development can drive immediate value for your team.
-
-Best regards,
-
-Saurao Dalvi
-
-============================================================
-CANDIDATE CONTACT SUMMARY:
-Name: Saurao Dalvi
-Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
