@@ -10747,14 +10747,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/verve/senior-product-manager-data-insights-analytics-london-12236",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-21",
-    "last_action_date": "2026-10-21",
+    "last_action_date": "2026-11-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-21",
         "action": "Lead added for Senior Product Manager, Data Insights & Analytics at Verve (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-07",
+        "action": "Generated tailored application kit & cover letter (Verve_Senior_Product_Manager_Data_Insights_Analytics.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10831,14 +10835,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/jetbrains/senior-product-manager-jetbrains-air-agentic-development-in-ides-amsterdam-247685",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-21",
-    "last_action_date": "2026-10-21",
+    "last_action_date": "2026-11-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-21",
         "action": "Lead added for Senior Product Manager - JetBrains Air (Agentic Development in IDEs) at jetbrains (Amsterdam). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-07",
+        "action": "Generated tailored application kit & cover letter (jetbrains_Senior_Product_Manager_-_JetBrains_Air_Agentic_Development_in_IDEs.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10850,14 +10858,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-manager-generative-ai-platform-london-60805",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-22",
-    "last_action_date": "2026-10-22",
+    "last_action_date": "2026-11-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-22",
         "action": "Lead added for Staff Product Manager, Generative AI Platform at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-07",
+        "action": "Generated tailored application kit & cover letter (Deliveroo_Staff_Product_Manager_Generative_AI_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10907,14 +10919,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4481296870",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-22",
-    "last_action_date": "2026-10-22",
+    "last_action_date": "2026-11-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-22",
         "action": "Lead added for Product Manager, AI at Cin7 (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-07",
+        "action": "Generated tailored application kit & cover letter (Cin7_Product_Manager_AI.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -10926,14 +10942,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/156120-product-manager-new-content-initiatives-and-analysis",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-23",
-    "last_action_date": "2026-10-23",
+    "last_action_date": "2026-11-07",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-23",
         "action": "Lead added for Product Manager, New Content Initiatives and Analysis at AlphaSense (UK (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-07",
+        "action": "Generated tailored application kit & cover letter (AlphaSense_Product_Manager_New_Content_Initiatives_and_Analysis.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12815,6 +12835,101 @@
       {
         "date": "2026-11-06",
         "action": "Lead added for Sr. Product Manager - Tech, Alexa AI Developer Tech at Amazon (Pune/Pimpri-Chinchwad Area). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4be98a75",
+    "company": "Quantum-Systems GmbH",
+    "role": "Product Manager Mission Payload Land (m/f/d)",
+    "location": "Gilching, Bayern, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/product-manager-mission-payload-land-gilching-451741",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-07",
+    "last_action_date": "2026-11-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-07",
+        "action": "Lead added for Product Manager Mission Payload Land (m/f/d) at Quantum-Systems GmbH (Gilching, Bayern, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2fec6702",
+    "company": "Quantum-Systems GmbH",
+    "role": "Product Manager Autonomous Trucking (m/f/d)",
+    "location": "Gilching, Bayern, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/product-manager-autonomous-trucking-gilching-132733",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-07",
+    "last_action_date": "2026-11-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-07",
+        "action": "Lead added for Product Manager Autonomous Trucking (m/f/d) at Quantum-Systems GmbH (Gilching, Bayern, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b355adb7",
+    "company": "Augustus",
+    "role": "Product Manager",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/augustus/product-manager-berlin-199266",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-07",
+    "last_action_date": "2026-11-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-07",
+        "action": "Lead added for Product Manager at Augustus (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a0edc5fc",
+    "company": "Mistral.ai",
+    "role": "Product Manager, Context",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/product-manager-context-paris-160061",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-07",
+    "last_action_date": "2026-11-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-07",
+        "action": "Lead added for Product Manager, Context at Mistral.ai (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8651d59a",
+    "company": "Hansen Technologies",
+    "role": "Product Manager",
+    "location": "Pune Division, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4486990975",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-07",
+    "last_action_date": "2026-11-07",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-07",
+        "action": "Lead added for Product Manager at Hansen Technologies (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
