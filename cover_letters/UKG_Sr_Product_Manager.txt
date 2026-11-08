@@ -2,18 +2,12 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-11-06
+Date Generated: 2026-11-08
 ============================================================
 
-Saurao Dalvi  
-+91-XXXXXXXXXX | saurao.dalvi@email.com | Pune, Maharashtra (Open to Remote/Relocation)  
-Portfolio: sauraodalvi.netlify.app | LinkedIn: linkedin.com/in/saurao-dalvi  
+Saurao Dalvi is a results‑driven Product Manager with over three years of 0‑to‑1 AI product experience, having defined and launched innovative SaaS solutions that align directly with UKG’s vision for intelligent, automated workplaces. As an AI Product Manager and Forward Deployed Engineer at FlytBase, I have consistently translated market insights into high‑impact roadmaps, delivering customer‑facing automation and drone autonomy products that generate measurable revenue and user adoption. My background in AI engineering equips me to bridge technology and business strategy, a fit that resonates with UKG’s focus on product‑led growth in the remote‑work era.  
 
-**Hiring Team, UKG**
-
-As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and compliance automation, I have consistently transformed ambiguous technical whitespace into revenue-generating products—exactly the mandate driving UKG’s HCM innovation. My dual-track expertise as a Forward Deployed AI Engineer at FlytBase and a core **Product Manager** at CrelioHealth and Sprinto allows me to bridge deep LLM/agentic architecture with ruthless commercial prioritization, ensuring every feature shipped moves both the user needle and the ARR dial.
-
-I have owned the full lifecycle of AI-native products: launching **Prediq** (AI drone SaaS) from concept to **$6K MRR** at FlytBase; driving **Smart Reports** at CrelioHealth to unlock **~$2K MRR per lab**; and slashing patient registration time by **58%** and sample turnaround by **18%** via custom LLM prompt pipelines. At Sprinto, I automated cross-app compliance workflows using Python, Zapier, and Make, while my side ventures—**Hidden Jobs (50
+In my most recent roles, I owned the end‑to‑end roadmap for Pred
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
