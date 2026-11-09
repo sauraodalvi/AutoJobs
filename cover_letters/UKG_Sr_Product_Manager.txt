@@ -2,12 +2,20 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-11-08
+Date Generated: 2026-11-09
 ============================================================
 
-Saurao Dalvi is a results‑driven Product Manager with over three years of 0‑to‑1 AI product experience, having defined and launched innovative SaaS solutions that align directly with UKG’s vision for intelligent, automated workplaces. As an AI Product Manager and Forward Deployed Engineer at FlytBase, I have consistently translated market insights into high‑impact roadmaps, delivering customer‑facing automation and drone autonomy products that generate measurable revenue and user adoption. My background in AI engineering equips me to bridge technology and business strategy, a fit that resonates with UKG’s focus on product‑led growth in the remote‑work era.  
+**Saurao Dalvi**  
+Remote Sr Product Manager  
+sauraodalvi@email.com | (555) 123‑4567 | https://sauraodalvi.netlify.app/  
 
-In my most recent roles, I owned the end‑to‑end roadmap for Pred
+---
+
+Dear Hiring Team,
+
+I am an AI‑focused Product Manager with over three years of 0‑to‑1 experience building and scaling enterprise‑grade SaaS products that drive measurable revenue and operational efficiency. At FlytBase I launched Prediq, an AI‑native drone SaaS that grew to roughly **$6 K MRR** in its first year, directly aligning with UKG’s ambition to embed intelligent automation into core business workflows. My background in leading cross‑functional teams, defining product roadmaps, and delivering customer‑facing AI solutions makes me a natural fit for UKG’s Product Manager ranks, where I can contribute to the company’s vision of unifying people, payroll, and analytics through data‑driven innovation.
+
+In my recent roles I have consistently delivered high‑impact Product Manager initiatives: at CrelioHealth I owned the Smart Reports roadmap, increasing lab revenue by **~$2 K MRR per lab** and reducing patient registration time by **58 %** through custom AI prompt pipelines; at Sprinto I built LLM‑powered workflows that cut sample turnaround by **18 %** while automating complex cross‑
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

@@ -11000,14 +11000,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/product-manager-homepage-london-98629",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-23",
-    "last_action_date": "2026-10-23",
+    "last_action_date": "2026-11-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-23",
         "action": "Lead added for Product Manager, Homepage at Deliveroo (London, England, United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-09",
+        "action": "Generated tailored application kit & cover letter (Deliveroo_Product_Manager_Homepage.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11061,14 +11065,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/joblogic/product-manager-field-service-management-saas-107671",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-23",
-    "last_action_date": "2026-10-23",
+    "last_action_date": "2026-11-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-23",
         "action": "Lead added for Product Manager - Field Service Management (SaaS) at Joblogic (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-09",
+        "action": "Generated tailored application kit & cover letter (Joblogic_Product_Manager_-_Field_Service_Management_SaaS.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11080,14 +11088,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/logex/senior-product-owner-clinical-registries-amsterdam-21389",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-23",
-    "last_action_date": "2026-10-23",
+    "last_action_date": "2026-11-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-23",
         "action": "Lead added for Senior Product Owner Clinical Registries at LOGEX (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-09",
+        "action": "Generated tailored application kit & cover letter (LOGEX_Senior_Product_Owner_Clinical_Registries.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11251,14 +11263,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/mollie/senior-product-manager-business-banking-amsterdam-28424",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-24",
-    "last_action_date": "2026-10-24",
+    "last_action_date": "2026-11-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-24",
         "action": "Lead added for Senior Product Manager - Business Banking at Mollie (Amsterdam). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-09",
+        "action": "Generated tailored application kit & cover letter (Mollie_Senior_Product_Manager_-_Business_Banking.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11289,14 +11305,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/vivenu/senior-technical-product-manager-frankfurt-159790",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-09",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Senior Technical Product Manager (d/f/m) at Vivenu (Frankfurt). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-09",
+        "action": "Generated tailored application kit & cover letter (Vivenu_Senior_Technical_Product_Manager_d_f_m.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13045,6 +13065,158 @@
       {
         "date": "2026-11-08",
         "action": "Lead added for Senior Product Manager - Data Lake (f/m/d) at Decathlontechnology (Paris, Paris; Villeneuve-d'Ascq, Nord). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7a40179b",
+    "company": "Binance",
+    "role": "Product Lead Counsel",
+    "location": "Hong Kong,  Singapore,  UAE,  UK (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/159918-product-lead-counsel",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-09",
+    "last_action_date": "2026-11-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-09",
+        "action": "Lead added for Product Lead Counsel at Binance (Hong Kong,  Singapore,  UAE,  UK (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_aeb00485",
+    "company": "Paddle",
+    "role": "Staff Product Manager",
+    "location": "UK (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/154921-staff-product-manager-3",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-09",
+    "last_action_date": "2026-11-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-09",
+        "action": "Lead added for Staff Product Manager at Paddle (UK (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1d5c8aba",
+    "company": "XALT Business Consulting GmbH",
+    "role": "Product Manager - AI Agents & Atlassian Cloud",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/xalt-business-consulting-gmbh/product-manager-ai-agents-atlassian-cloud-munich-273811",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-09",
+    "last_action_date": "2026-11-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-09",
+        "action": "Lead added for Product Manager - AI Agents & Atlassian Cloud at XALT Business Consulting GmbH (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a6fd3fb4",
+    "company": "XALT Business Consulting GmbH",
+    "role": "Product Manager - Atlassian Service Management",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/xalt-business-consulting-gmbh/product-manager-atlassian-service-management-munich-457969",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-09",
+    "last_action_date": "2026-11-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-09",
+        "action": "Lead added for Product Manager - Atlassian Service Management at XALT Business Consulting GmbH (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a382a5fe",
+    "company": "XALT Business Consulting GmbH",
+    "role": "Product Manager - Employee Communication & AI Workplace",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/xalt-business-consulting-gmbh/product-manager-employee-communication-ai-workplace-munich-285518",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-09",
+    "last_action_date": "2026-11-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-09",
+        "action": "Lead added for Product Manager - Employee Communication & AI Workplace at XALT Business Consulting GmbH (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c5ef9cb2",
+    "company": "CONROO GmbH",
+    "role": "(Senior) Product Owner | Full Time (m/w/d)",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/conroo-gmbh/senior-product-owner-full-time-munich-134243",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-09",
+    "last_action_date": "2026-11-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-09",
+        "action": "Lead added for (Senior) Product Owner | Full Time (m/w/d) at CONROO GmbH (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ede69ad1",
+    "company": "scaleai",
+    "role": "Product Leadership, Forward Deployed & Strategy",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/product-leadership-forward-deployed-strategy-london-19628",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-09",
+    "last_action_date": "2026-11-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-09",
+        "action": "Lead added for Product Leadership, Forward Deployed & Strategy at scaleai (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2fd76c9b",
+    "company": "PubMatic",
+    "role": "Senior Product Manager, Analytics and Agentic Platform",
+    "location": "Pune Division, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4480563402",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-09",
+    "last_action_date": "2026-11-09",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-09",
+        "action": "Lead added for Senior Product Manager, Analytics and Agentic Platform at PubMatic (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
