@@ -11046,14 +11046,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/product-manager-agent-experience-fluency-in-french-english-required-london-174817",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-23",
-    "last_action_date": "2026-10-23",
+    "last_action_date": "2026-11-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-23",
         "action": "Lead added for Product Manager - Agent Experience (Fluency in French & English required) at Kaluza (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-10",
+        "action": "Generated tailored application kit & cover letter (Kaluza_Product_Manager_-_Agent_Experience_Fluency_in_French_English_required.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11111,14 +11115,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/creative-clicks-bv/ai-product-owner-amsterdam-378713",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-23",
-    "last_action_date": "2026-10-23",
+    "last_action_date": "2026-11-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-23",
         "action": "Lead added for AI Product Owner at Creative Clicks B.V. (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-10",
+        "action": "Generated tailored application kit & cover letter (Creative_Clicks_B_V_AI_Product_Owner.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11130,14 +11138,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/veloretti-bv/product-owner-core-systems-amsterdam-116427",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-23",
-    "last_action_date": "2026-10-23",
+    "last_action_date": "2026-11-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-23",
         "action": "Lead added for Product Owner Core Systems at Veloretti BV (Amsterdam, Noord-Holland, Nederland). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-10",
+        "action": "Generated tailored application kit & cover letter (Veloretti_BV_Product_Owner_Core_Systems.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11187,14 +11199,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/taxfix/senior-martech-product-manager-berlin-30131",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-24",
-    "last_action_date": "2026-10-24",
+    "last_action_date": "2026-11-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-24",
         "action": "Lead added for Senior MarTech Product Manager (d/f/m) at Taxfix (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-10",
+        "action": "Generated tailored application kit & cover letter (Taxfix_Senior_MarTech_Product_Manager_d_f_m.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11206,14 +11222,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/nelly-solutions/staff-product-manager-platform-berlin-190170",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-24",
-    "last_action_date": "2026-10-24",
+    "last_action_date": "2026-11-10",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-24",
         "action": "Lead added for Staff Product Manager - Platform at Nelly Solutions (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-10",
+        "action": "Generated tailored application kit & cover letter (Nelly_Solutions_Staff_Product_Manager_-_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13217,6 +13237,101 @@
       {
         "date": "2026-11-09",
         "action": "Lead added for Senior Product Manager, Analytics and Agentic Platform at PubMatic (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c39b01d3",
+    "company": "grafanalabs",
+    "role": "Senior Product Manager, App o11y | Germany  | Remote",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-product-manager-app-o11y-germany-remote-380325",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-10",
+    "last_action_date": "2026-11-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-10",
+        "action": "Lead added for Senior Product Manager, App o11y | Germany  | Remote at grafanalabs (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9ffd5826",
+    "company": "Distribusion Technologies",
+    "role": "Senior Technical Product Manager, Rail Integrations (all genders)",
+    "location": "Remote job",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-technical-product-manager-rail-integrations-all-genders-berlin-161406",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-10",
+    "last_action_date": "2026-11-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-10",
+        "action": "Lead added for Senior Technical Product Manager, Rail Integrations (all genders) at Distribusion Technologies (Remote job). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3020a6fb",
+    "company": "grafanalabs",
+    "role": "Senior Product Manager, App o11y | UK | Remote",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-product-manager-app-o11y-uk-remote-147706",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-10",
+    "last_action_date": "2026-11-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-10",
+        "action": "Lead added for Senior Product Manager, App o11y | UK | Remote at grafanalabs (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d7fca34d",
+    "company": "Agence du Numérique en Santé",
+    "role": "Stagiaire Assistant Product Owner - Santé.fr H/F",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/agence-du-numerique-en-sante/stagiaire-assistant-product-owner-santefr-h-f-paris-186134",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-10",
+    "last_action_date": "2026-11-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-10",
+        "action": "Lead added for Stagiaire Assistant Product Owner - Santé.fr H/F at Agence du Numérique en Santé (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_93dff887",
+    "company": "Osmos",
+    "role": "Senior Product Manager",
+    "location": "Pune City, Maharashtra, India",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4489437741",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-10",
+    "last_action_date": "2026-11-10",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-10",
+        "action": "Lead added for Senior Product Manager at Osmos (Pune City, Maharashtra, India). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

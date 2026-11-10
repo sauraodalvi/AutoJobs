@@ -2,20 +2,17 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-11-09
+Date Generated: 2026-11-10
 ============================================================
 
-**Saurao Dalvi**  
-Remote Sr Product Manager  
-sauraodalvi@email.com | (555) 123‑4567 | https://sauraodalvi.netlify.app/  
+Saurao Dalvi  
+Pune, Maharashtra | +91-XXXXXXXXXX | saurao.dalvi@email.com | linkedin.com/in/saurao-dalvi | sauraodalvi.netlify.app  
 
----
+**Hiring Team, UKG**  
 
-Dear Hiring Team,
+As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am writing to express my strong interest in the Senior **Product Manager** role at UKG. My background aligns directly with your need for a leader who bridges deep technical architecture—LLM pipelines, agentic workflows, and developer platforms—with commercial product strategy. At FlytBase, I function as a Forward Deployed Engineer and AI **Product Manager**, owning the full lifecycle from technical discovery through GTM launch for AI-native automation products, a scope that mirrors the end-to-end ownership UKG demands.
 
-I am an AI‑focused Product Manager with over three years of 0‑to‑1 experience building and scaling enterprise‑grade SaaS products that drive measurable revenue and operational efficiency. At FlytBase I launched Prediq, an AI‑native drone SaaS that grew to roughly **$6 K MRR** in its first year, directly aligning with UKG’s ambition to embed intelligent automation into core business workflows. My background in leading cross‑functional teams, defining product roadmaps, and delivering customer‑facing AI solutions makes me a natural fit for UKG’s Product Manager ranks, where I can contribute to the company’s vision of unifying people, payroll, and analytics through data‑driven innovation.
-
-In my recent roles I have consistently delivered high‑impact Product Manager initiatives: at CrelioHealth I owned the Smart Reports roadmap, increasing lab revenue by **~$2 K MRR per lab** and reducing patient registration time by **58 %** through custom AI prompt pipelines; at Sprinto I built LLM‑powered workflows that cut sample turnaround by **18 %** while automating complex cross‑
+In my current role, I owned the roadmap and launch of **Prediq**, an AI drone SaaS platform, scaling it to **$6K MRR** within months by defining pricing, positioning, and self-serve onboarding flows. Previously at CrelioHealth, I spearheaded **Smart Reports**, an AI-driven module that generated **~$2,000 MRR per lab** and reduced patient registration time by **58%** and sample turnaround by **18%** via custom prompt pipelines and RAG architectures. At Sprinto, I automated complex cross-app compliance workflows using Python, Zapier, and Make, cutting manual audit prep by 40%. I have consistently shipped developer-facing CLIs, LLM-powered internal tooling, and external products like **Hidden Jobs** (indexing 50K+ live ATS roles), demonstrating a
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
