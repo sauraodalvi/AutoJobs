@@ -11245,14 +11245,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/pysae/product-manager-product-design-h-f-rennes-23820",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-24",
-    "last_action_date": "2026-10-24",
+    "last_action_date": "2026-11-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-24",
         "action": "Lead added for Product Manager - Product Design (H/F) at PYSAE (Rennes, Bretagne, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-11",
+        "action": "Generated tailored application kit & cover letter (PYSAE_Product_Manager_-_Product_Design_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11264,14 +11268,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/pysae/product-manager-expertise-metier-transport-h-f-paris-390418",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-24",
-    "last_action_date": "2026-10-24",
+    "last_action_date": "2026-11-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-24",
         "action": "Lead added for Product Manager - Expertise Métier Transport (H/F) at PYSAE (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-11",
+        "action": "Generated tailored application kit & cover letter (PYSAE_Product_Manager_-_Expertise_Métier_Transport_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11462,14 +11470,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/product-manager-customer-service-platform-london-424626",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Product Manager - Customer Service Platform at Spotify (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-11",
+        "action": "Generated tailored application kit & cover letter (Spotify_Product_Manager_-_Customer_Service_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11538,14 +11550,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-head-of-production-photos-e-commerce-h-f-paris-hq-ile-de-france-427536",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Cdi - Head Of Production Photos E-Commerce (H/F) at JACQUEMUS (Paris HQ, Île de France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-11",
+        "action": "Generated tailored application kit & cover letter (JACQUEMUS_Cdi_-_Head_Of_Production_Photos_E-Commerce_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11576,14 +11592,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-product-manager-ii-consumer-all-genders-berlin-berlin-142695",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-26",
-    "last_action_date": "2026-10-26",
+    "last_action_date": "2026-11-11",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-26",
         "action": "Lead added for Senior Product Manager II, Consumer (all genders) at hellofresh (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-11",
+        "action": "Generated tailored application kit & cover letter (hellofresh_Senior_Product_Manager_II_Consumer_all_genders.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13332,6 +13352,120 @@
       {
         "date": "2026-11-10",
         "action": "Lead added for Senior Product Manager at Osmos (Pune City, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f4064784",
+    "company": "Klim",
+    "role": "Senior Technical Product Manager - Carbon and Environmental Models (all genders)",
+    "location": "Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/klim/senior-technical-product-manager-carbon-and-environmental-models-all-genders-berlin-302944",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-11",
+    "last_action_date": "2026-11-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-11",
+        "action": "Lead added for Senior Technical Product Manager - Carbon and Environmental Models (all genders) at Klim (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4ed319d3",
+    "company": "Lemon Markets",
+    "role": "(Associate) Product Manager - Customer Lifecycle (f/m/x)",
+    "location": "Germany  (Hybrid)",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/associate-product-manager-customer-lifecycle-berlin-75693",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-11",
+    "last_action_date": "2026-11-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-11",
+        "action": "Lead added for (Associate) Product Manager - Customer Lifecycle (f/m/x) at Lemon Markets (Germany  (Hybrid)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_cab9fe4c",
+    "company": "Motorway",
+    "role": "Senior Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/senior-product-manager-london-20118",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-11",
+    "last_action_date": "2026-11-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-11",
+        "action": "Lead added for Senior Product Manager at Motorway (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_01017e03",
+    "company": "Connectwise",
+    "role": "Product Manager",
+    "location": "US Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/connectwise/remote-product-manager-469504",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-11",
+    "last_action_date": "2026-11-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-11",
+        "action": "Lead added for Product Manager at Connectwise (US Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1aa59e35",
+    "company": "Horizontradingsolutions",
+    "role": "Product Owner - Digital Assets (H/F)",
+    "location": "Paris, Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/horizontradingsolutions/product-owner-digital-assets-h-f-paris-paris-196045",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-11",
+    "last_action_date": "2026-11-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-11",
+        "action": "Lead added for Product Owner - Digital Assets (H/F) at Horizontradingsolutions (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4bff5225",
+    "company": "Jerry",
+    "role": "Senior Product Manager, New Products (0-1)",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-11",
+    "last_action_date": "2026-11-11",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-11",
+        "action": "Lead added for Senior Product Manager, New Products (0-1) at Jerry (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

@@ -2,17 +2,20 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-11-10
+Date Generated: 2026-11-11
 ============================================================
 
-Saurao Dalvi  
-Pune, Maharashtra | +91-XXXXXXXXXX | saurao.dalvi@email.com | linkedin.com/in/saurao-dalvi | sauraodalvi.netlify.app  
 
-**Hiring Team, UKG**  
 
-As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am writing to express my strong interest in the Senior **Product Manager** role at UKG. My background aligns directly with your need for a leader who bridges deep technical architecture—LLM pipelines, agentic workflows, and developer platforms—with commercial product strategy. At FlytBase, I function as a Forward Deployed Engineer and AI **Product Manager**, owning the full lifecycle from technical discovery through GTM launch for AI-native automation products, a scope that mirrors the end-to-end ownership UKG demands.
+Of course. Here is a highly compelling, ATS-optimized cover letter tailored for the Sr. Product Manager role at UKG.
 
-In my current role, I owned the roadmap and launch of **Prediq**, an AI drone SaaS platform, scaling it to **$6K MRR** within months by defining pricing, positioning, and self-serve onboarding flows. Previously at CrelioHealth, I spearheaded **Smart Reports**, an AI-driven module that generated **~$2,000 MRR per lab** and reduced patient registration time by **58%** and sample turnaround by **18%** via custom prompt pipelines and RAG architectures. At Sprinto, I automated complex cross-app compliance workflows using Python, Zapier, and Make, cutting manual audit prep by 40%. I have consistently shipped developer-facing CLIs, LLM-powered internal tooling, and external products like **Hidden Jobs** (indexing 50K+ live ATS roles), demonstrating a
+***
+
+Dear Hiring Team,
+
+As an AI Product Manager with over three years of experience spearheading 0-to-1 product strategies and launches, I am excited to submit my application for the Sr. Product Manager role at UKG. My career has been defined by my ability to translate complex AI and automation technologies into intuitive, high-impact solutions that drive revenue and operational excellence. I am particularly drawn to UKG's vision for transforming the future of work, and I am confident that my hands-on experience in building and scaling AI-native products aligns perfectly with your mission to deliver innovative workforce solutions.
+
+In my previous roles as a Product Manager at FlytBase and CrelioHealth, I consistently delivered measurable business outcomes. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS product that grew to ~$6K MRR. At CrelioHealth, I led the product strategy for Smart Reports, a feature that increased lab revenue by ~$2,000 MRR per lab. My impact is rooted in
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:
