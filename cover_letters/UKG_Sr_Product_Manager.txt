@@ -2,20 +2,17 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-11-11
+Date Generated: 2026-11-12
 ============================================================
 
+Saurao Dalvi  
+Pune, Maharashtra | +91-XXXXXXXXXX | saurao.dalvi@email.com | https://sauraodalvi.netlify.app/ | https://www.linkedin.com/in/saurao-dalvi/
 
+**Hiring Team, UKG**
 
-Of course. Here is a highly compelling, ATS-optimized cover letter tailored for the Sr. Product Manager role at UKG.
+As an **AI Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I have consistently translated complex LLM architectures and agentic workflows into revenue-generating products—precisely the innovation UKG requires to lead the HCM market. My background as a Forward Deployed Engineer at FlytBase uniquely positions me to bridge deep technical feasibility with strategic product vision, ensuring the delivery of intelligent workforce solutions that scale globally.
 
-***
-
-Dear Hiring Team,
-
-As an AI Product Manager with over three years of experience spearheading 0-to-1 product strategies and launches, I am excited to submit my application for the Sr. Product Manager role at UKG. My career has been defined by my ability to translate complex AI and automation technologies into intuitive, high-impact solutions that drive revenue and operational excellence. I am particularly drawn to UKG's vision for transforming the future of work, and I am confident that my hands-on experience in building and scaling AI-native products aligns perfectly with your mission to deliver innovative workforce solutions.
-
-In my previous roles as a Product Manager at FlytBase and CrelioHealth, I consistently delivered measurable business outcomes. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq, an AI drone SaaS product that grew to ~$6K MRR. At CrelioHealth, I led the product strategy for Smart Reports, a feature that increased lab revenue by ~$2,000 MRR per lab. My impact is rooted in
+In my current **Product Manager** role at FlytBase, I owned the end-to-end roadmap and launch of Prediq, an AI drone SaaS platform, scaling it to
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

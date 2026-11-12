@@ -11356,14 +11356,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/trafineo/product-owner-business-analyst-bochum-84748",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Product Owner/Business Analyst (m/f/d) at Trafineo (Bochum, Nordrhein-Westfalen, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-12",
+        "action": "Generated tailored application kit & cover letter (Trafineo_Product_Owner_Business_Analyst_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11375,14 +11379,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-product-manager-cruise-liners-port-operations-london-267789",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Senior Product Manager, Cruise Liners & Port Operations at Kpler (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-12",
+        "action": "Generated tailored application kit & cover letter (Kpler_Senior_Product_Manager_Cruise_Liners_Port_Operations.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11394,14 +11402,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-product-manager-containers-automotive-intelligence-london-430057",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Senior Product Manager - Containers & Automotive Intelligence at Kpler (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-12",
+        "action": "Generated tailored application kit & cover letter (Kpler_Senior_Product_Manager_-_Containers_Automotive_Intelligence.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11413,14 +11425,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-product-manager-spotify-connect-london-360623",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Senior Product Manager - Spotify Connect at Spotify (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-12",
+        "action": "Generated tailored application kit & cover letter (Spotify_Senior_Product_Manager_-_Spotify_Connect.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11432,14 +11448,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-product-manager-audiobooks-format-foundations-london-308871",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-12",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Senior Product Manager - Audiobooks Format Foundations at Spotify (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-12",
+        "action": "Generated tailored application kit & cover letter (Spotify_Senior_Product_Manager_-_Audiobooks_Format_Foundations.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13466,6 +13486,158 @@
       {
         "date": "2026-11-11",
         "action": "Lead added for Senior Product Manager, New Products (0-1) at Jerry (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b14276db",
+    "company": "Simpson Strong-Tie GmbH",
+    "role": "European Product Manager FRP (m/f/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/simpson-strong-tie-gmbh/european-product-manager-frp-berlin-440552",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-12",
+    "last_action_date": "2026-11-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-12",
+        "action": "Lead added for European Product Manager FRP (m/f/d) at Simpson Strong-Tie GmbH (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3e28ee73",
+    "company": "Soley GmbH",
+    "role": "Senior Product Manager - Productization (m/w/d)",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/soley-gmbh/senior-product-manager-productization-munich-55449",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-12",
+    "last_action_date": "2026-11-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-12",
+        "action": "Lead added for Senior Product Manager - Productization (m/w/d) at Soley GmbH (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a3b7622d",
+    "company": "Clickhouse",
+    "role": "Senior Product Manager - AI/ML",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/clickhouse/senior-product-manager-ai-ml-berlin-430583",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-12",
+    "last_action_date": "2026-11-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-12",
+        "action": "Lead added for Senior Product Manager - AI/ML at Clickhouse (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1bd7c721",
+    "company": "Carwow",
+    "role": "Senior Product Manager (Retail Media)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-product-manager-retail-media-london-352454",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-12",
+    "last_action_date": "2026-11-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-12",
+        "action": "Lead added for Senior Product Manager (Retail Media) at Carwow (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_22c9f392",
+    "company": "Kaluza",
+    "role": "Product Manager - Agent Experience ( Français/ Anglais)",
+    "location": "Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-agent-experience-francais-anglais-paris-67713",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-12",
+    "last_action_date": "2026-11-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-12",
+        "action": "Lead added for Product Manager - Agent Experience ( Français/ Anglais) at Kaluza (Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7d0740af",
+    "company": "Kaluza",
+    "role": "Product Manager - Contact center as a Service- ( Français/ Anglais)",
+    "location": "Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-contact-center-as-a-service-francais-anglais-paris-16290",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-12",
+    "last_action_date": "2026-11-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-12",
+        "action": "Lead added for Product Manager - Contact center as a Service- ( Français/ Anglais) at Kaluza (Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_38091dd7",
+    "company": "Kaluza",
+    "role": "Product Manager (CCaaS) - (Fluent French & English)",
+    "location": "Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-ccaas-fluent-french-english-paris-115665",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-12",
+    "last_action_date": "2026-11-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-12",
+        "action": "Lead added for Product Manager (CCaaS) - (Fluent French & English) at Kaluza (Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_56cfff18",
+    "company": "Peoplecert",
+    "role": "Product Manager PRINCE2",
+    "location": "Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/peoplecert/remote-product-manager-prince2-netherlands-138530",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-12",
+    "last_action_date": "2026-11-12",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-12",
+        "action": "Lead added for Product Manager PRINCE2 at Peoplecert (Netherlands). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
