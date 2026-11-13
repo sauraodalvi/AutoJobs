@@ -2,35 +2,6 @@
 COVER LETTER & APPLICATION KIT
 Target: Product Manager at Valiance Solutions
 Apply Link: https://www.linkedin.com/jobs/view/4454516367
-Date Generated: 2026-11-12
+Date Generated: 2026-11-13
 ============================================================
 
-[Your Name]
-[Your Phone Number] | [Your Email]
-[Your LinkedIn Profile] | [Your Portfolio Link]
-
-[Date]
-
-Hiring Manager
-Valiance Solutions
-Remote
-
-**RE: Product Manager Application – Saurao Dalvi**
-
-Dear Hiring Manager,
-
-I am writing to express my strong interest in the Product Manager position at Valiance Solutions. As an AI Product Manager and Engineer with over three years of experience building 0-to-1 products, I specialize in bridging the gap between complex technical architecture and scalable business value. Having operated at the intersection of AI engineering and product strategy at FlytBase, CrelioHealth, and Sprinto, I possess the rare ability to not only define a product vision but to architect the LLM-powered workflows and agentic systems required to realize it. I am eager to bring this hybrid expertise to Valiance Solutions to accelerate your product roadmap and drive sustainable growth.
-
-My track record is defined by shipping high-impact, revenue-generating features. As a Product Manager at FlytBase, I owned the 0-to-1 roadmap and launch of Prediq (AI drone SaaS), scaling it to ~$6K MRR. During my tenure at CrelioHealth, I led the development of Smart Reports, which increased lab revenue by ~$2,000 MRR per facility, and engineered custom AI prompt pipelines that slashed patient registration time by 58% and sample turnaround by 18%. From building internal developer CLIs to indexing 50K+ ATS jobs for my own AI products, I have consistently demonstrated the ability to reduce operational friction and maximize user LTV through rigorous data-driven iteration and technical leadership.
-
-I am confident that my experience in deploying AI-native solutions and managing cross-functional teams makes me an ideal fit for the Product Manager role at Valiance Solutions. I am impressed by your company's trajectory and would welcome the opportunity to discuss how my background in scaling MRR and automating enterprise workflows can contribute to your continued success. Thank you for your time and consideration.
-
-Best regards,
-
-Saurao Dalvi
-
-============================================================
-CANDIDATE CONTACT SUMMARY:
-Name: Saurao Dalvi
-Email: sauraodalvi97@gmail.com
-Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

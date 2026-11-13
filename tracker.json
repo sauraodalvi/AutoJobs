@@ -11471,14 +11471,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/product-manager-data-platform-london-261080",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Product Manager - Data Platform at Spotify (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-13",
+        "action": "Generated tailored application kit & cover letter (Spotify_Product_Manager_-_Data_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11513,14 +11517,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/principal-product-manager-tv-desktop-london-337041",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Principal Product Manager - TV & Desktop at Spotify (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-13",
+        "action": "Generated tailored application kit & cover letter (Spotify_Principal_Product_Manager_-_TV_Desktop.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11532,14 +11540,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/principal-product-manager-core-experience-platform-london-431366",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Principal Product Manager - Core Experience Platform at Spotify (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-13",
+        "action": "Generated tailored application kit & cover letter (Spotify_Principal_Product_Manager_-_Core_Experience_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11551,14 +11563,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/principal-product-manager-content-platform-london-361667",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Principal Product Manager - Content Platform at Spotify (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-13",
+        "action": "Generated tailored application kit & cover letter (Spotify_Principal_Product_Manager_-_Content_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11593,14 +11609,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/bunq/product-owner-credit-amsterdam-385876",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-25",
-    "last_action_date": "2026-10-25",
+    "last_action_date": "2026-11-13",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-25",
         "action": "Lead added for Product Owner - Credit at bunq (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-13",
+        "action": "Generated tailored application kit & cover letter (bunq_Product_Owner_-_Credit.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13638,6 +13658,158 @@
       {
         "date": "2026-11-12",
         "action": "Lead added for Product Manager PRINCE2 at Peoplecert (Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c3735d2b",
+    "company": "Yubico",
+    "role": "Senior Product Manager",
+    "location": "Germany,  UK,  USA (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/161745-senior-product-manager-18",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-13",
+    "last_action_date": "2026-11-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-13",
+        "action": "Lead added for Senior Product Manager at Yubico (Germany,  UK,  USA (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3670a5ae",
+    "company": "Spotify",
+    "role": "Principal Product Manager - Personalization",
+    "location": "Sweden,  UK (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/155213-principal-product-manager-personalization",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-13",
+    "last_action_date": "2026-11-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-13",
+        "action": "Lead added for Principal Product Manager - Personalization at Spotify (Sweden,  UK (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_517024aa",
+    "company": "Spotify",
+    "role": "Principal Product Manager - Format Foundations",
+    "location": "Sweden,  UK (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/155210-principal-product-manager-format-foundations",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-13",
+    "last_action_date": "2026-11-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-13",
+        "action": "Lead added for Principal Product Manager - Format Foundations at Spotify (Sweden,  UK (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d196ee78",
+    "company": "Tavily",
+    "role": "Senior Product Manager, Agentic Search",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/tavily/senior-product-manager-agentic-search-berlin-59548",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-13",
+    "last_action_date": "2026-11-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-13",
+        "action": "Lead added for Senior Product Manager, Agentic Search at Tavily (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_d29c30f7",
+    "company": "TechBiz Global GmbH",
+    "role": "Senior Product Manager (Insurance)",
+    "location": "Remote job",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/remote-senior-product-manager-insurance-berlin-135350",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-13",
+    "last_action_date": "2026-11-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-13",
+        "action": "Lead added for Senior Product Manager (Insurance) at TechBiz Global GmbH (Remote job). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e065ed31",
+    "company": "1Global",
+    "role": "Senior Technical Product Manager - Compliance & Recording",
+    "location": "Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/1global/senior-technical-product-manager-compliance-recording-berlin-150781",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-13",
+    "last_action_date": "2026-11-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-13",
+        "action": "Lead added for Senior Technical Product Manager - Compliance & Recording at 1Global (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_4319f910",
+    "company": "1Global",
+    "role": "Product Manager - Enterprise (B2B)",
+    "location": "Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/1global/product-manager-enterprise-b2b-berlin-125576",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-13",
+    "last_action_date": "2026-11-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-13",
+        "action": "Lead added for Product Manager - Enterprise (B2B) at 1Global (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_944339f3",
+    "company": "Legora",
+    "role": "Senior Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/legora/senior-product-manager-london-251232",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-13",
+    "last_action_date": "2026-11-13",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-13",
+        "action": "Lead added for Senior Product Manager at Legora (London). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
