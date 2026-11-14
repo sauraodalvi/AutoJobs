@@ -11712,14 +11712,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/deliverect/senior-product-manager-paris-6632",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-26",
-    "last_action_date": "2026-10-26",
+    "last_action_date": "2026-11-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-26",
         "action": "Lead added for Senior Product Manager at Deliverect (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-14",
+        "action": "Generated tailored application kit & cover letter (Deliverect_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11731,14 +11735,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/prior-labs/technical-product-manager-integrations-berlin-5388",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-27",
-    "last_action_date": "2026-10-27",
+    "last_action_date": "2026-11-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-27",
         "action": "Lead added for Technical Product Manager, Integrations at Prior Labs (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-14",
+        "action": "Generated tailored application kit & cover letter (Prior_Labs_Technical_Product_Manager_Integrations.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11826,14 +11834,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/skdse/product-manager-edge-systems-all-genders-berlin-105923",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-28",
-    "last_action_date": "2026-10-28",
+    "last_action_date": "2026-11-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-28",
         "action": "Lead added for Product Manager - Edge Systems (All Genders) at Skdse (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-14",
+        "action": "Generated tailored application kit & cover letter (Skdse_Product_Manager_-_Edge_Systems_All_Genders.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11845,14 +11857,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/rebuy/product-manager-operations-systems-rudow-294796",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-28",
-    "last_action_date": "2026-10-28",
+    "last_action_date": "2026-11-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-28",
         "action": "Lead added for Product Manager - Operations Systems (m/f/x) at rebuy (Rudow, Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-14",
+        "action": "Generated tailored application kit & cover letter (rebuy_Product_Manager_-_Operations_Systems_m_f_x.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11921,14 +11937,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/attendi/senior-product-owner-amsterdam-93161",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-28",
-    "last_action_date": "2026-10-28",
+    "last_action_date": "2026-11-14",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-28",
         "action": "Lead added for Senior Product Owner at Attendi (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-14",
+        "action": "Generated tailored application kit & cover letter (Attendi_Senior_Product_Owner.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13810,6 +13830,215 @@
       {
         "date": "2026-11-13",
         "action": "Lead added for Senior Product Manager at Legora (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5a084012",
+    "company": "Jimdo",
+    "role": "Senior Product Owner, Support Platform & AI",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/jimdo/senior-product-owner-support-platform-ai-germany-334823",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-14",
+    "last_action_date": "2026-11-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-14",
+        "action": "Lead added for Senior Product Owner, Support Platform & AI at Jimdo (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f4141c50",
+    "company": "databricks",
+    "role": "Staff Product Manager",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/databricks/staff-product-manager-berlin-180136",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-14",
+    "last_action_date": "2026-11-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-14",
+        "action": "Lead added for Staff Product Manager at databricks (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8590cf8c",
+    "company": "Xdesign",
+    "role": "Senior Product Manager",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/senior-product-manager-432679",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-14",
+    "last_action_date": "2026-11-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-14",
+        "action": "Lead added for Senior Product Manager at Xdesign (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1280dfea",
+    "company": "Zego",
+    "role": "Senior AI Product Manager - Platform",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/zego/senior-ai-product-manager-platform-london-392559",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-14",
+    "last_action_date": "2026-11-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-14",
+        "action": "Lead added for Senior AI Product Manager - Platform at Zego (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ec5241a9",
+    "company": "Zego",
+    "role": "Senior AI Product Manager - Growth",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/zego/senior-ai-product-manager-growth-london-199324",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-14",
+    "last_action_date": "2026-11-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-14",
+        "action": "Lead added for Senior AI Product Manager - Growth at Zego (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_852d8a06",
+    "company": "Zego",
+    "role": "Senior AI Product Manager - Mobile Experience",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/zego/senior-ai-product-manager-mobile-experience-london-478334",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-14",
+    "last_action_date": "2026-11-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-14",
+        "action": "Lead added for Senior AI Product Manager - Mobile Experience at Zego (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9a07a5cf",
+    "company": "Zego",
+    "role": "Lead AI Product Manager - Telematics",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/zego/lead-ai-product-manager-telematics-london-306361",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-14",
+    "last_action_date": "2026-11-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-14",
+        "action": "Lead added for Lead AI Product Manager - Telematics at Zego (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0cba6ca9",
+    "company": "Kaluza",
+    "role": "Product Manager, Device Data Management (Français/Anglais)",
+    "location": "Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-device-data-management-francais-anglais-paris-15594",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-14",
+    "last_action_date": "2026-11-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-14",
+        "action": "Lead added for Product Manager, Device Data Management (Français/Anglais) at Kaluza (Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_babbadf9",
+    "company": "BLP Digital AG",
+    "role": "Head of Product",
+    "location": "Zurich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/blp-digital-ag/head-of-product-zurich-263883",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-14",
+    "last_action_date": "2026-11-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-14",
+        "action": "Lead added for Head of Product at BLP Digital AG (Zurich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_fa09457d",
+    "company": "BLP Digital AG",
+    "role": "Senior Product Manager",
+    "location": "Zurich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/blp-digital-ag/senior-product-manager-zurich-374197",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-14",
+    "last_action_date": "2026-11-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-14",
+        "action": "Lead added for Senior Product Manager at BLP Digital AG (Zurich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_38b03414",
+    "company": "Tebi",
+    "role": "Senior Product Manager - AI Team",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/tebi/senior-product-manager-ai-team-amsterdam-124771",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-14",
+    "last_action_date": "2026-11-14",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-14",
+        "action": "Lead added for Senior Product Manager - AI Team at Tebi (Amsterdam). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
