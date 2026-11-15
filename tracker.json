@@ -11655,14 +11655,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/lio/product-manager-munich-397336",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-26",
-    "last_action_date": "2026-10-26",
+    "last_action_date": "2026-11-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-26",
         "action": "Lead added for Product Manager at Lio (Munich Office). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-15",
+        "action": "Generated tailored application kit & cover letter (Lio_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11674,14 +11678,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/product-manager-crypto-asset-management-mid-london-hybrid-459040",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-26",
-    "last_action_date": "2026-10-26",
+    "last_action_date": "2026-11-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-26",
         "action": "Lead added for Product Manager, Crypto Asset Management (Mid) at MoonPay (London - Hybrid). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-15",
+        "action": "Generated tailored application kit & cover letter (MoonPay_Product_Manager_Crypto_Asset_Management_Mid.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11693,14 +11701,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-product-manager-140298",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-26",
-    "last_action_date": "2026-10-26",
+    "last_action_date": "2026-11-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-26",
         "action": "Lead added for Product Manager at 360Learning (Paris, Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-15",
+        "action": "Generated tailored application kit & cover letter (360Learning_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11758,14 +11770,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-technical-product-manager-132288",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-27",
-    "last_action_date": "2026-10-27",
+    "last_action_date": "2026-11-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-27",
         "action": "Lead added for Technical Product Manager at Swarmaero (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-15",
+        "action": "Generated tailored application kit & cover letter (Swarmaero_Technical_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11777,14 +11793,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-product-manager-application-performance-monitoring-paris-213723",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-27",
-    "last_action_date": "2026-10-27",
+    "last_action_date": "2026-11-15",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-27",
         "action": "Lead added for Senior Product Manager - Application Performance Monitoring at Datadog (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-15",
+        "action": "Generated tailored application kit & cover letter (Datadog_Senior_Product_Manager_-_Application_Performance_Monitoring.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -14039,6 +14059,63 @@
       {
         "date": "2026-11-14",
         "action": "Lead added for Senior Product Manager - AI Team at Tebi (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_393ea22b",
+    "company": "Apaleo",
+    "role": "Senior Product Manager, AI Products & Agentic Hospitality (f/m/d)",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-product-manager-ai-products-agentic-hospitality-germany-426998",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-15",
+    "last_action_date": "2026-11-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-15",
+        "action": "Lead added for Senior Product Manager, AI Products & Agentic Hospitality (f/m/d) at Apaleo (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5ab5be06",
+    "company": "Zopa",
+    "role": "Head of Product Security",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/zopa/head-of-product-security-london-403483",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-15",
+    "last_action_date": "2026-11-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-15",
+        "action": "Lead added for Head of Product Security at Zopa (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8eb52c55",
+    "company": "Theodo",
+    "role": "Associate Product Manager - Stage de fin d'études Paris - Theodo AI-Mod",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/theodo/associate-product-manager-stage-de-fin-detudes-paris-theodo-ai-mod-324581",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-15",
+    "last_action_date": "2026-11-15",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-15",
+        "action": "Lead added for Associate Product Manager - Stage de fin d'études Paris - Theodo AI-Mod at Theodo (Paris). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
