@@ -11816,14 +11816,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/suitsupply/junior-product-manager-it-fulfillment-amsterdam-209861",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-27",
-    "last_action_date": "2026-10-27",
+    "last_action_date": "2026-11-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-27",
         "action": "Lead added for Junior Product Manager - IT Fulfillment at Suitsupply (Amsterdam). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-16",
+        "action": "Generated tailored application kit & cover letter (Suitsupply_Junior_Product_Manager_-_IT_Fulfillment.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11835,14 +11839,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/mollie/head-of-product-cards-amsterdam-477101",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-27",
-    "last_action_date": "2026-10-27",
+    "last_action_date": "2026-11-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-27",
         "action": "Lead added for Head of Product - Cards at Mollie (Amsterdam). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-16",
+        "action": "Generated tailored application kit & cover letter (Mollie_Head_of_Product_-_Cards.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11900,14 +11908,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-product-manager-paris-france-121851",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-28",
-    "last_action_date": "2026-10-28",
+    "last_action_date": "2026-11-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-28",
         "action": "Lead added for Senior Product Manager at Brevo (Paris, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-16",
+        "action": "Generated tailored application kit & cover letter (Brevo_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11919,14 +11931,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/caseware/product-owner-cloud-apeldoorn-netherlands-437848",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-28",
-    "last_action_date": "2026-10-28",
+    "last_action_date": "2026-11-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-28",
         "action": "Lead added for Product Owner Cloud at Caseware (Apeldoorn, Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-16",
+        "action": "Generated tailored application kit & cover letter (Caseware_Product_Owner_Cloud.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -11938,14 +11954,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/polarsteps/social-follower-product-manager-amsterdam-327917",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-28",
-    "last_action_date": "2026-10-28",
+    "last_action_date": "2026-11-16",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-28",
         "action": "Lead added for Social & Follower - Product Manager at Polarsteps (Amsterdam). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-16",
+        "action": "Generated tailored application kit & cover letter (Polarsteps_Social_Follower_-_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -14116,6 +14136,44 @@
       {
         "date": "2026-11-15",
         "action": "Lead added for Associate Product Manager - Stage de fin d'études Paris - Theodo AI-Mod at Theodo (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e5d5af28",
+    "company": "Wpp",
+    "role": "Product Manager",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/product-manager-97502",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-16",
+    "last_action_date": "2026-11-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-16",
+        "action": "Lead added for Product Manager at Wpp (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_682bea40",
+    "company": "Bjak",
+    "role": "Product Lead",
+    "location": "United Kingdom",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-london-3327",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-16",
+    "last_action_date": "2026-11-16",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-16",
+        "action": "Lead added for Product Lead at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
