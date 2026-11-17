@@ -12000,14 +12000,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/alma31/senior-product-manager-checkout-experience-paris-paris-116617",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-29",
-    "last_action_date": "2026-10-29",
+    "last_action_date": "2026-11-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-29",
         "action": "Lead added for Senior Product Manager - Checkout Experience at Alma31 (Paris, Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-17",
+        "action": "Generated tailored application kit & cover letter (Alma31_Senior_Product_Manager_-_Checkout_Experience.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12019,14 +12023,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/aquablu-bv/product-manager-digital-platforms-amsterdam-464669",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-29",
-    "last_action_date": "2026-10-29",
+    "last_action_date": "2026-11-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-29",
         "action": "Lead added for Product Manager Digital Platforms at Aquablu B.V (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-17",
+        "action": "Generated tailored application kit & cover letter (Aquablu_B_V_Product_Manager_Digital_Platforms.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12057,14 +12065,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-revenue-management-1-year-contract-237883",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-30",
-    "last_action_date": "2026-10-30",
+    "last_action_date": "2026-11-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-30",
         "action": "Lead added for Remote Sr. Product Manager - Revenue Management - 1 year contract (m/f/d) at Roompricegenie (Remote Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-17",
+        "action": "Generated tailored application kit & cover letter (Roompricegenie_Remote_Sr_Product_Manager_-_Revenue_Management_-_1_year_contract_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12095,14 +12107,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/product-owner-shop-berlin-141792",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-30",
-    "last_action_date": "2026-10-30",
+    "last_action_date": "2026-11-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-30",
         "action": "Lead added for Product Owner - Shop (x/f/m) at dkbcodefactory (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-17",
+        "action": "Generated tailored application kit & cover letter (dkbcodefactory_Product_Owner_-_Shop_x_f_m.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12133,14 +12149,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-product-manager-london-300865",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-30",
-    "last_action_date": "2026-10-30",
+    "last_action_date": "2026-11-17",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-30",
         "action": "Lead added for Senior Product Manager at Carwow (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-17",
+        "action": "Generated tailored application kit & cover letter (Carwow_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -14174,6 +14194,82 @@
       {
         "date": "2026-11-16",
         "action": "Lead added for Product Lead at Bjak (United Kingdom). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_52882dc6",
+    "company": "Rithum",
+    "role": "Product Manager, Technical",
+    "location": "UK (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/162774-product-manager-technical-2",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-17",
+    "last_action_date": "2026-11-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-17",
+        "action": "Lead added for Product Manager, Technical at Rithum (UK (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_39c85d95",
+    "company": "Ginmon GmbH",
+    "role": "Product Manager (m/w/d) - Digital Wealth Management (apeiron)",
+    "location": "Frankfurt, Hessen, Deutschland",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/ginmon-gmbh/product-manager-digital-wealth-management-apeiron-frankfurt-192154",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-17",
+    "last_action_date": "2026-11-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-17",
+        "action": "Lead added for Product Manager (m/w/d) - Digital Wealth Management (apeiron) at Ginmon GmbH (Frankfurt, Hessen, Deutschland). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_43dc34e0",
+    "company": "Distrokid",
+    "role": "Growth Product Manager (Senior to Staff)",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/distrokid/growth-product-manager-senior-to-staff-184472",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-17",
+    "last_action_date": "2026-11-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-17",
+        "action": "Lead added for Growth Product Manager (Senior to Staff) at Distrokid (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1f641654",
+    "company": "Multiverse",
+    "role": "Lead Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/lead-product-manager-london-409622",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-17",
+    "last_action_date": "2026-11-17",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-17",
+        "action": "Lead added for Lead Product Manager at Multiverse (London). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
