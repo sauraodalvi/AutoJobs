@@ -12046,14 +12046,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/statista/senior-platform-product-manager-hamburg-or-berlin-143122",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-30",
-    "last_action_date": "2026-10-30",
+    "last_action_date": "2026-11-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-30",
         "action": "Lead added for Senior Platform Product Manager (m/f/d) at Statista (Hamburg or Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-18",
+        "action": "Generated tailored application kit & cover letter (Statista_Senior_Platform_Product_Manager_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12088,14 +12092,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/shopfully/senior-product-manager-berlin-241845",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-30",
-    "last_action_date": "2026-10-30",
+    "last_action_date": "2026-11-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-30",
         "action": "Lead added for Senior Product Manager at Shopfully (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-18",
+        "action": "Generated tailored application kit & cover letter (Shopfully_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12130,14 +12138,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/product-owner-pricing-billing-engine-berlin-45362",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-30",
-    "last_action_date": "2026-10-30",
+    "last_action_date": "2026-11-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-30",
         "action": "Lead added for Product Owner - Pricing & Billing Engine (x/f/m) at dkbcodefactory (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-18",
+        "action": "Generated tailored application kit & cover letter (dkbcodefactory_Product_Owner_-_Pricing_Billing_Engine_x_f_m.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12191,14 +12203,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/consultant-product-manager-ia-data-f-h-paris-254986",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-30",
-    "last_action_date": "2026-10-30",
+    "last_action_date": "2026-11-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-30",
         "action": "Lead added for Consultant Product Manager IA & Data F/H at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-18",
+        "action": "Generated tailored application kit & cover letter (Hubvisory_Consultant_Product_Manager_IA_Data_F_H.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12210,14 +12226,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4483044021",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-30",
-    "last_action_date": "2026-10-30",
+    "last_action_date": "2026-11-18",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-30",
         "action": "Lead added for Product Manager at Plugin Record (Pune City, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-18",
+        "action": "Generated tailored application kit & cover letter (Plugin_Record_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -14270,6 +14290,177 @@
       {
         "date": "2026-11-17",
         "action": "Lead added for Lead Product Manager at Multiverse (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8bc751b7",
+    "company": "Dex",
+    "role": "Technical Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/dex/technical-product-manager-london-145256",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-18",
+    "last_action_date": "2026-11-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-18",
+        "action": "Lead added for Technical Product Manager at Dex (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b3be100a",
+    "company": "Hubvisory",
+    "role": "Lead Product Manager - H/F",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/lead-product-manager-h-f-paris-474634",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-18",
+    "last_action_date": "2026-11-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-18",
+        "action": "Lead added for Lead Product Manager - H/F at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_073d5676",
+    "company": "Hubvisory",
+    "role": "Product Manager Confirmé - H/F",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/product-manager-confirme-h-f-paris-257681",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-18",
+    "last_action_date": "2026-11-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-18",
+        "action": "Lead added for Product Manager Confirmé - H/F at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_70b2b13b",
+    "company": "Hubvisory",
+    "role": "Data & IA Product Manager - H/F",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/data-ia-product-manager-h-f-paris-230389",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-18",
+    "last_action_date": "2026-11-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-18",
+        "action": "Lead added for Data & IA Product Manager - H/F at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a2568b78",
+    "company": "UpSlide",
+    "role": "Senior Product Manager",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/upslide/senior-product-manager-paris-342603",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-18",
+    "last_action_date": "2026-11-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-18",
+        "action": "Lead added for Senior Product Manager at UpSlide (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_faaa0809",
+    "company": "Kaluza",
+    "role": "Product Manager - Customer Account Lifecycle (CAL) + Market Interactions, Paris (Français & Anglais)",
+    "location": "Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-customer-account-lifecycle-cal-market-interactions-paris-francais-anglais-326281",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-18",
+    "last_action_date": "2026-11-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-18",
+        "action": "Lead added for Product Manager - Customer Account Lifecycle (CAL) + Market Interactions, Paris (Français & Anglais) at Kaluza (Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2c517df7",
+    "company": "Kaluza",
+    "role": "Product Manager - Customer Account Lifecycle (CAL) + Market Interactions, Paris (French & English)",
+    "location": "Paris, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-customer-account-lifecycle-cal-market-interactions-paris-french-english-400700",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-18",
+    "last_action_date": "2026-11-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-18",
+        "action": "Lead added for Product Manager - Customer Account Lifecycle (CAL) + Market Interactions, Paris (French & English) at Kaluza (Paris, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_413c0501",
+    "company": "Blockstream",
+    "role": "Senior Product Manager, Enterprise",
+    "location": "Zurich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/blockstream/senior-product-manager-enterprise-zurich-65797",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-18",
+    "last_action_date": "2026-11-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-18",
+        "action": "Lead added for Senior Product Manager, Enterprise at Blockstream (Zurich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e0340fb2",
+    "company": "Rivia",
+    "role": "Senior Product Manager",
+    "location": "Zurich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/rivia/senior-product-manager-zurich-271924",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-18",
+    "last_action_date": "2026-11-18",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-18",
+        "action": "Lead added for Senior Product Manager at Rivia (Zurich). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
