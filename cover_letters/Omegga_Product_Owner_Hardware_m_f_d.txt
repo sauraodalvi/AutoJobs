@@ -1,0 +1,36 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Product Owner Hardware (m/f/d) at Omegga
+Apply Link: https://www.arbeitnow.com/jobs/companies/omegga/product-owner-hardware-munich-313199
+Date Generated: 2026-11-19
+============================================================
+
+[Your Name]
+[Your Phone Number] | [Your Email]
+[Your LinkedIn Profile] | [Your Portfolio Link]
+
+[Date]
+
+Hiring Manager
+Omegga
+Munich, Germany
+
+**RE: Application for Product Owner Hardware (m/f/d)**
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Product Owner Hardware position at Omegga. As an AI Product Manager and Engineer with over three years of experience bridging the gap between complex technical infrastructure and customer-centric value, I specialize in high-stakes, **0-to-1 product management**. Having scaled AI-native solutions across drone autonomy and enterprise SaaS, I possess the rare blend of hardware-adjacent technical fluency and product rigor required to drive Omegga’s hardware roadmap forward in the competitive Munich tech ecosystem.
+
+My track record is defined by translating ambiguous requirements into scalable revenue streams. At FlytBase, I owned the 0-to-1 roadmap and launch of Prediq (AI drone SaaS), directly driving **SaaS MRR growth** to ~$6K. During my tenure at CrelioHealth, I scaled the Smart Reports feature, increasing lab revenue by ~$2,000 MRR per facility. My expertise in architecting **AI workflows** allowed me to slash patient registration time by 58% and sample turnaround by 18% through custom prompt pipelines. These achievements were made possible through rigorous **cross-functional leadership**, where I aligned engineering, design, and stakeholders to deliver high-impact products from conception to deployment.
+
+I am eager to bring my experience in building agentic systems and developer tools to Omegga to help optimize your hardware product lifecycle and user experience. I am confident that my ability to execute 0-to-1 initiatives will contribute immediately to your growth objectives. I look forward to the opportunity to discuss how my background in AI and automation can drive product excellence for Omegga.
+
+Sincerely,
+
+Saurao Dalvi
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

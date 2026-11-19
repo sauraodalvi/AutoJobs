@@ -12184,14 +12184,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/consultant-product-manager-f-h-paris-290323",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-30",
-    "last_action_date": "2026-10-30",
+    "last_action_date": "2026-11-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-30",
         "action": "Lead added for Consultant Product Manager F/H at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-19",
+        "action": "Generated tailored application kit & cover letter (Hubvisory_Consultant_Product_Manager_F_H.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12249,14 +12253,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/omegga/product-owner-hardware-munich-313199",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-31",
-    "last_action_date": "2026-10-31",
+    "last_action_date": "2026-11-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-31",
         "action": "Lead added for Product Owner Hardware (m/f/d) at Omegga (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-19",
+        "action": "Generated tailored application kit & cover letter (Omegga_Product_Owner_Hardware_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12306,14 +12314,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-product-manager-berlin-143961",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-31",
-    "last_action_date": "2026-10-31",
+    "last_action_date": "2026-11-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-31",
         "action": "Lead added for Senior Product Manager at Cosuno (Berlin/Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-19",
+        "action": "Generated tailored application kit & cover letter (Cosuno_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12344,14 +12356,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/lyrebird-health/enterprise-product-manager-united-kingdom-464615",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-31",
-    "last_action_date": "2026-10-31",
+    "last_action_date": "2026-11-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-31",
         "action": "Lead added for Enterprise Product Manager at Lyrebird Health (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-19",
+        "action": "Generated tailored application kit & cover letter (Lyrebird_Health_Enterprise_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12382,14 +12398,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/cesiumastro/product-manager-munich-germany-84400",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-01",
-    "last_action_date": "2026-11-01",
+    "last_action_date": "2026-11-19",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-01",
         "action": "Lead added for Product Manager at CesiumAstro (Munich, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-19",
+        "action": "Generated tailored application kit & cover letter (CesiumAstro_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -14461,6 +14481,253 @@
       {
         "date": "2026-11-18",
         "action": "Lead added for Senior Product Manager at Rivia (Zurich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_214a61a4",
+    "company": "Rematiq Gmbh",
+    "role": "Senior Product Manager",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/rematiq-gmbh/senior-product-manager-berlin-424805",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for Senior Product Manager at Rematiq Gmbh (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_35b10319",
+    "company": "Vesoma",
+    "role": "Technical Product Manager",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/vesoma/technical-product-manager-garching-bei-munchen-363328",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for Technical Product Manager at Vesoma (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_e5ddaca8",
+    "company": "Carwow",
+    "role": "Senior Product Manager (Used Cars)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-product-manager-used-cars-london-152892",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for Senior Product Manager (Used Cars) at Carwow (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2f80001e",
+    "company": "Carwow",
+    "role": "Senior Product Manager (Dealer Experience)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-product-manager-dealer-experience-london-42065",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for Senior Product Manager (Dealer Experience) at Carwow (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_a3fc31db",
+    "company": "Hubvisory",
+    "role": "Senior Product Manager - H/F",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/senior-product-manager-h-f-paris-80640",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for Senior Product Manager - H/F at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ed11dc36",
+    "company": "Hubvisory",
+    "role": "Senior AI Product Manager - HF",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/senior-ai-product-manager-hf-paris-440024",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for Senior AI Product Manager - HF at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_21a12a87",
+    "company": "Hubvisory",
+    "role": "Product Leader Senior - HF",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/product-leader-senior-hf-paris-443557",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for Product Leader Senior - HF at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_01f2a942",
+    "company": "Hubvisory",
+    "role": "Product Manager - F/H",
+    "location": "Lille, Hauts-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/product-manager-f-h-lille-79200",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for Product Manager - F/H at Hubvisory (Lille, Hauts-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3630eb81",
+    "company": "Hubvisory",
+    "role": "Senior Data Product Manager - HF",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/senior-data-product-manager-hf-paris-263346",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for Senior Data Product Manager - HF at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_7359624d",
+    "company": "Hubvisory",
+    "role": "AI Product Manager",
+    "location": "Lille, Hauts-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/ai-product-manager-lille-30774",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for AI Product Manager at Hubvisory (Lille, Hauts-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c013ca22",
+    "company": "Hubvisory",
+    "role": "Lead Product Manager F/H (Product Operations)",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/lead-product-manager-f-h-product-operations-paris-276773",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for Lead Product Manager F/H (Product Operations) at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_39486a00",
+    "company": "Talk360",
+    "role": "Senior Product Manager",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/talk360/senior-product-manager-amsterdam-125135",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for Senior Product Manager at Talk360 (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9f9f29dd",
+    "company": "DPG Media",
+    "role": "Product Owner",
+    "location": "Amsterdam, Noord-Holland, Nederland",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/dpg-media/product-owner-amsterdam-445460",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-19",
+        "action": "Lead added for Product Owner at DPG Media (Amsterdam, Noord-Holland, Nederland). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
