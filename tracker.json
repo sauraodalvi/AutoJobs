@@ -12276,14 +12276,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/senior-product-manager-ad-traffic-quality-all-genders-berlin-59636",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-31",
-    "last_action_date": "2026-10-31",
+    "last_action_date": "2026-11-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-31",
         "action": "Lead added for Senior Product Manager - Ad Traffic Quality (all genders) at JustPlay GmbH (Berlin (Hybrid)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-20",
+        "action": "Generated tailored application kit & cover letter (JustPlay_GmbH_Senior_Product_Manager_-_Ad_Traffic_Quality_all_genders.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12295,14 +12299,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/insider-one/product-manager-b2b-saas-martech-europe-berlin-germany-273832",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-31",
-    "last_action_date": "2026-10-31",
+    "last_action_date": "2026-11-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-31",
         "action": "Lead added for Product Manager - B2B SaaS (Martech) - Europe at Insider One (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-20",
+        "action": "Generated tailored application kit & cover letter (Insider_One_Product_Manager_-_B2B_SaaS_Martech_-_Europe.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12337,14 +12345,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/trawa/head-of-product-berlin-66186",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-31",
-    "last_action_date": "2026-10-31",
+    "last_action_date": "2026-11-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-31",
         "action": "Lead added for Head of Product at trawa (Berlin HQ). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-20",
+        "action": "Generated tailored application kit & cover letter (trawa_Head_of_Product.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12379,14 +12391,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-product-manager-subscriptions-premium-desirability-london-189985",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-10-31",
-    "last_action_date": "2026-10-31",
+    "last_action_date": "2026-11-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-10-31",
         "action": "Lead added for Senior Product Manager - Subscriptions (Premium Desirability) at Spotify (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-20",
+        "action": "Generated tailored application kit & cover letter (Spotify_Senior_Product_Manager_-_Subscriptions_Premium_Desirability.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12459,14 +12475,18 @@
     "contact_name": "Hiring Manager",
     "contact_email": "",
     "apply_url": "https://jobicy.com/jobs/158427-compliance-product-manager",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-02",
-    "last_action_date": "2026-11-02",
+    "last_action_date": "2026-11-20",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-02",
         "action": "Lead added for Compliance Product Manager at Binance (Singapore (Remote)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-20",
+        "action": "Generated tailored application kit & cover letter (Binance_Compliance_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -14728,6 +14748,215 @@
       {
         "date": "2026-11-19",
         "action": "Lead added for Product Owner at DPG Media (Amsterdam, Noord-Holland, Nederland). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_14f0028a",
+    "company": "Verve",
+    "role": "Senior Product Manager (w/m/d)",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/verve/senior-product-manager-2566",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-20",
+    "last_action_date": "2026-11-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-20",
+        "action": "Lead added for Senior Product Manager (w/m/d) at Verve (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9d15d8f5",
+    "company": "Wheely",
+    "role": "Product Manager, UX",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/product-manager-ux-london-237417",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-20",
+    "last_action_date": "2026-11-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-20",
+        "action": "Lead added for Product Manager, UX at Wheely (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_df0b1edb",
+    "company": "Beamery",
+    "role": "Senior Product Manager, Data Foundry",
+    "location": "London, UK",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/beamery/senior-product-manager-data-foundry-london-384299",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-20",
+    "last_action_date": "2026-11-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-20",
+        "action": "Lead added for Senior Product Manager, Data Foundry at Beamery (London, UK). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_691084fa",
+    "company": "Trading212",
+    "role": "Lead Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/trading212/lead-product-manager-london-474316",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-20",
+    "last_action_date": "2026-11-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-20",
+        "action": "Lead added for Lead Product Manager at Trading212 (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3da307c2",
+    "company": "Trading212",
+    "role": "Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/trading212/product-manager-london-170116",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-20",
+    "last_action_date": "2026-11-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-20",
+        "action": "Lead added for Product Manager at Trading212 (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_71e97b2c",
+    "company": "Trading212",
+    "role": "Senior Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/trading212/senior-product-manager-london-54062",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-20",
+    "last_action_date": "2026-11-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-20",
+        "action": "Lead added for Senior Product Manager at Trading212 (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8476083a",
+    "company": "Suvoda",
+    "role": "Senior Product Manager",
+    "location": "",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/suvoda/senior-product-manager-146874",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-20",
+    "last_action_date": "2026-11-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-20",
+        "action": "Lead added for Senior Product Manager at Suvoda (). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f556b2e1",
+    "company": "Sonarsource",
+    "role": "Technical Product Manager - Code Quality",
+    "location": "Geneva",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/technical-product-manager-code-quality-geneva-417470",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-20",
+    "last_action_date": "2026-11-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-20",
+        "action": "Lead added for Technical Product Manager - Code Quality at Sonarsource (Geneva). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f33d19e9",
+    "company": "Insify",
+    "role": "Product Manager Insurance P&C",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/insify/product-manager-insurance-pc-amsterdam-124103",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-20",
+    "last_action_date": "2026-11-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-20",
+        "action": "Lead added for Product Manager Insurance P&C at Insify (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f355232b",
+    "company": "Optics11",
+    "role": "Senior Product Manager (Towed Array Solutions)",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/optics11/senior-product-manager-towed-array-solutions-amsterdam-381643",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-20",
+    "last_action_date": "2026-11-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-20",
+        "action": "Lead added for Senior Product Manager (Towed Array Solutions) at Optics11 (Amsterdam, Noord-Holland, Netherlands). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b425ca8b",
+    "company": "Terac",
+    "role": "Product Managers: Paid Assessment for AI Training",
+    "location": "Remote",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-20",
+    "last_action_date": "2026-11-20",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-20",
+        "action": "Lead added for Product Managers: Paid Assessment for AI Training at Terac (Remote). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
