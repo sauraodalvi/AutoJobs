@@ -12437,14 +12437,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/superchat/associate-product-manager-berlin-berlin-32005",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-01",
-    "last_action_date": "2026-11-01",
+    "last_action_date": "2026-11-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-01",
         "action": "Lead added for Associate Product Manager (m/f/d) at Superchat (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-21",
+        "action": "Generated tailored application kit & cover letter (Superchat_Associate_Product_Manager_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12456,14 +12460,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-manager-german-speaking-munich-285512",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-01",
-    "last_action_date": "2026-11-01",
+    "last_action_date": "2026-11-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-01",
         "action": "Lead added for Founding Product Manager (German-speaking) at Bowatt (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-21",
+        "action": "Generated tailored application kit & cover letter (Bowatt_Founding_Product_Manager_German-speaking.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12555,14 +12563,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/thiga/ai-product-builder-ai-product-manager-h-f-paris-281626",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-02",
-    "last_action_date": "2026-11-02",
+    "last_action_date": "2026-11-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-02",
         "action": "Lead added for AI Product Builder - AI Product Manager - H/F at Thiga (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-21",
+        "action": "Generated tailored application kit & cover letter (Thiga_AI_Product_Builder_-_AI_Product_Manager_-_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12631,14 +12643,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/product-manager-consumer-apps-12mth-ftc-london-151117",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-03",
-    "last_action_date": "2026-11-03",
+    "last_action_date": "2026-11-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-03",
         "action": "Lead added for Product Manager - Consumer Apps - 12mth FTC at Legal Counsel - 12 month FTC at Rightmove Greenhouse (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-21",
+        "action": "Generated tailored application kit & cover letter (Legal_Counsel_-_12_month_FTC_at_Rightmove_Greenhouse_Product_Manager_-_Consumer_Apps_-_12mth_FTC.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12688,14 +12704,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/joko/lead-product-manager-business-lines-paris-221406",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-03",
-    "last_action_date": "2026-11-03",
+    "last_action_date": "2026-11-21",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-03",
         "action": "Lead added for Lead Product Manager - Business Lines at Joko (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-21",
+        "action": "Generated tailored application kit & cover letter (Joko_Lead_Product_Manager_-_Business_Lines.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -14957,6 +14977,101 @@
       {
         "date": "2026-11-20",
         "action": "Lead added for Product Managers: Paid Assessment for AI Training at Terac (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6e0a1e6e",
+    "company": "N8N",
+    "role": "Head of Product Design",
+    "location": "Berlin, Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/n8n/head-of-product-design-berlin-398688",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-21",
+    "last_action_date": "2026-11-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-21",
+        "action": "Lead added for Head of Product Design at N8N (Berlin, Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c3f55daf",
+    "company": "mirakllabs",
+    "role": "Tech Product Manager - Agentic Platform",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/tech-product-manager-agentic-platform-paris-495924",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-21",
+    "last_action_date": "2026-11-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-21",
+        "action": "Lead added for Tech Product Manager - Agentic Platform at mirakllabs (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_404fbf28",
+    "company": "two.jobs",
+    "role": "Product Manager Risk Prevention (80-100%)",
+    "location": "Neuhausen am Rheinfall",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.ch/jobs/companies/twojobs/product-manager-risk-prevention-80-100-neuhausen-am-rheinfall-378866",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-21",
+    "last_action_date": "2026-11-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-21",
+        "action": "Lead added for Product Manager Risk Prevention (80-100%) at two.jobs (Neuhausen am Rheinfall). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ee65e1f5",
+    "company": "Doctolib",
+    "role": "Senior Product Manager - Connect (x/f/m)",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/doctolib/senior-product-manager-connect-amsterdam-130243",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-21",
+    "last_action_date": "2026-11-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-21",
+        "action": "Lead added for Senior Product Manager - Connect (x/f/m) at Doctolib (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_8ffe28bd",
+    "company": "Global Payments Inc.",
+    "role": "Senior Product Manager- Payments - Exp 4-7 years- Pune",
+    "location": "Pune/Pimpri-Chinchwad Area",
+    "contact_name": "Hiring Team",
+    "contact_email": "",
+    "apply_url": "https://www.linkedin.com/jobs/view/4492941875",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-21",
+    "last_action_date": "2026-11-21",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-21",
+        "action": "Lead added for Senior Product Manager- Payments - Exp 4-7 years- Pune at Global Payments Inc. (Pune/Pimpri-Chinchwad Area). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
