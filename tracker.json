@@ -12506,14 +12506,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/conroo-gmbh/business-product-owner-full-time-munich-485603",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-02",
-    "last_action_date": "2026-11-02",
+    "last_action_date": "2026-11-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-02",
         "action": "Lead added for Business Product Owner | Full Time (m/w/d) at CONROO GmbH (Munich). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-22",
+        "action": "Generated tailored application kit & cover letter (CONROO_GmbH_Business_Product_Owner_Full_Time_m_w_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12525,14 +12529,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/orbital/staff-product-manager-london-205479",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-02",
-    "last_action_date": "2026-11-02",
+    "last_action_date": "2026-11-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-02",
         "action": "Lead added for Staff Product Manager at Orbital (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-22",
+        "action": "Generated tailored application kit & cover letter (Orbital_Staff_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12544,14 +12552,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tem/senior-product-manager-trading-united-kingdom-493890",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-02",
-    "last_action_date": "2026-11-02",
+    "last_action_date": "2026-11-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-02",
         "action": "Lead added for Senior Product Manager - Trading at tem (United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-22",
+        "action": "Generated tailored application kit & cover letter (tem_Senior_Product_Manager_-_Trading.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12586,14 +12598,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/tomtom/product-manager-traffic-flow-jams-speed-profiles-moderation-amsterdam-the-netherlands-216437",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-02",
-    "last_action_date": "2026-11-02",
+    "last_action_date": "2026-11-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-02",
         "action": "Lead added for Product Manager - Traffic (Flow, Jams, Speed Profiles & Moderation) at Tomtom (Amsterdam, The Netherlands). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-22",
+        "action": "Generated tailored application kit & cover letter (Tomtom_Product_Manager_-_Traffic_Flow_Jams_Speed_Profiles_Moderation.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12605,14 +12621,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-product-manager-munich-481114",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-03",
-    "last_action_date": "2026-11-03",
+    "last_action_date": "2026-11-22",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-03",
         "action": "Lead added for Senior Product Manager (f/m/d) at Apaleo (Munich, Bavaria, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-22",
+        "action": "Generated tailored application kit & cover letter (Apaleo_Senior_Product_Manager_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -15072,6 +15092,63 @@
       {
         "date": "2026-11-21",
         "action": "Lead added for Senior Product Manager- Payments - Exp 4-7 years- Pune at Global Payments Inc. (Pune/Pimpri-Chinchwad Area). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c56fc6af",
+    "company": "Distribusion Technologies",
+    "role": "Lead Technical Product Manager, Rail Integrations (all genders)",
+    "location": "Remote job",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-lead-technical-product-manager-rail-integrations-all-genders-berlin-334186",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-22",
+    "last_action_date": "2026-11-22",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-22",
+        "action": "Lead added for Lead Technical Product Manager, Rail Integrations (all genders) at Distribusion Technologies (Remote job). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_fe2276bb",
+    "company": "databricks",
+    "role": "Product Manager, New Grad (2027) - Berlin",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/databricks/product-manager-new-grad-2027-berlin-430740",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-22",
+    "last_action_date": "2026-11-22",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-22",
+        "action": "Lead added for Product Manager, New Grad (2027) - Berlin at databricks (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9373f42f",
+    "company": "Datasnipper",
+    "role": "Senior Product Manager, Financial Statement Suite",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/datasnipper/senior-product-manager-financial-statement-suite-amsterdam-387483",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-22",
+    "last_action_date": "2026-11-22",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-22",
+        "action": "Lead added for Senior Product Manager, Financial Statement Suite at Datasnipper (Amsterdam). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
