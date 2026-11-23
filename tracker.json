@@ -12644,14 +12644,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/plos/senior-product-manager-12-month-ftc-15501",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-03",
-    "last_action_date": "2026-11-03",
+    "last_action_date": "2026-11-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-03",
         "action": "Lead added for Senior Product Manager - 12 Month FTC at Plos (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-23",
+        "action": "Generated tailored application kit & cover letter (Plos_Senior_Product_Manager_-_12_Month_FTC.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12686,14 +12690,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/trustflight/learning-design-training-product-manager-bracknell-355210",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-03",
-    "last_action_date": "2026-11-03",
+    "last_action_date": "2026-11-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-03",
         "action": "Lead added for Learning Design & Training Product Manager at TrustFlight (Bracknell, Bracknell Forest, United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-23",
+        "action": "Generated tailored application kit & cover letter (TrustFlight_Learning_Design_Training_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12705,14 +12713,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/joko/lead-product-manager-ai-platform-paris-17335",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-03",
-    "last_action_date": "2026-11-03",
+    "last_action_date": "2026-11-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-03",
         "action": "Lead added for Lead Product Manager - AI Platform at Joko (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-23",
+        "action": "Generated tailored application kit & cover letter (Joko_Lead_Product_Manager_-_AI_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12861,14 +12873,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-technical-product-manager-platform-111631",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-04",
-    "last_action_date": "2026-11-04",
+    "last_action_date": "2026-11-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-04",
         "action": "Lead added for Senior Technical Product Manager (Platform) at constructortech (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-23",
+        "action": "Generated tailored application kit & cover letter (constructortech_Senior_Technical_Product_Manager_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12880,14 +12896,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-product-manager-edtech-ai-232898",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-04",
-    "last_action_date": "2026-11-04",
+    "last_action_date": "2026-11-23",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-04",
         "action": "Lead added for Senior Product Manager (EdTech & AI) at constructortech (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-23",
+        "action": "Generated tailored application kit & cover letter (constructortech_Senior_Product_Manager_EdTech_AI.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -15149,6 +15169,44 @@
       {
         "date": "2026-11-22",
         "action": "Lead added for Senior Product Manager, Financial Statement Suite at Datasnipper (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6c957c4e",
+    "company": "CONROO GmbH",
+    "role": "(Senior) Product Manager | Full Time (m/w/d)",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/conroo-gmbh/senior-product-manager-full-time-munich-43462",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-23",
+    "last_action_date": "2026-11-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-23",
+        "action": "Lead added for (Senior) Product Manager | Full Time (m/w/d) at CONROO GmbH (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6ec1e15d",
+    "company": "Exotec",
+    "role": "Senior Product Manager - ASRS",
+    "location": "Lille, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/exotec/senior-product-manager-asrs-lille-29722",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-23",
+    "last_action_date": "2026-11-23",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-23",
+        "action": "Lead added for Senior Product Manager - ASRS at Exotec (Lille, France). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
