@@ -12759,14 +12759,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/joko/product-manager-ai-platform-paris-47000",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-03",
-    "last_action_date": "2026-11-03",
+    "last_action_date": "2026-11-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-03",
         "action": "Lead added for Product Manager - AI Platform at Joko (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-24",
+        "action": "Generated tailored application kit & cover letter (Joko_Product_Manager_-_AI_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12778,14 +12782,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/joko/product-manager-juno-paris-265324",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-03",
-    "last_action_date": "2026-11-03",
+    "last_action_date": "2026-11-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-03",
         "action": "Lead added for Product Manager - Juno at Joko (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-24",
+        "action": "Generated tailored application kit & cover letter (Joko_Product_Manager_-_Juno.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12797,14 +12805,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/joko/product-manager-core-ux-paris-214533",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-03",
-    "last_action_date": "2026-11-03",
+    "last_action_date": "2026-11-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-03",
         "action": "Lead added for Product Manager - Core UX at Joko (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-24",
+        "action": "Generated tailored application kit & cover letter (Joko_Product_Manager_-_Core_UX.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12816,14 +12828,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.nl/jobs/companies/storiogroup/senior-product-manager-product-catalogue-amsterdam-nl-359761",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-03",
-    "last_action_date": "2026-11-03",
+    "last_action_date": "2026-11-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-03",
         "action": "Lead added for Senior Product Manager (Product Catalogue) at Storiogroup (Amsterdam, NL). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-24",
+        "action": "Generated tailored application kit & cover letter (Storiogroup_Senior_Product_Manager_Product_Catalogue.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12835,14 +12851,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4486840777",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-03",
-    "last_action_date": "2026-11-03",
+    "last_action_date": "2026-11-24",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-03",
         "action": "Lead added for Product Manager - Travel at JPMorganChase (Pune Division, Maharashtra, India). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-24",
+        "action": "Generated tailored application kit & cover letter (JPMorganChase_Product_Manager_-_Travel.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -15207,6 +15227,139 @@
       {
         "date": "2026-11-23",
         "action": "Lead added for Senior Product Manager - ASRS at Exotec (Lille, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c25c39ff",
+    "company": "Beo Energy",
+    "role": "Technical Product Manager - Local Control System",
+    "location": "Munich",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/beo-energy/technical-product-manager-local-control-system-munich-451595",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-24",
+    "last_action_date": "2026-11-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-24",
+        "action": "Lead added for Technical Product Manager - Local Control System at Beo Energy (Munich). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_1eabb646",
+    "company": "Axon",
+    "role": "Sr Product Manager II",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/axon/sr-product-manager-ii-london-490999",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-24",
+    "last_action_date": "2026-11-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-24",
+        "action": "Lead added for Sr Product Manager II at Axon (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_19ba1e82",
+    "company": "Mistral.ai",
+    "role": "Product Manager - Storage",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/product-manager-storage-paris-209724",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-24",
+    "last_action_date": "2026-11-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-24",
+        "action": "Lead added for Product Manager - Storage at Mistral.ai (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_843841d4",
+    "company": "Mistral.ai",
+    "role": "Product Manager - Network",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/product-manager-network-paris-483474",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-24",
+    "last_action_date": "2026-11-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-24",
+        "action": "Lead added for Product Manager - Network at Mistral.ai (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9606b5ae",
+    "company": "Pennylane SAS",
+    "role": "Senior Product Manager - Bookkeeping",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-product-manager-bookkeeping-paris-156864",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-24",
+    "last_action_date": "2026-11-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-24",
+        "action": "Lead added for Senior Product Manager - Bookkeeping at Pennylane SAS (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0dcbdd56",
+    "company": "Hubvisory",
+    "role": "Product Manager - H/F",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/product-manager-h-f-paris-4137",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-24",
+    "last_action_date": "2026-11-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-24",
+        "action": "Lead added for Product Manager - H/F at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_39d830bb",
+    "company": "Hubvisory",
+    "role": "Product Manager F/H",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/product-manager-f-h-paris-315479",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-24",
+    "last_action_date": "2026-11-24",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-24",
+        "action": "Lead added for Product Manager F/H at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
