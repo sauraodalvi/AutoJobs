@@ -2,6 +2,27 @@
 COVER LETTER & APPLICATION KIT
 Target: Knit - Lead Product Manager at Eleve Talent
 Apply Link: https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-lead-product-manager-115209
-Date Generated: 2026-11-24
+Date Generated: 2026-11-25
 ============================================================
 
+**Saurao Dalvi**
+[Phone Number] | [Email Address]
+[LinkedIn Profile URL] | [Portfolio URL]
+
+**To the Hiring Team at Eleve Talent,**
+
+As an AI-native **Product Manager** with over three years of experience driving 0-to-1 product lifecycles, I am writing to express my high interest in the Lead Product Manager position for Knit. My career has been defined by bridging the gap between complex engineering and market-ready SaaS solutions, specifically within the AI and automation domains. Having scaled products from inception to revenue-generating assets, I am eager to leverage my expertise in agentic systems and automated workflows to accelerate Eleve Talent’s product vision and deliver unparalleled value to your users.
+
+My track record is built on delivering measurable business impact through rigorous product discovery and execution. At FlytBase, I owned the 0-to-1 roadmap for Prediq, an AI drone SaaS that scaled to ~$6K MRR. During my tenure at CrelioHealth, I acted as a **Product Manager** for the Smart Reports initiative, driving an increase of ~$2,000 MRR per lab and optimizing operational efficiency by cutting patient registration time by 58% and sample turnaround by 18% via custom AI prompt pipelines. Whether building LLM-powered workflows, developer CLIs, or enterprise security SaaS at Sprinto, my focus remains constant: transforming technical complexity into seamless, scalable user experiences that drive retention and top-line growth.
+
+I am confident that my hybrid background as both an AI Engineer and a **Product Manager** makes me uniquely qualified to lead the Knit product roadmap. I am eager to discuss how my experience in building high-growth, AI-driven platforms can contribute to the continued success of Eleve Talent. Thank you for your time and consideration.
+
+Best regards,
+
+**Saurao Dalvi**
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf

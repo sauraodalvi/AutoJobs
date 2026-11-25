@@ -2,17 +2,19 @@
 COVER LETTER & APPLICATION KIT
 Target: Sr Product Manager at UKG
 Apply Link: https://www.linkedin.com/jobs/view/4452989378
-Date Generated: 2026-11-24
+Date Generated: 2026-11-25
 ============================================================
 
-Saurao Dalvi  
-sauraodalvi.netlify.app | LinkedIn: linkedin.com/in/saurao-dalvi  
+Dear Hiring Team at UKG,
 
-**Hiring Team, UKG**  
+I am writing to express my strong interest in the Sr Product Manager position. With over 3 years of experience as an AI Product Manager, I specialize in 0-to-1 product strategy, LLM-powered workflows, and taking SaaS platforms from concept to commercial scale.
 
-As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I have consistently transformed ambiguous technical challenges into revenue-generating products—exactly the mandate driving UKG’s HCM innovation. My background as a Forward Deployed Engineer at FlytBase uniquely positions me to bridge deep technical architecture (LLM pipelines, agentic workflows, developer CLIs) with strategic roadmap ownership, ensuring AI capabilities ship as reliable, scalable workforce solutions rather than demos. I am energized by UKG’s mission to make work life better and ready to lead high-impact squads delivering on that promise remotely.
+In my previous roles at FlytBase, CrelioHealth, and Sprinto, I led cross-functional teams to build AI workflows, mobile/web platforms, and enterprise solutions that accelerated MRR growth and reduced operational friction by over 50%. My background in Product Manager directly aligns with UKG's technical and product ambitions.
 
-At FlytBase, I owned the end-to-end lifecycle of **Prediq**, an AI drone SaaS platform, scaling it to **$6K MRR** from concept by defining the GTM motion, pricing architecture, and cross-functional delivery across engineering, sales, and support. At CrelioHealth, I spearheaded **Smart Reports**, an LLM-powered automation suite that **increased lab revenue by ~$2,000 MRR per client**, **cut patient registration time by 58%**, and **reduced sample turnaround by 18%** through custom prompt pipelines and workflow orchestration (Zapier, Make, Python). At Sprinto, I drove compliance automation features for enterprise security, while independently building and launching **Hidden Jobs** (indexing 50K
+I would welcome the opportunity to discuss how my AI product leadership can drive immediate growth for UKG.
+
+Sincerely,
+Saurao Dalvi
 
 ============================================================
 CANDIDATE CONTACT SUMMARY:

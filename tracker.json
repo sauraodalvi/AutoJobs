@@ -12874,14 +12874,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/awin/associate-product-manager-berlin-berlin-271884",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-04",
-    "last_action_date": "2026-11-04",
+    "last_action_date": "2026-11-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-04",
         "action": "Lead added for Associate Product Manager (f/m/d) at Awin (Berlin, Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-25",
+        "action": "Generated tailored application kit & cover letter (Awin_Associate_Product_Manager_f_m_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12958,14 +12962,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/product-manager-paris-110736",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-04",
-    "last_action_date": "2026-11-04",
+    "last_action_date": "2026-11-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-04",
         "action": "Lead added for Product Manager at Signal Processing Engineer (RF Processing & Analytics) (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-25",
+        "action": "Generated tailored application kit & cover letter (Signal_Processing_Engineer_RF_Processing_Analytics_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -12977,14 +12985,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/product-manager-supply-chain-transport-f-h-lille-188650",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-04",
-    "last_action_date": "2026-11-04",
+    "last_action_date": "2026-11-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-04",
         "action": "Lead added for Product Manager Supply Chain & Transport - F/H at Hubvisory (Lille, Hauts-de-France, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-25",
+        "action": "Generated tailored application kit & cover letter (Hubvisory_Product_Manager_Supply_Chain_Transport_-_F_H.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13015,14 +13027,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/orcristtechnologies/technical-product-manager-data-integrations-370715",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-06",
-    "last_action_date": "2026-11-06",
+    "last_action_date": "2026-11-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-06",
         "action": "Lead added for Technical Product Manager (Data Integrations) at orcristtechnologies (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-25",
+        "action": "Generated tailored application kit & cover letter (orcristtechnologies_Technical_Product_Manager_Data_Integrations.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13129,14 +13145,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-trust-safety-integrity-and-fraud-london-185594",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-06",
-    "last_action_date": "2026-11-06",
+    "last_action_date": "2026-11-25",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-06",
         "action": "Lead added for Senior Product Manager, Trust & Safety, Integrity and Fraud at Deliveroo (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-25",
+        "action": "Generated tailored application kit & cover letter (Deliveroo_Senior_Product_Manager_Trust_Safety_Integrity_and_Fraud.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -15360,6 +15380,101 @@
       {
         "date": "2026-11-24",
         "action": "Lead added for Product Manager F/H at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5fe1a1e1",
+    "company": "Supabase",
+    "role": "Product Manager - Realtime",
+    "location": "Anywhere (Remote)",
+    "contact_name": "Hiring Manager",
+    "contact_email": "",
+    "apply_url": "https://jobicy.com/jobs/156943-product-manager-realtime",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-25",
+    "last_action_date": "2026-11-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-25",
+        "action": "Lead added for Product Manager - Realtime at Supabase (Anywhere (Remote)). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6b6cd119",
+    "company": "Hubvisory",
+    "role": "Product Manager IA & Data - HF",
+    "location": "Paris, Île-de-France, France",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/product-manager-ia-data-hf-paris-336163",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-25",
+    "last_action_date": "2026-11-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-25",
+        "action": "Lead added for Product Manager IA & Data - HF at Hubvisory (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_3e7a88c8",
+    "company": "Lemlist",
+    "role": "Founding Product Manager - Claap",
+    "location": "European Union",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/lemlist/founding-product-manager-claap-europe-255860",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-25",
+    "last_action_date": "2026-11-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-25",
+        "action": "Lead added for Founding Product Manager - Claap at Lemlist (European Union). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_595689cc",
+    "company": "mirakllabs",
+    "role": "Product Manager (Freelance)",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-freelance-paris-67449",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-25",
+    "last_action_date": "2026-11-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-25",
+        "action": "Lead added for Product Manager (Freelance) at mirakllabs (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_f242b2b1",
+    "company": "Vinteden",
+    "role": "Product Manager, Marketplace",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/vinteden/product-manager-marketplace-amsterdam-352979",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-25",
+    "last_action_date": "2026-11-25",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-25",
+        "action": "Lead added for Product Manager, Marketplace at Vinteden (Amsterdam). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
