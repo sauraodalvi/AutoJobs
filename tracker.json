@@ -12943,14 +12943,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-technical-product-manager-inference-platform-159498",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-04",
-    "last_action_date": "2026-11-04",
+    "last_action_date": "2026-11-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-04",
         "action": "Lead added for Senior Technical Product Manager - Inference Platform at Nebius (). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-26",
+        "action": "Generated tailored application kit & cover letter (Nebius_Senior_Technical_Product_Manager_-_Inference_Platform.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13008,14 +13012,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/qorelo/head-of-product-sap-berlin-422403",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-05",
-    "last_action_date": "2026-11-05",
+    "last_action_date": "2026-11-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-05",
         "action": "Lead added for Head of Product - SAP (m/f/d) at Qorelo (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-26",
+        "action": "Generated tailored application kit & cover letter (Qorelo_Head_of_Product_-_SAP_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13050,14 +13058,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/almedia/product-lead-adtech-berlin-141161",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-06",
-    "last_action_date": "2026-11-06",
+    "last_action_date": "2026-11-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-06",
         "action": "Lead added for Product Lead - Adtech at Almedia (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-26",
+        "action": "Generated tailored application kit & cover letter (Almedia_Product_Lead_-_Adtech.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13069,14 +13081,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/product-manager-investing-berlin-486201",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-06",
-    "last_action_date": "2026-11-06",
+    "last_action_date": "2026-11-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-06",
         "action": "Lead added for Product Manager - Investing (f/m/x) at Lemon Markets (Germany  (Hybrid)). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-26",
+        "action": "Generated tailored application kit & cover letter (Lemon_Markets_Product_Manager_-_Investing_f_m_x.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13088,14 +13104,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/lead-product-manager-london-466732",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-06",
-    "last_action_date": "2026-11-06",
+    "last_action_date": "2026-11-26",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-06",
         "action": "Lead added for Lead Product Manager at Faculty (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-26",
+        "action": "Generated tailored application kit & cover letter (Faculty_Lead_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -15475,6 +15495,120 @@
       {
         "date": "2026-11-25",
         "action": "Lead added for Product Manager, Marketplace at Vinteden (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0bc62683",
+    "company": "Stackfuel",
+    "role": "Product Lead - Geförderte Weiterbildung (m/w/d)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/stackfuel/product-lead-geforderte-weiterbildung-berlin-205721",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-26",
+    "last_action_date": "2026-11-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-26",
+        "action": "Lead added for Product Lead - Geförderte Weiterbildung (m/w/d) at Stackfuel (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_efc27777",
+    "company": "Nmi",
+    "role": "Senior Product Owner",
+    "location": "Remote",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nmi/remote-senior-product-owner-355662",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-26",
+    "last_action_date": "2026-11-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-26",
+        "action": "Lead added for Senior Product Owner at Nmi (Remote). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_adc86c5c",
+    "company": "Blenheimchalcot",
+    "role": "Fospha - Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/blenheimchalcot/fospha-product-manager-london-287894",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-26",
+    "last_action_date": "2026-11-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-26",
+        "action": "Lead added for Fospha - Product Manager at Blenheimchalcot (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_0096079f",
+    "company": "Wheely",
+    "role": "Product Manager, Technical",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/product-manager-technical-london-389605",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-26",
+    "last_action_date": "2026-11-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-26",
+        "action": "Lead added for Product Manager, Technical at Wheely (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_9027c301",
+    "company": "Fosphamarketing",
+    "role": "Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/fosphamarketing/product-manager-london-444159",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-26",
+    "last_action_date": "2026-11-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-26",
+        "action": "Lead added for Product Manager at Fosphamarketing (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_eadb1ab5",
+    "company": "Pigment",
+    "role": "Senior Product Manager (DataFetch)",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/pigment/senior-product-manager-datafetch-paris-237181",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-26",
+    "last_action_date": "2026-11-26",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-26",
+        "action": "Lead added for Senior Product Manager (DataFetch) at Pigment (Paris). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
