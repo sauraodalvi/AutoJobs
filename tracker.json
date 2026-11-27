@@ -13127,14 +13127,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/v7labscom/senior-staff-product-manager-london-307308",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-06",
-    "last_action_date": "2026-11-06",
+    "last_action_date": "2026-11-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-06",
         "action": "Lead added for Senior / Staff Product Manager at V7Labs.com (London). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-27",
+        "action": "Generated tailored application kit & cover letter (V7Labs_com_Senior_Staff_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13146,14 +13150,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/product-manager-london-335038",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-06",
-    "last_action_date": "2026-11-06",
+    "last_action_date": "2026-11-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-06",
         "action": "Lead added for Product Manager - London at TransPerfect (London, Greater London, United Kingdom). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-27",
+        "action": "Generated tailored application kit & cover letter (TransPerfect_Product_Manager_-_London.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13321,14 +13329,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-product-manager-elevencreative-self-serve-87326",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-08",
-    "last_action_date": "2026-11-08",
+    "last_action_date": "2026-11-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-08",
         "action": "Lead added for Product Manager (ElevenCreative Self-Serve) at ElevenLabs (Remote). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-27",
+        "action": "Generated tailored application kit & cover letter (ElevenLabs_Product_Manager_ElevenCreative_Self-Serve.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13340,14 +13352,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/writer/lead-product-manager-uk-london-207502",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-08",
-    "last_action_date": "2026-11-08",
+    "last_action_date": "2026-11-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-08",
         "action": "Lead added for Lead product manager (UK) at Writer (London, UK). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-27",
+        "action": "Generated tailored application kit & cover letter (Writer_Lead_product_manager_UK.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13359,14 +13375,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/vocca/senior-product-manager-paris-140718",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-08",
-    "last_action_date": "2026-11-08",
+    "last_action_date": "2026-11-27",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-08",
         "action": "Lead added for Senior Product Manager at Vocca (Paris). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-27",
+        "action": "Generated tailored application kit & cover letter (Vocca_Senior_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -15609,6 +15629,158 @@
       {
         "date": "2026-11-26",
         "action": "Lead added for Senior Product Manager (DataFetch) at Pigment (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_5c8912fb",
+    "company": "intercom",
+    "role": "Staff Product Manager (Customer Agent Team)",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/intercom/staff-product-manager-customer-agent-team-berlin-490365",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-27",
+    "last_action_date": "2026-11-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-27",
+        "action": "Lead added for Staff Product Manager (Customer Agent Team) at intercom (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_97202e08",
+    "company": "intercom",
+    "role": "Senior Product Manager (Customer Agent Team) Berlin",
+    "location": "Berlin",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/intercom/senior-product-manager-customer-agent-team-berlin-5397",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-27",
+    "last_action_date": "2026-11-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-27",
+        "action": "Lead added for Senior Product Manager (Customer Agent Team) Berlin at intercom (Berlin). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_ff3120bc",
+    "company": "ClariLab GmbH & Co.KG",
+    "role": "(Senior) Product Manager:in KYC (m/w/d)",
+    "location": "Frankfurt am Main",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/clarilab-gmbh-cokg/senior-product-managerin-kyc-frankfurt-am-main-251260",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-27",
+    "last_action_date": "2026-11-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-27",
+        "action": "Lead added for (Senior) Product Manager:in KYC (m/w/d) at ClariLab GmbH & Co.KG (Frankfurt am Main). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_503e1af5",
+    "company": "idnow",
+    "role": "Senior Product Manager (f/m/d)",
+    "location": "Berlin, Berlin; München, Bavaria",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/idnow/senior-product-manager-berlin-berlin-munchen-bavaria-244289",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-27",
+    "last_action_date": "2026-11-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-27",
+        "action": "Lead added for Senior Product Manager (f/m/d) at idnow (Berlin, Berlin; München, Bavaria). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_2ebed30e",
+    "company": "intercom",
+    "role": "Senior Forward Deployed Product Manager (London)",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-forward-deployed-product-manager-london-424910",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-27",
+    "last_action_date": "2026-11-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-27",
+        "action": "Lead added for Senior Forward Deployed Product Manager (London) at intercom (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_96ff8458",
+    "company": "Spruce",
+    "role": "Senior Product Manager",
+    "location": "London",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/spruce/senior-product-manager-london-75312",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-27",
+    "last_action_date": "2026-11-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-27",
+        "action": "Lead added for Senior Product Manager at Spruce (London). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_b5eb3aa8",
+    "company": "Outsight",
+    "role": "Senior Product Manager",
+    "location": "Paris",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.fr/jobs/companies/outsight/senior-product-manager-paris-357877",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-27",
+    "last_action_date": "2026-11-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-27",
+        "action": "Lead added for Senior Product Manager at Outsight (Paris). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_c21cd57c",
+    "company": "Nivoda",
+    "role": "Senior Product Manager, Fulfilment",
+    "location": "Amsterdam",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.nl/jobs/companies/nivoda/senior-product-manager-fulfilment-amsterdam-439587",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-27",
+    "last_action_date": "2026-11-27",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-27",
+        "action": "Lead added for Senior Product Manager, Fulfilment at Nivoda (Amsterdam). Initial status: JOB_LINK_SAVED."
       }
     ]
   }

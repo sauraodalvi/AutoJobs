@@ -1,0 +1,23 @@
+============================================================
+COVER LETTER & APPLICATION KIT
+Target: Senior Product Manager at Vocca
+Apply Link: https://www.arbeitnow.fr/jobs/companies/vocca/senior-product-manager-paris-140718
+Date Generated: 2026-11-27
+============================================================
+
+Saurao Dalvi  
+sauraodalvi.netlify.app | linkedin.com/in/saurao-dalvi  
+
+Hiring Team, Vocca  
+
+As an AI **Product Manager** with 3+ years of 0-to-1 execution across drone autonomy, healthcare SaaS, and enterprise security, I am writing to drive Vocca’s product vision in Paris. My background as a Forward Deployed Engineer at FlytBase uniquely bridges deep technical implementation—shipping LLM-powered workflows, agentic systems, and developer CLIs—with strategic roadmap ownership. I thrive in the ambiguity of early-stage AI products, translating complex technical capabilities into scalable user value, making me an immediate contributor to Vocca’s roadmap.  
+
+In my current role as AI **Product Manager** at FlytBase, I owned the end-to-end lifecycle of Prediq, an AI drone SaaS platform, scaling it to ~$6K MRR from concept. Previously at CrelioHealth, I led the **Product Manager** roadmap for Smart Reports, generating ~$2,000 MRR per lab while cutting patient registration time by 58% and sample turnaround by 18% via custom AI prompt pipelines. At Sprinto, I automated cross-functional security compliance workflows using Python, Zapier, and Make, reducing manual audit hours by 40%. I have consistently shipped AI-native products—from Hidden Jobs (50K+ indexed ATS roles) to internal developer tooling—that blend rigorous data analysis with rapid iteration.  
+
+I am eager to bring this 0-to-1 velocity and AI-first execution to Vocca as a Senior **Product Manager**. I welcome the opportunity to discuss how my experience scaling MRR, building LLM pipelines, and leading cross-functional squads can accelerate your
+
+============================================================
+CANDIDATE CONTACT SUMMARY:
+Name: Saurao Dalvi
+Email: sauraodalvi97@gmail.com
+Resume: /home/runner/work/AutoJobs/AutoJobs/Saurao_Dalvi_Resume.pdf
