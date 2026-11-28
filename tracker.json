@@ -13196,14 +13196,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.fr/jobs/companies/agence-du-numerique-en-sante/product-owner-annuaires-h-f-paris-324019",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-06",
-    "last_action_date": "2026-11-06",
+    "last_action_date": "2026-11-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-06",
         "action": "Lead added for Product Owner Annuaires H/F at Agence du Numérique en Santé (Paris, Île-de-France, France). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-28",
+        "action": "Generated tailored application kit & cover letter (Agence_du_Numérique_en_Santé_Product_Owner_Annuaires_H_F.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13215,14 +13219,18 @@
     "contact_name": "Hiring Team",
     "contact_email": "",
     "apply_url": "https://www.linkedin.com/jobs/view/4487519600",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-06",
-    "last_action_date": "2026-11-06",
+    "last_action_date": "2026-11-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-06",
         "action": "Lead added for Sr. Product Manager - Tech, Alexa AI Developer Tech at Amazon (Pune/Pimpri-Chinchwad Area). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-28",
+        "action": "Generated tailored application kit & cover letter (Amazon_Sr_Product_Manager_-_Tech_Alexa_AI_Developer_Tech.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13234,14 +13242,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/product-manager-mission-payload-land-gilching-451741",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-07",
-    "last_action_date": "2026-11-07",
+    "last_action_date": "2026-11-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-07",
         "action": "Lead added for Product Manager Mission Payload Land (m/f/d) at Quantum-Systems GmbH (Gilching, Bayern, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-28",
+        "action": "Generated tailored application kit & cover letter (Quantum-Systems_GmbH_Product_Manager_Mission_Payload_Land_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13253,14 +13265,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/product-manager-autonomous-trucking-gilching-132733",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-07",
-    "last_action_date": "2026-11-07",
+    "last_action_date": "2026-11-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-07",
         "action": "Lead added for Product Manager Autonomous Trucking (m/f/d) at Quantum-Systems GmbH (Gilching, Bayern, Germany). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-28",
+        "action": "Generated tailored application kit & cover letter (Quantum-Systems_GmbH_Product_Manager_Autonomous_Trucking_m_f_d.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -13272,14 +13288,18 @@
     "contact_name": "Talent Acquisition",
     "contact_email": "",
     "apply_url": "https://www.arbeitnow.com/jobs/companies/augustus/product-manager-berlin-199266",
-    "status": "JOB_LINK_SAVED",
+    "status": "APPLICATION_READY",
     "date_applied": "2026-11-07",
-    "last_action_date": "2026-11-07",
+    "last_action_date": "2026-11-28",
     "followup_count": 0,
     "history": [
       {
         "date": "2026-11-07",
         "action": "Lead added for Product Manager at Augustus (Berlin). Initial status: JOB_LINK_SAVED."
+      },
+      {
+        "date": "2026-11-28",
+        "action": "Generated tailored application kit & cover letter (Augustus_Product_Manager.txt). Status updated to APPLICATION_READY."
       }
     ]
   },
@@ -15781,6 +15801,44 @@
       {
         "date": "2026-11-27",
         "action": "Lead added for Senior Product Manager, Fulfilment at Nivoda (Amsterdam). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_27d886c8",
+    "company": "N8N",
+    "role": "Group Product Manager - AI Experience",
+    "location": "Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/n8n/group-product-manager-ai-experience-germany-117123",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-28",
+    "last_action_date": "2026-11-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-28",
+        "action": "Lead added for Group Product Manager - AI Experience at N8N (Germany). Initial status: JOB_LINK_SAVED."
+      }
+    ]
+  },
+  {
+    "job_id": "job_6cc14ca5",
+    "company": "Roompricegenie",
+    "role": "Remote Sr. Product Manager (m/f/d)",
+    "location": "Remote Germany",
+    "contact_name": "Talent Acquisition",
+    "contact_email": "",
+    "apply_url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-43710",
+    "status": "JOB_LINK_SAVED",
+    "date_applied": "2026-11-28",
+    "last_action_date": "2026-11-28",
+    "followup_count": 0,
+    "history": [
+      {
+        "date": "2026-11-28",
+        "action": "Lead added for Remote Sr. Product Manager (m/f/d) at Roompricegenie (Remote Germany). Initial status: JOB_LINK_SAVED."
       }
     ]
   }
